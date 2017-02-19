@@ -90,9 +90,9 @@ var Grailbird = function (type, date, data) {
         return fmt.format(then, {format: "date", type: "long"});
       }
     };
-    +	
-+	twt.fixedParse = function(ms) {
-+    return new Date(ms);
++	
++	     twt.fixedParse = function(ms) {
++   return new Date(ms);
 +};
 
     Grailbird.data = Grailbird.data || {};
