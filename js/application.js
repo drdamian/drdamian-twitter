@@ -58,7 +58,7 @@ var Grailbird = function (type, date, data) {
 
     twt.timeAgo = function(d, relative) {
       var fmt;
-      var then = twt.parseDate(d), rightNow = new Date();
+      var then = twt.fixedParse(d), rightNow = new Date();
 
       if (!then) return "";
 
@@ -90,6 +90,10 @@ var Grailbird = function (type, date, data) {
         return fmt.format(then, {format: "date", type: "long"});
       }
     };
+    +	
++	twt.fixedParse = function(ms) {
++    return new Date(ms);
++};
 
     Grailbird.data = Grailbird.data || {};
     Grailbird.current_index = 0;
