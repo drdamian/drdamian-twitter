@@ -2,7 +2,7 @@ var user_details =  {
   "expanded_url" : "http:\/\/www.drdamian.org",
   "screen_name" : "_drdamian",
   "location" : "Perkasie, PA USA",
-  "url" : "http:\/\/t.co\/0mfonM3zAp
+  "url" : "http:\/\/t.co\/0mfonM3zAp",
   "full_name" : "Dr. Damian Bariexca",
   "bio" : "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Standard disclaimer: Tweets \u2260 opinion of my employer.",
   "id" : "7887852",
