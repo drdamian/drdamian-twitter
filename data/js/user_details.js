@@ -1,11 +1,11 @@
 var user_details =  {
-  "expanded_url" : "http:\/\/www.damianbariexca.net",
+  "expanded_url" : "http:\/\/www.drdamian.org",
   "screen_name" : "_drdamian",
   "location" : "Perkasie, PA USA",
-  "url" : "http:\/\/t.co\/ERljPWQXDO",
+  "url" : "http:\/\/t.co\/0mfonM3zAp",
   "full_name" : "Damian Bariexca",
-  "bio" : "Dad, husband, learner.  #LTPS Supervisor of Educational Technology & Related Arts.  Tweets do not reflect opinions of my employer or colleagues.",
+  "bio" : "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Standard disclaimer: Tweets ≠ opinion of my employer.",
   "id" : "7887852",
   "created_at" : "2007-08-01 18:19:19 +0000",
-  "display_url" : "damianbariexca.net"
+  "display_url" : "drdamian.org"
 }
