@@ -1,6 +1,631 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 26 18:59:17 +0000 2017",
+		"id": 835927230282858500,
+		"id_str": "835927230282858496",
+		"text": "RT @Hustle_Scholar: As oppose to the time when Racism was wholesome fun for the entire family... https://t.co/7CVySGc3pI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hustle_Scholar",
+					"name": "Civil Savage",
+					"id": 171568247,
+					"id_str": "171568247",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 835570637221474300,
+					"id_str": "835570637221474304",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/C5iLEUhVMAAsnLv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5iLEUhVMAAsnLv.jpg",
+					"url": "https://t.co/7CVySGc3pI",
+					"display_url": "pic.twitter.com/7CVySGc3pI",
+					"expanded_url": "https://twitter.com/Hustle_Scholar/status/835570657228374017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 835570657228374000,
+					"source_status_id_str": "835570657228374017",
+					"source_user_id": 171568247,
+					"source_user_id_str": "171568247"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 835570637221474300,
+					"id_str": "835570637221474304",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/C5iLEUhVMAAsnLv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5iLEUhVMAAsnLv.jpg",
+					"url": "https://t.co/7CVySGc3pI",
+					"display_url": "pic.twitter.com/7CVySGc3pI",
+					"expanded_url": "https://twitter.com/Hustle_Scholar/status/835570657228374017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 835570657228374000,
+					"source_status_id_str": "835570657228374017",
+					"source_user_id": 171568247,
+					"source_user_id_str": "171568247"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3177,
+			"friends_count": 1395,
+			"listed_count": 269,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 812,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29525,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 25 19:22:23 +0000 2017",
+			"id": 835570657228374000,
+			"id_str": "835570657228374017",
+			"text": "As oppose to the time when Racism was wholesome fun for the entire family... https://t.co/7CVySGc3pI",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 835570637221474300,
+						"id_str": "835570637221474304",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/C5iLEUhVMAAsnLv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5iLEUhVMAAsnLv.jpg",
+						"url": "https://t.co/7CVySGc3pI",
+						"display_url": "pic.twitter.com/7CVySGc3pI",
+						"expanded_url": "https://twitter.com/Hustle_Scholar/status/835570657228374017/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 835570637221474300,
+						"id_str": "835570637221474304",
+						"indices": [
+							77,
+							100
+						],
+						"media_url": "http://pbs.twimg.com/media/C5iLEUhVMAAsnLv.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5iLEUhVMAAsnLv.jpg",
+						"url": "https://t.co/7CVySGc3pI",
+						"display_url": "pic.twitter.com/7CVySGc3pI",
+						"expanded_url": "https://twitter.com/Hustle_Scholar/status/835570657228374017/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 171568247,
+				"id_str": "171568247",
+				"name": "Civil Savage",
+				"screen_name": "Hustle_Scholar",
+				"location": "",
+				"description": "White Supremacy Analyst. \nCounter-Racism Strategist. \nStrip Club Enthusiast. RTs =/= endorsements\n#AllBlackLivesMatter\n#FuckTrump",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4563,
+				"friends_count": 1294,
+				"listed_count": 135,
+				"created_at": "Tue Jul 27 17:12:20 +0000 2010",
+				"favourites_count": 13210,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 147873,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/780384709607952385/HjskzzDp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/780384709607952385/HjskzzDp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/171568247/1485202227",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1909,
+			"favorite_count": 2057,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1909,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 26 03:50:13 +0000 2017",
+		"id": 835698456337469400,
+		"id_str": "835698456337469440",
+		"text": "@JenAnsbach yeah, it was a neat experience",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JenAnsbach",
+					"name": "Jennifer Ansbach",
+					"id": 30316960,
+					"id_str": "30316960",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 835645832246493200,
+		"in_reply_to_status_id_str": "835645832246493184",
+		"in_reply_to_user_id": 30316960,
+		"in_reply_to_user_id_str": "30316960",
+		"in_reply_to_screen_name": "JenAnsbach",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3177,
+			"friends_count": 1395,
+			"listed_count": 269,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 812,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29525,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 26 02:25:46 +0000 2017",
+		"id": 835677205208399900,
+		"id_str": "835677205208399876",
+		"text": "@sharon357 Sure! https://t.co/ADJAMyQhZt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sharon357",
+					"name": "sharon357",
+					"id": 15408180,
+					"id_str": "15408180",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 835677194252857300,
+					"id_str": "835677194252857348",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/C5jr-wZWMAQEJ5t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5jr-wZWMAQEJ5t.jpg",
+					"url": "https://t.co/ADJAMyQhZt",
+					"display_url": "pic.twitter.com/ADJAMyQhZt",
+					"expanded_url": "https://twitter.com/_drdamian/status/835677205208399876/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 835677194252857300,
+					"id_str": "835677194252857348",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/C5jr-wZWMAQEJ5t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5jr-wZWMAQEJ5t.jpg",
+					"url": "https://t.co/ADJAMyQhZt",
+					"display_url": "pic.twitter.com/ADJAMyQhZt",
+					"expanded_url": "https://twitter.com/_drdamian/status/835677205208399876/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 835676925125410800,
+		"in_reply_to_status_id_str": "835676925125410817",
+		"in_reply_to_user_id": 15408180,
+		"in_reply_to_user_id_str": "15408180",
+		"in_reply_to_screen_name": "sharon357",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3177,
+			"friends_count": 1395,
+			"listed_count": 269,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 812,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29525,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 25 23:58:26 +0000 2017",
 		"id": 835640126105653200,
 		"id_str": "835640126105653248",
