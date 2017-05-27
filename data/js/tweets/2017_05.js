@@ -1,6 +1,970 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Fri May 26 15:34:45 +0000 2017",
+		"id": 868128277302562800,
+		"id_str": "868128277302562816",
+		"text": "RT @MrCsays: “Teaching Personal Finance in the Age of Venmo” by @KathleenLynn3 https://t.co/YowbKX3qjJ\n\n#sschat #njed #edchat",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sschat",
+					"indices": [
+						104,
+						111
+					]
+				},
+				{
+					"text": "njed",
+					"indices": [
+						112,
+						117
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						118,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrCsays",
+					"name": "Tim Charleston",
+					"id": 95977841,
+					"id_str": "95977841",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "KathleenLynn3",
+					"name": "Kathleen Lynn",
+					"id": 602221115,
+					"id_str": "602221115",
+					"indices": [
+						64,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YowbKX3qjJ",
+					"expanded_url": "https://brightreads.com/teaching-personal-finance-in-the-age-of-venmo-9f130a7b221b",
+					"display_url": "brightreads.com/teaching-perso…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3202,
+			"friends_count": 1427,
+			"listed_count": 268,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 908,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29858,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 26 15:18:18 +0000 2017",
+			"id": 868124138162057200,
+			"id_str": "868124138162057220",
+			"text": "“Teaching Personal Finance in the Age of Venmo” by @KathleenLynn3 https://t.co/YowbKX3qjJ\n\n#sschat #njed #edchat",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "sschat",
+						"indices": [
+							91,
+							98
+						]
+					},
+					{
+						"text": "njed",
+						"indices": [
+							99,
+							104
+						]
+					},
+					{
+						"text": "edchat",
+						"indices": [
+							105,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KathleenLynn3",
+						"name": "Kathleen Lynn",
+						"id": 602221115,
+						"id_str": "602221115",
+						"indices": [
+							51,
+							65
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YowbKX3qjJ",
+						"expanded_url": "https://brightreads.com/teaching-personal-finance-in-the-age-of-venmo-9f130a7b221b",
+						"display_url": "brightreads.com/teaching-perso…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 95977841,
+				"id_str": "95977841",
+				"name": "Tim Charleston",
+				"screen_name": "MrCsays",
+				"location": "Princeton, NJ",
+				"description": "|| Global Ed/Social Studies K-8 Supervisor in Princeton Public Schools || once ate a whole pizza || comic nerd || creating ideas to disrupt || ideas are my own",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1535,
+				"friends_count": 699,
+				"listed_count": 176,
+				"created_at": "Thu Dec 10 20:34:49 +0000 2009",
+				"favourites_count": 907,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16100,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/830072252729270273/9sJqNxyW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/830072252729270273/9sJqNxyW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/95977841/1490694105",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 26 14:48:20 +0000 2017",
+		"id": 868116597562646500,
+		"id_str": "868116597562646528",
+		"text": "Abstract of the article referenced is available here: https://t.co/R0YJ3refLu https://t.co/pGjqXvpg4C",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R0YJ3refLu",
+					"expanded_url": "http://www.sciencedirect.com/science/article/pii/S0191886917303100",
+					"display_url": "sciencedirect.com/science/articl…",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/pGjqXvpg4C",
+					"expanded_url": "https://twitter.com/_drdamian/status/868116469925675008",
+					"display_url": "twitter.com/_drdamian/stat…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3202,
+			"friends_count": 1427,
+			"listed_count": 268,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 908,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29858,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 868116469925675000,
+		"quoted_status_id_str": "868116469925675008",
+		"quoted_status": {
+			"created_at": "Fri May 26 14:47:49 +0000 2017",
+			"id": 868116469925675000,
+			"id_str": "868116469925675008",
+			"text": "Wish we could access the original article, but this post seems to summarize nicely. https://t.co/cKHG1M8n6P",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cKHG1M8n6P",
+						"expanded_url": "https://twitter.com/DTWillingham/status/868044174150553600",
+						"display_url": "twitter.com/DTWillingham/s…",
+						"indices": [
+							84,
+							107
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7887852,
+				"id_str": "7887852",
+				"name": "Dr. Damian Bariexca",
+				"screen_name": "_drdamian",
+				"location": "Perkasie, PA USA",
+				"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+				"url": "https://t.co/0mfonM3zAp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0mfonM3zAp",
+								"expanded_url": "http://drdamian.org",
+								"display_url": "drdamian.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3202,
+				"friends_count": 1427,
+				"listed_count": 268,
+				"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+				"favourites_count": 908,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 29858,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+				"profile_link_color": "000080",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 868044174150553600,
+			"quoted_status_id_str": "868044174150553600",
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 26 14:47:49 +0000 2017",
+		"id": 868116469925675000,
+		"id_str": "868116469925675008",
+		"text": "Wish we could access the original article, but this post seems to summarize nicely. https://t.co/cKHG1M8n6P",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cKHG1M8n6P",
+					"expanded_url": "https://twitter.com/DTWillingham/status/868044174150553600",
+					"display_url": "twitter.com/DTWillingham/s…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3202,
+			"friends_count": 1427,
+			"listed_count": 268,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 908,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29858,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 868044174150553600,
+		"quoted_status_id_str": "868044174150553600",
+		"quoted_status": {
+			"created_at": "Fri May 26 10:00:33 +0000 2017",
+			"id": 868044174150553600,
+			"id_str": "868044174150553600",
+			"text": "This great post doesn't just debunk learning styles, corrects the concepts. https://t.co/sOEg5pxinX https://t.co/CSv5tMFEND",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/sOEg5pxinX",
+						"expanded_url": "http://www.learningscientists.org/blog/2017/5/25-1",
+						"display_url": "learningscientists.org/blog/2017/5/25…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 868044100309852200,
+						"id_str": "868044100309852160",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DAvpgphXoAAveFl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAvpgphXoAAveFl.jpg",
+						"url": "https://t.co/CSv5tMFEND",
+						"display_url": "pic.twitter.com/CSv5tMFEND",
+						"expanded_url": "https://twitter.com/DTWillingham/status/868044174150553600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 200,
+								"h": 273,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 200,
+								"h": 273,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 200,
+								"h": 273,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 868044100309852200,
+						"id_str": "868044100309852160",
+						"indices": [
+							100,
+							123
+						],
+						"media_url": "http://pbs.twimg.com/media/DAvpgphXoAAveFl.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DAvpgphXoAAveFl.jpg",
+						"url": "https://t.co/CSv5tMFEND",
+						"display_url": "pic.twitter.com/CSv5tMFEND",
+						"expanded_url": "https://twitter.com/DTWillingham/status/868044174150553600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 200,
+								"h": 273,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 200,
+								"h": 273,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 200,
+								"h": 273,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 84619537,
+				"id_str": "84619537",
+				"name": "Daniel Willingham",
+				"screen_name": "DTWillingham",
+				"location": "Charlottesville, Virginia, USA",
+				"description": "Putting the funk back in functional brain imaging and the psycho in psychometrics. Views my own.",
+				"url": "http://t.co/fNTtRMN06N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/fNTtRMN06N",
+								"expanded_url": "http://www.danielwillingham.com",
+								"display_url": "danielwillingham.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10178,
+				"friends_count": 242,
+				"listed_count": 353,
+				"created_at": "Fri Oct 23 15:39:08 +0000 2009",
+				"favourites_count": 514,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4943,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/802879474664493056/RoEZZ9kF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/802879474664493056/RoEZZ9kF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/84619537/1493024888",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 75,
+			"favorite_count": 83,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri May 26 14:07:13 +0000 2017",
+		"id": 868106251682684900,
+		"id_str": "868106251682684929",
+		"text": "RT @mdawriter: Teachers give ‘most likely to become a terrorist’ award to 13-y.o. Latina student in mock school awards. https://t.co/iZBYdk…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mdawriter",
+					"name": "melinda d. anderson",
+					"id": 50197083,
+					"id_str": "50197083",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3202,
+			"friends_count": 1427,
+			"listed_count": 268,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 908,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29858,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri May 26 13:01:47 +0000 2017",
+			"id": 868089783482019800,
+			"id_str": "868089783482019840",
+			"text": "Teachers give ‘most likely to become a terrorist’ award to 13-y.o. Latina student in mock school awards. https://t.co/iZBYdkneRF\n\nSickening!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iZBYdkneRF",
+						"expanded_url": "https://www.washingtonpost.com/news/morning-mix/wp/2017/05/26/texas-teachers-give-most-likely-to-become-a-terrorist-award-to-13-year-old/?utm_term=.6490eef0b820",
+						"display_url": "washingtonpost.com/news/morning-m…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50197083,
+				"id_str": "50197083",
+				"name": "melinda d. anderson",
+				"screen_name": "mdawriter",
+				"location": "world where Black is uppercase",
+				"description": "mom 💁🏾 | contributing writer for @TheAtlantic 👩🏾‍💻 | wordsmith on education, race, racism, #edequity | uncompromisingly Black ✊🏾 | edunewshound@gmail.com",
+				"url": "https://t.co/HIycC8pTiS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HIycC8pTiS",
+								"expanded_url": "https://www.theatlantic.com/author/melinda-anderson/",
+								"display_url": "theatlantic.com/author/melinda…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6879,
+				"friends_count": 129,
+				"listed_count": 449,
+				"created_at": "Wed Jun 24 03:14:32 +0000 2009",
+				"favourites_count": 13899,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 107313,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCBD33",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/672453395/7fa747d1ef748f99e36e980ba42cecf0.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/672453395/7fa747d1ef748f99e36e980ba42cecf0.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/823273444691283969/_8iiF5du_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/823273444691283969/_8iiF5du_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/50197083/1488599005",
+				"profile_link_color": "CC3833",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "B6C7A3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 26 00:28:06 +0000 2017",
 		"id": 867900112005193700,
 		"id_str": "867900112005193728",
