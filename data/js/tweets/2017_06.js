@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 12 13:58:16 +0000 2017",
+		"id": 874264591676649500,
+		"id_str": "874264591676649472",
+		"text": "RT @JayBilly2: @LTPS1 Intermediate School Jazz Band showing their stuff @SlackwoodSchool @TanyaDamon1 @_drdamian @DrCrystalEd https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JayBilly2",
+					"name": "Jay Billy",
+					"id": 327326387,
+					"id_str": "327326387",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Twp Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						15,
+						21
+					]
+				},
+				{
+					"screen_name": "SlackwoodSchool",
+					"name": "Slackwood School",
+					"id": 3891670522,
+					"id_str": "3891670522",
+					"indices": [
+						72,
+						88
+					]
+				},
+				{
+					"screen_name": "TanyaDamon1",
+					"name": "Tanya Damon",
+					"id": 2811272075,
+					"id_str": "2811272075",
+					"indices": [
+						89,
+						101
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"screen_name": "DrCrystalEd",
+					"name": "Crystal M. Edwards",
+					"id": 260751225,
+					"id_str": "260751225",
+					"indices": [
+						113,
+						125
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3202,
+			"friends_count": 1431,
+			"listed_count": 267,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 930,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29928,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 12 13:56:13 +0000 2017",
+			"id": 874264076532273200,
+			"id_str": "874264076532273152",
+			"text": "@LTPS1 Intermediate School Jazz Band showing their stuff @SlackwoodSchool @TanyaDamon1 @_drdamian @DrCrystalEd https://t.co/ceH3Hn5z0w",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LTPS1",
+						"name": "Lawrence Twp Schools",
+						"id": 2178717536,
+						"id_str": "2178717536",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"screen_name": "SlackwoodSchool",
+						"name": "Slackwood School",
+						"id": 3891670522,
+						"id_str": "3891670522",
+						"indices": [
+							57,
+							73
+						]
+					},
+					{
+						"screen_name": "TanyaDamon1",
+						"name": "Tanya Damon",
+						"id": 2811272075,
+						"id_str": "2811272075",
+						"indices": [
+							74,
+							86
+						]
+					},
+					{
+						"screen_name": "_drdamian",
+						"name": "Dr. Damian Bariexca",
+						"id": 7887852,
+						"id_str": "7887852",
+						"indices": [
+							87,
+							97
+						]
+					},
+					{
+						"screen_name": "DrCrystalEd",
+						"name": "Crystal M. Edwards",
+						"id": 260751225,
+						"id_str": "260751225",
+						"indices": [
+							98,
+							110
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 874262982062030800,
+						"id_str": "874262982062030848",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/874262982062030848/pu/img/n46ze6MiVWJnao_v.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/874262982062030848/pu/img/n46ze6MiVWJnao_v.jpg",
+						"url": "https://t.co/ceH3Hn5z0w",
+						"display_url": "pic.twitter.com/ceH3Hn5z0w",
+						"expanded_url": "https://twitter.com/JayBilly2/status/874264076532273152/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 874262982062030800,
+						"id_str": "874262982062030848",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/874262982062030848/pu/img/n46ze6MiVWJnao_v.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/874262982062030848/pu/img/n46ze6MiVWJnao_v.jpg",
+						"url": "https://t.co/ceH3Hn5z0w",
+						"display_url": "pic.twitter.com/ceH3Hn5z0w",
+						"expanded_url": "https://twitter.com/JayBilly2/status/874264076532273152/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 45015,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/874262982062030848/pu/vid/320x180/2NpASqwvy9tJ16L2.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/874262982062030848/pu/vid/1280x720/iN9Mm9zeKZ-8Ne7t.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/874262982062030848/pu/vid/640x360/x7nymwVywqFtJFjl.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/874262982062030848/pu/pl/GKAu9reJm0c5nhI6.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 2178717536,
+			"in_reply_to_user_id_str": "2178717536",
+			"in_reply_to_screen_name": "LTPS1",
+			"user": {
+				"id": 327326387,
+				"id_str": "327326387",
+				"name": "Jay Billy",
+				"screen_name": "JayBilly2",
+				"location": "New Jersey, USA",
+				"description": "Parent, Elementary Principal, amateur wrestling enthusiast, Positive Deviant. Tweets are my own thoughts unless they are yours",
+				"url": "http://t.co/e5cWDLtVLJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/e5cWDLtVLJ",
+								"expanded_url": "http://principalbilly.blogspot.com/",
+								"display_url": "principalbilly.blogspot.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10081,
+				"friends_count": 5159,
+				"listed_count": 407,
+				"created_at": "Fri Jul 01 11:29:13 +0000 2011",
+				"favourites_count": 39332,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 36149,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/627649683758845956/86Tc-Ujx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/627649683758845956/86Tc-Ujx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/327326387/1451874895",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 11 14:36:53 +0000 2017",
 		"id": 873911924450353200,
 		"id_str": "873911924450353152",
