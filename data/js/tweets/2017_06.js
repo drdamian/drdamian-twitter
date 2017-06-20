@@ -1,6 +1,1036 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 19 14:53:10 +0000 2017",
+		"id": 876815122051760100,
+		"id_str": "876815122051760132",
+		"text": "RT @CKutsup: The @CardinalsLHS ducks https://t.co/tZkFR0ERca",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CKutsup",
+					"name": "Carly Kutsup",
+					"id": 768838444848119800,
+					"id_str": "768838444848119809",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						17,
+						30
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 876783169500065800,
+					"id_str": "876783169500065793",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DCr1pbMXsAELBaC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCr1pbMXsAELBaC.jpg",
+					"url": "https://t.co/tZkFR0ERca",
+					"display_url": "pic.twitter.com/tZkFR0ERca",
+					"expanded_url": "https://twitter.com/CKutsup/status/876783297078202368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 305,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 918,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 538,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 876783297078202400,
+					"source_status_id_str": "876783297078202368",
+					"source_user_id": 768838444848119800,
+					"source_user_id_str": "768838444848119809"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 876783169500065800,
+					"id_str": "876783169500065793",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DCr1pbMXsAELBaC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCr1pbMXsAELBaC.jpg",
+					"url": "https://t.co/tZkFR0ERca",
+					"display_url": "pic.twitter.com/tZkFR0ERca",
+					"expanded_url": "https://twitter.com/CKutsup/status/876783297078202368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 305,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 918,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 538,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 876783297078202400,
+					"source_status_id_str": "876783297078202368",
+					"source_user_id": 768838444848119800,
+					"source_user_id_str": "768838444848119809"
+				},
+				{
+					"id": 876783169495846900,
+					"id_str": "876783169495846912",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DCr1pbLXUAAvBsK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCr1pbLXUAAvBsK.jpg",
+					"url": "https://t.co/tZkFR0ERca",
+					"display_url": "pic.twitter.com/tZkFR0ERca",
+					"expanded_url": "https://twitter.com/CKutsup/status/876783297078202368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 792,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1352,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 876783297078202400,
+					"source_status_id_str": "876783297078202368",
+					"source_user_id": 768838444848119800,
+					"source_user_id_str": "768838444848119809"
+				},
+				{
+					"id": 876783205457723400,
+					"id_str": "876783205457723392",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DCr1rhJWAAA_ayW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCr1rhJWAAA_ayW.jpg",
+					"url": "https://t.co/tZkFR0ERca",
+					"display_url": "pic.twitter.com/tZkFR0ERca",
+					"expanded_url": "https://twitter.com/CKutsup/status/876783297078202368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 581,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 329,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 992,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 876783297078202400,
+					"source_status_id_str": "876783297078202368",
+					"source_user_id": 768838444848119800,
+					"source_user_id_str": "768838444848119809"
+				},
+				{
+					"id": 876783208033120300,
+					"id_str": "876783208033120256",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/DCr1rqvXcAAoxUR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCr1rqvXcAAoxUR.jpg",
+					"url": "https://t.co/tZkFR0ERca",
+					"display_url": "pic.twitter.com/tZkFR0ERca",
+					"expanded_url": "https://twitter.com/CKutsup/status/876783297078202368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 876783297078202400,
+					"source_status_id_str": "876783297078202368",
+					"source_user_id": 768838444848119800,
+					"source_user_id_str": "768838444848119809"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3204,
+			"friends_count": 1433,
+			"listed_count": 267,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 941,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29948,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 19 12:46:42 +0000 2017",
+			"id": 876783297078202400,
+			"id_str": "876783297078202368",
+			"text": "The @CardinalsLHS ducks https://t.co/tZkFR0ERca",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CardinalsLHS",
+						"name": "Lawrence High School",
+						"id": 832085833,
+						"id_str": "832085833",
+						"indices": [
+							4,
+							17
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 876783169500065800,
+						"id_str": "876783169500065793",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DCr1pbMXsAELBaC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCr1pbMXsAELBaC.jpg",
+						"url": "https://t.co/tZkFR0ERca",
+						"display_url": "pic.twitter.com/tZkFR0ERca",
+						"expanded_url": "https://twitter.com/CKutsup/status/876783297078202368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 305,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 918,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 538,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 876783169500065800,
+						"id_str": "876783169500065793",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DCr1pbMXsAELBaC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCr1pbMXsAELBaC.jpg",
+						"url": "https://t.co/tZkFR0ERca",
+						"display_url": "pic.twitter.com/tZkFR0ERca",
+						"expanded_url": "https://twitter.com/CKutsup/status/876783297078202368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 305,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 918,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 538,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 876783169495846900,
+						"id_str": "876783169495846912",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DCr1pbLXUAAvBsK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCr1pbLXUAAvBsK.jpg",
+						"url": "https://t.co/tZkFR0ERca",
+						"display_url": "pic.twitter.com/tZkFR0ERca",
+						"expanded_url": "https://twitter.com/CKutsup/status/876783297078202368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 449,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 792,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1352,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 876783205457723400,
+						"id_str": "876783205457723392",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DCr1rhJWAAA_ayW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCr1rhJWAAA_ayW.jpg",
+						"url": "https://t.co/tZkFR0ERca",
+						"display_url": "pic.twitter.com/tZkFR0ERca",
+						"expanded_url": "https://twitter.com/CKutsup/status/876783297078202368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 581,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 329,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 992,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 876783208033120300,
+						"id_str": "876783208033120256",
+						"indices": [
+							24,
+							47
+						],
+						"media_url": "http://pbs.twimg.com/media/DCr1rqvXcAAoxUR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCr1rqvXcAAoxUR.jpg",
+						"url": "https://t.co/tZkFR0ERca",
+						"display_url": "pic.twitter.com/tZkFR0ERca",
+						"expanded_url": "https://twitter.com/CKutsup/status/876783297078202368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 768838444848119800,
+				"id_str": "768838444848119809",
+				"name": "Carly Kutsup",
+				"screen_name": "CKutsup",
+				"location": "",
+				"description": "Teacher of Photography/Videography Lawrence High School, NJ\n\nwebsite: https://t.co/x7GfSgjDRp\n\nMy views/Tweets don't equal those of my employer or colleagues",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/x7GfSgjDRp",
+								"expanded_url": "http://lhstvphoto.wordpress.com",
+								"display_url": "lhstvphoto.wordpress.com",
+								"indices": [
+									70,
+									93
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 94,
+				"friends_count": 158,
+				"listed_count": 13,
+				"created_at": "Thu Aug 25 15:52:24 +0000 2016",
+				"favourites_count": 302,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 720,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/788813220752523265/ZJreJzEK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/788813220752523265/ZJreJzEK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/768838444848119809/1484283480",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "004fcac6274ef9ca",
+				"url": "https://api.twitter.com/1.1/geo/id/004fcac6274ef9ca.json",
+				"place_type": "city",
+				"name": "Lawrence",
+				"full_name": "Lawrence, NJ",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.762755,
+								40.2398165
+							],
+							[
+								-74.6644118,
+								40.2398165
+							],
+							[
+								-74.6644118,
+								40.3177474
+							],
+							[
+								-74.762755,
+								40.3177474
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 19 13:49:03 +0000 2017",
+		"id": 876798986560077800,
+		"id_str": "876798986560077824",
+		"text": "RT @LHSMediaCenter: No even 8am and I know I will have amazing day!!! @CardinalsLHS #lovemyjob https://t.co/EMv4ACzrBs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lovemyjob",
+					"indices": [
+						84,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LHSMediaCenter",
+					"name": "Ewa Dziedzic-Elliott",
+					"id": 796644332,
+					"id_str": "796644332",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						70,
+						83
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 876789314000048100,
+					"id_str": "876789314000048129",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DCr7PFPU0AEqOXn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCr7PFPU0AEqOXn.jpg",
+					"url": "https://t.co/EMv4ACzrBs",
+					"display_url": "pic.twitter.com/EMv4ACzrBs",
+					"expanded_url": "https://twitter.com/LHSMediaCenter/status/876789322904686592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 876789322904686600,
+					"source_status_id_str": "876789322904686592",
+					"source_user_id": 796644332,
+					"source_user_id_str": "796644332"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 876789314000048100,
+					"id_str": "876789314000048129",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DCr7PFPU0AEqOXn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DCr7PFPU0AEqOXn.jpg",
+					"url": "https://t.co/EMv4ACzrBs",
+					"display_url": "pic.twitter.com/EMv4ACzrBs",
+					"expanded_url": "https://twitter.com/LHSMediaCenter/status/876789322904686592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 876789322904686600,
+					"source_status_id_str": "876789322904686592",
+					"source_user_id": 796644332,
+					"source_user_id_str": "796644332"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3204,
+			"friends_count": 1433,
+			"listed_count": 267,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 941,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29948,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 19 13:10:39 +0000 2017",
+			"id": 876789322904686600,
+			"id_str": "876789322904686592",
+			"text": "No even 8am and I know I will have amazing day!!! @CardinalsLHS #lovemyjob https://t.co/EMv4ACzrBs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "lovemyjob",
+						"indices": [
+							64,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CardinalsLHS",
+						"name": "Lawrence High School",
+						"id": 832085833,
+						"id_str": "832085833",
+						"indices": [
+							50,
+							63
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 876789314000048100,
+						"id_str": "876789314000048129",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/DCr7PFPU0AEqOXn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCr7PFPU0AEqOXn.jpg",
+						"url": "https://t.co/EMv4ACzrBs",
+						"display_url": "pic.twitter.com/EMv4ACzrBs",
+						"expanded_url": "https://twitter.com/LHSMediaCenter/status/876789322904686592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 876789314000048100,
+						"id_str": "876789314000048129",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/DCr7PFPU0AEqOXn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DCr7PFPU0AEqOXn.jpg",
+						"url": "https://t.co/EMv4ACzrBs",
+						"display_url": "pic.twitter.com/EMv4ACzrBs",
+						"expanded_url": "https://twitter.com/LHSMediaCenter/status/876789322904686592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 796644332,
+				"id_str": "796644332",
+				"name": "Ewa Dziedzic-Elliott",
+				"screen_name": "LHSMediaCenter",
+				"location": "Lawrenceville, NJ",
+				"description": "Lawrence High School Media Center Specialist/Librarian, educator, reader, library lover.",
+				"url": "https://t.co/LRQHgU0dBR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LRQHgU0dBR",
+								"expanded_url": "http://lawrence1.schoolwires.net/Page/2757",
+								"display_url": "lawrence1.schoolwires.net/Page/2757",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 420,
+				"friends_count": 1039,
+				"listed_count": 17,
+				"created_at": "Sat Sep 01 18:42:52 +0000 2012",
+				"favourites_count": 145,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 762,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "660000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/648645893/06gwr8jhd9b5wwkbyzqw.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/648645893/06gwr8jhd9b5wwkbyzqw.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/743862761931714560/pM4MkF8R_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/743862761931714560/pM4MkF8R_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/796644332/1479918294",
+				"profile_link_color": "660000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 18 18:40:41 +0000 2017",
 		"id": 876509993570373600,
 		"id_str": "876509993570373634",
