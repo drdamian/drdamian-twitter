@@ -1,6 +1,652 @@
 Grailbird.data.tweets_2017_06 = 
 [
 	{
+		"created_at": "Mon Jun 26 16:28:53 +0000 2017",
+		"id": 879375927511318500,
+		"id_str": "879375927511318532",
+		"text": "RT @sljournal: SLJ Equity Issue https://t.co/Ri6OksgWVc #alaac17 https://t.co/MZ1fBsoQ4y",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "alaac17",
+					"indices": [
+						56,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sljournal",
+					"name": "SchoolLibraryJournal",
+					"id": 15740502,
+					"id_str": "15740502",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ri6OksgWVc",
+					"expanded_url": "http://ow.ly/HNOY30cTVFf",
+					"display_url": "ow.ly/HNOY30cTVFf",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 879375205747109900,
+					"id_str": "879375205747109888",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/DDQrFyrXsAAcO12.png",
+					"media_url_https": "https://pbs.twimg.com/media/DDQrFyrXsAAcO12.png",
+					"url": "https://t.co/MZ1fBsoQ4y",
+					"display_url": "pic.twitter.com/MZ1fBsoQ4y",
+					"expanded_url": "https://twitter.com/sljournal/status/879375210197241857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 504,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 504,
+							"h": 648,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 504,
+							"h": 648,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 879375210197241900,
+					"source_status_id_str": "879375210197241857",
+					"source_user_id": 15740502,
+					"source_user_id_str": "15740502"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 879375205747109900,
+					"id_str": "879375205747109888",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/DDQrFyrXsAAcO12.png",
+					"media_url_https": "https://pbs.twimg.com/media/DDQrFyrXsAAcO12.png",
+					"url": "https://t.co/MZ1fBsoQ4y",
+					"display_url": "pic.twitter.com/MZ1fBsoQ4y",
+					"expanded_url": "https://twitter.com/sljournal/status/879375210197241857/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 504,
+							"h": 648,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 504,
+							"h": 648,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 504,
+							"h": 648,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 879375210197241900,
+					"source_status_id_str": "879375210197241857",
+					"source_user_id": 15740502,
+					"source_user_id_str": "15740502"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3205,
+			"friends_count": 1434,
+			"listed_count": 266,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 944,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29976,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 16:26:02 +0000 2017",
+			"id": 879375210197241900,
+			"id_str": "879375210197241857",
+			"text": "SLJ Equity Issue https://t.co/Ri6OksgWVc #alaac17 https://t.co/MZ1fBsoQ4y",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "alaac17",
+						"indices": [
+							41,
+							49
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ri6OksgWVc",
+						"expanded_url": "http://ow.ly/HNOY30cTVFf",
+						"display_url": "ow.ly/HNOY30cTVFf",
+						"indices": [
+							17,
+							40
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 879375205747109900,
+						"id_str": "879375205747109888",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DDQrFyrXsAAcO12.png",
+						"media_url_https": "https://pbs.twimg.com/media/DDQrFyrXsAAcO12.png",
+						"url": "https://t.co/MZ1fBsoQ4y",
+						"display_url": "pic.twitter.com/MZ1fBsoQ4y",
+						"expanded_url": "https://twitter.com/sljournal/status/879375210197241857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 504,
+								"h": 648,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 504,
+								"h": 648,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 504,
+								"h": 648,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 879375205747109900,
+						"id_str": "879375205747109888",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/DDQrFyrXsAAcO12.png",
+						"media_url_https": "https://pbs.twimg.com/media/DDQrFyrXsAAcO12.png",
+						"url": "https://t.co/MZ1fBsoQ4y",
+						"display_url": "pic.twitter.com/MZ1fBsoQ4y",
+						"expanded_url": "https://twitter.com/sljournal/status/879375210197241857/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 504,
+								"h": 648,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 504,
+								"h": 648,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 504,
+								"h": 648,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15740502,
+				"id_str": "15740502",
+				"name": "SchoolLibraryJournal",
+				"screen_name": "sljournal",
+				"location": "New York, NY",
+				"description": "School Library Journal is the largest reviewer of kids & YA content, from books to digital. Serving up tweets: the editors of SLJ.",
+				"url": "http://t.co/elNg9sNMYX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/elNg9sNMYX",
+								"expanded_url": "http://www.slj.com",
+								"display_url": "slj.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 69941,
+				"friends_count": 1112,
+				"listed_count": 2645,
+				"created_at": "Tue Aug 05 19:29:10 +0000 2008",
+				"favourites_count": 929,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 43129,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CDCDFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/2932209/wallpage.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/2932209/wallpage.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/783692736033685505/89djeTuw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/783692736033685505/89djeTuw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15740502/1475683923",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFCD",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Mon Jun 26 15:00:31 +0000 2017",
+		"id": 879353690154467300,
+		"id_str": "879353690154467334",
+		"text": "RT @shscookingteach: 44 states and 8 countries are present to learn, collaborate, and party @aafcs style!! #AAFCSAc @AAFCStx #afinlitfuture…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AAFCSAc",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"text": "afinlitfuture",
+					"indices": [
+						125,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shscookingteach",
+					"name": "The Cooking Teach",
+					"id": 796367265704751100,
+					"id_str": "796367265704751104",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "aafcs",
+					"name": "AAFCS Headquarters",
+					"id": 68513910,
+					"id_str": "68513910",
+					"indices": [
+						92,
+						98
+					]
+				},
+				{
+					"screen_name": "AAFCStx",
+					"name": "AAFCS-Texas",
+					"id": 2925276091,
+					"id_str": "2925276091",
+					"indices": [
+						116,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3205,
+			"friends_count": 1434,
+			"listed_count": 266,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 944,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29976,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 26 14:44:06 +0000 2017",
+			"id": 879349558022623200,
+			"id_str": "879349558022623233",
+			"text": "44 states and 8 countries are present to learn, collaborate, and party @aafcs style!! #AAFCSAc @AAFCStx… https://t.co/xas5k9jLZ0",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AAFCSAc",
+						"indices": [
+							86,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "aafcs",
+						"name": "AAFCS Headquarters",
+						"id": 68513910,
+						"id_str": "68513910",
+						"indices": [
+							71,
+							77
+						]
+					},
+					{
+						"screen_name": "AAFCStx",
+						"name": "AAFCS-Texas",
+						"id": 2925276091,
+						"id_str": "2925276091",
+						"indices": [
+							95,
+							103
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xas5k9jLZ0",
+						"expanded_url": "https://twitter.com/i/web/status/879349558022623233",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 796367265704751100,
+				"id_str": "796367265704751104",
+				"name": "The Cooking Teach",
+				"screen_name": "shscookingteach",
+				"location": "Mission, TX",
+				"description": "FCS Teacher deep in the heat of TX // Financial Literacy Advocate // Adventurer // chew fully, spend wisely, laugh often",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37,
+				"friends_count": 145,
+				"listed_count": 0,
+				"created_at": "Wed Nov 09 15:02:06 +0000 2016",
+				"favourites_count": 64,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 68,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/860512322661498880/fFiKDGMH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/860512322661498880/fFiKDGMH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/796367265704751104/1498069631",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Jun 25 12:41:30 +0000 2017",
 		"id": 878956314143199200,
 		"id_str": "878956314143199234",
