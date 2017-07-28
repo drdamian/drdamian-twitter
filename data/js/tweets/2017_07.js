@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Thu Jul 27 15:20:59 +0000 2017",
+		"id": 890592860705312800,
+		"id_str": "890592860705312770",
+		"text": "Now reading: What Happens When Poor Kids Are Taught Society Is Fair https://t.co/OBvxJnZGFO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OBvxJnZGFO",
+					"expanded_url": "http://theatln.tc/2v19Itv",
+					"display_url": "theatln.tc/2v19Itv",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3202,
+			"friends_count": 1442,
+			"listed_count": 266,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 953,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30035,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Jul 27 15:18:09 +0000 2017",
+		"id": 890592148223135700,
+		"id_str": "890592148223135744",
+		"text": "RT @xianb8: Much &lt;3 to @mdawriter for sharing @BrightonParkES, @BPNCchicago's work in vital article on dmg of merit based ed.\nhttps://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xianb8",
+					"name": "xian f'znger barrett",
+					"id": 252327705,
+					"id_str": "252327705",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "mdawriter",
+					"name": "melinda d. anderson",
+					"id": 50197083,
+					"id_str": "50197083",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"screen_name": "BrightonParkES",
+					"name": "Brighton Park ES",
+					"id": 3369333046,
+					"id_str": "3369333046",
+					"indices": [
+						49,
+						64
+					]
+				},
+				{
+					"screen_name": "BPNCchicago",
+					"name": "BPNC",
+					"id": 593822042,
+					"id_str": "593822042",
+					"indices": [
+						66,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3202,
+			"friends_count": 1442,
+			"listed_count": 266,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 953,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30035,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jul 27 13:03:03 +0000 2017",
+			"id": 890558148641271800,
+			"id_str": "890558148641271811",
+			"text": "Much &lt;3 to @mdawriter for sharing @BrightonParkES, @BPNCchicago's work in vital article on dmg of merit based ed.\nhttps://t.co/bVitmYRQLC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mdawriter",
+						"name": "melinda d. anderson",
+						"id": 50197083,
+						"id_str": "50197083",
+						"indices": [
+							14,
+							24
+						]
+					},
+					{
+						"screen_name": "BrightonParkES",
+						"name": "Brighton Park ES",
+						"id": 3369333046,
+						"id_str": "3369333046",
+						"indices": [
+							37,
+							52
+						]
+					},
+					{
+						"screen_name": "BPNCchicago",
+						"name": "BPNC",
+						"id": 593822042,
+						"id_str": "593822042",
+						"indices": [
+							54,
+							66
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/bVitmYRQLC",
+						"expanded_url": "https://www.theatlantic.com/education/archive/2017/07/internalizing-the-myth-of-meritocracy/535035/?utm_source=twb",
+						"display_url": "theatlantic.com/education/arch…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 252327705,
+				"id_str": "252327705",
+				"name": "xian f'znger barrett",
+				"screen_name": "xianb8",
+				"location": "Chicago, IL",
+				"description": "Love ice cream & ppl. Dislike total destruction of ed system & horses. Laid-off Chi teacher. '09 US DoEd fellow. Own ideas. #educolor all day.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6172,
+				"friends_count": 6011,
+				"listed_count": 295,
+				"created_at": "Mon Feb 14 23:50:12 +0000 2011",
+				"favourites_count": 11061,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 77065,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1466424665/PhoRamen_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1466424665/PhoRamen_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/252327705/1439264457",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jul 26 23:49:11 +0000 2017",
 		"id": 890358368577171500,
 		"id_str": "890358368577171456",
