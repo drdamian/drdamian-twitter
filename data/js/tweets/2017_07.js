@@ -1,6 +1,760 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Fri Jul 28 20:03:36 +0000 2017",
+		"id": 891026374168911900,
+		"id_str": "891026374168911872",
+		"text": "RT @kdumont: https://t.co/u1s6SOztRZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kdumont",
+					"name": "Kelly Dumont",
+					"id": 816632,
+					"id_str": "816632",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u1s6SOztRZ",
+					"expanded_url": "http://bit.ly/2oxy1cA",
+					"display_url": "bit.ly/2oxy1cA",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3202,
+			"friends_count": 1444,
+			"listed_count": 266,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 955,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30039,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 28 19:58:51 +0000 2017",
+			"id": 891025175998844900,
+			"id_str": "891025175998844928",
+			"text": "https://t.co/u1s6SOztRZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/u1s6SOztRZ",
+						"expanded_url": "http://bit.ly/2oxy1cA",
+						"display_url": "bit.ly/2oxy1cA",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 816632,
+				"id_str": "816632",
+				"name": "Kelly Dumont",
+				"screen_name": "kdumont",
+				"location": "ÜT: 40.497735,-111.943886",
+				"description": "EdTech Team Lead-Canyons School District, Apple Distinguished Educator, Google Certified Innovator, Book Creator Ambassador, Alpha Squirrel",
+				"url": "https://t.co/6rZOW6WLjX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6rZOW6WLjX",
+								"expanded_url": "http://www.theeducationalmac.com",
+								"display_url": "theeducationalmac.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3878,
+				"friends_count": 4069,
+				"listed_count": 167,
+				"created_at": "Wed Mar 07 01:19:57 +0000 2007",
+				"favourites_count": 290,
+				"utc_offset": -21600,
+				"time_zone": "Mountain Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18493,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/425720342514892800/-94TSGqT_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/425720342514892800/-94TSGqT_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/816632/1469237462",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Fri Jul 28 19:04:18 +0000 2017",
+		"id": 891011451212763100,
+		"id_str": "891011451212763136",
+		"text": "@TheWeirdTeacher @teachforthought #metachat",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "metachat",
+					"indices": [
+						34,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheWeirdTeacher",
+					"name": "Doug Robertson",
+					"id": 492501665,
+					"id_str": "492501665",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "teachforthought",
+					"name": "Sean Dugan-Strout",
+					"id": 123971547,
+					"id_str": "123971547",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 891011168436764700,
+		"in_reply_to_status_id_str": "891011168436764672",
+		"in_reply_to_user_id": 492501665,
+		"in_reply_to_user_id_str": "492501665",
+		"in_reply_to_screen_name": "TheWeirdTeacher",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3202,
+			"friends_count": 1444,
+			"listed_count": 266,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 955,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30039,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Fri Jul 28 14:33:54 +0000 2017",
+		"id": 890943402128408600,
+		"id_str": "890943402128408576",
+		"text": "RT @CharlotteAlter: Murkowski and Collins did the same job as McCain, facing twice the hostility for half the credit",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CharlotteAlter",
+					"name": "Charlotte Alter",
+					"id": 774510134,
+					"id_str": "774510134",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3202,
+			"friends_count": 1444,
+			"listed_count": 266,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 955,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30039,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 28 13:11:10 +0000 2017",
+			"id": 890922582052044800,
+			"id_str": "890922582052044800",
+			"text": "Murkowski and Collins did the same job as McCain, facing twice the hostility for half the credit",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 774510134,
+				"id_str": "774510134",
+				"name": "Charlotte Alter",
+				"screen_name": "CharlotteAlter",
+				"location": "Brooklyn, NY",
+				"description": "Writer @Time | Co-host, Alter Family Politics on @radioandy, SiriusXM 102 | tips: charlotte.alter@time.com | Clips: https://t.co/2b1rfjltHh |",
+				"url": "https://t.co/qrMY4iUmvg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qrMY4iUmvg",
+								"expanded_url": "http://www.time.com",
+								"display_url": "time.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/2b1rfjltHh",
+								"expanded_url": "http://charlottealter.com",
+								"display_url": "charlottealter.com",
+								"indices": [
+									116,
+									139
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10499,
+				"friends_count": 1620,
+				"listed_count": 287,
+				"created_at": "Wed Aug 22 21:15:08 +0000 2012",
+				"favourites_count": 3330,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6761,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000096715800/1787ccdd4bd6efbb29a85a6cdbb62000.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000096715800/1787ccdd4bd6efbb29a85a6cdbb62000.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/857121267098537985/qCsOifXX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/857121267098537985/qCsOifXX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/774510134/1494431575",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4675,
+			"favorite_count": 12732,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4675,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Jul 28 03:21:37 +0000 2017",
+		"id": 890774214281744400,
+		"id_str": "890774214281744385",
+		"text": "Statue of Liberty? https://t.co/3z4aez1gJn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3z4aez1gJn",
+					"expanded_url": "https://twitter.com/MrChuckD/status/890772239112519680",
+					"display_url": "twitter.com/MrChuckD/statu…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3202,
+			"friends_count": 1444,
+			"listed_count": 266,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 955,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30039,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 890772239112519700,
+		"quoted_status_id_str": "890772239112519680",
+		"quoted_status": {
+			"created_at": "Fri Jul 28 03:13:46 +0000 2017",
+			"id": 890772239112519700,
+			"id_str": "890772239112519680",
+			"text": "Reputedly the most FAMOUS example of visible oxidation reaction is where?I like to do something different on SOC MED rather than selfies lol",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 35831704,
+				"id_str": "35831704",
+				"name": "Chuck D",
+				"screen_name": "MrChuckD",
+				"location": "EarthiZen",
+				"description": "https://t.co/2CDiWBn2dC, https://t.co/yte88W5cxV Distribution, https://t.co/0LjWZWhMaq Internetworks",
+				"url": "https://t.co/c0vbPPgnot",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c0vbPPgnot",
+								"expanded_url": "http://www.publicenemy.com",
+								"display_url": "publicenemy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/2CDiWBn2dC",
+								"expanded_url": "http://SpitSlam.com",
+								"display_url": "SpitSlam.com",
+								"indices": [
+									0,
+									23
+								]
+							},
+							{
+								"url": "https://t.co/yte88W5cxV",
+								"expanded_url": "http://SPITdigital.com",
+								"display_url": "SPITdigital.com",
+								"indices": [
+									25,
+									48
+								]
+							},
+							{
+								"url": "https://t.co/0LjWZWhMaq",
+								"expanded_url": "http://RAPstation.com",
+								"display_url": "RAPstation.com",
+								"indices": [
+									63,
+									86
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 592568,
+				"friends_count": 71882,
+				"listed_count": 5031,
+				"created_at": "Mon Apr 27 19:21:49 +0000 2009",
+				"favourites_count": 191,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 69048,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/432320528/pe_logo06.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/432320528/pe_logo06.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/196712160/CHKSHEPfairey_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/196712160/CHKSHEPfairey_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35831704/1497712923",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 100,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 27 15:20:59 +0000 2017",
 		"id": 890592860705312800,
 		"id_str": "890592860705312770",
