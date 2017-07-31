@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Mon Jul 31 01:01:53 +0000 2017",
+		"id": 891826214830305300,
+		"id_str": "891826214830305280",
+		"text": "#njed #educolor https://t.co/m05JAHkBfp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "njed",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "educolor",
+					"indices": [
+						6,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m05JAHkBfp",
+					"expanded_url": "https://twitter.com/butwait/status/891812184820527109",
+					"display_url": "twitter.com/butwait/status…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3202,
+			"friends_count": 1444,
+			"listed_count": 266,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 956,
+			"utc_offset": -14400,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 30041,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 891812184820527100,
+		"quoted_status_id_str": "891812184820527109",
+		"quoted_status": {
+			"created_at": "Mon Jul 31 00:06:08 +0000 2017",
+			"id": 891812184820527100,
+			"id_str": "891812184820527109",
+			"text": "Taking this opportunity to light up the #educolor bat signal on behalf of my town's school district. Signal-boostin… https://t.co/X2aycsK7kI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "educolor",
+						"indices": [
+							40,
+							49
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/X2aycsK7kI",
+						"expanded_url": "https://twitter.com/i/web/status/891812184820527109",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1692171,
+				"id_str": "1692171",
+				"name": "Shelley Krause",
+				"screen_name": "butwait",
+				"location": "Delaware River Valley",
+				"description": "Friendly eduhacker, creampuff. Helping folks find their tribes through listening & storytelling. Trying to empower purposeful networks as I go. Tweets are mine.",
+				"url": "https://t.co/cYWMIAsOxn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cYWMIAsOxn",
+								"expanded_url": "http://butwait.blogspot.com/search/label/haiku",
+								"display_url": "butwait.blogspot.com/search/label/h…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5531,
+				"friends_count": 3518,
+				"listed_count": 436,
+				"created_at": "Wed Mar 21 00:25:24 +0000 2007",
+				"favourites_count": 12618,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 42386,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "320032",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3035236/snugglelarge.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3035236/snugglelarge.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875452351783608327/LzAX60Ss_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875452351783608327/LzAX60Ss_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1692171/1448469960",
+				"profile_link_color": "663399",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 891787803717226500,
+			"quoted_status_id_str": "891787803717226497",
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sat Jul 29 19:26:49 +0000 2017",
 		"id": 891379503594958800,
 		"id_str": "891379503594958848",
