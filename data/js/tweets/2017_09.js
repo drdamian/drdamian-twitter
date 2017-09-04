@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Mon Sep 04 01:14:38 +0000 2017",
+		"id": 904512999565742100,
+		"id_str": "904512999565742080",
+		"text": "RT @ShanaVWhite: Whew....this is a thread.👏👏 White educators please read..... https://t.co/JNRyKOtWq0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ShanaVWhite",
+					"name": "Shana V. White, Ed.S",
+					"id": 2318665192,
+					"id_str": "2318665192",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JNRyKOtWq0",
+					"expanded_url": "https://twitter.com/kimacquaviva/status/902189701330862084",
+					"display_url": "twitter.com/kimacquaviva/s…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3220,
+			"friends_count": 1466,
+			"listed_count": 267,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 980,
+			"utc_offset": -14400,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30159,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Sep 04 00:27:56 +0000 2017",
+			"id": 904501245485908000,
+			"id_str": "904501245485907968",
+			"text": "Whew....this is a thread.👏👏 White educators please read..... https://t.co/JNRyKOtWq0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JNRyKOtWq0",
+						"expanded_url": "https://twitter.com/kimacquaviva/status/902189701330862084",
+						"display_url": "twitter.com/kimacquaviva/s…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2318665192,
+				"id_str": "2318665192",
+				"name": "Shana V. White, Ed.S",
+				"screen_name": "ShanaVWhite",
+				"location": "Georgia, USA",
+				"description": "Christ Follower. Wife. Mom. Educator. Coach. Questioner of Motives. Please, do better.\nPurposefully disrupting the status quo.\nLuke 12:48. Micah 6:8",
+				"url": "https://t.co/C33sVxESwG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/C33sVxESwG",
+								"expanded_url": "http://www.shanavwhite.com",
+								"display_url": "shanavwhite.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6122,
+				"friends_count": 5879,
+				"listed_count": 461,
+				"created_at": "Sat Feb 01 19:48:38 +0000 2014",
+				"favourites_count": 100890,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23091,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/898000017755189248/83pfuW9s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/898000017755189248/83pfuW9s_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2318665192/1501810937",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 902189701330862100,
+			"quoted_status_id_str": "902189701330862084",
+			"quoted_status": {
+				"created_at": "Mon Aug 28 15:22:41 +0000 2017",
+				"id": 902189701330862100,
+				"id_str": "902189701330862084",
+				"text": "&lt;Thread&gt;?Are you a white faculty member struggling to figure out how you can fight racism and white privilege? Here are a few ideas...",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 52921907,
+					"id_str": "52921907",
+					"name": "Kimberly Acquaviva",
+					"screen_name": "kimacquaviva",
+					"location": "Washington, D.C.",
+					"description": "@GWNursing prof striving to make healthcare LGBTQ inclusive. Nerdy lesbian. #Quaker. Blocked by @realDonaldTrump. Tweets =/= endorsement from #GWU. she/her",
+					"url": "https://t.co/J3RR7y6VSe",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/J3RR7y6VSe",
+									"expanded_url": "http://www.kimberly-acquaviva.com",
+									"display_url": "kimberly-acquaviva.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1134,
+					"friends_count": 252,
+					"listed_count": 39,
+					"created_at": "Thu Jul 02 01:21:52 +0000 2009",
+					"favourites_count": 4733,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 7457,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/761662033205100544/64CemIHG_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/761662033205100544/64CemIHG_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/52921907/1489438931",
+					"profile_link_color": "91D2FA",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 190,
+				"favorite_count": 226,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"retweet_count": 14,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 902189701330862100,
+		"quoted_status_id_str": "902189701330862084",
+		"retweet_count": 14,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 03 20:34:51 +0000 2017",
 		"id": 904442589000212500,
 		"id_str": "904442589000212481",
