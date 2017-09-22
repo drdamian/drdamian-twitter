@@ -1,6 +1,306 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 21 12:05:05 +0000 2017",
+		"id": 910837283045232600,
+		"id_str": "910837283045232640",
+		"text": "RT @LISHealthOffice: Check out our Lawrence Pride wall!  LTPS students continue to make us proud! #Lawrencepride #LTPS https://t.co/2FUoL7A…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lawrencepride",
+					"indices": [
+						98,
+						112
+					]
+				},
+				{
+					"text": "LTPS",
+					"indices": [
+						113,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LISHealthOffice",
+					"name": "LIS_Health_Office",
+					"id": 878254091289452500,
+					"id_str": "878254091289452544",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224,
+			"friends_count": 1469,
+			"listed_count": 267,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1026,
+			"utc_offset": -14400,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30235,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Sep 19 19:31:15 +0000 2017",
+			"id": 910224790455246800,
+			"id_str": "910224790455246855",
+			"text": "Check out our Lawrence Pride wall!  LTPS students continue to make us proud! #Lawrencepride #LTPS https://t.co/2FUoL7ANX2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Lawrencepride",
+						"indices": [
+							77,
+							91
+						]
+					},
+					{
+						"text": "LTPS",
+						"indices": [
+							92,
+							97
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 910224776953819100,
+						"id_str": "910224776953819139",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DKHEnLAXcAMqc96.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKHEnLAXcAMqc96.jpg",
+						"url": "https://t.co/2FUoL7ANX2",
+						"display_url": "pic.twitter.com/2FUoL7ANX2",
+						"expanded_url": "https://twitter.com/LISHealthOffice/status/910224790455246855/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 910224776953819100,
+						"id_str": "910224776953819139",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DKHEnLAXcAMqc96.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKHEnLAXcAMqc96.jpg",
+						"url": "https://t.co/2FUoL7ANX2",
+						"display_url": "pic.twitter.com/2FUoL7ANX2",
+						"expanded_url": "https://twitter.com/LISHealthOffice/status/910224790455246855/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 878254091289452500,
+				"id_str": "878254091289452544",
+				"name": "LIS_Health_Office",
+				"screen_name": "LISHealthOffice",
+				"location": "Lawrenceville, NJ",
+				"description": "Lawrence Intermediate School",
+				"url": "https://t.co/FIviD80BFu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FIviD80BFu",
+								"expanded_url": "https://www.ltps.org/Page/1326",
+								"display_url": "ltps.org/Page/1326",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 44,
+				"friends_count": 27,
+				"listed_count": 0,
+				"created_at": "Fri Jun 23 14:11:07 +0000 2017",
+				"favourites_count": 25,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 30,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/878262153836474368/jibu1MkR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/878262153836474368/jibu1MkR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/878254091289452544/1498230749",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 11,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Sep 21 01:00:15 +0000 2017",
 		"id": 910669971042291700,
 		"id_str": "910669971042291712",
