@@ -1,6 +1,924 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 28 19:07:23 +0000 2017",
+		"id": 913480273995681800,
+		"id_str": "913480273995681793",
+		"text": "Good day discussing the state of Arts Ed in NJ at #ArtsEdSummit17 (@ NJPSA in Monroe, NJ) https://t.co/mmZ9wcEtCR",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ArtsEdSummit17",
+					"indices": [
+						50,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mmZ9wcEtCR",
+					"expanded_url": "https://www.swarmapp.com/c/60zhlYA9WQz",
+					"display_url": "swarmapp.com/c/60zhlYA9WQz",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3222,
+			"friends_count": 1469,
+			"listed_count": 267,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1038,
+			"utc_offset": -14400,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				40.33921687,
+				-74.46085808
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-74.46085808,
+				40.33921687
+			]
+		},
+		"place": {
+			"id": "bf739cc40c6f6146",
+			"url": "https://api.twitter.com/1.1/geo/id/bf739cc40c6f6146.json",
+			"place_type": "city",
+			"name": "Rossmoor",
+			"full_name": "Rossmoor, NJ",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.483989,
+							40.324173
+						],
+						[
+							-74.447765,
+							40.324173
+						],
+						[
+							-74.447765,
+							40.3572
+						],
+						[
+							-74.483989,
+							40.3572
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 28 14:02:45 +0000 2017",
+		"id": 913403612004585500,
+		"id_str": "913403612004585472",
+		"text": ".@MissRelloLIS and I listening intently to the panel discussion at #ArtsEdSummit17 #LTPS #ArtsEdNow #njed https://t.co/kAUXSjK48N",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ArtsEdSummit17",
+					"indices": [
+						67,
+						82
+					]
+				},
+				{
+					"text": "LTPS",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "ArtsEdNow",
+					"indices": [
+						89,
+						99
+					]
+				},
+				{
+					"text": "njed",
+					"indices": [
+						100,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MissRelloLIS",
+					"name": "Miss Rello",
+					"id": 2586002424,
+					"id_str": "2586002424",
+					"indices": [
+						1,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kAUXSjK48N",
+					"expanded_url": "https://twitter.com/NickPaleologos/status/913399324213735424",
+					"display_url": "twitter.com/NickPaleologos…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3222,
+			"friends_count": 1469,
+			"listed_count": 267,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1038,
+			"utc_offset": -14400,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 913399324213735400,
+		"quoted_status_id_str": "913399324213735424",
+		"quoted_status": {
+			"created_at": "Thu Sep 28 13:45:43 +0000 2017",
+			"id": 913399324213735400,
+			"id_str": "913399324213735424",
+			"text": "SRO at #ArtsEdSummit17 https://t.co/hfyhYvLuhr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ArtsEdSummit17",
+						"indices": [
+							7,
+							22
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 913399322179510300,
+						"id_str": "913399322179510273",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DK0L2BiXoAEhe5_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DK0L2BiXoAEhe5_.jpg",
+						"url": "https://t.co/hfyhYvLuhr",
+						"display_url": "pic.twitter.com/hfyhYvLuhr",
+						"expanded_url": "https://twitter.com/NickPaleologos/status/913399324213735424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1022,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1744,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 579,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 913399322179510300,
+						"id_str": "913399322179510273",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/DK0L2BiXoAEhe5_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DK0L2BiXoAEhe5_.jpg",
+						"url": "https://t.co/hfyhYvLuhr",
+						"display_url": "pic.twitter.com/hfyhYvLuhr",
+						"expanded_url": "https://twitter.com/NickPaleologos/status/913399324213735424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 1022,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1744,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 579,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 57232495,
+				"id_str": "57232495",
+				"name": "Nick Paleologos",
+				"screen_name": "NickPaleologos",
+				"location": "",
+				"description": "Producer, Public Official",
+				"url": "http://t.co/8rXZmawXHa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8rXZmawXHa",
+								"expanded_url": "http://www.nickpaleologos.net",
+								"display_url": "nickpaleologos.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1143,
+				"friends_count": 318,
+				"listed_count": 58,
+				"created_at": "Thu Jul 16 03:40:30 +0000 2009",
+				"favourites_count": 150,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6447,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF2436",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/27502443/Picture_6.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/27502443/Picture_6.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/716731901029945345/egGu88Dg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/716731901029945345/egGu88Dg_normal.jpg",
+				"profile_link_color": "FF2134",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "FFB536",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "tl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 28 13:52:27 +0000 2017",
+		"id": 913401019308085200,
+		"id_str": "913401019308085249",
+		"text": "RT @LESMusicMan: New look in the #lesltps music room! lol of @MusicMakerzLES opportunities! #ltps #elmused #mused @MNLockett @_drdamian htt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lesltps",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"text": "ltps",
+					"indices": [
+						92,
+						97
+					]
+				},
+				{
+					"text": "elmused",
+					"indices": [
+						98,
+						106
+					]
+				},
+				{
+					"text": "mused",
+					"indices": [
+						107,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LESMusicMan",
+					"name": "Daniel Beal",
+					"id": 1837940041,
+					"id_str": "1837940041",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "MusicMakerzLES",
+					"name": "#lesltps MusicMakerz",
+					"id": 775826140653097000,
+					"id_str": "775826140653096960",
+					"indices": [
+						61,
+						76
+					]
+				},
+				{
+					"screen_name": "MNLockett",
+					"name": "Melissa Lockett",
+					"id": 297397894,
+					"id_str": "297397894",
+					"indices": [
+						114,
+						124
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						125,
+						135
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3222,
+			"friends_count": 1469,
+			"listed_count": 267,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1038,
+			"utc_offset": -14400,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 28 12:38:23 +0000 2017",
+			"id": 913382378843893800,
+			"id_str": "913382378843893762",
+			"text": "New look in the #lesltps music room! lol of @MusicMakerzLES opportunities! #ltps #elmused #mused @MNLockett… https://t.co/lGLkAHf5c5",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "lesltps",
+						"indices": [
+							16,
+							24
+						]
+					},
+					{
+						"text": "ltps",
+						"indices": [
+							75,
+							80
+						]
+					},
+					{
+						"text": "elmused",
+						"indices": [
+							81,
+							89
+						]
+					},
+					{
+						"text": "mused",
+						"indices": [
+							90,
+							96
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MusicMakerzLES",
+						"name": "#lesltps MusicMakerz",
+						"id": 775826140653097000,
+						"id_str": "775826140653096960",
+						"indices": [
+							44,
+							59
+						]
+					},
+					{
+						"screen_name": "MNLockett",
+						"name": "Melissa Lockett",
+						"id": 297397894,
+						"id_str": "297397894",
+						"indices": [
+							97,
+							107
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/lGLkAHf5c5",
+						"expanded_url": "https://twitter.com/i/web/status/913382378843893762",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1837940041,
+				"id_str": "1837940041",
+				"name": "Daniel Beal",
+				"screen_name": "LESMusicMan",
+				"location": "",
+				"description": "PK-3 Music Teacher #lesltps #ltps Lawrenceville,NJ Helping Ss discover musical individuality thru #ipaded @Jamhub @littlebits @launchpadforios #elmused #mused",
+				"url": "https://t.co/iPg5B6stx0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iPg5B6stx0",
+								"expanded_url": "http://www.youtube.com/TheLESMusicMan",
+								"display_url": "youtube.com/TheLESMusicMan",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 590,
+				"friends_count": 418,
+				"listed_count": 36,
+				"created_at": "Mon Sep 09 02:19:53 +0000 2013",
+				"favourites_count": 3030,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2919,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/699689028178857985/vyIkBxtd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/699689028178857985/vyIkBxtd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1837940041/1455653838",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "00f5304d2468b261",
+				"url": "https://api.twitter.com/1.1/geo/id/00f5304d2468b261.json",
+				"place_type": "city",
+				"name": "Lawrenceville",
+				"full_name": "Lawrenceville, NJ",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.787211,
+								40.2858874
+							],
+							[
+								-74.712204,
+								40.2858874
+							],
+							[
+								-74.712204,
+								40.3256053
+							],
+							[
+								-74.787211,
+								40.3256053
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 28 01:34:08 +0000 2017",
+		"id": 913215216200114200,
+		"id_str": "913215216200114176",
+		"text": "75% done with Quiet, by Susan Cain https://t.co/HbSoxd8C6y",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HbSoxd8C6y",
+					"expanded_url": "https://goodreads.com/user_status/show/145771654",
+					"display_url": "goodreads.com/user_status/sh…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.goodreads.com\" rel=\"nofollow\">Goodreads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3222,
+			"friends_count": 1469,
+			"listed_count": 267,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1038,
+			"utc_offset": -14400,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30257,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 26 22:56:51 +0000 2017",
 		"id": 912813245760753700,
 		"id_str": "912813245760753665",
