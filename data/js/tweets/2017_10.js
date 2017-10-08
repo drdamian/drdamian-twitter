@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Sat Oct 07 23:53:12 +0000 2017",
+		"id": 916813690523082800,
+		"id_str": "916813690523082752",
+		"text": "RT @msafischer: First Spartan ✅ Can't wait for the next one! @JonDauber @cjwilliamsjr @cincottajessica @_drdamian @Mrjyaros https://t.co/F0…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msafischer",
+					"name": "Alyson Fischer",
+					"id": 720423019,
+					"id_str": "720423019",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "JonDauber",
+					"name": "Jon Dauber",
+					"id": 260758466,
+					"id_str": "260758466",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"screen_name": "cjwilliamsjr",
+					"name": "Cliff Williams",
+					"id": 465193444,
+					"id_str": "465193444",
+					"indices": [
+						72,
+						85
+					]
+				},
+				{
+					"screen_name": "cincottajessica",
+					"name": "Jessica Cincotta",
+					"id": 634879506,
+					"id_str": "634879506",
+					"indices": [
+						86,
+						102
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						103,
+						113
+					]
+				},
+				{
+					"screen_name": "Mrjyaros",
+					"name": "John Yaros",
+					"id": 730877562,
+					"id_str": "730877562",
+					"indices": [
+						114,
+						123
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3223,
+			"friends_count": 1468,
+			"listed_count": 267,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1056,
+			"utc_offset": -14400,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30282,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Oct 07 19:25:57 +0000 2017",
+			"id": 916746437068841000,
+			"id_str": "916746437068840960",
+			"text": "First Spartan ✅ Can't wait for the next one! @JonDauber @cjwilliamsjr @cincottajessica @_drdamian @Mrjyaros https://t.co/F0Z2iTC8aj",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JonDauber",
+						"name": "Jon Dauber",
+						"id": 260758466,
+						"id_str": "260758466",
+						"indices": [
+							45,
+							55
+						]
+					},
+					{
+						"screen_name": "cjwilliamsjr",
+						"name": "Cliff Williams",
+						"id": 465193444,
+						"id_str": "465193444",
+						"indices": [
+							56,
+							69
+						]
+					},
+					{
+						"screen_name": "cincottajessica",
+						"name": "Jessica Cincotta",
+						"id": 634879506,
+						"id_str": "634879506",
+						"indices": [
+							70,
+							86
+						]
+					},
+					{
+						"screen_name": "_drdamian",
+						"name": "Dr. Damian Bariexca",
+						"id": 7887852,
+						"id_str": "7887852",
+						"indices": [
+							87,
+							97
+						]
+					},
+					{
+						"screen_name": "Mrjyaros",
+						"name": "John Yaros",
+						"id": 730877562,
+						"id_str": "730877562",
+						"indices": [
+							98,
+							107
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 916746417733079000,
+						"id_str": "916746417733079042",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DLjwAoIXkAI1esW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLjwAoIXkAI1esW.jpg",
+						"url": "https://t.co/F0Z2iTC8aj",
+						"display_url": "pic.twitter.com/F0Z2iTC8aj",
+						"expanded_url": "https://twitter.com/msafischer/status/916746437068840960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 916746417733079000,
+						"id_str": "916746417733079042",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DLjwAoIXkAI1esW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLjwAoIXkAI1esW.jpg",
+						"url": "https://t.co/F0Z2iTC8aj",
+						"display_url": "pic.twitter.com/F0Z2iTC8aj",
+						"expanded_url": "https://twitter.com/msafischer/status/916746437068840960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 916746417678553100,
+						"id_str": "916746417678553088",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DLjwAn7XkAAhrKw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLjwAn7XkAAhrKw.jpg",
+						"url": "https://t.co/F0Z2iTC8aj",
+						"display_url": "pic.twitter.com/F0Z2iTC8aj",
+						"expanded_url": "https://twitter.com/msafischer/status/916746437068840960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 916746417724682200,
+						"id_str": "916746417724682241",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DLjwAoGXcAE8LLt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLjwAoGXcAE8LLt.jpg",
+						"url": "https://t.co/F0Z2iTC8aj",
+						"display_url": "pic.twitter.com/F0Z2iTC8aj",
+						"expanded_url": "https://twitter.com/msafischer/status/916746437068840960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 916746417674350600,
+						"id_str": "916746417674350593",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/DLjwAn6XcAEMDHa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DLjwAn6XcAEMDHa.jpg",
+						"url": "https://t.co/F0Z2iTC8aj",
+						"display_url": "pic.twitter.com/F0Z2iTC8aj",
+						"expanded_url": "https://twitter.com/msafischer/status/916746437068840960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 720423019,
+				"id_str": "720423019",
+				"name": "Alyson Fischer",
+				"screen_name": "msafischer",
+				"location": "Lawrenceville, NJ",
+				"description": "School Administrator in Lawrence, NJ who loves family, reading, running, field hockey and learning",
+				"url": "https://t.co/KETOW12XgE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KETOW12XgE",
+								"expanded_url": "http://www.ltps.org",
+								"display_url": "ltps.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 361,
+				"friends_count": 472,
+				"listed_count": 8,
+				"created_at": "Fri Jul 27 16:12:34 +0000 2012",
+				"favourites_count": 621,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 559,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000753482831/6f5f1252d61291faf1c74db62a9a0340_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000753482831/6f5f1252d61291faf1c74db62a9a0340_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/720423019/1374677482",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Oct 06 13:44:09 +0000 2017",
 		"id": 916298030210519000,
 		"id_str": "916298030210519040",
