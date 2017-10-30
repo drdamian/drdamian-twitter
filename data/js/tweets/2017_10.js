@@ -1,6 +1,455 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Mon Oct 30 00:00:34 +0000 2017",
+		"id": 924788079566745600,
+		"id_str": "924788079566745600",
+		"text": "50% done with The Wrecking Crew, by Kent Hartman https://t.co/94TuDxDRqU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/94TuDxDRqU",
+					"expanded_url": "https://goodreads.com/user_status/show/148956666",
+					"display_url": "goodreads.com/user_status/sh…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.goodreads.com\" rel=\"nofollow\">Goodreads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224,
+			"friends_count": 1469,
+			"listed_count": 266,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1090,
+			"utc_offset": -14400,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30337,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 29 15:14:43 +0000 2017",
+		"id": 924655746637353000,
+		"id_str": "924655746637352960",
+		"text": "Wheels down, safe and sound. (@ Philadelphia International Airport - @phlairport in Philadelphia, PA) https://t.co/TU1hHL3ENe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PHLAirport",
+					"name": "PHLAirport",
+					"id": 342803091,
+					"id_str": "342803091",
+					"indices": [
+						69,
+						80
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TU1hHL3ENe",
+					"expanded_url": "https://www.swarmapp.com/c/1AevSxtorGR",
+					"display_url": "swarmapp.com/c/1AevSxtorGR",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224,
+			"friends_count": 1469,
+			"listed_count": 266,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1090,
+			"utc_offset": -14400,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30337,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				39.87630589,
+				-75.24102106
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-75.24102106,
+				39.87630589
+			]
+		},
+		"place": {
+			"id": "e4a0d228eb6be76b",
+			"url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json",
+			"place_type": "city",
+			"name": "Philadelphia",
+			"full_name": "Philadelphia, PA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-75.280284,
+							39.871811
+						],
+						[
+							-74.955712,
+							39.871811
+						],
+						[
+							-74.955712,
+							40.13792
+						],
+						[
+							-75.280284,
+							40.13792
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Oct 29 10:50:58 +0000 2017",
+		"id": 924589368479768600,
+		"id_str": "924589368479768576",
+		"text": "RT @McGillMusic_LHS: The band took home Best Marching Unit tonight at Steinert! We had a great time performing and watching the six other i…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "McGillMusic_LHS",
+					"name": "Mrs. McGill",
+					"id": 3331110745,
+					"id_str": "3331110745",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224,
+			"friends_count": 1469,
+			"listed_count": 266,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1090,
+			"utc_offset": -14400,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30337,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Oct 29 02:20:00 +0000 2017",
+			"id": 924460781936283600,
+			"id_str": "924460781936283649",
+			"text": "The band took home Best Marching Unit tonight at Steinert! We had a great time performing and watching the six other incredible bands!",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3331110745,
+				"id_str": "3331110745",
+				"name": "Mrs. McGill",
+				"screen_name": "McGillMusic_LHS",
+				"location": "Lawrence High School, Lawrenceville, NJ",
+				"description": "Instrumental Music Teacher at Lawrence High School, NJ *",
+				"url": "https://t.co/2uXAvdyQZi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2uXAvdyQZi",
+								"expanded_url": "http://mskehoemusic.weebly.com",
+								"display_url": "mskehoemusic.weebly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 163,
+				"friends_count": 102,
+				"listed_count": 4,
+				"created_at": "Mon Aug 24 23:00:29 +0000 2015",
+				"favourites_count": 163,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 354,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/883355545234804736/d0Q9nKSs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/883355545234804736/d0Q9nKSs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3331110745/1440458837",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 12,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 28 20:45:05 +0000 2017",
 		"id": 924376497003036700,
 		"id_str": "924376497003036672",
