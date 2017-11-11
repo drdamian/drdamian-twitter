@@ -1,6 +1,760 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Sat Nov 11 01:00:30 +0000 2017",
+		"id": 929151814464950300,
+		"id_str": "929151814464950273",
+		"text": "Miss Jackson if you're nasty (@ Boardwalk Hall for Janet Jackson: State of the World Tour in Atlantic City, NJ) https://t.co/1yp2ljl3Tm",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1yp2ljl3Tm",
+					"expanded_url": "https://www.swarmapp.com/c/jDHsIMP1Ot3",
+					"display_url": "swarmapp.com/c/jDHsIMP1Ot3",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Damian Bariexca, Ed.D.",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3221,
+			"friends_count": 1467,
+			"listed_count": 267,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1101,
+			"utc_offset": -18000,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30371,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				39.35424378,
+				-74.43810225
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-74.43810225,
+				39.35424378
+			]
+		},
+		"place": {
+			"id": "7ad0e3081108f4ba",
+			"url": "https://api.twitter.com/1.1/geo/id/7ad0e3081108f4ba.json",
+			"place_type": "city",
+			"name": "Atlantic City",
+			"full_name": "Atlantic City, NJ",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.467407,
+							39.342291
+						],
+						[
+							-74.40702,
+							39.342291
+						],
+						[
+							-74.40702,
+							39.386729
+						],
+						[
+							-74.467407,
+							39.386729
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Nov 11 00:52:53 +0000 2017",
+		"id": 929149898729107500,
+		"id_str": "929149898729107456",
+		"text": "Waiting for @janetjackson to take the stage in AC #atlanticcitylovesjanet #stateoftheworldtour #cheapseats… https://t.co/F4ASIQIcmK",
+		"truncated": true,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "atlanticcitylovesjanet",
+					"indices": [
+						50,
+						73
+					]
+				},
+				{
+					"text": "stateoftheworldtour",
+					"indices": [
+						74,
+						94
+					]
+				},
+				{
+					"text": "cheapseats",
+					"indices": [
+						95,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JanetJackson",
+					"name": "Janet Jackson",
+					"id": 52939106,
+					"id_str": "52939106",
+					"indices": [
+						12,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/F4ASIQIcmK",
+					"expanded_url": "https://twitter.com/i/web/status/929149898729107456",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Damian Bariexca, Ed.D.",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3221,
+			"friends_count": 1467,
+			"listed_count": 267,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1101,
+			"utc_offset": -18000,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30371,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 10 18:54:09 +0000 2017",
+		"id": 929059623507779600,
+		"id_str": "929059623507779585",
+		"text": "Heading to AC for Janet Jackson tonight... If we can get off 76 by then! #gridlock @Real1061Philly",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "gridlock",
+					"indices": [
+						73,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Real1061Philly",
+					"name": "Real 106.1",
+					"id": 216141934,
+					"id_str": "216141934",
+					"indices": [
+						83,
+						98
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Damian Bariexca, Ed.D.",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3221,
+			"friends_count": 1467,
+			"listed_count": 267,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1101,
+			"utc_offset": -18000,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30371,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Nov 10 14:12:19 +0000 2017",
+		"id": 928988697357320200,
+		"id_str": "928988697357320193",
+		"text": "RT @NJCountyTeacher: 2018 County Teachers of the year getting to know eachother @NJCountyTeacher https://t.co/LPOsRLldH0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NJCountyTeacher",
+					"name": "NJ County Teachers",
+					"id": 913732553437274100,
+					"id_str": "913732553437274113",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "NJCountyTeacher",
+					"name": "NJ County Teachers",
+					"id": 913732553437274100,
+					"id_str": "913732553437274113",
+					"indices": [
+						80,
+						96
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 928803887586320400,
+					"id_str": "928803887586320386",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DOPGNvmVoAIAc9q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOPGNvmVoAIAc9q.jpg",
+					"url": "https://t.co/LPOsRLldH0",
+					"display_url": "pic.twitter.com/LPOsRLldH0",
+					"expanded_url": "https://twitter.com/NJCountyTeacher/status/928803906913742851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 928803906913742800,
+					"source_status_id_str": "928803906913742851",
+					"source_user_id": 913732553437274100,
+					"source_user_id_str": "913732553437274113"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 928803887586320400,
+					"id_str": "928803887586320386",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/DOPGNvmVoAIAc9q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOPGNvmVoAIAc9q.jpg",
+					"url": "https://t.co/LPOsRLldH0",
+					"display_url": "pic.twitter.com/LPOsRLldH0",
+					"expanded_url": "https://twitter.com/NJCountyTeacher/status/928803906913742851/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 928803906913742800,
+					"source_status_id_str": "928803906913742851",
+					"source_user_id": 913732553437274100,
+					"source_user_id_str": "913732553437274113"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Damian Bariexca, Ed.D.",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3221,
+			"friends_count": 1467,
+			"listed_count": 267,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1101,
+			"utc_offset": -18000,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30371,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Nov 10 01:58:02 +0000 2017",
+			"id": 928803906913742800,
+			"id_str": "928803906913742851",
+			"text": "2018 County Teachers of the year getting to know eachother @NJCountyTeacher https://t.co/LPOsRLldH0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NJCountyTeacher",
+						"name": "NJ County Teachers",
+						"id": 913732553437274100,
+						"id_str": "913732553437274113",
+						"indices": [
+							59,
+							75
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 928803887586320400,
+						"id_str": "928803887586320386",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DOPGNvmVoAIAc9q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOPGNvmVoAIAc9q.jpg",
+						"url": "https://t.co/LPOsRLldH0",
+						"display_url": "pic.twitter.com/LPOsRLldH0",
+						"expanded_url": "https://twitter.com/NJCountyTeacher/status/928803906913742851/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 928803887586320400,
+						"id_str": "928803887586320386",
+						"indices": [
+							76,
+							99
+						],
+						"media_url": "http://pbs.twimg.com/media/DOPGNvmVoAIAc9q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOPGNvmVoAIAc9q.jpg",
+						"url": "https://t.co/LPOsRLldH0",
+						"display_url": "pic.twitter.com/LPOsRLldH0",
+						"expanded_url": "https://twitter.com/NJCountyTeacher/status/928803906913742851/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 913732553437274100,
+				"id_str": "913732553437274113",
+				"name": "NJ County Teachers",
+				"screen_name": "NJCountyTeacher",
+				"location": "New Jersey",
+				"description": "New Jersey County Teachers of the Year. Positive communication for quality education. Teacher leaders who advocate, mentor, and lead.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 72,
+				"friends_count": 59,
+				"listed_count": 1,
+				"created_at": "Fri Sep 29 11:49:51 +0000 2017",
+				"favourites_count": 120,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 261,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/913742439281721345/kKKbrjW7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/913742439281721345/kKKbrjW7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/913732553437274113/1506688232",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 23,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Nov 09 19:34:32 +0000 2017",
 		"id": 928707396360441900,
 		"id_str": "928707396360441856",
