@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2017_12 = 
 [
 	{
+		"created_at": "Fri Dec 08 01:01:57 +0000 2017",
+		"id": 938936654303252500,
+		"id_str": "938936654303252480",
+		"text": "I suppose \"Playing With the Toys\" would have been a bit too on the nose. https://t.co/UNPAfGiaYV",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UNPAfGiaYV",
+					"expanded_url": "https://twitter.com/bumlaser/status/938244708228313089",
+					"display_url": "twitter.com/bumlaser/statu…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Damian Bariexca, Ed.D.",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3229,
+			"friends_count": 1473,
+			"listed_count": 265,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1137,
+			"utc_offset": -18000,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30460,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 938244708228313100,
+		"quoted_status_id_str": "938244708228313089",
+		"quoted_status": {
+			"created_at": "Wed Dec 06 03:12:24 +0000 2017",
+			"id": 938244708228313100,
+			"id_str": "938244708228313089",
+			"text": "Disappointed to learn that Kenny Loggins' Christmas album is called \"December\" and not \"Highway To The Manger Zone\". https://t.co/OeDW3pN40z",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 938243933301243900,
+						"id_str": "938243933301243905",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/DQVP4uUWAAEUaCY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQVP4uUWAAEUaCY.jpg",
+						"url": "https://t.co/OeDW3pN40z",
+						"display_url": "pic.twitter.com/OeDW3pN40z",
+						"expanded_url": "https://twitter.com/bumlaser/status/938244708228313089/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 827,
+								"h": 827,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 827,
+								"h": 827,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 938243933301243900,
+						"id_str": "938243933301243905",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/DQVP4uUWAAEUaCY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DQVP4uUWAAEUaCY.jpg",
+						"url": "https://t.co/OeDW3pN40z",
+						"display_url": "pic.twitter.com/OeDW3pN40z",
+						"expanded_url": "https://twitter.com/bumlaser/status/938244708228313089/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 827,
+								"h": 827,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 827,
+								"h": 827,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 206154915,
+				"id_str": "206154915",
+				"name": "Bumlaser",
+				"screen_name": "bumlaser",
+				"location": "Maryland",
+				"description": "Rock guitarist. Student pilot. Pixel shepherd. Toast enthusiast. Nonsenstronaut. Briton. Father of dragons. Dogchum. Migraineotaur. Bleeding heart.\n#fuckpants",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2287,
+				"friends_count": 1239,
+				"listed_count": 131,
+				"created_at": "Fri Oct 22 11:41:00 +0000 2010",
+				"favourites_count": 50965,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 65629,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/665401740/c2eaf35c5bb2c81d14674433b6864f74.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/665401740/c2eaf35c5bb2c81d14674433b6864f74.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/927384917155176448/eq0Rm5Y6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/927384917155176448/eq0Rm5Y6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/206154915/1510270819",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4739,
+			"favorite_count": 12743,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Dec 07 01:14:49 +0000 2017",
 		"id": 938577502355804200,
 		"id_str": "938577502355804160",
