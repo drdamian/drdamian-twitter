@@ -1,6 +1,441 @@
 Grailbird.data.tweets_2018_02 = 
 [
 	{
+		"created_at": "Wed Feb 07 20:57:58 +0000 2018",
+		"id": 961343299218018300,
+		"id_str": "961343299218018305",
+		"text": "Thank you @CharLucey &amp; @LindaAKMiller for letting me be a part of the morning! #GSPD2018 #LTPS #LESLTPS https://t.co/sD6Y0cfoqr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSPD2018",
+					"indices": [
+						83,
+						92
+					]
+				},
+				{
+					"text": "LTPS",
+					"indices": [
+						93,
+						98
+					]
+				},
+				{
+					"text": "LESLTPS",
+					"indices": [
+						99,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CharLucey",
+					"name": "Charlotte lucey",
+					"id": 2788916784,
+					"id_str": "2788916784",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "LindaAKMiller",
+					"name": "Linda Miller",
+					"id": 33872299,
+					"id_str": "33872299",
+					"indices": [
+						27,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sD6Y0cfoqr",
+					"expanded_url": "https://twitter.com/CharLucey/status/961298157601738753",
+					"display_url": "twitter.com/CharLucey/stat…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3227,
+			"friends_count": 1478,
+			"listed_count": 263,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1228,
+			"utc_offset": -18000,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30652,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 961298157601738800,
+		"quoted_status_id_str": "961298157601738753",
+		"quoted_status": {
+			"created_at": "Wed Feb 07 17:58:35 +0000 2018",
+			"id": 961298157601738800,
+			"id_str": "961298157601738753",
+			"text": "We kicked off our #GSPD2018 with an AWESOME robotics lesson from @LindaAKMiller #lesltps https://t.co/ltdTzuhHBW",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GSPD2018",
+						"indices": [
+							18,
+							27
+						]
+					},
+					{
+						"text": "lesltps",
+						"indices": [
+							80,
+							88
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LindaAKMiller",
+						"name": "Linda Miller",
+						"id": 33872299,
+						"id_str": "33872299",
+						"indices": [
+							65,
+							79
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 961297946087166000,
+						"id_str": "961297946087165952",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DVc3Y4fWkAA508_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVc3Y4fWkAA508_.jpg",
+						"url": "https://t.co/ltdTzuhHBW",
+						"display_url": "pic.twitter.com/ltdTzuhHBW",
+						"expanded_url": "https://twitter.com/CharLucey/status/961298157601738753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 961297946087166000,
+						"id_str": "961297946087165952",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DVc3Y4fWkAA508_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVc3Y4fWkAA508_.jpg",
+						"url": "https://t.co/ltdTzuhHBW",
+						"display_url": "pic.twitter.com/ltdTzuhHBW",
+						"expanded_url": "https://twitter.com/CharLucey/status/961298157601738753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 961297946020122600,
+						"id_str": "961297946020122624",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DVc3Y4PXkAApJrH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVc3Y4PXkAApJrH.jpg",
+						"url": "https://t.co/ltdTzuhHBW",
+						"display_url": "pic.twitter.com/ltdTzuhHBW",
+						"expanded_url": "https://twitter.com/CharLucey/status/961298157601738753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 961297946171134000,
+						"id_str": "961297946171133953",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DVc3Y4zX0AEP-Ac.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVc3Y4zX0AEP-Ac.jpg",
+						"url": "https://t.co/ltdTzuhHBW",
+						"display_url": "pic.twitter.com/ltdTzuhHBW",
+						"expanded_url": "https://twitter.com/CharLucey/status/961298157601738753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 961297946011717600,
+						"id_str": "961297946011717633",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/media/DVc3Y4NXUAErG00.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DVc3Y4NXUAErG00.jpg",
+						"url": "https://t.co/ltdTzuhHBW",
+						"display_url": "pic.twitter.com/ltdTzuhHBW",
+						"expanded_url": "https://twitter.com/CharLucey/status/961298157601738753/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2788916784,
+				"id_str": "2788916784",
+				"name": "Charlotte lucey",
+				"screen_name": "CharLucey",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 117,
+				"friends_count": 107,
+				"listed_count": 7,
+				"created_at": "Thu Sep 04 01:44:46 +0000 2014",
+				"favourites_count": 602,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 377,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/675435951657586688/OiTCXP5A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/675435951657586688/OiTCXP5A_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Feb 07 00:47:41 +0000 2018",
 		"id": 961038722279071700,
 		"id_str": "961038722279071744",
