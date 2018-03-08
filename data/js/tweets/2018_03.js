@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Wed Mar 07 22:05:33 +0000 2018",
+		"id": 971507167240032300,
+		"id_str": "971507167240032256",
+		"text": "RT @Colorlines: Kennedy Center Lauches Hip Hop Culture Council https://t.co/ncuBgfm9wc https://t.co/kMFPZV0gYJ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Colorlines",
+					"name": "Colorlines.com",
+					"id": 22986148,
+					"id_str": "22986148",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ncuBgfm9wc",
+					"expanded_url": "http://bit.ly/2HeSN9v",
+					"display_url": "bit.ly/2HeSN9v",
+					"indices": [
+						63,
+						86
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 971443068082708500,
+					"id_str": "971443068082708481",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/DXtCUtCV4AE8aea.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXtCUtCV4AE8aea.jpg",
+					"url": "https://t.co/kMFPZV0gYJ",
+					"display_url": "pic.twitter.com/kMFPZV0gYJ",
+					"expanded_url": "https://twitter.com/Colorlines/status/971443073552191489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 420,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 971443073552191500,
+					"source_status_id_str": "971443073552191489",
+					"source_user_id": 22986148,
+					"source_user_id_str": "22986148"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 971443068082708500,
+					"id_str": "971443068082708481",
+					"indices": [
+						87,
+						110
+					],
+					"media_url": "http://pbs.twimg.com/media/DXtCUtCV4AE8aea.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DXtCUtCV4AE8aea.jpg",
+					"url": "https://t.co/kMFPZV0gYJ",
+					"display_url": "pic.twitter.com/kMFPZV0gYJ",
+					"expanded_url": "https://twitter.com/Colorlines/status/971443073552191489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 420,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 420,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 420,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 971443073552191500,
+					"source_status_id_str": "971443073552191489",
+					"source_user_id": 22986148,
+					"source_user_id_str": "22986148"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 1472,
+			"listed_count": 264,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1292,
+			"utc_offset": -18000,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30740,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Mar 07 17:50:51 +0000 2018",
+			"id": 971443073552191500,
+			"id_str": "971443073552191489",
+			"text": "Kennedy Center Lauches Hip Hop Culture Council https://t.co/ncuBgfm9wc https://t.co/kMFPZV0gYJ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ncuBgfm9wc",
+						"expanded_url": "http://bit.ly/2HeSN9v",
+						"display_url": "bit.ly/2HeSN9v",
+						"indices": [
+							47,
+							70
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 971443068082708500,
+						"id_str": "971443068082708481",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DXtCUtCV4AE8aea.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXtCUtCV4AE8aea.jpg",
+						"url": "https://t.co/kMFPZV0gYJ",
+						"display_url": "pic.twitter.com/kMFPZV0gYJ",
+						"expanded_url": "https://twitter.com/Colorlines/status/971443073552191489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 420,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 420,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 420,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 971443068082708500,
+						"id_str": "971443068082708481",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DXtCUtCV4AE8aea.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DXtCUtCV4AE8aea.jpg",
+						"url": "https://t.co/kMFPZV0gYJ",
+						"display_url": "pic.twitter.com/kMFPZV0gYJ",
+						"expanded_url": "https://twitter.com/Colorlines/status/971443073552191489/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 420,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 420,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 420,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22986148,
+				"id_str": "22986148",
+				"name": "Colorlines.com",
+				"screen_name": "Colorlines",
+				"location": "",
+				"description": "Colorlines is a daily news site where race matters, featuring award-winning in-depth reporting, news analysis, opinion and curation.",
+				"url": "https://t.co/G7BI2gFdQo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G7BI2gFdQo",
+								"expanded_url": "http://colorlines.com",
+								"display_url": "colorlines.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 119612,
+				"friends_count": 2037,
+				"listed_count": 3465,
+				"created_at": "Thu Mar 05 21:57:58 +0000 2009",
+				"favourites_count": 702,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 35342,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E0E0E0",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000051673958/fe84bce7dbcd8bf65330cbbd44f2373e.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000051673958/fe84bce7dbcd8bf65330cbbd44f2373e.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1766448192/image1326986001_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1766448192/image1326986001_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22986148/1487804949",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Mar 07 00:21:23 +0000 2018",
 		"id": 971178966718582800,
 		"id_str": "971178966718582784",
