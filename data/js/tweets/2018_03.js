@@ -1,6 +1,896 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sat Mar 10 22:52:05 +0000 2018",
+		"id": 972606042386387000,
+		"id_str": "972606042386386944",
+		"text": "Watching Kiera tear it up at Deibler Elementary family skate night (@ in-line 309 in PA) https://t.co/BZ3h7iX2Ux",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BZ3h7iX2Ux",
+					"expanded_url": "https://www.swarmapp.com/c/9Ial14yZyau",
+					"display_url": "swarmapp.com/c/9Ial14yZyau",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3233,
+			"friends_count": 1473,
+			"listed_count": 264,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1294,
+			"utc_offset": -18000,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30752,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				40.29589419,
+				-75.27677193
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-75.27677193,
+				40.29589419
+			]
+		},
+		"place": {
+			"id": "dd9c503d6c35364b",
+			"url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json",
+			"place_type": "admin",
+			"name": "Pennsylvania",
+			"full_name": "Pennsylvania, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-80.519851,
+							39.719801
+						],
+						[
+							-74.689517,
+							39.719801
+						],
+						[
+							-74.689517,
+							42.516072
+						],
+						[
+							-80.519851,
+							42.516072
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 10 19:38:55 +0000 2018",
+		"id": 972557430696611800,
+		"id_str": "972557430696611840",
+		"text": "Well done, team! #LTPS https://t.co/yXwjljW69s",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						17,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yXwjljW69s",
+					"expanded_url": "https://twitter.com/dadamltps/status/972533667942854656",
+					"display_url": "twitter.com/dadamltps/stat…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3233,
+			"friends_count": 1473,
+			"listed_count": 264,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1294,
+			"utc_offset": -18000,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30752,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 972533667942854700,
+		"quoted_status_id_str": "972533667942854656",
+		"quoted_status": {
+			"created_at": "Sat Mar 10 18:04:29 +0000 2018",
+			"id": 972533667942854700,
+			"id_str": "972533667942854656",
+			"text": "Great day in Lawrence supporting childhood cancer research with our  @StBaldricks event at Amalfis. We are over $15… https://t.co/5yul9LPkUt",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "StBaldricks",
+						"name": "St. Baldrick's",
+						"id": 29249435,
+						"id_str": "29249435",
+						"indices": [
+							69,
+							81
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/5yul9LPkUt",
+						"expanded_url": "https://twitter.com/i/web/status/972533667942854656",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 260753316,
+				"id_str": "260753316",
+				"name": "David Adam",
+				"screen_name": "dadamltps",
+				"location": "Lawrence, NJ",
+				"description": "Principal of Lawrence High School",
+				"url": "https://t.co/KETOW12XgE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KETOW12XgE",
+								"expanded_url": "http://www.ltps.org",
+								"display_url": "ltps.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 695,
+				"friends_count": 128,
+				"listed_count": 38,
+				"created_at": "Fri Mar 04 14:40:19 +0000 2011",
+				"favourites_count": 4359,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3105,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/260753316/1477665508",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 10 03:35:12 +0000 2018",
+		"id": 972314902768611300,
+		"id_str": "972314902768611328",
+		"text": "RT @ArtsEdNJ: #ArtsEdNow #FridayFacts #TIOS18 Middle School students who participate in drama programs are less likely to engage in risky,…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ArtsEdNow",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"text": "FridayFacts",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"text": "TIOS18",
+					"indices": [
+						38,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ArtsEdNJ",
+					"name": "Arts Ed NJ",
+					"id": 225889258,
+					"id_str": "225889258",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3233,
+			"friends_count": 1473,
+			"listed_count": 264,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1294,
+			"utc_offset": -18000,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30752,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 09 19:01:21 +0000 2018",
+			"id": 972185590988001300,
+			"id_str": "972185590988001280",
+			"text": "#ArtsEdNow #FridayFacts #TIOS18 Middle School students who participate in drama programs are less likely to engage… https://t.co/4P1BvqVIaI",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ArtsEdNow",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"text": "FridayFacts",
+						"indices": [
+							11,
+							23
+						]
+					},
+					{
+						"text": "TIOS18",
+						"indices": [
+							24,
+							31
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4P1BvqVIaI",
+						"expanded_url": "https://twitter.com/i/web/status/972185590988001280",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 225889258,
+				"id_str": "225889258",
+				"name": "Arts Ed NJ",
+				"screen_name": "ArtsEdNJ",
+				"location": "New Jersey",
+				"description": "Arts Ed NJ is dedicated to expanding access to arts education for all citizens. #ArtsEdNow! https://t.co/ONMoyFIYPN",
+				"url": "https://t.co/0osdsgakBJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0osdsgakBJ",
+								"expanded_url": "http://artsednj.org",
+								"display_url": "artsednj.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ONMoyFIYPN",
+								"expanded_url": "http://www.artsednow.org",
+								"display_url": "artsednow.org",
+								"indices": [
+									92,
+									115
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2438,
+				"friends_count": 2975,
+				"listed_count": 81,
+				"created_at": "Sun Dec 12 18:35:56 +0000 2010",
+				"favourites_count": 3718,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8243,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/826560147740848128/aj_z8Wfx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/826560147740848128/aj_z8Wfx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/225889258/1519925051",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 10 01:24:27 +0000 2018",
+		"id": 972281999003185200,
+		"id_str": "972281999003185153",
+		"text": "Congratulations cast, crew, and directors on a wonderful show! #LTPS https://t.co/woTVtOXcaD",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						63,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/woTVtOXcaD",
+					"expanded_url": "https://twitter.com/_drdamian/status/972257631313252357",
+					"display_url": "twitter.com/_drdamian/stat…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3233,
+			"friends_count": 1473,
+			"listed_count": 264,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1294,
+			"utc_offset": -18000,
+			"time_zone": "America/New_York",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30752,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 972257631313252400,
+		"quoted_status_id_str": "972257631313252357",
+		"quoted_status": {
+			"created_at": "Fri Mar 09 23:47:37 +0000 2018",
+			"id": 972257631313252400,
+			"id_str": "972257631313252357",
+			"text": "15 minutes til curtain for \"Honk, Jr.\" - break a leg, everyone! #LTPS (@ Lawrence Intermediate School in Lawrence,… https://t.co/VLoY0Bt32i",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTPS",
+						"indices": [
+							64,
+							69
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VLoY0Bt32i",
+						"expanded_url": "https://twitter.com/i/web/status/972257631313252357",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7887852,
+				"id_str": "7887852",
+				"name": "Dr. Damian Bariexca",
+				"screen_name": "_drdamian",
+				"location": "Perkasie, PA USA",
+				"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+				"url": "https://t.co/0mfonM3zAp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0mfonM3zAp",
+								"expanded_url": "http://drdamian.org",
+								"display_url": "drdamian.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3233,
+				"friends_count": 1473,
+				"listed_count": 264,
+				"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+				"favourites_count": 1294,
+				"utc_offset": -18000,
+				"time_zone": "America/New_York",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30752,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+				"profile_link_color": "000080",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": {
+				"type": "Point",
+				"coordinates": [
+					40.27289811,
+					-74.73976772
+				]
+			},
+			"coordinates": {
+				"type": "Point",
+				"coordinates": [
+					-74.73976772,
+					40.27289811
+				]
+			},
+			"place": {
+				"id": "004fcac6274ef9ca",
+				"url": "https://api.twitter.com/1.1/geo/id/004fcac6274ef9ca.json",
+				"place_type": "city",
+				"name": "Lawrence",
+				"full_name": "Lawrence, NJ",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.762755,
+								40.2398165
+							],
+							[
+								-74.6644118,
+								40.2398165
+							],
+							[
+								-74.6644118,
+								40.3177474
+							],
+							[
+								-74.762755,
+								40.3177474
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Mar 09 23:47:37 +0000 2018",
 		"id": 972257631313252400,
 		"id_str": "972257631313252357",
