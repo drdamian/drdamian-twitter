@@ -1,6 +1,463 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sun Aug 05 22:53:43 +0000 2018",
+		"id": 1026239856878542800,
+		"id_str": "1026239856878542848",
+		"text": "Four-story sculpture aboard Adventure of the Seas. https://t.co/RHoHrX8F4w",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1026239855741861900,
+					"id_str": "1026239855741861888",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Dj3vtifXgAAIVlH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dj3vtifXgAAIVlH.jpg",
+					"url": "https://t.co/RHoHrX8F4w",
+					"display_url": "pic.twitter.com/RHoHrX8F4w",
+					"expanded_url": "https://twitter.com/_drdamian/status/1026239856878542848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1026239855741861900,
+					"id_str": "1026239855741861888",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/Dj3vtifXgAAIVlH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dj3vtifXgAAIVlH.jpg",
+					"url": "https://t.co/RHoHrX8F4w",
+					"display_url": "pic.twitter.com/RHoHrX8F4w",
+					"expanded_url": "https://twitter.com/_drdamian/status/1026239856878542848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3266,
+			"friends_count": 1488,
+			"listed_count": 263,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31166,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 05 16:36:46 +0000 2018",
+		"id": 1026144996519555100,
+		"id_str": "1026144996519555072",
+		"text": "25% done with The World According to Garp, by John Irving https://t.co/QZwBo9ZwWB",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QZwBo9ZwWB",
+					"expanded_url": "https://goodreads.com/user_status/show/183601171",
+					"display_url": "goodreads.com/user_status/sh…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.goodreads.com\" rel=\"nofollow\">Goodreads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3266,
+			"friends_count": 1488,
+			"listed_count": 263,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31166,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 05 15:50:57 +0000 2018",
+		"id": 1026133464402288600,
+		"id_str": "1026133464402288640",
+		"text": "RT @irasocol: School leaders must avoid, at all costs, any climate of fear, or any record of retribution. If that exists, fear will spread…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "irasocol",
+					"name": "Ira Socol",
+					"id": 1249711,
+					"id_str": "1249711",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3266,
+			"friends_count": 1488,
+			"listed_count": 263,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1511,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31166,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 04 13:25:34 +0000 2018",
+			"id": 1025734491942334500,
+			"id_str": "1025734491942334464",
+			"text": "School leaders must avoid, at all costs, any climate of fear, or any record of retribution. If that exists, fear wi… https://t.co/FbBpvNMmRZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FbBpvNMmRZ",
+						"expanded_url": "https://twitter.com/i/web/status/1025734491942334464",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1249711,
+				"id_str": "1249711",
+				"name": "Ira Socol",
+				"screen_name": "irasocol",
+				"location": "",
+				"description": "Public Schools technology director, innovation leader, passionate believer in UDL and letting children lead. Author and native New Yorker. Opinions are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10931,
+				"friends_count": 3222,
+				"listed_count": 982,
+				"created_at": "Thu Mar 15 21:44:39 +0000 2007",
+				"favourites_count": 3573,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 135724,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/53929363/IraSocol1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/53929363/IraSocol1_normal.jpg",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 05 00:24:42 +0000 2018",
 		"id": 1025900368373399600,
 		"id_str": "1025900368373399552",
