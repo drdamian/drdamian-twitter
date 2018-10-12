@@ -1,6 +1,906 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 11 22:48:01 +0000 2018",
+		"id": 1050518411812442100,
+		"id_str": "1050518411812442113",
+		"full_text": "It was my pleasure doing this for your students!  Would be happy to do it again, recorded or in person, anytime. #LTPS https://t.co/EpuuWgtGi4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						113,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EpuuWgtGi4",
+					"expanded_url": "https://twitter.com/MrsPTweets/status/1050331326249881600",
+					"display_url": "twitter.com/MrsPTweets/sta…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3247,
+			"friends_count": 1511,
+			"listed_count": 263,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31307,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1050331326249881600,
+		"quoted_status_id_str": "1050331326249881600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EpuuWgtGi4",
+			"expanded": "https://twitter.com/MrsPTweets/status/1050331326249881600",
+			"display": "twitter.com/MrsPTweets/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 11 10:24:37 +0000 2018",
+			"id": 1050331326249881600,
+			"id_str": "1050331326249881600",
+			"full_text": "@mhayes611 &amp; @_drdamian TY for being guest readers yesterday! After Ss created a list of elements used to build plot intensity, we rated intensity of 2 chapters on 1-10 scale. Such diff. chs made concept visible. Ss impressed by u! Chorus: \"I know her/him!\" #grarefugee #gra2018 https://t.co/P6CrhJeynJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				282
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "grarefugee",
+						"indices": [
+							262,
+							273
+						]
+					},
+					{
+						"text": "gra2018",
+						"indices": [
+							274,
+							282
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mhayes611",
+						"name": "Maureen Hayes",
+						"id": 47032216,
+						"id_str": "47032216",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "_drdamian",
+						"name": "Dr. Damian Bariexca",
+						"id": 7887852,
+						"id_str": "7887852",
+						"indices": [
+							17,
+							27
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1050331307169976300,
+						"id_str": "1050331307169976320",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/DpOGwkxWkAAQt96.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpOGwkxWkAAQt96.jpg",
+						"url": "https://t.co/P6CrhJeynJ",
+						"display_url": "pic.twitter.com/P6CrhJeynJ",
+						"expanded_url": "https://twitter.com/MrsPTweets/status/1050331326249881600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1050331307169976300,
+						"id_str": "1050331307169976320",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/DpOGwkxWkAAQt96.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpOGwkxWkAAQt96.jpg",
+						"url": "https://t.co/P6CrhJeynJ",
+						"display_url": "pic.twitter.com/P6CrhJeynJ",
+						"expanded_url": "https://twitter.com/MrsPTweets/status/1050331326249881600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1050331317366345700,
+						"id_str": "1050331317366345728",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/DpOGxKwW0AAbhNG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpOGxKwW0AAbhNG.jpg",
+						"url": "https://t.co/P6CrhJeynJ",
+						"display_url": "pic.twitter.com/P6CrhJeynJ",
+						"expanded_url": "https://twitter.com/MrsPTweets/status/1050331326249881600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1219,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 714,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 405,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 47032216,
+			"in_reply_to_user_id_str": "47032216",
+			"in_reply_to_screen_name": "mhayes611",
+			"user": {
+				"id": 372319608,
+				"id_str": "372319608",
+				"name": "Mrs. P Tweets",
+				"screen_name": "MrsPTweets",
+				"location": "NJ",
+				"description": "English teacher, unicorn, literacy coach, F. Scott Fitzgerald enthusiast, lifelong learner, reader, writer, and closet dancer!",
+				"url": "https://t.co/JBmVAG3QGC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JBmVAG3QGC",
+								"expanded_url": "http://plunkettlms.weebly.com/",
+								"display_url": "plunkettlms.weebly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1053,
+				"friends_count": 1744,
+				"listed_count": 77,
+				"created_at": "Mon Sep 12 15:15:53 +0000 2011",
+				"favourites_count": 5970,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5290,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CFA5D1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1000350499328184320/7VCQxlg9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1000350499328184320/7VCQxlg9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/372319608/1501358261",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "8EE6CE",
+				"profile_text_color": "A3D0D9",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9dbc463483001",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9dbc463483001.json",
+				"place_type": "poi",
+				"name": "Lawrence Middle School",
+				"full_name": "Lawrence Middle School",
+				"country_code": "",
+				"country": "",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.73210945699955,
+								40.26306933680097
+							],
+							[
+								-74.73210945699955,
+								40.26306933680097
+							],
+							[
+								-74.73210945699955,
+								40.26306933680097
+							],
+							[
+								-74.73210945699955,
+								40.26306933680097
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It was my pleasure doing this for your students!  Would be happy to do it again, recorded or in person, anytime. #LTPS https://t.co/EpuuWgtGi4"
+	},
+	{
+		"created_at": "Thu Oct 11 21:33:36 +0000 2018",
+		"id": 1050499681925640200,
+		"id_str": "1050499681925640194",
+		"full_text": "50% done with Ungifted, by Scott Barry Kaufman https://t.co/lHHZXlwXxG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lHHZXlwXxG",
+					"expanded_url": "https://goodreads.com/user_status/show/191972719",
+					"display_url": "goodreads.com/user_status/sh…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.goodreads.com\" rel=\"nofollow\">Goodreads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3247,
+			"friends_count": 1511,
+			"listed_count": 263,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31307,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "50% done with Ungifted, by Scott Barry Kaufman https://t.co/lHHZXlwXxG"
+	},
+	{
+		"created_at": "Thu Oct 11 15:46:02 +0000 2018",
+		"id": 1050412213952020500,
+		"id_str": "1050412213952020480",
+		"full_text": "Lunchtime at LIS. #LTPS https://t.co/JLwS7bigxw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						18,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1050412197720010800,
+					"id_str": "1050412197720010754",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DpPQVBjWsAIjA_A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpPQVBjWsAIjA_A.jpg",
+					"url": "https://t.co/JLwS7bigxw",
+					"display_url": "pic.twitter.com/JLwS7bigxw",
+					"expanded_url": "https://twitter.com/_drdamian/status/1050412213952020480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 780,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1332,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050412197720010800,
+					"id_str": "1050412197720010754",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/DpPQVBjWsAIjA_A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpPQVBjWsAIjA_A.jpg",
+					"url": "https://t.co/JLwS7bigxw",
+					"display_url": "pic.twitter.com/JLwS7bigxw",
+					"expanded_url": "https://twitter.com/_drdamian/status/1050412213952020480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 780,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1332,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 442,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3247,
+			"friends_count": 1511,
+			"listed_count": 263,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31307,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lunchtime at LIS. #LTPS https://t.co/JLwS7bigxw"
+	},
+	{
+		"created_at": "Wed Oct 10 18:26:34 +0000 2018",
+		"id": 1050090228709511200,
+		"id_str": "1050090228709511168",
+		"full_text": "Did you know that diversity in our teacher workforce directly benefits all students? Follow our hashtag #TeachLikeMeNJ on Friday, Oct. 12 to learn from NJDOE &amp; experts in the field during our first NJ Convening on Diversifying the Teacher Workforce! @CCSSO @NJGOV @RowanUniversity https://t.co/eVlFyGypWh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeachLikeMeNJ",
+					"indices": [
+						104,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CCSSO",
+					"name": "CCSSO",
+					"id": 95742510,
+					"id_str": "95742510",
+					"indices": [
+						254,
+						260
+					]
+				},
+				{
+					"screen_name": "NJGov",
+					"name": "New Jersey",
+					"id": 984819646082797600,
+					"id_str": "984819646082797568",
+					"indices": [
+						261,
+						267
+					]
+				},
+				{
+					"screen_name": "RowanUniversity",
+					"name": "Rowan University",
+					"id": 21661387,
+					"id_str": "21661387",
+					"indices": [
+						268,
+						284
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1050089977193918500,
+					"id_str": "1050089977193918468",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/DpKrRUjXcAQoN8j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpKrRUjXcAQoN8j.jpg",
+					"url": "https://t.co/eVlFyGypWh",
+					"display_url": "pic.twitter.com/eVlFyGypWh",
+					"expanded_url": "https://twitter.com/NewJerseyDOE/status/1050090228709511168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1050089977193918500,
+					"id_str": "1050089977193918468",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/DpKrRUjXcAQoN8j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpKrRUjXcAQoN8j.jpg",
+					"url": "https://t.co/eVlFyGypWh",
+					"display_url": "pic.twitter.com/eVlFyGypWh",
+					"expanded_url": "https://twitter.com/NewJerseyDOE/status/1050090228709511168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 958079839969448000,
+			"id_str": "958079839969447937",
+			"name": "New Jersey Department of Education",
+			"screen_name": "NewJerseyDOE",
+			"location": "New Jersey, USA",
+			"description": "Official Twitter account for the New Jersey Department of Education. Retweets/Likes are not endorsements.",
+			"url": "https://t.co/KdGTC6y1iz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KdGTC6y1iz",
+							"expanded_url": "http://www.state.nj.us/education/",
+							"display_url": "state.nj.us/education/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4341,
+			"friends_count": 1389,
+			"listed_count": 20,
+			"created_at": "Mon Jan 29 20:50:08 +0000 2018",
+			"favourites_count": 1612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 912,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/958082426059685888/iDvNjhO2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/958082426059685888/iDvNjhO2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/958079839969447937/1518451923",
+			"profile_link_color": "003399",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did you know that diversity in our teacher workforce directly benefits all students? Follow our hashtag #TeachLikeMeNJ on Friday, Oct. 12 to learn from NJDOE &amp; experts in the field during our first NJ Convening on Diversifying the Teacher Workforce! @CCSSO @NJGOV @RowanUniversity https://t.co/eVlFyGypWh"
+	},
+	{
 		"created_at": "Wed Oct 10 23:29:26 +0000 2018",
 		"id": 1050166446427394000,
 		"id_str": "1050166446427394049",
