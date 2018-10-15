@@ -203,6 +203,208 @@ Grailbird.data.tweets_2018_10 =
 		"text": "Huge selection, great prices, benefitting your LHS music programs! LHS cafe, 10am-5pm, Mattress form pop up store! @drobish_michael @LTPS1 @_drdamian @dadamltps https://t.co/9mFweQjXxa"
 	},
 	{
+		"created_at": "Sun Oct 14 17:24:42 +0000 2018",
+		"id": 1051524208717688800,
+		"id_str": "1051524208717688832",
+		"full_text": "Huge selection, great prices, benefitting your LHS music programs! LHS cafe, 10am-5pm, Mattress form pop up store! @drobish_michael @LTPS1 @_drdamian @dadamltps https://t.co/9mFweQjXxa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drobish_michael",
+					"name": "Lawrence High School Bands",
+					"id": 1028402361302233100,
+					"id_str": "1028402361302233090",
+					"indices": [
+						115,
+						131
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Twp Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						139,
+						149
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						150,
+						160
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1051524171816087600,
+					"id_str": "1051524171816087553",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/DpfDqb3VsAEW5wt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpfDqb3VsAEW5wt.jpg",
+					"url": "https://t.co/9mFweQjXxa",
+					"display_url": "pic.twitter.com/9mFweQjXxa",
+					"expanded_url": "https://twitter.com/JohnsonMusicLHS/status/1051524208717688832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051524171816087600,
+					"id_str": "1051524171816087553",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/DpfDqb3VsAEW5wt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpfDqb3VsAEW5wt.jpg",
+					"url": "https://t.co/9mFweQjXxa",
+					"display_url": "pic.twitter.com/9mFweQjXxa",
+					"expanded_url": "https://twitter.com/JohnsonMusicLHS/status/1051524208717688832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2682026152,
+			"id_str": "2682026152",
+			"name": "mandy Johnson",
+			"screen_name": "JohnsonMusicLHS",
+			"location": "",
+			"description": "Music Educator. Choir Director. Soprano. Proud LHS teacher.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141,
+			"friends_count": 143,
+			"listed_count": 5,
+			"created_at": "Mon Jul 07 04:27:22 +0000 2014",
+			"favourites_count": 428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 196,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/885511986536210432/E6Jtqv6E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/885511986536210432/E6Jtqv6E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2682026152/1522948725",
+			"profile_link_color": "5EB888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Huge selection, great prices, benefitting your LHS music programs! LHS cafe, 10am-5pm, Mattress form pop up store! @drobish_michael @LTPS1 @_drdamian @dadamltps https://t.co/9mFweQjXxa"
+	},
+	{
 		"created_at": "Sun Oct 14 14:30:12 +0000 2018",
 		"id": 1051480295210397700,
 		"id_str": "1051480295210397696",
