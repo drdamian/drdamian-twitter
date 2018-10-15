@@ -1,6 +1,504 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 14 17:24:42 +0000 2018",
+		"id": 1051524208717688800,
+		"id_str": "1051524208717688832",
+		"full_text": "Huge selection, great prices, benefitting your LHS music programs! LHS cafe, 10am-5pm, Mattress form pop up store! @drobish_michael @LTPS1 @_drdamian @dadamltps https://t.co/9mFweQjXxa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drobish_michael",
+					"name": "Lawrence High School Bands",
+					"id": 1028402361302233100,
+					"id_str": "1028402361302233090",
+					"indices": [
+						115,
+						131
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Twp Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						132,
+						138
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						139,
+						149
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						150,
+						160
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1051524171816087600,
+					"id_str": "1051524171816087553",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/DpfDqb3VsAEW5wt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpfDqb3VsAEW5wt.jpg",
+					"url": "https://t.co/9mFweQjXxa",
+					"display_url": "pic.twitter.com/9mFweQjXxa",
+					"expanded_url": "https://twitter.com/JohnsonMusicLHS/status/1051524208717688832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051524171816087600,
+					"id_str": "1051524171816087553",
+					"indices": [
+						161,
+						184
+					],
+					"media_url": "http://pbs.twimg.com/media/DpfDqb3VsAEW5wt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpfDqb3VsAEW5wt.jpg",
+					"url": "https://t.co/9mFweQjXxa",
+					"display_url": "pic.twitter.com/9mFweQjXxa",
+					"expanded_url": "https://twitter.com/JohnsonMusicLHS/status/1051524208717688832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2682026152,
+			"id_str": "2682026152",
+			"name": "mandy Johnson",
+			"screen_name": "JohnsonMusicLHS",
+			"location": "",
+			"description": "Music Educator. Choir Director. Soprano. Proud LHS teacher.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141,
+			"friends_count": 143,
+			"listed_count": 5,
+			"created_at": "Mon Jul 07 04:27:22 +0000 2014",
+			"favourites_count": 428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 196,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/885511986536210432/E6Jtqv6E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/885511986536210432/E6Jtqv6E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2682026152/1522948725",
+			"profile_link_color": "5EB888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Huge selection, great prices, benefitting your LHS music programs! LHS cafe, 10am-5pm, Mattress form pop up store! @drobish_michael @LTPS1 @_drdamian @dadamltps https://t.co/9mFweQjXxa"
+	},
+	{
+		"created_at": "Sun Oct 14 14:30:12 +0000 2018",
+		"id": 1051480295210397700,
+		"id_str": "1051480295210397696",
+		"full_text": "Rank sort PD experiences - https://t.co/OGKzqaYN3o …\n\nPlease take a moment to respond to this 3 question survey about the impact of different PD experiences upon you as a professional. I need 26 more responses!! @sbtechgirl @rjw118",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sbtechgirl",
+					"name": "Tracey Ricco",
+					"id": 300592728,
+					"id_str": "300592728",
+					"indices": [
+						212,
+						223
+					]
+				},
+				{
+					"screen_name": "rjw118",
+					"name": "Richard Wilson",
+					"id": 283536975,
+					"id_str": "283536975",
+					"indices": [
+						224,
+						231
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OGKzqaYN3o",
+					"expanded_url": "http://newschool.co1.qualtrics.com/jfe/form/SV_7W02bvSSdPiYPEp",
+					"display_url": "newschool.co1.qualtrics.com/jfe/form/SV_7W…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29861580,
+			"id_str": "29861580",
+			"name": "Mike Ritzius",
+			"screen_name": "mritzius",
+			"location": "Philadelphia, Pa",
+			"description": "Unionist, Designer of PD, Organizer of Action, Host of Conversations, Rouser of Rabble, Co-Founder of the Edcamp Foundation & Movement. Tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4192,
+			"friends_count": 2534,
+			"listed_count": 327,
+			"created_at": "Thu Apr 09 00:01:07 +0000 2009",
+			"favourites_count": 6071,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31752,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1A1A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/677323305234337792/DGI7L8ym_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/677323305234337792/DGI7L8ym_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29861580/1539208975",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Rank sort PD experiences - https://t.co/OGKzqaYN3o …\n\nPlease take a moment to respond to this 3 question survey about the impact of different PD experiences upon you as a professional. I need 26 more responses!! @sbtechgirl @rjw118"
+	},
+	{
+		"created_at": "Sun Oct 14 12:37:33 +0000 2018",
+		"id": 1051451946861760500,
+		"id_str": "1051451946861760514",
+		"full_text": "Today ONLY!  The LHS Music Dept. is holding a mattress fundraiser at LHS from 10am-5pm.  Stop in, support LHS musicians (and your own good sleep!), and #LTPS staff &amp; students, inquire about your special offer!  Layaway and delivery available on all sizes from Twin to CA King! https://t.co/EzUx39xG86",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						152,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1051451041181564900,
+					"id_str": "1051451041181564929",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DpeBJrBXgAEFmJL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpeBJrBXgAEFmJL.jpg",
+					"url": "https://t.co/EzUx39xG86",
+					"display_url": "pic.twitter.com/EzUx39xG86",
+					"expanded_url": "https://twitter.com/_drdamian/status/1051451946861760514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 377,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 377,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 377,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1051451041181564900,
+					"id_str": "1051451041181564929",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/DpeBJrBXgAEFmJL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpeBJrBXgAEFmJL.jpg",
+					"url": "https://t.co/EzUx39xG86",
+					"display_url": "pic.twitter.com/EzUx39xG86",
+					"expanded_url": "https://twitter.com/_drdamian/status/1051451946861760514/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 377,
+							"h": 498,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 377,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 377,
+							"h": 498,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3248,
+			"friends_count": 1513,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1613,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31320,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today ONLY!  The LHS Music Dept. is holding a mattress fundraiser at LHS from 10am-5pm.  Stop in, support LHS musicians (and your own good sleep!), and #LTPS staff &amp; students, inquire about your special offer!  Layaway and delivery available on all sizes from Twin to CA King! https://t.co/EzUx39xG86"
+	},
+	{
 		"created_at": "Sun Oct 14 00:17:04 +0000 2018",
 		"id": 1051265597420519400,
 		"id_str": "1051265597420519425",
