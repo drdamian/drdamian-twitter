@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sat Oct 20 14:02:40 +0000 2018",
+		"id": 1053647694193967100,
+		"id_str": "1053647694193967105",
+		"full_text": "Might be worth a look @Mrs_Cramer @LHSMediaCenter @DrMPancoast - I haven't reviewed yet but plan to later. https://t.co/HqNZohRTqa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mrs_Cramer",
+					"name": "Eileen Cramer",
+					"id": 250131255,
+					"id_str": "250131255",
+					"indices": [
+						22,
+						33
+					]
+				},
+				{
+					"screen_name": "LHSMediaCenter",
+					"name": "Ewa Dziedzic-Elliott",
+					"id": 796644332,
+					"id_str": "796644332",
+					"indices": [
+						34,
+						49
+					]
+				},
+				{
+					"screen_name": "DrMPancoast",
+					"name": "Mary Pancoast",
+					"id": 4048694559,
+					"id_str": "4048694559",
+					"indices": [
+						50,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HqNZohRTqa",
+					"expanded_url": "https://twitter.com/BazanEDucation/status/1053305651424837632",
+					"display_url": "twitter.com/BazanEDucation…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3254,
+			"friends_count": 1516,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31347,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1053305651424837600,
+		"quoted_status_id_str": "1053305651424837632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HqNZohRTqa",
+			"expanded": "https://twitter.com/BazanEDucation/status/1053305651424837632",
+			"display": "twitter.com/BazanEDucation…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 19 15:23:31 +0000 2018",
+			"id": 1053305651424837600,
+			"id_str": "1053305651424837632",
+			"full_text": "Register for free at https://t.co/3Dw64kvQ5E and download our Curriculum Guides, Discussion Guides, and Student Social Action Guides for @TheHateUGive.\n\nAnd for group sales, visit https://t.co/GUbY1invvQ\n\n#TheHateUGive #AngieThomas \n#standup #speakup #findyourvoice #useyourvoice",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheHateUGive",
+						"indices": [
+							205,
+							218
+						]
+					},
+					{
+						"text": "AngieThomas",
+						"indices": [
+							219,
+							231
+						]
+					},
+					{
+						"text": "standup",
+						"indices": [
+							233,
+							241
+						]
+					},
+					{
+						"text": "speakup",
+						"indices": [
+							242,
+							250
+						]
+					},
+					{
+						"text": "findyourvoice",
+						"indices": [
+							251,
+							265
+						]
+					},
+					{
+						"text": "useyourvoice",
+						"indices": [
+							266,
+							279
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TheHateUGive",
+						"name": "The Hate U Give",
+						"id": 903710875571208200,
+						"id_str": "903710875571208192",
+						"indices": [
+							137,
+							150
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/3Dw64kvQ5E",
+						"expanded_url": "http://BazanED.com",
+						"display_url": "BazanED.com",
+						"indices": [
+							21,
+							44
+						]
+					},
+					{
+						"url": "https://t.co/GUbY1invvQ",
+						"expanded_url": "http://TheHateUGive.com",
+						"display_url": "TheHateUGive.com",
+						"indices": [
+							180,
+							203
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1053305650233700400,
+			"in_reply_to_status_id_str": "1053305650233700352",
+			"in_reply_to_user_id": 2484776918,
+			"in_reply_to_user_id_str": "2484776918",
+			"in_reply_to_screen_name": "BazanEDucation",
+			"user": {
+				"id": 2484776918,
+				"id_str": "2484776918",
+				"name": "BazanED",
+				"screen_name": "BazanEDucation",
+				"location": "We are everywhere!",
+				"description": "Providing free teacher resources for narrative films and documentaries to K-12 and College educators in the US.",
+				"url": "https://t.co/NMNLeevy9Y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NMNLeevy9Y",
+								"expanded_url": "http://www.BazanED.com",
+								"display_url": "BazanED.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 882,
+				"friends_count": 1932,
+				"listed_count": 25,
+				"created_at": "Fri May 09 01:59:44 +0000 2014",
+				"favourites_count": 2661,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1997,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/863005578632855553/64IVcwi3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/863005578632855553/64IVcwi3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2484776918/1421455765",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Might be worth a look @Mrs_Cramer @LHSMediaCenter @DrMPancoast - I haven't reviewed yet but plan to later. https://t.co/HqNZohRTqa"
+	},
+	{
 		"created_at": "Fri Oct 19 23:58:12 +0000 2018",
 		"id": 1053435173969322000,
 		"id_str": "1053435173969321990",
