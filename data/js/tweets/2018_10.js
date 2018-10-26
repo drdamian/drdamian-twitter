@@ -232,6 +232,237 @@ Grailbird.data.tweets_2018_10 =
 		"text": "@SlackwoodSchool students #ReadfortheRecord and create a mural inspired by the book Maybe Something Beautiful. Thank you to our amazing guest painters who visited today!  @MuziLearningLab @_drdamian @Jumpstartkids \n#ArtsEdNow #arteducation #slackwoodartfromtheheart https://t.co/pIF1sZzDUq"
 	},
 	{
+		"created_at": "Fri Oct 26 00:43:39 +0000 2018",
+		"id": 1055620939981971500,
+		"id_str": "1055620939981971456",
+		"full_text": "@SlackwoodSchool students #ReadfortheRecord and create a mural inspired by the book Maybe Something Beautiful. Thank you to our amazing guest painters who visited today!  @MuziLearningLab @_drdamian @Jumpstartkids \n#ArtsEdNow #arteducation #slackwoodartfromtheheart https://t.co/pIF1sZzDUq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ReadfortheRecord",
+					"indices": [
+						26,
+						43
+					]
+				},
+				{
+					"text": "ArtsEdNow",
+					"indices": [
+						215,
+						225
+					]
+				},
+				{
+					"text": "arteducation",
+					"indices": [
+						226,
+						239
+					]
+				},
+				{
+					"text": "slackwoodartfromtheheart",
+					"indices": [
+						240,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SlackwoodSchool",
+					"name": "Slackwood School",
+					"id": 3891670522,
+					"id_str": "3891670522",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "MuziLearningLab",
+					"name": "Jeanne Muzi",
+					"id": 1618799258,
+					"id_str": "1618799258",
+					"indices": [
+						171,
+						187
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"screen_name": "Jumpstartkids",
+					"name": "Jumpstart",
+					"id": 32505840,
+					"id_str": "32505840",
+					"indices": [
+						199,
+						213
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1055620926283243500,
+					"id_str": "1055620926283243520",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/DqZRo7iU4AARn6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqZRo7iU4AARn6I.jpg",
+					"url": "https://t.co/pIF1sZzDUq",
+					"display_url": "pic.twitter.com/pIF1sZzDUq",
+					"expanded_url": "https://twitter.com/SlackwoodART/status/1055620939981971456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1055620926283243500,
+					"id_str": "1055620926283243520",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/DqZRo7iU4AARn6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqZRo7iU4AARn6I.jpg",
+					"url": "https://t.co/pIF1sZzDUq",
+					"display_url": "pic.twitter.com/pIF1sZzDUq",
+					"expanded_url": "https://twitter.com/SlackwoodART/status/1055620939981971456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3891670522,
+		"in_reply_to_user_id_str": "3891670522",
+		"in_reply_to_screen_name": "SlackwoodSchool",
+		"user": {
+			"id": 2815543584,
+			"id_str": "2815543584",
+			"name": "SW Artists",
+			"screen_name": "SlackwoodART",
+			"location": "",
+			"description": "Ms. Lee-You, Art Teacher to the talented young artists at Slackwood Elementary School",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 203,
+			"friends_count": 211,
+			"listed_count": 2,
+			"created_at": "Wed Sep 17 21:00:09 +0000 2014",
+			"favourites_count": 1656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 437,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/512632510962868224/5p7R0q4z_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/512632510962868224/5p7R0q4z_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2815543584/1527686686",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SlackwoodSchool students #ReadfortheRecord and create a mural inspired by the book Maybe Something Beautiful. Thank you to our amazing guest painters who visited today!  @MuziLearningLab @_drdamian @Jumpstartkids \n#ArtsEdNow #arteducation #slackwoodartfromtheheart https://t.co/pIF1sZzDUq"
+	},
+	{
 		"created_at": "Thu Oct 25 23:05:39 +0000 2018",
 		"id": 1055596276614606800,
 		"id_str": "1055596276614606848",
