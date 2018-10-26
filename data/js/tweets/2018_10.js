@@ -1,6 +1,1564 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 26 00:43:39 +0000 2018",
+		"id": 1055620939981971500,
+		"id_str": "1055620939981971456",
+		"full_text": "@SlackwoodSchool students #ReadfortheRecord and create a mural inspired by the book Maybe Something Beautiful. Thank you to our amazing guest painters who visited today!  @MuziLearningLab @_drdamian @Jumpstartkids \n#ArtsEdNow #arteducation #slackwoodartfromtheheart https://t.co/pIF1sZzDUq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ReadfortheRecord",
+					"indices": [
+						26,
+						43
+					]
+				},
+				{
+					"text": "ArtsEdNow",
+					"indices": [
+						215,
+						225
+					]
+				},
+				{
+					"text": "arteducation",
+					"indices": [
+						226,
+						239
+					]
+				},
+				{
+					"text": "slackwoodartfromtheheart",
+					"indices": [
+						240,
+						265
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SlackwoodSchool",
+					"name": "Slackwood School",
+					"id": 3891670522,
+					"id_str": "3891670522",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "MuziLearningLab",
+					"name": "Jeanne Muzi",
+					"id": 1618799258,
+					"id_str": "1618799258",
+					"indices": [
+						171,
+						187
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						188,
+						198
+					]
+				},
+				{
+					"screen_name": "Jumpstartkids",
+					"name": "Jumpstart",
+					"id": 32505840,
+					"id_str": "32505840",
+					"indices": [
+						199,
+						213
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1055620926283243500,
+					"id_str": "1055620926283243520",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/DqZRo7iU4AARn6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqZRo7iU4AARn6I.jpg",
+					"url": "https://t.co/pIF1sZzDUq",
+					"display_url": "pic.twitter.com/pIF1sZzDUq",
+					"expanded_url": "https://twitter.com/SlackwoodART/status/1055620939981971456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1055620926283243500,
+					"id_str": "1055620926283243520",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/DqZRo7iU4AARn6I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqZRo7iU4AARn6I.jpg",
+					"url": "https://t.co/pIF1sZzDUq",
+					"display_url": "pic.twitter.com/pIF1sZzDUq",
+					"expanded_url": "https://twitter.com/SlackwoodART/status/1055620939981971456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3891670522,
+		"in_reply_to_user_id_str": "3891670522",
+		"in_reply_to_screen_name": "SlackwoodSchool",
+		"user": {
+			"id": 2815543584,
+			"id_str": "2815543584",
+			"name": "SW Artists",
+			"screen_name": "SlackwoodART",
+			"location": "",
+			"description": "Ms. Lee-You, Art Teacher to the talented young artists at Slackwood Elementary School",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 203,
+			"friends_count": 211,
+			"listed_count": 2,
+			"created_at": "Wed Sep 17 21:00:09 +0000 2014",
+			"favourites_count": 1656,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 437,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/512632510962868224/5p7R0q4z_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/512632510962868224/5p7R0q4z_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2815543584/1527686686",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SlackwoodSchool students #ReadfortheRecord and create a mural inspired by the book Maybe Something Beautiful. Thank you to our amazing guest painters who visited today!  @MuziLearningLab @_drdamian @Jumpstartkids \n#ArtsEdNow #arteducation #slackwoodartfromtheheart https://t.co/pIF1sZzDUq"
+	},
+	{
+		"created_at": "Thu Oct 25 23:05:39 +0000 2018",
+		"id": 1055596276614606800,
+		"id_str": "1055596276614606848",
+		"full_text": "Loved seeing all the Lawrence landmarks in the Slackwood mural - Capt. Paul's, the public library, and of course, Slackwood Elementary School, among others! #LTPS https://t.co/iXN27MnABd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						157,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1055596233304215600,
+					"id_str": "1055596233304215554",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/DqY7LnBWkAIhUAo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqY7LnBWkAIhUAo.jpg",
+					"url": "https://t.co/iXN27MnABd",
+					"display_url": "pic.twitter.com/iXN27MnABd",
+					"expanded_url": "https://twitter.com/_drdamian/status/1055596276614606848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1055596233304215600,
+					"id_str": "1055596233304215554",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/DqY7LnBWkAIhUAo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqY7LnBWkAIhUAo.jpg",
+					"url": "https://t.co/iXN27MnABd",
+					"display_url": "pic.twitter.com/iXN27MnABd",
+					"expanded_url": "https://twitter.com/_drdamian/status/1055596276614606848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1055596248798036000,
+					"id_str": "1055596248798035968",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/DqY7MgvXgAAe5Xu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqY7MgvXgAAe5Xu.jpg",
+					"url": "https://t.co/iXN27MnABd",
+					"display_url": "pic.twitter.com/iXN27MnABd",
+					"expanded_url": "https://twitter.com/_drdamian/status/1055596276614606848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1055596263511650300,
+					"id_str": "1055596263511650304",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/DqY7NXjXcAAWivV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqY7NXjXcAAWivV.jpg",
+					"url": "https://t.co/iXN27MnABd",
+					"display_url": "pic.twitter.com/iXN27MnABd",
+					"expanded_url": "https://twitter.com/_drdamian/status/1055596276614606848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3252,
+			"friends_count": 1515,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31375,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Loved seeing all the Lawrence landmarks in the Slackwood mural - Capt. Paul's, the public library, and of course, Slackwood Elementary School, among others! #LTPS https://t.co/iXN27MnABd"
+	},
+	{
+		"created_at": "Thu Oct 25 17:18:19 +0000 2018",
+		"id": 1055508870892785700,
+		"id_str": "1055508870892785666",
+		"full_text": "Being tall has its advantages sometimes.  Somebody's gotta paint the clouds! 😃 #LTPS  TY to @SlackwoodART for masterminding this wonderful project!! #ArtsEdNow @ArtsEdNJ https://t.co/FNNq5gxrt1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						79,
+						84
+					]
+				},
+				{
+					"text": "ArtsEdNow",
+					"indices": [
+						149,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SlackwoodART",
+					"name": "SW Artists",
+					"id": 2815543584,
+					"id_str": "2815543584",
+					"indices": [
+						92,
+						105
+					]
+				},
+				{
+					"screen_name": "ArtsEdNJ",
+					"name": "Arts Ed NJ",
+					"id": 225889258,
+					"id_str": "225889258",
+					"indices": [
+						160,
+						169
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FNNq5gxrt1",
+					"expanded_url": "https://twitter.com/MuziLearningLab/status/1055495183020843014",
+					"display_url": "twitter.com/MuziLearningLa…",
+					"indices": [
+						170,
+						193
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3252,
+			"friends_count": 1515,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31375,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055495183020843000,
+		"quoted_status_id_str": "1055495183020843014",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FNNq5gxrt1",
+			"expanded": "https://twitter.com/MuziLearningLab/status/1055495183020843014",
+			"display": "twitter.com/MuziLearningLa…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 25 16:23:56 +0000 2018",
+			"id": 1055495183020843000,
+			"id_str": "1055495183020843014",
+			"full_text": "Many guest painters joined our students which made our “Maybe Something Beautiful” mural even better! Thank you Capt. Paul’s, Colonial Lake Association, Mayor Bobbit, town librarians, @mhayes611 @_drdamian @Jumpstartkids #ReadForTheRecord https://t.co/k0RaKra7L1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ReadForTheRecord",
+						"indices": [
+							221,
+							238
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mhayes611",
+						"name": "Maureen Hayes",
+						"id": 47032216,
+						"id_str": "47032216",
+						"indices": [
+							184,
+							194
+						]
+					},
+					{
+						"screen_name": "_drdamian",
+						"name": "Dr. Damian Bariexca",
+						"id": 7887852,
+						"id_str": "7887852",
+						"indices": [
+							195,
+							205
+						]
+					},
+					{
+						"screen_name": "Jumpstartkids",
+						"name": "Jumpstart",
+						"id": 32505840,
+						"id_str": "32505840",
+						"indices": [
+							206,
+							220
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1055495030968930300,
+						"id_str": "1055495030968930304",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/DqXfI28X0AAMURc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqXfI28X0AAMURc.jpg",
+						"url": "https://t.co/k0RaKra7L1",
+						"display_url": "pic.twitter.com/k0RaKra7L1",
+						"expanded_url": "https://twitter.com/MuziLearningLab/status/1055495183020843014/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1055495030968930300,
+						"id_str": "1055495030968930304",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/DqXfI28X0AAMURc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqXfI28X0AAMURc.jpg",
+						"url": "https://t.co/k0RaKra7L1",
+						"display_url": "pic.twitter.com/k0RaKra7L1",
+						"expanded_url": "https://twitter.com/MuziLearningLab/status/1055495183020843014/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1055495031023431700,
+						"id_str": "1055495031023431683",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/DqXfI3JXcAM7AMz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqXfI3JXcAM7AMz.jpg",
+						"url": "https://t.co/k0RaKra7L1",
+						"display_url": "pic.twitter.com/k0RaKra7L1",
+						"expanded_url": "https://twitter.com/MuziLearningLab/status/1055495183020843014/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1055495030952116200,
+						"id_str": "1055495030952116224",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/DqXfI24XQAAk4qa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqXfI24XQAAk4qa.jpg",
+						"url": "https://t.co/k0RaKra7L1",
+						"display_url": "pic.twitter.com/k0RaKra7L1",
+						"expanded_url": "https://twitter.com/MuziLearningLab/status/1055495183020843014/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1055495030910148600,
+						"id_str": "1055495030910148609",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/DqXfI2uW4AEyFtA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqXfI2uW4AEyFtA.jpg",
+						"url": "https://t.co/k0RaKra7L1",
+						"display_url": "pic.twitter.com/k0RaKra7L1",
+						"expanded_url": "https://twitter.com/MuziLearningLab/status/1055495183020843014/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1618799258,
+				"id_str": "1618799258",
+				"name": "Jeanne Muzi",
+				"screen_name": "MuziLearningLab",
+				"location": "New Jersey",
+				"description": "Elementary Principal & Learner- Passion for cultivating curiosity, questioning & creative problem solving skills-NJExcel, Google Certified, Adjunct Prof & NJTOY",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2417,
+				"friends_count": 1631,
+				"listed_count": 77,
+				"created_at": "Wed Jul 24 22:51:37 +0000 2013",
+				"favourites_count": 8952,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4306,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1014495405424463873/COGyzE8e_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014495405424463873/COGyzE8e_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1618799258/1530710204",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Being tall has its advantages sometimes.  Somebody's gotta paint the clouds! 😃 #LTPS  TY to @SlackwoodART for masterminding this wonderful project!! #ArtsEdNow @ArtsEdNJ https://t.co/FNNq5gxrt1"
+	},
+	{
+		"created_at": "Thu Oct 25 14:11:56 +0000 2018",
+		"id": 1055461965668192300,
+		"id_str": "1055461965668192256",
+		"full_text": "Very cool!  I'll be swinging by in about 45 minutes to contribute. #LTPS #ArtsEdNow https://t.co/5NCfwPBOGB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						67,
+						72
+					]
+				},
+				{
+					"text": "ArtsEdNow",
+					"indices": [
+						73,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5NCfwPBOGB",
+					"expanded_url": "https://twitter.com/mhayes611/status/1055461589485305856",
+					"display_url": "twitter.com/mhayes611/stat…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3252,
+			"friends_count": 1515,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31375,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055461589485305900,
+		"quoted_status_id_str": "1055461589485305856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5NCfwPBOGB",
+			"expanded": "https://twitter.com/mhayes611/status/1055461589485305856",
+			"display": "twitter.com/mhayes611/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 25 14:10:27 +0000 2018",
+			"id": 1055461589485305900,
+			"id_str": "1055461589485305856",
+			"full_text": "#ReadForTheRecord at Slackwood School today with a hallway mural inspired by “Maybe Something Beautiful” @SlackwoodART @MuziLearningLab I painted a purple cloud! 😊 Thanks for including me! @LTPS1 @_drdamian @azuck1 https://t.co/3EHtgTImbV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				214
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ReadForTheRecord",
+						"indices": [
+							0,
+							17
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SlackwoodART",
+						"name": "SW Artists",
+						"id": 2815543584,
+						"id_str": "2815543584",
+						"indices": [
+							105,
+							118
+						]
+					},
+					{
+						"screen_name": "MuziLearningLab",
+						"name": "Jeanne Muzi",
+						"id": 1618799258,
+						"id_str": "1618799258",
+						"indices": [
+							119,
+							135
+						]
+					},
+					{
+						"screen_name": "LTPS1",
+						"name": "Lawrence Twp Schools",
+						"id": 2178717536,
+						"id_str": "2178717536",
+						"indices": [
+							189,
+							195
+						]
+					},
+					{
+						"screen_name": "_drdamian",
+						"name": "Dr. Damian Bariexca",
+						"id": 7887852,
+						"id_str": "7887852",
+						"indices": [
+							196,
+							206
+						]
+					},
+					{
+						"screen_name": "azuck1",
+						"name": "Andrew Zuckerman",
+						"id": 40480591,
+						"id_str": "40480591",
+						"indices": [
+							207,
+							214
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1055461421742465000,
+						"id_str": "1055461421742465026",
+						"indices": [
+							215,
+							238
+						],
+						"media_url": "http://pbs.twimg.com/media/DqXAki0WoAI9r3q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqXAki0WoAI9r3q.jpg",
+						"url": "https://t.co/3EHtgTImbV",
+						"display_url": "pic.twitter.com/3EHtgTImbV",
+						"expanded_url": "https://twitter.com/mhayes611/status/1055461589485305856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1055461421742465000,
+						"id_str": "1055461421742465026",
+						"indices": [
+							215,
+							238
+						],
+						"media_url": "http://pbs.twimg.com/media/DqXAki0WoAI9r3q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqXAki0WoAI9r3q.jpg",
+						"url": "https://t.co/3EHtgTImbV",
+						"display_url": "pic.twitter.com/3EHtgTImbV",
+						"expanded_url": "https://twitter.com/mhayes611/status/1055461589485305856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1055461421809582100,
+						"id_str": "1055461421809582080",
+						"indices": [
+							215,
+							238
+						],
+						"media_url": "http://pbs.twimg.com/media/DqXAkjEWwAAuToA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqXAkjEWwAAuToA.jpg",
+						"url": "https://t.co/3EHtgTImbV",
+						"display_url": "pic.twitter.com/3EHtgTImbV",
+						"expanded_url": "https://twitter.com/mhayes611/status/1055461589485305856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1055461421767647200,
+						"id_str": "1055461421767647234",
+						"indices": [
+							215,
+							238
+						],
+						"media_url": "http://pbs.twimg.com/media/DqXAki6W4AI41cC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqXAki6W4AI41cC.jpg",
+						"url": "https://t.co/3EHtgTImbV",
+						"display_url": "pic.twitter.com/3EHtgTImbV",
+						"expanded_url": "https://twitter.com/mhayes611/status/1055461589485305856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1055461421750935600,
+						"id_str": "1055461421750935552",
+						"indices": [
+							215,
+							238
+						],
+						"media_url": "http://pbs.twimg.com/media/DqXAki2X4AAvVpN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DqXAki2X4AAvVpN.jpg",
+						"url": "https://t.co/3EHtgTImbV",
+						"display_url": "pic.twitter.com/3EHtgTImbV",
+						"expanded_url": "https://twitter.com/mhayes611/status/1055461589485305856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47032216,
+				"id_str": "47032216",
+				"name": "Maureen Hayes",
+				"screen_name": "mhayes611",
+				"location": "Lawrence Twp Public Schools",
+				"description": "K-6 Humanities Supervisor, mom, avid reader, Broadway enthusiast, wrestling mom, #OneWord2018 INTENTIONAL #4OCFpln\nhttps://t.co/LmKN27ukCY",
+				"url": "https://t.co/IjnmIrLfYO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IjnmIrLfYO",
+								"expanded_url": "http://kidsfirst-passionateleadership.blogspot.com/",
+								"display_url": "…rst-passionateleadership.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/LmKN27ukCY",
+								"expanded_url": "https://sites.google.com/view/4ocfpln/",
+								"display_url": "sites.google.com/view/4ocfpln/",
+								"indices": [
+									115,
+									138
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1294,
+				"friends_count": 1200,
+				"listed_count": 27,
+				"created_at": "Sun Jun 14 04:25:11 +0000 2009",
+				"favourites_count": 9866,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3228,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/951189307800412160/Jf0TIey8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/951189307800412160/Jf0TIey8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47032216/1537557783",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0938ec126d562000",
+				"url": "https://api.twitter.com/1.1/geo/id/0938ec126d562000.json",
+				"place_type": "poi",
+				"name": "Slackwood School",
+				"full_name": "Slackwood School",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.73961912596909,
+								40.251346031343836
+							],
+							[
+								-74.73961912596909,
+								40.251346031343836
+							],
+							[
+								-74.73961912596909,
+								40.251346031343836
+							],
+							[
+								-74.73961912596909,
+								40.251346031343836
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very cool!  I'll be swinging by in about 45 minutes to contribute. #LTPS #ArtsEdNow https://t.co/5NCfwPBOGB"
+	},
+	{
+		"created_at": "Thu Oct 25 12:55:21 +0000 2018",
+		"id": 1055442691935404000,
+		"id_str": "1055442691935404033",
+		"full_text": "75% done with If Beale Street Could Talk, by James Baldwin https://t.co/HdEnbllpPI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HdEnbllpPI",
+					"expanded_url": "https://goodreads.com/user_status/show/193586961",
+					"display_url": "goodreads.com/user_status/sh…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.goodreads.com\" rel=\"nofollow\">Goodreads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3252,
+			"friends_count": 1515,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1630,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31375,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "75% done with If Beale Street Could Talk, by James Baldwin https://t.co/HdEnbllpPI"
+	},
+	{
 		"created_at": "Wed Oct 24 23:35:28 +0000 2018",
 		"id": 1055241395013853200,
 		"id_str": "1055241395013853184",
