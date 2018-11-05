@@ -1,6 +1,659 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 05 00:25:49 +0000 2018",
+		"id": 1059240330799824900,
+		"id_str": "1059240330799824896",
+		"full_text": "I can't say there are many things I have done for 15 straight years of my life. I think it's pretty much 'be alive', 'be a college graduate', 'be employed', and now I can add 'be married to my best friend' to that short list. https://t.co/qHpiUWRSC6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1059240329604411400,
+					"id_str": "1059240329604411393",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/DrMtd7nWsAE6WVm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrMtd7nWsAE6WVm.jpg",
+					"url": "https://t.co/qHpiUWRSC6",
+					"display_url": "pic.twitter.com/qHpiUWRSC6",
+					"expanded_url": "https://twitter.com/_drdamian/status/1059240330799824896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 378,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059240329604411400,
+					"id_str": "1059240329604411393",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/DrMtd7nWsAE6WVm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrMtd7nWsAE6WVm.jpg",
+					"url": "https://t.co/qHpiUWRSC6",
+					"display_url": "pic.twitter.com/qHpiUWRSC6",
+					"expanded_url": "https://twitter.com/_drdamian/status/1059240330799824896/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 378,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 378,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3252,
+			"friends_count": 1516,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I can't say there are many things I have done for 15 straight years of my life. I think it's pretty much 'be alive', 'be a college graduate', 'be employed', and now I can add 'be married to my best friend' to that short list. https://t.co/qHpiUWRSC6"
+	},
+	{
+		"created_at": "Sun Nov 04 22:22:19 +0000 2018",
+		"id": 1059209252886270000,
+		"id_str": "1059209252886269954",
+		"full_text": "Greetings from Perkasie, PA, about 30 miles north of Philadelphia.  I vote each and every year - because the \"little\" elections undoubtedly inform the \"big\" elections. #WhyIVote2018 #CHCougars. https://t.co/0ZWzBPHbWl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WhyIVote2018",
+					"indices": [
+						168,
+						181
+					]
+				},
+				{
+					"text": "CHCougars",
+					"indices": [
+						182,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0ZWzBPHbWl",
+					"expanded_url": "https://twitter.com/MarkJWestpfahl/status/1059174581284560902",
+					"display_url": "twitter.com/MarkJWestpfahl…",
+					"indices": [
+						194,
+						217
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3252,
+			"friends_count": 1516,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1059174581284560900,
+		"quoted_status_id_str": "1059174581284560902",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0ZWzBPHbWl",
+			"expanded": "https://twitter.com/MarkJWestpfahl/status/1059174581284560902",
+			"display": "twitter.com/MarkJWestpfahl…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 04 20:04:33 +0000 2018",
+			"id": 1059174581284560900,
+			"id_str": "1059174581284560902",
+			"full_text": "The #Election2018 season is nearly over!\n\nBefore it is though, share with my students why you vote. \n\nPlease use both #WhyIVote2018 &amp; #CHCougars \n\nSo, share your thoughts, &amp; then share this tweet! https://t.co/T7rJm52lyS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				204
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Election2018",
+						"indices": [
+							4,
+							17
+						]
+					},
+					{
+						"text": "WhyIVote2018",
+						"indices": [
+							118,
+							131
+						]
+					},
+					{
+						"text": "CHCougars",
+						"indices": [
+							138,
+							148
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1059174563576041500,
+						"id_str": "1059174563576041472",
+						"indices": [
+							205,
+							228
+						],
+						"media_url": "http://pbs.twimg.com/media/DrLxp2EUUAA1Qxy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrLxp2EUUAA1Qxy.jpg",
+						"url": "https://t.co/T7rJm52lyS",
+						"display_url": "pic.twitter.com/T7rJm52lyS",
+						"expanded_url": "https://twitter.com/MarkJWestpfahl/status/1059174581284560902/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 596,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2022,
+								"h": 1004,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 338,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1059174563576041500,
+						"id_str": "1059174563576041472",
+						"indices": [
+							205,
+							228
+						],
+						"media_url": "http://pbs.twimg.com/media/DrLxp2EUUAA1Qxy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DrLxp2EUUAA1Qxy.jpg",
+						"url": "https://t.co/T7rJm52lyS",
+						"display_url": "pic.twitter.com/T7rJm52lyS",
+						"expanded_url": "https://twitter.com/MarkJWestpfahl/status/1059174581284560902/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 596,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2022,
+								"h": 1004,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 338,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 356433076,
+				"id_str": "356433076",
+				"name": "Mark J. Westpfahl",
+				"screen_name": "MarkJWestpfahl",
+				"location": "South Saint Paul, MN",
+				"description": "History teacher, #MNStudies #CHCougars, Dad of 3, Husband, UofM Alum, #MCSS Board, former @ISD199 Board of Ed, '16 & '17 MN Teacher of The Year Semifinalist.",
+				"url": "https://t.co/TJA3BUIyi1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TJA3BUIyi1",
+								"expanded_url": "http://www.spps.org/Domain/539",
+								"display_url": "spps.org/Domain/539",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2705,
+				"friends_count": 1558,
+				"listed_count": 144,
+				"created_at": "Tue Aug 16 21:06:41 +0000 2011",
+				"favourites_count": 26845,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 61866,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1035525846507769856/GAPbRNJD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1035525846507769856/GAPbRNJD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/356433076/1439318849",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Greetings from Perkasie, PA, about 30 miles north of Philadelphia.  I vote each and every year - because the \"little\" elections undoubtedly inform the \"big\" elections. #WhyIVote2018 #CHCougars. https://t.co/0ZWzBPHbWl"
+	},
+	{
+		"created_at": "Sun Nov 04 13:08:08 +0000 2018",
+		"id": 1059069787907784700,
+		"id_str": "1059069787907784705",
+		"full_text": "@MsCloudNBPS @dadamltps @drobish_michael @azuck1 @LTPSSupt_Kasun @CardinalsLHS So glad I could make it!  Thank you for all your hard work this season.",
+		"truncated": false,
+		"display_text_range": [
+			79,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MsCloudNBPS",
+					"name": "Ms. Cloud",
+					"id": 928063526035476500,
+					"id_str": "928063526035476482",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "drobish_michael",
+					"name": "Lawrence High School Bands",
+					"id": 1028402361302233100,
+					"id_str": "1028402361302233090",
+					"indices": [
+						24,
+						40
+					]
+				},
+				{
+					"screen_name": "azuck1",
+					"name": "Andrew Zuckerman",
+					"id": 40480591,
+					"id_str": "40480591",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"screen_name": "LTPSSupt_Kasun",
+					"name": "Ross Kasun",
+					"id": 2314074014,
+					"id_str": "2314074014",
+					"indices": [
+						49,
+						64
+					]
+				},
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						65,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1059064088750424000,
+		"in_reply_to_status_id_str": "1059064088750424064",
+		"in_reply_to_user_id": 928063526035476500,
+		"in_reply_to_user_id_str": "928063526035476482",
+		"in_reply_to_screen_name": "MsCloudNBPS",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3252,
+			"friends_count": 1516,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MsCloudNBPS @dadamltps @drobish_michael @azuck1 @LTPSSupt_Kasun @CardinalsLHS So glad I could make it!  Thank you for all your hard work this season."
+	},
+	{
 		"created_at": "Sat Nov 03 23:17:19 +0000 2018",
 		"id": 1058860706479661000,
 		"id_str": "1058860706479661056",
