@@ -1,6 +1,538 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 05 20:10:01 +0000 2018",
+		"id": 1059538346265972700,
+		"id_str": "1059538346265972737",
+		"full_text": "Well, no WONDER my right foot has been soaked all day. https://t.co/lLiT9b2K1j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1059538344131117000,
+					"id_str": "1059538344131117057",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DrQ8gqPXQAEeqgW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrQ8gqPXQAEeqgW.jpg",
+					"url": "https://t.co/lLiT9b2K1j",
+					"display_url": "pic.twitter.com/lLiT9b2K1j",
+					"expanded_url": "https://twitter.com/_drdamian/status/1059538346265972737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1059538344131117000,
+					"id_str": "1059538344131117057",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/DrQ8gqPXQAEeqgW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrQ8gqPXQAEeqgW.jpg",
+					"url": "https://t.co/lLiT9b2K1j",
+					"display_url": "pic.twitter.com/lLiT9b2K1j",
+					"expanded_url": "https://twitter.com/_drdamian/status/1059538346265972737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3254,
+			"friends_count": 1516,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31414,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well, no WONDER my right foot has been soaked all day. https://t.co/lLiT9b2K1j"
+	},
+	{
+		"created_at": "Mon Nov 05 19:22:00 +0000 2018",
+		"id": 1059526262211989500,
+		"id_str": "1059526262211989504",
+		"full_text": "Thanks to @mecaart for speaking to our LHS art students about studying art in higher education! Thanks also to @carneystudios for arranging this experience for our students. #ArtsEdNow #LTPS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ArtsEdNow",
+					"indices": [
+						174,
+						184
+					]
+				},
+				{
+					"text": "LTPS",
+					"indices": [
+						185,
+						190
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mecaart",
+					"name": "Maine College of Art",
+					"id": 148811789,
+					"id_str": "148811789",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"screen_name": "carneystudios",
+					"name": "Carneystudios",
+					"id": 4808156895,
+					"id_str": "4808156895",
+					"indices": [
+						111,
+						125
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3254,
+			"friends_count": 1516,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1646,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31414,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Thanks to @mecaart for speaking to our LHS art students about studying art in higher education! Thanks also to @carneystudios for arranging this experience for our students. #ArtsEdNow #LTPS"
+	},
+	{
+		"created_at": "Mon Nov 05 16:13:00 +0000 2018",
+		"id": 1059478698032803800,
+		"id_str": "1059478698032803840",
+		"full_text": "New book (“Sharing Your Education Expertise with the World”) cites @alderton_e, Eric Brunsell, &amp; @_drdamian on #educator #TwitterUse https://t.co/4c1v2FzaJu #socialmedia https://t.co/Xoyd2Nh7hq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "educator",
+					"indices": [
+						115,
+						124
+					]
+				},
+				{
+					"text": "TwitterUse",
+					"indices": [
+						125,
+						136
+					]
+				},
+				{
+					"text": "socialmedia",
+					"indices": [
+						161,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alderton_e",
+					"name": "Elizabeth Alderton",
+					"id": 348404114,
+					"id_str": "348404114",
+					"indices": [
+						67,
+						78
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						101,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4c1v2FzaJu",
+					"expanded_url": "https://www.amazon.com/gp/product/0815359365",
+					"display_url": "amazon.com/gp/product/081…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1054596675279286300,
+					"id_str": "1054596675279286272",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/DqKuFrNUcAAzf7Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqKuFrNUcAAzf7Y.jpg",
+					"url": "https://t.co/Xoyd2Nh7hq",
+					"display_url": "pic.twitter.com/Xoyd2Nh7hq",
+					"expanded_url": "https://twitter.com/JennyGRankin/status/1059478698032803840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1418,
+							"h": 854,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 723,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054596675279286300,
+					"id_str": "1054596675279286272",
+					"indices": [
+						174,
+						197
+					],
+					"media_url": "http://pbs.twimg.com/media/DqKuFrNUcAAzf7Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqKuFrNUcAAzf7Y.jpg",
+					"url": "https://t.co/Xoyd2Nh7hq",
+					"display_url": "pic.twitter.com/Xoyd2Nh7hq",
+					"expanded_url": "https://twitter.com/JennyGRankin/status/1059478698032803840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1418,
+							"h": 854,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 723,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1257954620,
+			"id_str": "1257954620",
+			"name": "Jenny G. Rankin, PhD",
+			"screen_name": "JennyGRankin",
+			"location": "Laguna Beach, CA, USA",
+			"description": "Dr. Jenny Grant Rankin: TEDxTalker, author, University of Cambridge Post Doc Masterclass lecturer, educator, edtech/data nerd, keynote speaker, @OTCData, Mensan",
+			"url": "https://t.co/PvujANuB0u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PvujANuB0u",
+							"expanded_url": "http://www.jennyrankin.com",
+							"display_url": "jennyrankin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 941,
+			"friends_count": 309,
+			"listed_count": 124,
+			"created_at": "Sun Mar 10 21:01:30 +0000 2013",
+			"favourites_count": 7096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4355,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877275961045131264/1KY0GO7p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877275961045131264/1KY0GO7p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1257954620/1519843479",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New book (“Sharing Your Education Expertise with the World”) cites @alderton_e, Eric Brunsell, &amp; @_drdamian on #educator #TwitterUse https://t.co/4c1v2FzaJu #socialmedia https://t.co/Xoyd2Nh7hq"
+	},
+	{
 		"created_at": "Mon Nov 05 00:25:49 +0000 2018",
 		"id": 1059240330799824900,
 		"id_str": "1059240330799824896",
