@@ -1,6 +1,514 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Thu Nov 08 00:25:59 +0000 2018",
+		"id": 1060327538801758200,
+		"id_str": "1060327538801758208",
+		"full_text": "And thank you for highlighting bell hooks in your comment - 'Teaching to Transgress' is one of my 'must-reads' I recommend to both aspiring and veteran teachers. https://t.co/qE8mAh0iPP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qE8mAh0iPP",
+					"expanded_url": "https://twitter.com/SheilaTartaglia/status/1060326344515559425",
+					"display_url": "twitter.com/SheilaTartagli…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3256,
+			"friends_count": 1518,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31420,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1060326344515559400,
+		"quoted_status_id_str": "1060326344515559425",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qE8mAh0iPP",
+			"expanded": "https://twitter.com/SheilaTartaglia/status/1060326344515559425",
+			"display": "twitter.com/SheilaTartagli…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 08 00:21:15 +0000 2018",
+			"id": 1060326344515559400,
+			"id_str": "1060326344515559425",
+			"full_text": "Thank you, @EddieArcia, for presenting on the importance of equity &amp; facilitating enlightening activities today at our @LTPS1 Professional Development Day! You brought out the awesomess in all of us! @dadamltps @msafischer @FaykimL @cjwilliamsjr @CardinalsLHS https://t.co/FOdVbkDq8W",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				263
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "EddieArcia",
+						"name": "Eddie Fergus Arcia",
+						"id": 260997256,
+						"id_str": "260997256",
+						"indices": [
+							11,
+							22
+						]
+					},
+					{
+						"screen_name": "LTPS1",
+						"name": "Lawrence Twp Schools",
+						"id": 2178717536,
+						"id_str": "2178717536",
+						"indices": [
+							123,
+							129
+						]
+					},
+					{
+						"screen_name": "dadamltps",
+						"name": "David Adam",
+						"id": 260753316,
+						"id_str": "260753316",
+						"indices": [
+							204,
+							214
+						]
+					},
+					{
+						"screen_name": "msafischer",
+						"name": "Alyson Fischer",
+						"id": 720423019,
+						"id_str": "720423019",
+						"indices": [
+							215,
+							226
+						]
+					},
+					{
+						"screen_name": "FaykimL",
+						"name": "Fay Kim-Lopez",
+						"id": 1013578285773705200,
+						"id_str": "1013578285773705216",
+						"indices": [
+							227,
+							235
+						]
+					},
+					{
+						"screen_name": "cjwilliamsjr",
+						"name": "Cliff Williams",
+						"id": 465193444,
+						"id_str": "465193444",
+						"indices": [
+							236,
+							249
+						]
+					},
+					{
+						"screen_name": "CardinalsLHS",
+						"name": "Lawrence High School",
+						"id": 832085833,
+						"id_str": "832085833",
+						"indices": [
+							250,
+							263
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1060326338324774900,
+						"id_str": "1060326338324774917",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DrcJL9XWwAU5l-T.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrcJL9XWwAU5l-T.jpg",
+						"url": "https://t.co/FOdVbkDq8W",
+						"display_url": "pic.twitter.com/FOdVbkDq8W",
+						"expanded_url": "https://twitter.com/SheilaTartaglia/status/1060326344515559425/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 320,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 320,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 320,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1060326338324774900,
+						"id_str": "1060326338324774917",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DrcJL9XWwAU5l-T.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DrcJL9XWwAU5l-T.jpg",
+						"url": "https://t.co/FOdVbkDq8W",
+						"display_url": "pic.twitter.com/FOdVbkDq8W",
+						"expanded_url": "https://twitter.com/SheilaTartaglia/status/1060326344515559425/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 320,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 480,
+								"h": 320,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 320,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								3,
+								2
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DrcJL9XWwAU5l-T.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 288199491,
+				"id_str": "288199491",
+				"name": "Sheila Tartaglia, MA",
+				"screen_name": "SheilaTartaglia",
+				"location": "New Jersey, USA",
+				"description": "English teacher @CardinalsLHS teaching College Prep scholars how to think critically, write well, & enjoy American & British Literature, & Public Speaking.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1422,
+				"friends_count": 1216,
+				"listed_count": 61,
+				"created_at": "Tue Apr 26 12:25:58 +0000 2011",
+				"favourites_count": 9733,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15319,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1048641959949213696/eyZY5-Dw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048641959949213696/eyZY5-Dw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/288199491/1533152326",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And thank you for highlighting bell hooks in your comment - 'Teaching to Transgress' is one of my 'must-reads' I recommend to both aspiring and veteran teachers. https://t.co/qE8mAh0iPP"
+	},
+	{
+		"created_at": "Thu Nov 08 00:10:59 +0000 2018",
+		"id": 1060323762678194200,
+		"id_str": "1060323762678194176",
+		"full_text": "I appreciate passion for education but maybe the dude tutoring next to me could take it down a few dozen decibels (@ Doylestown District Center Library (Bucks County Free Library) in Doylestown, PA) https://t.co/ENlEPkhZvD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ENlEPkhZvD",
+					"expanded_url": "https://www.swarmapp.com/c/6GlaGixwEjY",
+					"display_url": "swarmapp.com/c/6GlaGixwEjY",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3256,
+			"friends_count": 1518,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31420,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				40.27426536,
+				-75.13018427
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-75.13018427,
+				40.27426536
+			]
+		},
+		"place": {
+			"id": "dd9c503d6c35364b",
+			"url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json",
+			"place_type": "admin",
+			"name": "Pennsylvania",
+			"full_name": "Pennsylvania, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-80.519851,
+							39.719801
+						],
+						[
+							-74.689517,
+							39.719801
+						],
+						[
+							-74.689517,
+							42.516072
+						],
+						[
+							-80.519851,
+							42.516072
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I appreciate passion for education but maybe the dude tutoring next to me could take it down a few dozen decibels (@ Doylestown District Center Library (Bucks County Free Library) in Doylestown, PA) https://t.co/ENlEPkhZvD"
+	},
+	{
 		"created_at": "Tue Nov 06 20:36:52 +0000 2018",
 		"id": 1059907492229062700,
 		"id_str": "1059907492229062656",
