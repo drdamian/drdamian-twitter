@@ -1,6 +1,449 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 09 00:27:36 +0000 2018",
+		"id": 1060690331593785300,
+		"id_str": "1060690331593785345",
+		"full_text": "#TBT: Check out who was at Convention back in 2009: https://t.co/2AySwsCYZ7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TBT",
+					"indices": [
+						0,
+						4
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2AySwsCYZ7",
+					"expanded_url": "http://classroomcloseup.org/segments/high-tech-hall/",
+					"display_url": "classroomcloseup.org/segments/high-…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3256,
+			"friends_count": 1517,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31423,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TBT: Check out who was at Convention back in 2009: https://t.co/2AySwsCYZ7"
+	},
+	{
+		"created_at": "Fri Nov 09 00:14:08 +0000 2018",
+		"id": 1060686943133069300,
+		"id_str": "1060686943133069312",
+		"full_text": "@mskb26 @NJEA @NJEAPreservice Enjoy!  I have many fond memories of convention time.  Make sure to swing by High Tech Hall!",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mskb26",
+					"name": "Kaylee Baldwin",
+					"id": 2765527619,
+					"id_str": "2765527619",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "NJEA",
+					"name": "NJEA",
+					"id": 37974496,
+					"id_str": "37974496",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"screen_name": "NJEAPreservice",
+					"name": "NJEA Preservice",
+					"id": 1566064980,
+					"id_str": "1566064980",
+					"indices": [
+						14,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1060685817767714800,
+		"in_reply_to_status_id_str": "1060685817767714816",
+		"in_reply_to_user_id": 2765527619,
+		"in_reply_to_user_id_str": "2765527619",
+		"in_reply_to_screen_name": "mskb26",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3256,
+			"friends_count": 1517,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31423,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/553008077822115840/koqSlIkp_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mskb26 @NJEA @NJEAPreservice Enjoy!  I have many fond memories of convention time.  Make sure to swing by High Tech Hall!"
+	},
+	{
+		"created_at": "Thu Nov 08 13:49:24 +0000 2018",
+		"id": 1060529725028876300,
+		"id_str": "1060529725028876289",
+		"full_text": "Awesome talking with @DrLRepollet this morning, be sure to find him on the #NJEAconvention floor sometime today &amp; say Hi! @NJEA https://t.co/HGeZNHubbV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NJEAconvention",
+					"indices": [
+						75,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrLRepollet",
+					"name": "Dr. Lamont Repollet",
+					"id": 2892864861,
+					"id_str": "2892864861",
+					"indices": [
+						21,
+						33
+					]
+				},
+				{
+					"screen_name": "NJEA",
+					"name": "NJEA",
+					"id": 37974496,
+					"id_str": "37974496",
+					"indices": [
+						126,
+						131
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1060529714736054300,
+					"id_str": "1060529714736054272",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/DrfCKBiWwAAYxo-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrfCKBiWwAAYxo-.jpg",
+					"url": "https://t.co/HGeZNHubbV",
+					"display_url": "pic.twitter.com/HGeZNHubbV",
+					"expanded_url": "https://twitter.com/mskb26/status/1060529725028876289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060529714736054300,
+					"id_str": "1060529714736054272",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/DrfCKBiWwAAYxo-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrfCKBiWwAAYxo-.jpg",
+					"url": "https://t.co/HGeZNHubbV",
+					"display_url": "pic.twitter.com/HGeZNHubbV",
+					"expanded_url": "https://twitter.com/mskb26/status/1060529725028876289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2765527619,
+			"id_str": "2765527619",
+			"name": "Kaylee Baldwin",
+			"screen_name": "mskb26",
+			"location": "",
+			"description": "6th gr. Inclusion Teacher @LTPS1 l @Google Certified Educator Level1 | tech lover | aiming to inspire!",
+			"url": "https://t.co/fgBi8jRdvo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fgBi8jRdvo",
+							"expanded_url": "http://misskayleebaldwin.weebly.com/",
+							"display_url": "misskayleebaldwin.weebly.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 582,
+			"friends_count": 867,
+			"listed_count": 8,
+			"created_at": "Tue Sep 09 13:31:07 +0000 2014",
+			"favourites_count": 2249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1351,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040397605392576512/4yCa9ovS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040397605392576512/4yCa9ovS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2765527619/1518486511",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Awesome talking with @DrLRepollet this morning, be sure to find him on the #NJEAconvention floor sometime today &amp; say Hi! @NJEA https://t.co/HGeZNHubbV"
+	},
+	{
 		"created_at": "Thu Nov 08 00:25:59 +0000 2018",
 		"id": 1060327538801758200,
 		"id_str": "1060327538801758208",
