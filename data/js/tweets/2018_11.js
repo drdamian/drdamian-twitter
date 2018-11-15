@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 14 10:50:00 +0000 2018",
+		"id": 1062658902834192400,
+		"id_str": "1062658902834192384",
+		"full_text": "On #Twitter &amp; #conferences, @AldertonUWO, @Brunsell &amp; @_DrDamian in @MERLOTorg @JOLT_Journal get cited in new book (“Sharing Your Education Expertise with the World”): https://t.co/4c1v2FzaJu (thank you for these great findings!) https://t.co/747fEPwZZx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"text": "conferences",
+					"indices": [
+						18,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aldertonuwo",
+					"name": "Elizabeth Alderton",
+					"id": 24100891,
+					"id_str": "24100891",
+					"indices": [
+						32,
+						44
+					]
+				},
+				{
+					"screen_name": "Brunsell",
+					"name": "Brunsell",
+					"id": 12030222,
+					"id_str": "12030222",
+					"indices": [
+						46,
+						55
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"screen_name": "MERLOTorg",
+					"name": "MERLOT",
+					"id": 72621255,
+					"id_str": "72621255",
+					"indices": [
+						76,
+						86
+					]
+				},
+				{
+					"screen_name": "JOLT_Journal",
+					"name": "JOLT Journal",
+					"id": 111676200,
+					"id_str": "111676200",
+					"indices": [
+						87,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4c1v2FzaJu",
+					"expanded_url": "https://www.amazon.com/gp/product/0815359365",
+					"display_url": "amazon.com/gp/product/081…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1054228559168852000,
+					"id_str": "1054228559168851968",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/DqFfSf1U0AAu_LK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqFfSf1U0AAu_LK.jpg",
+					"url": "https://t.co/747fEPwZZx",
+					"display_url": "pic.twitter.com/747fEPwZZx",
+					"expanded_url": "https://twitter.com/JennyGRankin/status/1062658902834192384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 712,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 478,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 712,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1054228559168852000,
+					"id_str": "1054228559168851968",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/DqFfSf1U0AAu_LK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DqFfSf1U0AAu_LK.jpg",
+					"url": "https://t.co/747fEPwZZx",
+					"display_url": "pic.twitter.com/747fEPwZZx",
+					"expanded_url": "https://twitter.com/JennyGRankin/status/1062658902834192384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 712,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 478,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 712,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1257954620,
+			"id_str": "1257954620",
+			"name": "Jenny G. Rankin, PhD",
+			"screen_name": "JennyGRankin",
+			"location": "Laguna Beach, CA, USA",
+			"description": "Dr. Jenny Grant Rankin: TEDxTalker, author, University of Cambridge Post Doc Masterclass lecturer, educator, edtech/data nerd, keynote speaker, @OTCData, Mensan",
+			"url": "https://t.co/PvujANuB0u",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PvujANuB0u",
+							"expanded_url": "http://www.jennyrankin.com",
+							"display_url": "jennyrankin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 955,
+			"friends_count": 323,
+			"listed_count": 124,
+			"created_at": "Sun Mar 10 21:01:30 +0000 2013",
+			"favourites_count": 7483,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4532,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877275961045131264/1KY0GO7p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877275961045131264/1KY0GO7p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1257954620/1519843479",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On #Twitter &amp; #conferences, @AldertonUWO, @Brunsell &amp; @_DrDamian in @MERLOTorg @JOLT_Journal get cited in new book (“Sharing Your Education Expertise with the World”): https://t.co/4c1v2FzaJu (thank you for these great findings!) https://t.co/747fEPwZZx"
+	},
+	{
 		"created_at": "Tue Nov 13 23:43:39 +0000 2018",
 		"id": 1062491210764435500,
 		"id_str": "1062491210764435456",
