@@ -1,6 +1,749 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 17 23:17:44 +0000 2018",
+		"id": 1063934241677951000,
+		"id_str": "1063934241677950977",
+		"full_text": "Seeing Whoopi Goldberg tonight! (@ Sands Bethlehem Event Center - @thesbec in Bethlehem, PA) https://t.co/2dup4R3bjz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theSBEC",
+					"name": "Sands Event Center",
+					"id": 376229024,
+					"id_str": "376229024",
+					"indices": [
+						66,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2dup4R3bjz",
+					"expanded_url": "https://www.swarmapp.com/c/kmQmv6Wasi3",
+					"display_url": "swarmapp.com/c/kmQmv6Wasi3",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3249,
+			"friends_count": 1519,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061398638285504515/xpvF5is7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061398638285504515/xpvF5is7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				40.61546468,
+				-75.3589609
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-75.3589609,
+				40.61546468
+			]
+		},
+		"place": {
+			"id": "128ae72e3854b273",
+			"url": "https://api.twitter.com/1.1/geo/id/128ae72e3854b273.json",
+			"place_type": "city",
+			"name": "Bethlehem",
+			"full_name": "Bethlehem, PA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-75.4314,
+							40.578043
+						],
+						[
+							-75.3029926,
+							40.578043
+						],
+						[
+							-75.3029926,
+							40.672508
+						],
+						[
+							-75.4314,
+							40.672508
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seeing Whoopi Goldberg tonight! (@ Sands Bethlehem Event Center - @thesbec in Bethlehem, PA) https://t.co/2dup4R3bjz"
+	},
+	{
+		"created_at": "Sat Nov 17 21:12:27 +0000 2018",
+		"id": 1063902713266737200,
+		"id_str": "1063902713266737152",
+		"full_text": "I was today years old. https://t.co/OhocDcEv76",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OhocDcEv76",
+					"expanded_url": "https://twitter.com/RedorDeadUpdate/status/1063500156098801666",
+					"display_url": "twitter.com/RedorDeadUpdat…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3249,
+			"friends_count": 1519,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31438,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061398638285504515/xpvF5is7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061398638285504515/xpvF5is7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1063500156098801700,
+		"quoted_status_id_str": "1063500156098801666",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OhocDcEv76",
+			"expanded": "https://twitter.com/RedorDeadUpdate/status/1063500156098801666",
+			"display": "twitter.com/RedorDeadUpdat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 16 18:32:50 +0000 2018",
+			"id": 1063500156098801700,
+			"id_str": "1063500156098801666",
+			"full_text": "How old were you when you learnt there’s an 8 in the middle of the 8 diamonds card?🤓 https://t.co/XMhAAPz1j1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				84
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1063500149379485700,
+						"id_str": "1063500149379485696",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DsJPwE5W0AAcMkg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsJPwE5W0AAcMkg.jpg",
+						"url": "https://t.co/XMhAAPz1j1",
+						"display_url": "pic.twitter.com/XMhAAPz1j1",
+						"expanded_url": "https://twitter.com/RedorDeadUpdate/status/1063500156098801666/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 414,
+								"h": 552,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 414,
+								"h": 552,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 414,
+								"h": 552,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1063500149379485700,
+						"id_str": "1063500149379485696",
+						"indices": [
+							85,
+							108
+						],
+						"media_url": "http://pbs.twimg.com/media/DsJPwE5W0AAcMkg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DsJPwE5W0AAcMkg.jpg",
+						"url": "https://t.co/XMhAAPz1j1",
+						"display_url": "pic.twitter.com/XMhAAPz1j1",
+						"expanded_url": "https://twitter.com/RedorDeadUpdate/status/1063500156098801666/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 414,
+								"h": 552,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 414,
+								"h": 552,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 414,
+								"h": 552,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 864144459226894300,
+				"id_str": "864144459226894336",
+				"name": "Red or Dead Update",
+				"screen_name": "RedorDeadUpdate",
+				"location": "",
+				"description": "News, debates, banter and honest opinions, all Liverpool #LFC #ynwa #jft96",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5234,
+				"friends_count": 1505,
+				"listed_count": 8,
+				"created_at": "Mon May 15 15:44:28 +0000 2017",
+				"favourites_count": 8482,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19093,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1027192662410108928/-VOT4Ezh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027192662410108928/-VOT4Ezh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/864144459226894336/1525194286",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 394,
+			"favorite_count": 1125,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was today years old. https://t.co/OhocDcEv76"
+	},
+	{
+		"created_at": "Sat Nov 17 18:35:13 +0000 2018",
+		"id": 1063863144672620500,
+		"id_str": "1063863144672620545",
+		"full_text": "Fabulous time presenting at the #vmea conference. \nSo glad to be sharing to other music Educators about using tech tools like @noteflight @SmartMusic @Flipgrid \nTy to everyone that attended the session. https://t.co/647EJ9xxxU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "vmea",
+					"indices": [
+						32,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "noteflight",
+					"name": "Noteflight",
+					"id": 21032767,
+					"id_str": "21032767",
+					"indices": [
+						126,
+						137
+					]
+				},
+				{
+					"screen_name": "SmartMusic",
+					"name": "SmartMusic",
+					"id": 24016856,
+					"id_str": "24016856",
+					"indices": [
+						138,
+						149
+					]
+				},
+				{
+					"screen_name": "Flipgrid",
+					"name": "Flipgrid",
+					"id": 630608702,
+					"id_str": "630608702",
+					"indices": [
+						150,
+						159
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063862347960246300,
+					"id_str": "1063862347960246272",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/DsOZKzwVYAANzpy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsOZKzwVYAANzpy.jpg",
+					"url": "https://t.co/647EJ9xxxU",
+					"display_url": "pic.twitter.com/647EJ9xxxU",
+					"expanded_url": "https://twitter.com/ClarkLMSmusic/status/1063863144672620545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063862347960246300,
+					"id_str": "1063862347960246272",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/DsOZKzwVYAANzpy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsOZKzwVYAANzpy.jpg",
+					"url": "https://t.co/647EJ9xxxU",
+					"display_url": "pic.twitter.com/647EJ9xxxU",
+					"expanded_url": "https://twitter.com/ClarkLMSmusic/status/1063863144672620545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1063862980285251600,
+					"id_str": "1063862980285251591",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/DsOZvnWXQAc3HLI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsOZvnWXQAc3HLI.jpg",
+					"url": "https://t.co/647EJ9xxxU",
+					"display_url": "pic.twitter.com/647EJ9xxxU",
+					"expanded_url": "https://twitter.com/ClarkLMSmusic/status/1063863144672620545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1063863057565261800,
+					"id_str": "1063863057565261825",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/DsOZ0HPWoAEJufZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsOZ0HPWoAEJufZ.jpg",
+					"url": "https://t.co/647EJ9xxxU",
+					"display_url": "pic.twitter.com/647EJ9xxxU",
+					"expanded_url": "https://twitter.com/ClarkLMSmusic/status/1063863144672620545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1063863106638671900,
+					"id_str": "1063863106638671877",
+					"indices": [
+						203,
+						226
+					],
+					"media_url": "http://pbs.twimg.com/media/DsOZ2-DXcAU-xar.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DsOZ2-DXcAU-xar.jpg",
+					"url": "https://t.co/647EJ9xxxU",
+					"display_url": "pic.twitter.com/647EJ9xxxU",
+					"expanded_url": "https://twitter.com/ClarkLMSmusic/status/1063863144672620545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 249202165,
+			"id_str": "249202165",
+			"name": "Mrs. Clark",
+			"screen_name": "ClarkLMSmusic",
+			"location": "Lawrenceville, NJ",
+			"description": "Orchestra director at Lawrence Middle school and Lawrence Intermediate School.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 961,
+			"friends_count": 1213,
+			"listed_count": 35,
+			"created_at": "Tue Feb 08 15:51:28 +0000 2011",
+			"favourites_count": 23395,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2494,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048313915346767874/YIP7fevx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048313915346767874/YIP7fevx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/249202165/1528573386",
+			"profile_link_color": "2B0514",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fabulous time presenting at the #vmea conference. \nSo glad to be sharing to other music Educators about using tech tools like @noteflight @SmartMusic @Flipgrid \nTy to everyone that attended the session. https://t.co/647EJ9xxxU"
+	},
+	{
 		"created_at": "Fri Nov 16 01:39:31 +0000 2018",
 		"id": 1063245145007632400,
 		"id_str": "1063245145007632384",
