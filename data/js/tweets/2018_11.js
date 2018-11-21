@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 20 13:59:08 +0000 2018",
+		"id": 1064880826519863300,
+		"id_str": "1064880826519863298",
+		"full_text": "cc @mhayes611 https://t.co/l2DPzDOA8k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhayes611",
+					"name": "Maureen Hayes",
+					"id": 47032216,
+					"id_str": "47032216",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/l2DPzDOA8k",
+					"expanded_url": "https://twitter.com/debreese/status/1064868572441296896",
+					"display_url": "twitter.com/debreese/statu…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3251,
+			"friends_count": 1520,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1664,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31439,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061398638285504515/xpvF5is7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061398638285504515/xpvF5is7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1064868572441296900,
+		"quoted_status_id_str": "1064868572441296896",
+		"quoted_status_permalink": {
+			"url": "https://t.co/l2DPzDOA8k",
+			"expanded": "https://twitter.com/debreese/status/1064868572441296896",
+			"display": "twitter.com/debreese/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 20 13:10:26 +0000 2018",
+			"id": 1064868572441296900,
+			"id_str": "1064868572441296896",
+			"full_text": "Today's @washingtonpost has an article about these reenactments. I wish every administrator in every school would print it and put it in teacher's mailboxes. I wish every librarian would use it to create a program for teachers in their schools. https://t.co/JoaZSRPvx7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				268
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "washingtonpost",
+						"name": "The Washington Post",
+						"id": 2467791,
+						"id_str": "2467791",
+						"indices": [
+							8,
+							23
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JoaZSRPvx7",
+						"expanded_url": "https://www.washingtonpost.com/lifestyle/2018/11/20/making-indian-headdresses-school-is-terrible-way-teach-kids-about-thanksgiving/?utm_term=.247cf040079f",
+						"display_url": "washingtonpost.com/lifestyle/2018…",
+						"indices": [
+							245,
+							268
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1064864778164801500,
+			"in_reply_to_status_id_str": "1064864778164801538",
+			"in_reply_to_user_id": 19234329,
+			"in_reply_to_user_id_str": "19234329",
+			"in_reply_to_screen_name": "debreese",
+			"user": {
+				"id": 19234329,
+				"id_str": "19234329",
+				"name": "Dr. Debbie Reese",
+				"screen_name": "debreese",
+				"location": "Nambe Pueblo",
+				"description": "Tribally enrolled: Nambe Pueblo. Founder: American Indians in Children's Literature. \n\nPhD Education; MLIS. \n\nALA's 2019 Arbuthnot Lecturer. \n\nShe/her/hers.",
+				"url": "https://t.co/NVQ6HsQuy1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NVQ6HsQuy1",
+								"expanded_url": "http://americanindiansinchildrensliterature.net",
+								"display_url": "…ricanindiansinchildrensliterature.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21133,
+				"friends_count": 1877,
+				"listed_count": 561,
+				"created_at": "Tue Jan 20 12:46:28 +0000 2009",
+				"favourites_count": 15016,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 52341,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/810208342392061952/c-IXpK2c_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/810208342392061952/c-IXpK2c_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19234329/1397522755",
+				"profile_link_color": "010101",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 144,
+			"favorite_count": 195,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "cc @mhayes611 https://t.co/l2DPzDOA8k"
+	},
+	{
 		"created_at": "Sat Nov 17 23:17:44 +0000 2018",
 		"id": 1063934241677951000,
 		"id_str": "1063934241677950977",
