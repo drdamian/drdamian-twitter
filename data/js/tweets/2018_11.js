@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Mon Nov 26 19:17:52 +0000 2018",
+		"id": 1067135366291963900,
+		"id_str": "1067135366291963905",
+		"full_text": "Interesting! @DrMPancoast @Mrs_Cramer @LMSNation @LMSNationAP @stamglish #LTPS https://t.co/OMiXoTCn6S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						73,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrMPancoast",
+					"name": "Mary Pancoast",
+					"id": 4048694559,
+					"id_str": "4048694559",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "Mrs_Cramer",
+					"name": "Eileen Cramer",
+					"id": 250131255,
+					"id_str": "250131255",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "LMSNation",
+					"name": "LMS Nation",
+					"id": 309632193,
+					"id_str": "309632193",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"screen_name": "LMSNationAP",
+					"name": "Lou Solomon",
+					"id": 1033070147400073200,
+					"id_str": "1033070147400073217",
+					"indices": [
+						49,
+						61
+					]
+				},
+				{
+					"screen_name": "stamglish",
+					"name": "Jon-Erik Stamatelos",
+					"id": 2851553152,
+					"id_str": "2851553152",
+					"indices": [
+						62,
+						72
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OMiXoTCn6S",
+					"expanded_url": "https://twitter.com/ericafox84/status/1066848473763450880",
+					"display_url": "twitter.com/ericafox84/sta…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3252,
+			"friends_count": 1522,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31441,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061398638285504515/xpvF5is7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061398638285504515/xpvF5is7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1066848473763450900,
+		"quoted_status_id_str": "1066848473763450880",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OMiXoTCn6S",
+			"expanded": "https://twitter.com/ericafox84/status/1066848473763450880",
+			"display": "twitter.com/ericafox84/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 26 00:17:51 +0000 2018",
+			"id": 1066848473763450900,
+			"id_str": "1066848473763450880",
+			"full_text": "Looking for a class of 7th graders who want to share book reviews with my students on @flipgrid and vise versa. I would love to open up the conversation outside of our 4 walls. @alabama_amle @amle @AlabamaLiteracy #Reading #iteachmiddleschool #alamle #middleschoolmatters",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Reading",
+						"indices": [
+							214,
+							222
+						]
+					},
+					{
+						"text": "iteachmiddleschool",
+						"indices": [
+							223,
+							242
+						]
+					},
+					{
+						"text": "alamle",
+						"indices": [
+							243,
+							250
+						]
+					},
+					{
+						"text": "middleschoolmatters",
+						"indices": [
+							251,
+							271
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Flipgrid",
+						"name": "Flipgrid",
+						"id": 630608702,
+						"id_str": "630608702",
+						"indices": [
+							86,
+							95
+						]
+					},
+					{
+						"screen_name": "alabama_amle",
+						"name": "ALAMLE",
+						"id": 911598408506515500,
+						"id_str": "911598408506515460",
+						"indices": [
+							177,
+							190
+						]
+					},
+					{
+						"screen_name": "AMLE",
+						"name": "AMLE",
+						"id": 309214242,
+						"id_str": "309214242",
+						"indices": [
+							191,
+							196
+						]
+					},
+					{
+						"screen_name": "AlabamaLiteracy",
+						"name": "Alabama Literacy Asso",
+						"id": 2615585642,
+						"id_str": "2615585642",
+						"indices": [
+							197,
+							213
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 794539273701752800,
+				"id_str": "794539273701752833",
+				"name": "Erica Fox",
+				"screen_name": "ericafox84",
+				"location": "Hoover, AL",
+				"description": "Middle School ELA Teacher. Mother! Life-long Learner. ALAMLE Secretary. @alabama_amle #alamle #middleschoolmatters #iteachmiddleschool",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 237,
+				"friends_count": 373,
+				"listed_count": 6,
+				"created_at": "Fri Nov 04 13:58:19 +0000 2016",
+				"favourites_count": 2167,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1065,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/914870693170257921/tbJ4UzSp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/914870693170257921/tbJ4UzSp_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 62,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting! @DrMPancoast @Mrs_Cramer @LMSNation @LMSNationAP @stamglish #LTPS https://t.co/OMiXoTCn6S"
+	},
+	{
 		"created_at": "Thu Nov 22 00:15:43 +0000 2018",
 		"id": 1065398385866432500,
 		"id_str": "1065398385866432512",
