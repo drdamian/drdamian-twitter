@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 30 18:29:05 +0000 2018",
+		"id": 1068572640162533400,
+		"id_str": "1068572640162533379",
+		"full_text": "Enjoying spending time today with pre-service teachers/ed majors from @Princeton University and listening to them discuss high school teaching with LHS teachers, administrators, and students.  Thank you for joining us today! #LTPS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						225,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Princeton",
+					"name": "Princeton University",
+					"id": 5694822,
+					"id_str": "5694822",
+					"indices": [
+						70,
+						80
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3250,
+			"friends_count": 1520,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31447,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061398638285504515/xpvF5is7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061398638285504515/xpvF5is7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Enjoying spending time today with pre-service teachers/ed majors from @Princeton University and listening to them discuss high school teaching with LHS teachers, administrators, and students.  Thank you for joining us today! #LTPS"
+	},
+	{
+		"created_at": "Fri Nov 30 03:53:35 +0000 2018",
+		"id": 1068352314862383100,
+		"id_str": "1068352314862383105",
+		"full_text": "Hey #LTPS - particularly LMS and LHS folks - please see below for an opportunity to participate in doctoral dissertation research.  TIA. https://t.co/Zz0LdDLuYf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						4,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zz0LdDLuYf",
+					"expanded_url": "https://twitter.com/mitchellsensei/status/1068351735536734214",
+					"display_url": "twitter.com/mitchellsensei…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3250,
+			"friends_count": 1520,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31447,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061398638285504515/xpvF5is7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061398638285504515/xpvF5is7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1068351735536734200,
+		"quoted_status_id_str": "1068351735536734214",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Zz0LdDLuYf",
+			"expanded": "https://twitter.com/mitchellsensei/status/1068351735536734214",
+			"display": "twitter.com/mitchellsensei…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 30 03:51:17 +0000 2018",
+			"id": 1068351735536734200,
+			"id_str": "1068351735536734214",
+			"full_text": "#njed #edchat #edtechchat I am looking for MS &amp; HS Ts in a 1:1 to provide their input for my my doctoral dissertation study at Seton Hall University. Click below to provide your input on innovation in a 1:1 if you're a MS/HS teacher.\n https://t.co/77FuqNhA7a",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				262
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "njed",
+						"indices": [
+							0,
+							5
+						]
+					},
+					{
+						"text": "edchat",
+						"indices": [
+							6,
+							13
+						]
+					},
+					{
+						"text": "edtechchat",
+						"indices": [
+							14,
+							25
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/77FuqNhA7a",
+						"expanded_url": "http://blogs.shu.edu/mitchemi/letter-of-solicitation-2/",
+						"display_url": "blogs.shu.edu/mitchemi/lette…",
+						"indices": [
+							239,
+							262
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 59960328,
+				"id_str": "59960328",
+				"name": "Michael Mitchell",
+				"screen_name": "mitchellsensei",
+				"location": "New Jersey, USA",
+				"description": "Dad, Husband, Director of Instructional Innovation #AtTheRox, #NJECC Trustee, Co-Founder @edtechfest #hcedtech18, 日本語教師",
+				"url": "https://t.co/7425dATefk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7425dATefk",
+								"expanded_url": "http://firstemptyyourcup.wordpress.com/",
+								"display_url": "firstemptyyourcup.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1322,
+				"friends_count": 464,
+				"listed_count": 135,
+				"created_at": "Sat Jul 25 02:50:59 +0000 2009",
+				"favourites_count": 1901,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5729,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1040882239565910021/IXmv6NnN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040882239565910021/IXmv6NnN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/59960328/1537064249",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey #LTPS - particularly LMS and LHS folks - please see below for an opportunity to participate in doctoral dissertation research.  TIA. https://t.co/Zz0LdDLuYf"
+	},
+	{
 		"created_at": "Thu Nov 29 23:14:19 +0000 2018",
 		"id": 1068282033317793800,
 		"id_str": "1068282033317793792",
