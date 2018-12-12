@@ -1,6 +1,2251 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Tue Dec 11 20:33:31 +0000 2018",
+		"id": 1072590224503570400,
+		"id_str": "1072590224503570438",
+		"full_text": "cc @mhayes611 https://t.co/jNHL9h3zaY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhayes611",
+					"name": "Maureen Hayes",
+					"id": 47032216,
+					"id_str": "47032216",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jNHL9h3zaY",
+					"expanded_url": "https://twitter.com/babies2bookworm/status/1070649406918144000",
+					"display_url": "twitter.com/babies2bookwor…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3249,
+			"friends_count": 1521,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31478,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1070649406918144000,
+		"quoted_status_id_str": "1070649406918144000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jNHL9h3zaY",
+			"expanded": "https://twitter.com/babies2bookworm/status/1070649406918144000",
+			"display": "twitter.com/babies2bookwor…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 06 12:01:24 +0000 2018",
+			"id": 1070649406918144000,
+			"id_str": "1070649406918144000",
+			"full_text": "Teach kids about Kwanzaa with these children's books! &gt;&gt; https://t.co/dVRZ8RpEoZ &lt;&lt; #kidsbooks #kidlit #kwanzaa https://t.co/kAvUj20bKh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				123
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "kidsbooks",
+						"indices": [
+							96,
+							106
+						]
+					},
+					{
+						"text": "kidlit",
+						"indices": [
+							107,
+							114
+						]
+					},
+					{
+						"text": "kwanzaa",
+						"indices": [
+							115,
+							123
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dVRZ8RpEoZ",
+						"expanded_url": "https://www.babiestobookworms.com/2018/12/06/childrens-books-about-kwanzaa/",
+						"display_url": "babiestobookworms.com/2018/12/06/chi…",
+						"indices": [
+							63,
+							86
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1070649405424984000,
+						"id_str": "1070649405424984069",
+						"indices": [
+							124,
+							147
+						],
+						"media_url": "http://pbs.twimg.com/media/Dtu19jFW4AUqgGg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dtu19jFW4AUqgGg.jpg",
+						"url": "https://t.co/kAvUj20bKh",
+						"display_url": "pic.twitter.com/kAvUj20bKh",
+						"expanded_url": "https://twitter.com/babies2bookworm/status/1070649406918144000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 356,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 356,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1070649405424984000,
+						"id_str": "1070649405424984069",
+						"indices": [
+							124,
+							147
+						],
+						"media_url": "http://pbs.twimg.com/media/Dtu19jFW4AUqgGg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dtu19jFW4AUqgGg.jpg",
+						"url": "https://t.co/kAvUj20bKh",
+						"display_url": "pic.twitter.com/kAvUj20bKh",
+						"expanded_url": "https://twitter.com/babies2bookworm/status/1070649406918144000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 356,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 356,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.crowdfireapp.com\" rel=\"nofollow\">Crowdfire - Go Big</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 786611672517488600,
+				"id_str": "786611672517488640",
+				"name": "Babies to Bookworms",
+				"screen_name": "babies2bookworm",
+				"location": "",
+				"description": "Mom & Former Teacher sharing book reviews, kids activities, and tips for families to find #learning opportunities in every day!",
+				"url": "https://t.co/lTVBAeJzSx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lTVBAeJzSx",
+								"expanded_url": "http://www.babiestobookworms.com",
+								"display_url": "babiestobookworms.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6284,
+				"friends_count": 5139,
+				"listed_count": 193,
+				"created_at": "Thu Oct 13 16:56:52 +0000 2016",
+				"favourites_count": 12125,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12929,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/786612222445355009/d2-mvMs1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/786612222445355009/d2-mvMs1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/786611672517488640/1530987958",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "cc @mhayes611 https://t.co/jNHL9h3zaY"
+	},
+	{
+		"created_at": "Tue Dec 11 20:32:48 +0000 2018",
+		"id": 1072590042856652800,
+		"id_str": "1072590042856652800",
+		"full_text": "cc @mhayes611 https://t.co/Q2GEE3qlKn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhayes611",
+					"name": "Maureen Hayes",
+					"id": 47032216,
+					"id_str": "47032216",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q2GEE3qlKn",
+					"expanded_url": "https://twitter.com/roesolo/status/1071087181417078785",
+					"display_url": "twitter.com/roesolo/status…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3249,
+			"friends_count": 1521,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31478,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1071087181417078800,
+		"quoted_status_id_str": "1071087181417078785",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Q2GEE3qlKn",
+			"expanded": "https://twitter.com/roesolo/status/1071087181417078785",
+			"display": "twitter.com/roesolo/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 07 17:00:58 +0000 2018",
+			"id": 1071087181417078800,
+			"id_str": "1071087181417078785",
+			"full_text": "Kwanzaa Books to brighten your holidays! https://t.co/vNI5O7N68Z https://t.co/KDzs3khXsO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				64
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/vNI5O7N68Z",
+						"expanded_url": "https://momreadit.wordpress.com/2018/12/07/kwanzaa-books-to-brighten-your-holidays/",
+						"display_url": "momreadit.wordpress.com/2018/12/07/kwa…",
+						"indices": [
+							41,
+							64
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1071087179747647500,
+						"id_str": "1071087179747647488",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/Dt1EHXhVYAAJdAA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dt1EHXhVYAAJdAA.jpg",
+						"url": "https://t.co/KDzs3khXsO",
+						"display_url": "pic.twitter.com/KDzs3khXsO",
+						"expanded_url": "https://twitter.com/roesolo/status/1071087181417078785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1071087179747647500,
+						"id_str": "1071087179747647488",
+						"indices": [
+							65,
+							88
+						],
+						"media_url": "http://pbs.twimg.com/media/Dt1EHXhVYAAJdAA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dt1EHXhVYAAJdAA.jpg",
+						"url": "https://t.co/KDzs3khXsO",
+						"display_url": "pic.twitter.com/KDzs3khXsO",
+						"expanded_url": "https://twitter.com/roesolo/status/1071087181417078785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16873482,
+				"id_str": "16873482",
+				"name": "roesolo",
+				"screen_name": "roesolo",
+				"location": "New York",
+				"description": "Children's librarian, nerd, mom, bibliomaniac, knitter. Review children's and YA at https://t.co/Yfi68YZrHM. Co-founder & editor, @ONWnet. Opinions are my own.",
+				"url": "https://t.co/zKotS6YHzz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zKotS6YHzz",
+								"expanded_url": "http://momreadit.wordpress.com",
+								"display_url": "momreadit.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Yfi68YZrHM",
+								"expanded_url": "http://MomReadIt.WordPress.com",
+								"display_url": "MomReadIt.WordPress.com",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1315,
+				"friends_count": 1627,
+				"listed_count": 76,
+				"created_at": "Mon Oct 20 19:47:21 +0000 2008",
+				"favourites_count": 17150,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15973,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F2EEEF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/726057770965864448/0AJebt0-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/726057770965864448/0AJebt0-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16873482/1537296179",
+				"profile_link_color": "7B8894",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FAFAFA",
+				"profile_text_color": "8F2E2E",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "cc @mhayes611 https://t.co/Q2GEE3qlKn"
+	},
+	{
+		"created_at": "Tue Dec 11 20:32:28 +0000 2018",
+		"id": 1072589958605652000,
+		"id_str": "1072589958605651969",
+		"full_text": "cc @mhayes611 https://t.co/XmCckPwQHB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhayes611",
+					"name": "Maureen Hayes",
+					"id": 47032216,
+					"id_str": "47032216",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XmCckPwQHB",
+					"expanded_url": "https://twitter.com/BCBooksAuthors/status/1071750251617402880",
+					"display_url": "twitter.com/BCBooksAuthors…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3249,
+			"friends_count": 1521,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31478,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1071750251617402900,
+		"quoted_status_id_str": "1071750251617402880",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XmCckPwQHB",
+			"expanded": "https://twitter.com/BCBooksAuthors/status/1071750251617402880",
+			"display": "twitter.com/BCBooksAuthors…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 09 12:55:46 +0000 2018",
+			"id": 1071750251617402900,
+			"id_str": "1071750251617402880",
+			"full_text": "📚Need #Christmas and #Kwanzaa stories for holidays?\n\nCheck out this link👇🏿 \n\n🌟25 Christmas and Kwanzaa Books for the Season🌟\nhttps://t.co/rkYjEROtKr\n\n#PictureBooks #HolidayBooks #OurStoriesMatter https://t.co/5umf7JL5St",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				195
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Christmas",
+						"indices": [
+							6,
+							16
+						]
+					},
+					{
+						"text": "Kwanzaa",
+						"indices": [
+							21,
+							29
+						]
+					},
+					{
+						"text": "PictureBooks",
+						"indices": [
+							150,
+							163
+						]
+					},
+					{
+						"text": "HolidayBooks",
+						"indices": [
+							164,
+							177
+						]
+					},
+					{
+						"text": "OurStoriesMatter",
+						"indices": [
+							178,
+							195
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rkYjEROtKr",
+						"expanded_url": "http://bcbooksandauthors.com/25-christmas-and-kwanzaa-books-for-the-season/",
+						"display_url": "bcbooksandauthors.com/25-christmas-a…",
+						"indices": [
+							125,
+							148
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1071749963409846300,
+						"id_str": "1071749963409846273",
+						"indices": [
+							196,
+							219
+						],
+						"media_url": "http://pbs.twimg.com/media/Dt-e6dEU8AEP0P2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dt-e6dEU8AEP0P2.jpg",
+						"url": "https://t.co/5umf7JL5St",
+						"display_url": "pic.twitter.com/5umf7JL5St",
+						"expanded_url": "https://twitter.com/BCBooksAuthors/status/1071750251617402880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1071749963409846300,
+						"id_str": "1071749963409846273",
+						"indices": [
+							196,
+							219
+						],
+						"media_url": "http://pbs.twimg.com/media/Dt-e6dEU8AEP0P2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dt-e6dEU8AEP0P2.jpg",
+						"url": "https://t.co/5umf7JL5St",
+						"display_url": "pic.twitter.com/5umf7JL5St",
+						"expanded_url": "https://twitter.com/BCBooksAuthors/status/1071750251617402880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3230813689,
+				"id_str": "3230813689",
+				"name": "BCBA",
+				"screen_name": "BCBooksAuthors",
+				"location": "Memphis, USA",
+				"description": "📚✍🏿The mission of Black Children's Books and Authors is to promote awareness of children’s and young adult literature by Black authors. #OurStoriesMatter",
+				"url": "http://t.co/nKR0zBU2n4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/nKR0zBU2n4",
+								"expanded_url": "http://bcbooksandauthors.com",
+								"display_url": "bcbooksandauthors.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5063,
+				"friends_count": 5046,
+				"listed_count": 130,
+				"created_at": "Sat May 30 14:31:49 +0000 2015",
+				"favourites_count": 8510,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14581,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/950981605543178241/jWOfK5FQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/950981605543178241/jWOfK5FQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3230813689/1461004086",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "cc @mhayes611 https://t.co/XmCckPwQHB"
+	},
+	{
+		"created_at": "Tue Dec 11 20:32:01 +0000 2018",
+		"id": 1072589844705087500,
+		"id_str": "1072589844705087488",
+		"full_text": "cc @mhayes611 https://t.co/oIvWL23kyZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mhayes611",
+					"name": "Maureen Hayes",
+					"id": 47032216,
+					"id_str": "47032216",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oIvWL23kyZ",
+					"expanded_url": "https://twitter.com/SubbingMama/status/1072562303852314624",
+					"display_url": "twitter.com/SubbingMama/st…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3249,
+			"friends_count": 1521,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31478,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1072562303852314600,
+		"quoted_status_id_str": "1072562303852314624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oIvWL23kyZ",
+			"expanded": "https://twitter.com/SubbingMama/status/1072562303852314624",
+			"display": "twitter.com/SubbingMama/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 11 18:42:35 +0000 2018",
+			"id": 1072562303852314600,
+			"id_str": "1072562303852314624",
+			"full_text": "A few great #Kwanzaa books for kids. #picturebooks #holidays https://t.co/XzVzVIFc4D",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Kwanzaa",
+						"indices": [
+							12,
+							20
+						]
+					},
+					{
+						"text": "picturebooks",
+						"indices": [
+							37,
+							50
+						]
+					},
+					{
+						"text": "holidays",
+						"indices": [
+							51,
+							60
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1072562258524422100,
+						"id_str": "1072562258524422144",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/DuKBsQLWwAAOBWn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuKBsQLWwAAOBWn.jpg",
+						"url": "https://t.co/XzVzVIFc4D",
+						"display_url": "pic.twitter.com/XzVzVIFc4D",
+						"expanded_url": "https://twitter.com/SubbingMama/status/1072562303852314624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1077,
+								"h": 1077,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1077,
+								"h": 1077,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1072562258524422100,
+						"id_str": "1072562258524422144",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/DuKBsQLWwAAOBWn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuKBsQLWwAAOBWn.jpg",
+						"url": "https://t.co/XzVzVIFc4D",
+						"display_url": "pic.twitter.com/XzVzVIFc4D",
+						"expanded_url": "https://twitter.com/SubbingMama/status/1072562303852314624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1077,
+								"h": 1077,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1077,
+								"h": 1077,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1072562277092651000,
+						"id_str": "1072562277092651008",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/DuKBtVWXcAAwGKs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuKBtVWXcAAwGKs.jpg",
+						"url": "https://t.co/XzVzVIFc4D",
+						"display_url": "pic.twitter.com/XzVzVIFc4D",
+						"expanded_url": "https://twitter.com/SubbingMama/status/1072562303852314624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1072562293395873800,
+						"id_str": "1072562293395873792",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/DuKBuSFW4AAHIO1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuKBuSFW4AAHIO1.jpg",
+						"url": "https://t.co/XzVzVIFc4D",
+						"display_url": "pic.twitter.com/XzVzVIFc4D",
+						"expanded_url": "https://twitter.com/SubbingMama/status/1072562303852314624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 844,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 844,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 574,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1072562300693946400,
+						"id_str": "1072562300693946368",
+						"indices": [
+							61,
+							84
+						],
+						"media_url": "http://pbs.twimg.com/media/DuKButRWoAAu_P5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuKButRWoAAu_P5.jpg",
+						"url": "https://t.co/XzVzVIFc4D",
+						"display_url": "pic.twitter.com/XzVzVIFc4D",
+						"expanded_url": "https://twitter.com/SubbingMama/status/1072562303852314624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 318,
+								"h": 318,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 318,
+								"h": 318,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 318,
+								"h": 318,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 894022652662304800,
+				"id_str": "894022652662304768",
+				"name": "Mrs. W",
+				"screen_name": "SubbingMama",
+				"location": "Blythewood, SC",
+				"description": "I teach kids when teachers need a break and I love it! 💚 | 👧🏾Mom | Avid Reader| Book Addict 📚| Traveler 🛫 | Sports Fanatic 🏀🏐🏈",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 548,
+				"friends_count": 634,
+				"listed_count": 6,
+				"created_at": "Sun Aug 06 02:29:45 +0000 2017",
+				"favourites_count": 1217,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1726,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/894037746297307136/2F3RI5xg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/894037746297307136/2F3RI5xg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/894022652662304768/1502213832",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "cc @mhayes611 https://t.co/oIvWL23kyZ"
+	},
+	{
+		"created_at": "Tue Dec 11 20:23:15 +0000 2018",
+		"id": 1072587638106918900,
+		"id_str": "1072587638106918912",
+		"full_text": "Wish I could be there but I will be at my daughter's choral concert tonight.  Go get 'em @JohnsonMusicLHS! #LTPS https://t.co/qMcOQKnjQq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						107,
+						112
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JohnsonMusicLHS",
+					"name": "mandy Johnson",
+					"id": 2682026152,
+					"id_str": "2682026152",
+					"indices": [
+						89,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qMcOQKnjQq",
+					"expanded_url": "https://twitter.com/_drdamian/status/1072476189724426240",
+					"display_url": "twitter.com/_drdamian/stat…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3249,
+			"friends_count": 1521,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31478,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1072476189724426200,
+		"quoted_status_id_str": "1072476189724426240",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qMcOQKnjQq",
+			"expanded": "https://twitter.com/_drdamian/status/1072476189724426240",
+			"display": "twitter.com/_drdamian/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 11 13:00:23 +0000 2018",
+			"id": 1072476189724426200,
+			"id_str": "1072476189724426240",
+			"full_text": "#LTPS winter concert series continues tonight at 7pm with LHS concert choir, ensemble, and madrigal. https://t.co/XG8k1odgd8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTPS",
+						"indices": [
+							0,
+							5
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1072476187824402400,
+						"id_str": "1072476187824402432",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DuIzaR1WsAAIHN4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuIzaR1WsAAIHN4.jpg",
+						"url": "https://t.co/XG8k1odgd8",
+						"display_url": "pic.twitter.com/XG8k1odgd8",
+						"expanded_url": "https://twitter.com/_drdamian/status/1072476189724426240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 814,
+								"h": 425,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 814,
+								"h": 425,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 355,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1072476187824402400,
+						"id_str": "1072476187824402432",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/DuIzaR1WsAAIHN4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuIzaR1WsAAIHN4.jpg",
+						"url": "https://t.co/XG8k1odgd8",
+						"display_url": "pic.twitter.com/XG8k1odgd8",
+						"expanded_url": "https://twitter.com/_drdamian/status/1072476189724426240/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 814,
+								"h": 425,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 814,
+								"h": 425,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 355,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7887852,
+				"id_str": "7887852",
+				"name": "Dr. Damian Bariexca",
+				"screen_name": "_drdamian",
+				"location": "Perkasie, PA USA",
+				"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+				"url": "https://t.co/0mfonM3zAp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0mfonM3zAp",
+								"expanded_url": "http://drdamian.org",
+								"display_url": "drdamian.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3249,
+				"friends_count": 1521,
+				"listed_count": 261,
+				"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+				"favourites_count": 1677,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 31478,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+				"profile_link_color": "000080",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wish I could be there but I will be at my daughter's choral concert tonight.  Go get 'em @JohnsonMusicLHS! #LTPS https://t.co/qMcOQKnjQq"
+	},
+	{
+		"created_at": "Tue Dec 11 20:20:56 +0000 2018",
+		"id": 1072587058047344600,
+		"id_str": "1072587058047344640",
+		"full_text": "cc @LHSMediaCenter https://t.co/yfmTUmPiZZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LHSMediaCenter",
+					"name": "Ewa Dziedzic-Elliott",
+					"id": 796644332,
+					"id_str": "796644332",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yfmTUmPiZZ",
+					"expanded_url": "https://twitter.com/jheller2012/status/1072584604245221376",
+					"display_url": "twitter.com/jheller2012/st…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3249,
+			"friends_count": 1521,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31478,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1072584604245221400,
+		"quoted_status_id_str": "1072584604245221376",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yfmTUmPiZZ",
+			"expanded": "https://twitter.com/jheller2012/status/1072584604245221376",
+			"display": "twitter.com/jheller2012/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 11 20:11:11 +0000 2018",
+			"id": 1072584604245221400,
+			"id_str": "1072584604245221376",
+			"full_text": "Keva problem solving fun @LISShines @LTPS1 @KBurke4242 https://t.co/Pqkjux93wE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				54
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LISShines",
+						"name": "LIS Shines",
+						"id": 1029050872075046900,
+						"id_str": "1029050872075046913",
+						"indices": [
+							25,
+							35
+						]
+					},
+					{
+						"screen_name": "LTPS1",
+						"name": "Lawrence Twp Schools",
+						"id": 2178717536,
+						"id_str": "2178717536",
+						"indices": [
+							36,
+							42
+						]
+					},
+					{
+						"screen_name": "KBurke4242",
+						"name": "Kristin S. Burke",
+						"id": 919282866,
+						"id_str": "919282866",
+						"indices": [
+							43,
+							54
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1072584577431101400,
+						"id_str": "1072584577431101440",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DuKV_YlX4AAzA_X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuKV_YlX4AAzA_X.jpg",
+						"url": "https://t.co/Pqkjux93wE",
+						"display_url": "pic.twitter.com/Pqkjux93wE",
+						"expanded_url": "https://twitter.com/jheller2012/status/1072584604245221376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1072584577431101400,
+						"id_str": "1072584577431101440",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/DuKV_YlX4AAzA_X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuKV_YlX4AAzA_X.jpg",
+						"url": "https://t.co/Pqkjux93wE",
+						"display_url": "pic.twitter.com/Pqkjux93wE",
+						"expanded_url": "https://twitter.com/jheller2012/status/1072584604245221376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1540814376,
+				"id_str": "1540814376",
+				"name": "jheller",
+				"screen_name": "jheller2012",
+				"location": "Lawrenceville, NJ",
+				"description": "Proud mom of 2 beautiful young women  & teacher of gifted children, both my own and the ones I teach. Explorer on Earth #carpediem @ltps1",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 412,
+				"friends_count": 768,
+				"listed_count": 30,
+				"created_at": "Sun Jun 23 12:09:22 +0000 2013",
+				"favourites_count": 4136,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1994,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000033772549/d2e001216cbc1ba9eae69bcacc23a7fe_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000033772549/d2e001216cbc1ba9eae69bcacc23a7fe_normal.jpeg",
+				"profile_link_color": "00B386",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "004fcac6274ef9ca",
+				"url": "https://api.twitter.com/1.1/geo/id/004fcac6274ef9ca.json",
+				"place_type": "city",
+				"name": "Lawrence",
+				"full_name": "Lawrence, NJ",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.762755,
+								40.2398165
+							],
+							[
+								-74.6644118,
+								40.2398165
+							],
+							[
+								-74.6644118,
+								40.3177474
+							],
+							[
+								-74.762755,
+								40.3177474
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "cc @LHSMediaCenter https://t.co/yfmTUmPiZZ"
+	},
+	{
+		"created_at": "Tue Dec 11 13:00:23 +0000 2018",
+		"id": 1072476189724426200,
+		"id_str": "1072476189724426240",
+		"full_text": "#LTPS winter concert series continues tonight at 7pm with LHS concert choir, ensemble, and madrigal. https://t.co/XG8k1odgd8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1072476187824402400,
+					"id_str": "1072476187824402432",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DuIzaR1WsAAIHN4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuIzaR1WsAAIHN4.jpg",
+					"url": "https://t.co/XG8k1odgd8",
+					"display_url": "pic.twitter.com/XG8k1odgd8",
+					"expanded_url": "https://twitter.com/_drdamian/status/1072476189724426240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 814,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 814,
+							"h": 425,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1072476187824402400,
+					"id_str": "1072476187824402432",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DuIzaR1WsAAIHN4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuIzaR1WsAAIHN4.jpg",
+					"url": "https://t.co/XG8k1odgd8",
+					"display_url": "pic.twitter.com/XG8k1odgd8",
+					"expanded_url": "https://twitter.com/_drdamian/status/1072476189724426240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 814,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 814,
+							"h": 425,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3249,
+			"friends_count": 1521,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1677,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31478,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#LTPS winter concert series continues tonight at 7pm with LHS concert choir, ensemble, and madrigal. https://t.co/XG8k1odgd8"
+	},
+	{
 		"created_at": "Mon Dec 10 23:29:26 +0000 2018",
 		"id": 1072272107361460200,
 		"id_str": "1072272107361460227",
