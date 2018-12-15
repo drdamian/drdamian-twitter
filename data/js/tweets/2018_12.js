@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 13 23:12:05 +0000 2018",
+		"id": 1073354902674530300,
+		"id_str": "1073354902674530304",
+		"full_text": "Mary Poppins tap class tonight- So excited with the progress these dancers are making! Can’t wait to see them onstage March 7-9 2019! @_drdamian #ltps #marypoppinslms https://t.co/3nhMW8LWjt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ltps",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "marypoppinslms",
+					"indices": [
+						151,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						134,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3nhMW8LWjt",
+					"expanded_url": "https://twitter.com/bridgetbaill/status/1073328267543896065",
+					"display_url": "twitter.com/bridgetbaill/s…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2385991280,
+			"id_str": "2385991280",
+			"name": "Mrs. O'Boyle",
+			"screen_name": "MrsOboylesClass",
+			"location": "Ben Franklin Elementary School",
+			"description": "Kindergarten Teacher at Ben Franklin and Choreographer for the LMS Drama Club! 📚✏️👯‍♀️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196,
+			"friends_count": 155,
+			"listed_count": 5,
+			"created_at": "Thu Mar 13 00:12:39 +0000 2014",
+			"favourites_count": 294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 410,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068641883814014976/pNgP-1EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068641883814014976/pNgP-1EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2385991280/1409001810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1073328267543896000,
+		"quoted_status_id_str": "1073328267543896065",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3nhMW8LWjt",
+			"expanded": "https://twitter.com/bridgetbaill/status/1073328267543896065",
+			"display": "twitter.com/bridgetbaill/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 13 21:26:15 +0000 2018",
+			"id": 1073328267543896000,
+			"id_str": "1073328267543896065",
+			"full_text": "@MrsOboylesClass @LMSNation Tapping central!!! #tapmagic https://t.co/CGeGlUFelt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				56
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tapmagic",
+						"indices": [
+							47,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MrsOboylesClass",
+						"name": "Mrs. O'Boyle",
+						"id": 2385991280,
+						"id_str": "2385991280",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"screen_name": "LMSNation",
+						"name": "LMS Nation",
+						"id": 309632193,
+						"id_str": "309632193",
+						"indices": [
+							17,
+							27
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1073328243271483400,
+						"id_str": "1073328243271483392",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DuU6WbuXQAApn2k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuU6WbuXQAApn2k.jpg",
+						"url": "https://t.co/CGeGlUFelt",
+						"display_url": "pic.twitter.com/CGeGlUFelt",
+						"expanded_url": "https://twitter.com/Bridgetbaill/status/1073328267543896065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1073328243271483400,
+						"id_str": "1073328243271483392",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DuU6WbuXQAApn2k.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DuU6WbuXQAApn2k.jpg",
+						"url": "https://t.co/CGeGlUFelt",
+						"display_url": "pic.twitter.com/CGeGlUFelt",
+						"expanded_url": "https://twitter.com/Bridgetbaill/status/1073328267543896065/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 2385991280,
+			"in_reply_to_user_id_str": "2385991280",
+			"in_reply_to_screen_name": "MrsOboylesClass",
+			"user": {
+				"id": 343523129,
+				"id_str": "343523129",
+				"name": "Bridget Baill",
+				"screen_name": "Bridgetbaill",
+				"location": "Levittown, Pennsylvania",
+				"description": "Teacher of the beautiful language of FRENCH; Mother of a beautiful son; Wife of a very loving and supportive husband;  FUN GAL in general!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 196,
+				"friends_count": 118,
+				"listed_count": 3,
+				"created_at": "Wed Jul 27 18:07:47 +0000 2011",
+				"favourites_count": 384,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 295,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1475048694/DSC09738-1_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1475048694/DSC09738-1_normal.JPG",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mary Poppins tap class tonight- So excited with the progress these dancers are making! Can’t wait to see them onstage March 7-9 2019! @_drdamian #ltps #marypoppinslms https://t.co/3nhMW8LWjt"
+	},
+	{
+		"created_at": "Fri Dec 14 12:30:32 +0000 2018",
+		"id": 1073555841343742000,
+		"id_str": "1073555841343741953",
+		"full_text": "We wrap up a week of great performances this morning at 9:30am at LES!  #LTPS https://t.co/cf2azWcTJB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						72,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1073555839875776500,
+					"id_str": "1073555839875776514",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/DuYJWTJXgAIzmga.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuYJWTJXgAIzmga.jpg",
+					"url": "https://t.co/cf2azWcTJB",
+					"display_url": "pic.twitter.com/cf2azWcTJB",
+					"expanded_url": "https://twitter.com/_drdamian/status/1073555841343741953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 814,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 814,
+							"h": 425,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1073555839875776500,
+					"id_str": "1073555839875776514",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/DuYJWTJXgAIzmga.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuYJWTJXgAIzmga.jpg",
+					"url": "https://t.co/cf2azWcTJB",
+					"display_url": "pic.twitter.com/cf2azWcTJB",
+					"expanded_url": "https://twitter.com/_drdamian/status/1073555841343741953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 814,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 814,
+							"h": 425,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 355,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3247,
+			"friends_count": 1521,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31495,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We wrap up a week of great performances this morning at 9:30am at LES!  #LTPS https://t.co/cf2azWcTJB"
+	},
+	{
 		"created_at": "Fri Dec 14 00:13:35 +0000 2018",
 		"id": 1073370380348350500,
 		"id_str": "1073370380348350464",
