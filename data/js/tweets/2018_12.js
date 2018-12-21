@@ -1,6 +1,1382 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Thu Dec 20 01:51:44 +0000 2018",
+		"id": 1075569407336824800,
+		"id_str": "1075569407336824832",
+		"full_text": "An enjoyable #winterconcert at @CardinalsLHS @drobish_michael. \nSo nice to see so many of my former #stringplayers still playing. Great job to all involved! #musiced #LTPS https://t.co/byoRBlrXDk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "winterconcert",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"text": "stringplayers",
+					"indices": [
+						100,
+						114
+					]
+				},
+				{
+					"text": "musiced",
+					"indices": [
+						157,
+						165
+					]
+				},
+				{
+					"text": "LTPS",
+					"indices": [
+						166,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "drobish_michael",
+					"name": "Lawrence High School Bands",
+					"id": 1028402361302233100,
+					"id_str": "1028402361302233090",
+					"indices": [
+						45,
+						61
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075569371504734200,
+					"id_str": "1075569371504734208",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Du0wpQ_UcAAIx0Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du0wpQ_UcAAIx0Z.jpg",
+					"url": "https://t.co/byoRBlrXDk",
+					"display_url": "pic.twitter.com/byoRBlrXDk",
+					"expanded_url": "https://twitter.com/ClarkLMSmusic/status/1075569407336824832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075569371504734200,
+					"id_str": "1075569371504734208",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Du0wpQ_UcAAIx0Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du0wpQ_UcAAIx0Z.jpg",
+					"url": "https://t.co/byoRBlrXDk",
+					"display_url": "pic.twitter.com/byoRBlrXDk",
+					"expanded_url": "https://twitter.com/ClarkLMSmusic/status/1075569407336824832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1075569383030714400,
+					"id_str": "1075569383030714368",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Du0wp77U8AA_YmC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du0wp77U8AA_YmC.jpg",
+					"url": "https://t.co/byoRBlrXDk",
+					"display_url": "pic.twitter.com/byoRBlrXDk",
+					"expanded_url": "https://twitter.com/ClarkLMSmusic/status/1075569407336824832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1075569387820597200,
+					"id_str": "1075569387820597248",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Du0wqNxUwAASS-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du0wqNxUwAASS-l.jpg",
+					"url": "https://t.co/byoRBlrXDk",
+					"display_url": "pic.twitter.com/byoRBlrXDk",
+					"expanded_url": "https://twitter.com/ClarkLMSmusic/status/1075569407336824832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1075569396926431200,
+					"id_str": "1075569396926431233",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/Du0wqvsUwAEqnHT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du0wqvsUwAEqnHT.jpg",
+					"url": "https://t.co/byoRBlrXDk",
+					"display_url": "pic.twitter.com/byoRBlrXDk",
+					"expanded_url": "https://twitter.com/ClarkLMSmusic/status/1075569407336824832/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 249202165,
+			"id_str": "249202165",
+			"name": "Mrs. Clark",
+			"screen_name": "ClarkLMSmusic",
+			"location": "Lawrenceville, NJ",
+			"description": "Orchestra director at Lawrence Middle school and Lawrence Intermediate School.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 967,
+			"friends_count": 1236,
+			"listed_count": 35,
+			"created_at": "Tue Feb 08 15:51:28 +0000 2011",
+			"favourites_count": 23937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2542,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048313915346767874/YIP7fevx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048313915346767874/YIP7fevx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/249202165/1528573386",
+			"profile_link_color": "2B0514",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An enjoyable #winterconcert at @CardinalsLHS @drobish_michael. \nSo nice to see so many of my former #stringplayers still playing. Great job to all involved! #musiced #LTPS https://t.co/byoRBlrXDk"
+	},
+	{
+		"created_at": "Thu Dec 20 03:42:24 +0000 2018",
+		"id": 1075597256164814800,
+		"id_str": "1075597256164814848",
+		"full_text": "Some days at school simply take your breath away...@SlackwoodSchool’s #UnitedInDiversity Celebration tonight was one of those times! Many thanks to everyone who participated!! #ltps @SlackwoodART https://t.co/PKh49UdD1m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UnitedInDiversity",
+					"indices": [
+						70,
+						88
+					]
+				},
+				{
+					"text": "ltps",
+					"indices": [
+						176,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SlackwoodSchool",
+					"name": "Slackwood School",
+					"id": 3891670522,
+					"id_str": "3891670522",
+					"indices": [
+						51,
+						67
+					]
+				},
+				{
+					"screen_name": "SlackwoodART",
+					"name": "SW Artists",
+					"id": 2815543584,
+					"id_str": "2815543584",
+					"indices": [
+						182,
+						195
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075597234253660200,
+					"id_str": "1075597234253660160",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/Du1J_F0VAAASdS6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du1J_F0VAAASdS6.jpg",
+					"url": "https://t.co/PKh49UdD1m",
+					"display_url": "pic.twitter.com/PKh49UdD1m",
+					"expanded_url": "https://twitter.com/MuziLearningLab/status/1075597256164814848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075597234253660200,
+					"id_str": "1075597234253660160",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/Du1J_F0VAAASdS6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du1J_F0VAAASdS6.jpg",
+					"url": "https://t.co/PKh49UdD1m",
+					"display_url": "pic.twitter.com/PKh49UdD1m",
+					"expanded_url": "https://twitter.com/MuziLearningLab/status/1075597256164814848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1075597234249453600,
+					"id_str": "1075597234249453568",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/Du1J_FzU0AAgtEs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du1J_FzU0AAgtEs.jpg",
+					"url": "https://t.co/PKh49UdD1m",
+					"display_url": "pic.twitter.com/PKh49UdD1m",
+					"expanded_url": "https://twitter.com/MuziLearningLab/status/1075597256164814848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1075597234241101800,
+					"id_str": "1075597234241101824",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/Du1J_FxVYAAekQ3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du1J_FxVYAAekQ3.jpg",
+					"url": "https://t.co/PKh49UdD1m",
+					"display_url": "pic.twitter.com/PKh49UdD1m",
+					"expanded_url": "https://twitter.com/MuziLearningLab/status/1075597256164814848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1075597234249424900,
+					"id_str": "1075597234249424896",
+					"indices": [
+						196,
+						219
+					],
+					"media_url": "http://pbs.twimg.com/media/Du1J_FzUYAAPKzE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du1J_FzUYAAPKzE.jpg",
+					"url": "https://t.co/PKh49UdD1m",
+					"display_url": "pic.twitter.com/PKh49UdD1m",
+					"expanded_url": "https://twitter.com/MuziLearningLab/status/1075597256164814848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1618799258,
+			"id_str": "1618799258",
+			"name": "Jeanne Muzi",
+			"screen_name": "MuziLearningLab",
+			"location": "New Jersey",
+			"description": "Elementary Principal & Learner- Passion for cultivating curiosity, questioning & creative problem solving skills-NJExcel, Google Certified, Adjunct Prof & NJTOY",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2453,
+			"friends_count": 1650,
+			"listed_count": 77,
+			"created_at": "Wed Jul 24 22:51:37 +0000 2013",
+			"favourites_count": 9237,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4466,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1014495405424463873/COGyzE8e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014495405424463873/COGyzE8e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1618799258/1541026237",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some days at school simply take your breath away...@SlackwoodSchool’s #UnitedInDiversity Celebration tonight was one of those times! Many thanks to everyone who participated!! #ltps @SlackwoodART https://t.co/PKh49UdD1m"
+	},
+	{
+		"created_at": "Thu Dec 20 16:45:25 +0000 2018",
+		"id": 1075794309469880300,
+		"id_str": "1075794309469880320",
+		"full_text": "Congratulations to the 2018 @CardinalsLHS Teacher of the Year - Mr. Rush and ESP of the Year - Ms. Szczeck on their well deserved recognition.  Great representatives of what the Cardinal Spirit is all about!!! @LTPS1 @_drdamian @MicheleDeremer https://t.co/MatcPMxJye",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Twp Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						210,
+						216
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						217,
+						227
+					]
+				},
+				{
+					"screen_name": "MicheleDeremer",
+					"name": "Michele Deremer",
+					"id": 455349910,
+					"id_str": "455349910",
+					"indices": [
+						228,
+						243
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1075793813854130200,
+					"id_str": "1075793813854130177",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/Du38xh5WkAEQn9I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du38xh5WkAEQn9I.jpg",
+					"url": "https://t.co/MatcPMxJye",
+					"display_url": "pic.twitter.com/MatcPMxJye",
+					"expanded_url": "https://twitter.com/dadamltps/status/1075794309469880320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075793813854130200,
+					"id_str": "1075793813854130177",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/Du38xh5WkAEQn9I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du38xh5WkAEQn9I.jpg",
+					"url": "https://t.co/MatcPMxJye",
+					"display_url": "pic.twitter.com/MatcPMxJye",
+					"expanded_url": "https://twitter.com/dadamltps/status/1075794309469880320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1075793915494756400,
+					"id_str": "1075793915494756358",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/Du383ciXcAYr-_N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du383ciXcAYr-_N.jpg",
+					"url": "https://t.co/MatcPMxJye",
+					"display_url": "pic.twitter.com/MatcPMxJye",
+					"expanded_url": "https://twitter.com/dadamltps/status/1075794309469880320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1075793956116594700,
+					"id_str": "1075793956116594688",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/Du385z3XgAAqZFh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Du385z3XgAAqZFh.jpg",
+					"url": "https://t.co/MatcPMxJye",
+					"display_url": "pic.twitter.com/MatcPMxJye",
+					"expanded_url": "https://twitter.com/dadamltps/status/1075794309469880320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 260753316,
+			"id_str": "260753316",
+			"name": "David Adam",
+			"screen_name": "dadamltps",
+			"location": "Lawrence, NJ",
+			"description": "Principal of Lawrence High School",
+			"url": "https://t.co/KETOW12XgE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KETOW12XgE",
+							"expanded_url": "http://www.ltps.org",
+							"display_url": "ltps.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 806,
+			"friends_count": 133,
+			"listed_count": 41,
+			"created_at": "Fri Mar 04 14:40:19 +0000 2011",
+			"favourites_count": 6714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/260753316/1477665508",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations to the 2018 @CardinalsLHS Teacher of the Year - Mr. Rush and ESP of the Year - Ms. Szczeck on their well deserved recognition.  Great representatives of what the Cardinal Spirit is all about!!! @LTPS1 @_drdamian @MicheleDeremer https://t.co/MatcPMxJye"
+	},
+	{
+		"created_at": "Thu Dec 20 16:44:15 +0000 2018",
+		"id": 1075794014664835100,
+		"id_str": "1075794014664835073",
+		"full_text": "Congratulations, Mr. Rush - well deserved!! #LTPS #teched @NJTEEA #njed https://t.co/w4lGe4eU63",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						44,
+						49
+					]
+				},
+				{
+					"text": "teched",
+					"indices": [
+						50,
+						57
+					]
+				},
+				{
+					"text": "njed",
+					"indices": [
+						66,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NJTEEA",
+					"name": "NJTEEA",
+					"id": 68597056,
+					"id_str": "68597056",
+					"indices": [
+						58,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/w4lGe4eU63",
+					"expanded_url": "https://twitter.com/CardinalsLHS/status/1075783620567150596",
+					"display_url": "twitter.com/CardinalsLHS/s…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3248,
+			"friends_count": 1521,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31521,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1075783620567150600,
+		"quoted_status_id_str": "1075783620567150596",
+		"quoted_status_permalink": {
+			"url": "https://t.co/w4lGe4eU63",
+			"expanded": "https://twitter.com/CardinalsLHS/status/1075783620567150596",
+			"display": "twitter.com/CardinalsLHS/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 20 16:02:56 +0000 2018",
+			"id": 1075783620567150600,
+			"id_str": "1075783620567150596",
+			"full_text": "Congratulations to LHS Teacher of the Year Mr. Rush! Well deserved honor to a wonderful educator! @dadamltps @LTPS1 #teacheroftheyear https://t.co/TGIk0ZFj52",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "teacheroftheyear",
+						"indices": [
+							116,
+							133
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dadamltps",
+						"name": "David Adam",
+						"id": 260753316,
+						"id_str": "260753316",
+						"indices": [
+							98,
+							108
+						]
+					},
+					{
+						"screen_name": "LTPS1",
+						"name": "Lawrence Twp Schools",
+						"id": 2178717536,
+						"id_str": "2178717536",
+						"indices": [
+							109,
+							115
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1075783614120509400,
+						"id_str": "1075783614120509441",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/Du3zf07WwAEOLgm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Du3zf07WwAEOLgm.jpg",
+						"url": "https://t.co/TGIk0ZFj52",
+						"display_url": "pic.twitter.com/TGIk0ZFj52",
+						"expanded_url": "https://twitter.com/CardinalsLHS/status/1075783620567150596/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 331,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 584,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 996,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1075783614120509400,
+						"id_str": "1075783614120509441",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/media/Du3zf07WwAEOLgm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Du3zf07WwAEOLgm.jpg",
+						"url": "https://t.co/TGIk0ZFj52",
+						"display_url": "pic.twitter.com/TGIk0ZFj52",
+						"expanded_url": "https://twitter.com/CardinalsLHS/status/1075783620567150596/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 331,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 584,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 996,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 832085833,
+				"id_str": "832085833",
+				"name": "Lawrence High School",
+				"screen_name": "CardinalsLHS",
+				"location": "Lawrenceville, NJ",
+				"description": "2014 NJ State School of Character. Home of the Cardinals. Principal: Dave Adam and Assistant Principals: Fay Lopez, Clifford Williams, Alyson Fischer",
+				"url": "https://t.co/lgrxKNF7ga",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lgrxKNF7ga",
+								"expanded_url": "http://www.ltps.org/HighSchool.cfm",
+								"display_url": "ltps.org/HighSchool.cfm",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1054,
+				"friends_count": 128,
+				"listed_count": 16,
+				"created_at": "Tue Sep 18 23:20:52 +0000 2012",
+				"favourites_count": 777,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1231,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/776179866374995968/CI6XfSYH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/776179866374995968/CI6XfSYH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/832085833/1391362624",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations, Mr. Rush - well deserved!! #LTPS #teched @NJTEEA #njed https://t.co/w4lGe4eU63"
+	},
+	{
+		"created_at": "Thu Dec 20 15:11:34 +0000 2018",
+		"id": 1075770692048568300,
+		"id_str": "1075770692048568321",
+		"full_text": "The martyr model is neither sustainable nor healthy, for teachers or administrators. (h/t @RobertTalbert) https://t.co/HBDziZf4ND",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RobertTalbert",
+					"name": "Robert Talbert",
+					"id": 10461,
+					"id_str": "10461",
+					"indices": [
+						90,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HBDziZf4ND",
+					"expanded_url": "https://hbr.org/2018/12/you-can-be-a-great-leader-and-also-have-a-life",
+					"display_url": "hbr.org/2018/12/you-ca…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3248,
+			"friends_count": 1521,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 31521,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The martyr model is neither sustainable nor healthy, for teachers or administrators. (h/t @RobertTalbert) https://t.co/HBDziZf4ND"
+	},
+	{
 		"created_at": "Wed Dec 19 23:30:14 +0000 2018",
 		"id": 1075533798656352300,
 		"id_str": "1075533798656352258",
