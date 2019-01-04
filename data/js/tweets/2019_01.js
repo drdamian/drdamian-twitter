@@ -214,6 +214,227 @@ Grailbird.data.tweets_2019_01 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations to all 190+ Lawrence students who competed at the DECA District Regional Conference today! Hard work pays off! Huge shout out to all of our chaperones. We couldn’t of done it without you! @LTPS1 @SchneckDiane @CardinalsLHS @MrLehnert2 @MsPalombo @MissSab10 https://t.co/EW76naIo1W"
+	},
+	{
+		"created_at": "Thu Jan 03 23:57:28 +0000 2019",
+		"id": 1080976469285851100,
+		"id_str": "1080976469285851136",
+		"full_text": "Congratulations to all 190+ Lawrence students who competed at the DECA District Regional Conference today! Hard work pays off! Huge shout out to all of our chaperones. We couldn’t of done it without you! @LTPS1 @SchneckDiane @CardinalsLHS @MrLehnert2 @MsPalombo @MissSab10 https://t.co/EW76naIo1W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Twp Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						204,
+						210
+					]
+				},
+				{
+					"screen_name": "SchneckDiane",
+					"name": "Diane Schneck",
+					"id": 4901883603,
+					"id_str": "4901883603",
+					"indices": [
+						211,
+						224
+					]
+				},
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						225,
+						238
+					]
+				},
+				{
+					"screen_name": "MrLehnert2",
+					"name": "Douglas Lehnert",
+					"id": 768981013405978600,
+					"id_str": "768981013405978625",
+					"indices": [
+						239,
+						250
+					]
+				},
+				{
+					"screen_name": "MsPalombo",
+					"name": "Ms. Palombo",
+					"id": 858779476783538200,
+					"id_str": "858779476783538176",
+					"indices": [
+						251,
+						261
+					]
+				},
+				{
+					"screen_name": "MissSab10",
+					"name": "Jeana Sabatini",
+					"id": 751514895179391000,
+					"id_str": "751514895179390976",
+					"indices": [
+						262,
+						272
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1080976459114602500,
+					"id_str": "1080976459114602496",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/DwBmXMAV4AAl-XA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwBmXMAV4AAl-XA.jpg",
+					"url": "https://t.co/EW76naIo1W",
+					"display_url": "pic.twitter.com/EW76naIo1W",
+					"expanded_url": "https://twitter.com/john_tees/status/1080976469285851136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 819,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1398,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1080976459114602500,
+					"id_str": "1080976459114602496",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/DwBmXMAV4AAl-XA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwBmXMAV4AAl-XA.jpg",
+					"url": "https://t.co/EW76naIo1W",
+					"display_url": "pic.twitter.com/EW76naIo1W",
+					"expanded_url": "https://twitter.com/john_tees/status/1080976469285851136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 819,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1398,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 801118345,
+			"id_str": "801118345",
+			"name": "John Tees",
+			"screen_name": "john_tees",
+			"location": "",
+			"description": "High School Business teacher and Co-DECA Advisor In Lawrenceville, NJ. Solely my comments.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61,
+			"friends_count": 89,
+			"listed_count": 1,
+			"created_at": "Mon Sep 03 20:03:32 +0000 2012",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1027031284026167296/YG2v5SJQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1027031284026167296/YG2v5SJQ_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
 		"favorite_count": 4,
 		"favorited": true,
 		"retweeted": true,
