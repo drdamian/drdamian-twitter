@@ -1,6 +1,595 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 07 22:22:29 +0000 2019",
+		"id": 1082402118449930200,
+		"id_str": "1082402118449930240",
+		"full_text": "75% done with The Good Neighbor, by Maxwell King https://t.co/Ekl5nuQrAP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ekl5nuQrAP",
+					"expanded_url": "https://goodreads.com/user_status/show/203006914",
+					"display_url": "goodreads.com/user_status/sh…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.goodreads.com\" rel=\"nofollow\">Goodreads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3242,
+			"friends_count": 1522,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31568,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "75% done with The Good Neighbor, by Maxwell King https://t.co/Ekl5nuQrAP"
+	},
+	{
+		"created_at": "Mon Jan 07 20:07:20 +0000 2019",
+		"id": 1082368106725552100,
+		"id_str": "1082368106725552128",
+		"full_text": "6th grade students made awesome progress on inventions for their extraordinare client projects @BNPrinceton @LISShines @LTPS1 @_drdamian @LTPSSupt_Kasun @littleBits @LEGO_Education https://t.co/EdiBiJB2lU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BNPrinceton",
+					"name": "B&N, Princeton",
+					"id": 4228762318,
+					"id_str": "4228762318",
+					"indices": [
+						95,
+						107
+					]
+				},
+				{
+					"screen_name": "LISShines",
+					"name": "LIS Shines",
+					"id": 1029050872075046900,
+					"id_str": "1029050872075046913",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Twp Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						119,
+						125
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"screen_name": "LTPSSupt_Kasun",
+					"name": "Ross Kasun",
+					"id": 2314074014,
+					"id_str": "2314074014",
+					"indices": [
+						137,
+						152
+					]
+				},
+				{
+					"screen_name": "littleBits",
+					"name": "littleBits",
+					"id": 236548159,
+					"id_str": "236548159",
+					"indices": [
+						153,
+						164
+					]
+				},
+				{
+					"screen_name": "LEGO_Education",
+					"name": "LEGO Education",
+					"id": 50318149,
+					"id_str": "50318149",
+					"indices": [
+						165,
+						180
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1082368096692785200,
+					"id_str": "1082368096692785152",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/DwVYDJ-W0AAbfHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwVYDJ-W0AAbfHa.jpg",
+					"url": "https://t.co/EdiBiJB2lU",
+					"display_url": "pic.twitter.com/EdiBiJB2lU",
+					"expanded_url": "https://twitter.com/krubinstein/status/1082368106725552128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082368096692785200,
+					"id_str": "1082368096692785152",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/DwVYDJ-W0AAbfHa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwVYDJ-W0AAbfHa.jpg",
+					"url": "https://t.co/EdiBiJB2lU",
+					"display_url": "pic.twitter.com/EdiBiJB2lU",
+					"expanded_url": "https://twitter.com/krubinstein/status/1082368106725552128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1082368096692785200,
+					"id_str": "1082368096692785153",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/DwVYDJ-W0AE9Csc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwVYDJ-W0AE9Csc.jpg",
+					"url": "https://t.co/EdiBiJB2lU",
+					"display_url": "pic.twitter.com/EdiBiJB2lU",
+					"expanded_url": "https://twitter.com/krubinstein/status/1082368106725552128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1082368096751505400,
+					"id_str": "1082368096751505411",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/DwVYDKMW0AML-Kk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwVYDKMW0AML-Kk.jpg",
+					"url": "https://t.co/EdiBiJB2lU",
+					"display_url": "pic.twitter.com/EdiBiJB2lU",
+					"expanded_url": "https://twitter.com/krubinstein/status/1082368106725552128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1082368096692781000,
+					"id_str": "1082368096692781061",
+					"indices": [
+						181,
+						204
+					],
+					"media_url": "http://pbs.twimg.com/media/DwVYDJ-WwAUBZxb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwVYDJ-WwAUBZxb.jpg",
+					"url": "https://t.co/EdiBiJB2lU",
+					"display_url": "pic.twitter.com/EdiBiJB2lU",
+					"expanded_url": "https://twitter.com/krubinstein/status/1082368106725552128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25455419,
+			"id_str": "25455419",
+			"name": "Karen Rubinstein",
+			"screen_name": "krubinstein",
+			"location": "iPhone: 40.258129,-74.290924",
+			"description": "Mom to 2 really tech savvy sons. STEAM/Technology teacher at Lawrence Twp Public Schools , masters degree in Educational Technology. Lifelong learner and maker.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 498,
+			"listed_count": 18,
+			"created_at": "Fri Mar 20 03:54:50 +0000 2009",
+			"favourites_count": 1230,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 734,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/734561706278592513/Kj9TwadW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/734561706278592513/Kj9TwadW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25455419/1454537443",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9c9e1e3484003",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9c9e1e3484003.json",
+			"place_type": "poi",
+			"name": "Lawrence Intermediate School",
+			"full_name": "Lawrence Intermediate School",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.73964198594139,
+							40.272301772869966
+						],
+						[
+							-74.73964198594139,
+							40.272301772869966
+						],
+						[
+							-74.73964198594139,
+							40.272301772869966
+						],
+						[
+							-74.73964198594139,
+							40.272301772869966
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "6th grade students made awesome progress on inventions for their extraordinare client projects @BNPrinceton @LISShines @LTPS1 @_drdamian @LTPSSupt_Kasun @littleBits @LEGO_Education https://t.co/EdiBiJB2lU"
+	},
+	{
+		"created_at": "Mon Jan 07 02:59:28 +0000 2019",
+		"id": 1082109435437297700,
+		"id_str": "1082109435437297667",
+		"full_text": "After my heart rate returned to normal, I had to check Eagles Twitter and it did not disappoint.  #FlyEaglesFly #doubledoink",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FlyEaglesFly",
+					"indices": [
+						98,
+						111
+					]
+				},
+				{
+					"text": "doubledoink",
+					"indices": [
+						112,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3242,
+			"friends_count": 1522,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31568,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "After my heart rate returned to normal, I had to check Eagles Twitter and it did not disappoint.  #FlyEaglesFly #doubledoink"
+	},
+	{
 		"created_at": "Sat Jan 05 19:54:23 +0000 2019",
 		"id": 1081640072338903000,
 		"id_str": "1081640072338903041",
