@@ -1,6 +1,423 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 13 22:12:01 +0000 2019",
+		"id": 1084573810815369200,
+		"id_str": "1084573810815369217",
+		"full_text": "#AllWeGotAllWeNeed #FlyEaglesFly https://t.co/apIH9igF3R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AllWeGotAllWeNeed",
+					"indices": [
+						0,
+						18
+					]
+				},
+				{
+					"text": "FlyEaglesFly",
+					"indices": [
+						19,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/apIH9igF3R",
+					"expanded_url": "https://twitter.com/josephmjamison/status/1084573367645151233",
+					"display_url": "twitter.com/josephmjamison…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3243,
+			"friends_count": 1524,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31585,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1084573367645151200,
+		"quoted_status_id_str": "1084573367645151233",
+		"quoted_status_permalink": {
+			"url": "https://t.co/apIH9igF3R",
+			"expanded": "https://twitter.com/josephmjamison/status/1084573367645151233",
+			"display": "twitter.com/josephmjamison…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 13 22:10:15 +0000 2019",
+			"id": 1084573367645151200,
+			"id_str": "1084573367645151233",
+			"full_text": "GO BIRDS!!! https://t.co/jI51iI8lwW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				11
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1084573359680086000,
+						"id_str": "1084573359680086016",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dw0tuWyVYAAmcDw.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dw0tuWyVYAAmcDw.jpg",
+						"url": "https://t.co/jI51iI8lwW",
+						"display_url": "pic.twitter.com/jI51iI8lwW",
+						"expanded_url": "https://twitter.com/josephmjamison/status/1084573367645151233/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 220,
+								"h": 122,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 220,
+								"h": 122,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 220,
+								"h": 122,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 122,
+								"h": 122,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1084573359680086000,
+						"id_str": "1084573359680086016",
+						"indices": [
+							12,
+							35
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/Dw0tuWyVYAAmcDw.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dw0tuWyVYAAmcDw.jpg",
+						"url": "https://t.co/jI51iI8lwW",
+						"display_url": "pic.twitter.com/jI51iI8lwW",
+						"expanded_url": "https://twitter.com/josephmjamison/status/1084573367645151233/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 220,
+								"h": 122,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 220,
+								"h": 122,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 220,
+								"h": 122,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 122,
+								"h": 122,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								110,
+								61
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/Dw0tuWyVYAAmcDw.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 30850212,
+				"id_str": "30850212",
+				"name": "Joseph M Jamison",
+				"screen_name": "josephmjamison",
+				"location": "Happiness is where I am",
+				"description": "🤼‍♂️🤼‍♀️⚾️ Hubby 2 Brooke @vermilionmusic1, Dad 2 Henry & Ella, Cranbury Teacher/Wrestling Coach, @PrincetonWC & @theNJRTC Director/coach, Tball coach #bebold",
+				"url": "https://t.co/emWrMmHtby",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/emWrMmHtby",
+								"expanded_url": "http://www.princetonwrestling.com",
+								"display_url": "princetonwrestling.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1380,
+				"friends_count": 2974,
+				"listed_count": 75,
+				"created_at": "Mon Apr 13 11:46:51 +0000 2009",
+				"favourites_count": 30352,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15252,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081771091968831488/onj7hhID_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081771091968831488/onj7hhID_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30850212/1501598056",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#AllWeGotAllWeNeed #FlyEaglesFly https://t.co/apIH9igF3R"
+	},
+	{
+		"created_at": "Sun Jan 13 21:43:48 +0000 2019",
+		"id": 1084566710391373800,
+		"id_str": "1084566710391373824",
+		"full_text": "WELP.  #FlyEaglesFly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FlyEaglesFly",
+					"indices": [
+						7,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3243,
+			"friends_count": 1524,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31585,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "WELP.  #FlyEaglesFly"
+	},
+	{
 		"created_at": "Fri Jan 11 20:49:25 +0000 2019",
 		"id": 1083828247501119500,
 		"id_str": "1083828247501119488",
