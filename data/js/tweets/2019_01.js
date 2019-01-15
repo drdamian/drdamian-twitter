@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 15 00:50:03 +0000 2019",
+		"id": 1084975970191372300,
+		"id_str": "1084975970191372289",
+		"full_text": "“I have to write in music?” NAfME member Michelle Ewer discusses writing in music class and “showing school-wide support while maintaining your own program”: https://t.co/J6QhXvMrs5 #NAfMEAcademy #musedchat https://t.co/XTgbL7jiPq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NAfMEAcademy",
+					"indices": [
+						182,
+						195
+					]
+				},
+				{
+					"text": "musedchat",
+					"indices": [
+						196,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J6QhXvMrs5",
+					"expanded_url": "http://ow.ly/BPue30nfF9N",
+					"display_url": "ow.ly/BPue30nfF9N",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1084975968375242800,
+					"id_str": "1084975968375242752",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw6b5RDXgAAu0Vm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw6b5RDXgAAu0Vm.jpg",
+					"url": "https://t.co/XTgbL7jiPq",
+					"display_url": "pic.twitter.com/XTgbL7jiPq",
+					"expanded_url": "https://twitter.com/NAfME/status/1084975970191372289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084975968375242800,
+					"id_str": "1084975968375242752",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw6b5RDXgAAu0Vm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw6b5RDXgAAu0Vm.jpg",
+					"url": "https://t.co/XTgbL7jiPq",
+					"display_url": "pic.twitter.com/XTgbL7jiPq",
+					"expanded_url": "https://twitter.com/NAfME/status/1084975970191372289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17331872,
+			"id_str": "17331872",
+			"name": "NAfME",
+			"screen_name": "NAfME",
+			"location": "Reston, VA",
+			"description": "Official Twitter account for the National Association for Music Education. Founded in 1907.",
+			"url": "https://t.co/F351z8OUeD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F351z8OUeD",
+							"expanded_url": "http://nafme.org",
+							"display_url": "nafme.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32821,
+			"friends_count": 2117,
+			"listed_count": 770,
+			"created_at": "Wed Nov 12 04:44:53 +0000 2008",
+			"favourites_count": 14718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23577,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080176043351265280/YJPOmEod_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080176043351265280/YJPOmEod_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17331872/1546882332",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“I have to write in music?” NAfME member Michelle Ewer discusses writing in music class and “showing school-wide support while maintaining your own program”: https://t.co/J6QhXvMrs5 #NAfMEAcademy #musedchat https://t.co/XTgbL7jiPq"
+	},
+	{
+		"created_at": "Mon Jan 14 20:58:12 +0000 2019",
+		"id": 1084917623081574400,
+		"id_str": "1084917623081574401",
+		"full_text": "25% done with The Woman Who Smashed Codes, by Jason Fagone https://t.co/POCgfDDf2d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/POCgfDDf2d",
+					"expanded_url": "https://goodreads.com/user_status/show/204352041",
+					"display_url": "goodreads.com/user_status/sh…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.goodreads.com\" rel=\"nofollow\">Goodreads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3243,
+			"friends_count": 1524,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1732,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31587,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "25% done with The Woman Who Smashed Codes, by Jason Fagone https://t.co/POCgfDDf2d"
+	},
+	{
 		"created_at": "Sun Jan 13 22:12:01 +0000 2019",
 		"id": 1084573810815369200,
 		"id_str": "1084573810815369217",
@@ -239,7 +544,7 @@ Grailbird.data.tweets_2019_01 =
 				"name": "Joseph M Jamison",
 				"screen_name": "josephmjamison",
 				"location": "Happiness is where I am",
-				"description": "🤼‍♂️🤼‍♀️⚾️ Hubby 2 Brooke @vermilionmusic1, Dad 2 Henry & Ella, Cranbury Teacher/Wrestling Coach, @PrincetonWC & @theNJRTC Director/coach, Tball coach #bebold",
+				"description": "🤼♂️🤼♀️⚾️ Hubby 2 Brooke @vermilionmusic1, Dad 2 Henry & Ella, Cranbury Teacher/Wrestling Coach, @PrincetonWC & @theNJRTC Director/coach, Tball coach #bebold",
 				"url": "https://t.co/emWrMmHtby",
 				"entities": {
 					"url": {
