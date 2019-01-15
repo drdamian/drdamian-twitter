@@ -192,6 +192,205 @@ Grailbird.data.tweets_2019_01 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“I have to write in music?” NAfME member Michelle Ewer discusses writing in music class and “showing school-wide support while maintaining your own program”: https://t.co/J6QhXvMrs5 #NAfMEAcademy #musedchat https://t.co/XTgbL7jiPq"
+	},
+	{
+		"created_at": "Tue Jan 15 00:50:03 +0000 2019",
+		"id": 1084975970191372300,
+		"id_str": "1084975970191372289",
+		"full_text": "“I have to write in music?” NAfME member Michelle Ewer discusses writing in music class and “showing school-wide support while maintaining your own program”: https://t.co/J6QhXvMrs5 #NAfMEAcademy #musedchat https://t.co/XTgbL7jiPq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NAfMEAcademy",
+					"indices": [
+						182,
+						195
+					]
+				},
+				{
+					"text": "musedchat",
+					"indices": [
+						196,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J6QhXvMrs5",
+					"expanded_url": "http://ow.ly/BPue30nfF9N",
+					"display_url": "ow.ly/BPue30nfF9N",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1084975968375242800,
+					"id_str": "1084975968375242752",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw6b5RDXgAAu0Vm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw6b5RDXgAAu0Vm.jpg",
+					"url": "https://t.co/XTgbL7jiPq",
+					"display_url": "pic.twitter.com/XTgbL7jiPq",
+					"expanded_url": "https://twitter.com/NAfME/status/1084975970191372289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084975968375242800,
+					"id_str": "1084975968375242752",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw6b5RDXgAAu0Vm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw6b5RDXgAAu0Vm.jpg",
+					"url": "https://t.co/XTgbL7jiPq",
+					"display_url": "pic.twitter.com/XTgbL7jiPq",
+					"expanded_url": "https://twitter.com/NAfME/status/1084975970191372289/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17331872,
+			"id_str": "17331872",
+			"name": "NAfME",
+			"screen_name": "NAfME",
+			"location": "Reston, VA",
+			"description": "Official Twitter account for the National Association for Music Education. Founded in 1907.",
+			"url": "https://t.co/F351z8OUeD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F351z8OUeD",
+							"expanded_url": "http://nafme.org",
+							"display_url": "nafme.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32821,
+			"friends_count": 2117,
+			"listed_count": 770,
+			"created_at": "Wed Nov 12 04:44:53 +0000 2008",
+			"favourites_count": 14718,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23577,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080176043351265280/YJPOmEod_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080176043351265280/YJPOmEod_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17331872/1546882332",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
 		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": true,
