@@ -1,6 +1,580 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 17 20:51:55 +0000 2019",
+		"id": 1086003202263314400,
+		"id_str": "1086003202263314432",
+		"full_text": "75% done with The Woman Who Smashed Codes, by Jason Fagone https://t.co/2ASSpgT6IU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2ASSpgT6IU",
+					"expanded_url": "https://goodreads.com/user_status/show/204937784",
+					"display_url": "goodreads.com/user_status/sh…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.goodreads.com\" rel=\"nofollow\">Goodreads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3245,
+			"friends_count": 1525,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31600,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "75% done with The Woman Who Smashed Codes, by Jason Fagone https://t.co/2ASSpgT6IU"
+	},
+	{
+		"created_at": "Thu Jan 17 03:30:59 +0000 2019",
+		"id": 1085741243873673200,
+		"id_str": "1085741243873673216",
+		"full_text": "Looking forward to dropping in tomorrow afternoon! #LTPS https://t.co/41fuLtCIQR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						51,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/41fuLtCIQR",
+					"expanded_url": "https://twitter.com/krubinstein/status/1085740967171371009",
+					"display_url": "twitter.com/krubinstein/st…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3245,
+			"friends_count": 1525,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1737,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31600,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1085740967171371000,
+		"quoted_status_id_str": "1085740967171371009",
+		"quoted_status_permalink": {
+			"url": "https://t.co/41fuLtCIQR",
+			"expanded": "https://twitter.com/krubinstein/status/1085740967171371009",
+			"display": "twitter.com/krubinstein/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 17 03:29:53 +0000 2019",
+			"id": 1085740967171371000,
+			"id_str": "1085740967171371009",
+			"full_text": "Amazing day today in @MrsRsTechLab. @mneirotti’s 6th gr Ss demonstrated their design projects that they created for imaginary clients using The Extraordinares Design Studio Pro. Thanks for stopping by @AmyAmiet. @LISShines @BNPrinceton @LTPSSupt_Kasun @_drdamian #designthinking https://t.co/wv3ELsvm1B",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "designthinking",
+						"indices": [
+							263,
+							278
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MrsRsTechLab",
+						"name": "LIS_TechLabTweeters",
+						"id": 2773335428,
+						"id_str": "2773335428",
+						"indices": [
+							21,
+							34
+						]
+					},
+					{
+						"screen_name": "mneirotti",
+						"name": "Milissa Neirotti",
+						"id": 264870068,
+						"id_str": "264870068",
+						"indices": [
+							36,
+							46
+						]
+					},
+					{
+						"screen_name": "AmyAmiet",
+						"name": "Amy Amiet",
+						"id": 514809785,
+						"id_str": "514809785",
+						"indices": [
+							201,
+							210
+						]
+					},
+					{
+						"screen_name": "LISShines",
+						"name": "LIS Shines",
+						"id": 1029050872075046900,
+						"id_str": "1029050872075046913",
+						"indices": [
+							212,
+							222
+						]
+					},
+					{
+						"screen_name": "BNPrinceton",
+						"name": "B&N, Princeton",
+						"id": 4228762318,
+						"id_str": "4228762318",
+						"indices": [
+							223,
+							235
+						]
+					},
+					{
+						"screen_name": "LTPSSupt_Kasun",
+						"name": "Ross Kasun",
+						"id": 2314074014,
+						"id_str": "2314074014",
+						"indices": [
+							236,
+							251
+						]
+					},
+					{
+						"screen_name": "_drdamian",
+						"name": "Dr. Damian Bariexca",
+						"id": 7887852,
+						"id_str": "7887852",
+						"indices": [
+							252,
+							262
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1085740955796471800,
+						"id_str": "1085740955796471808",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/DxFTpZRXgAANxdV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxFTpZRXgAANxdV.jpg",
+						"url": "https://t.co/wv3ELsvm1B",
+						"display_url": "pic.twitter.com/wv3ELsvm1B",
+						"expanded_url": "https://twitter.com/krubinstein/status/1085740967171371009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1085740955796471800,
+						"id_str": "1085740955796471808",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/DxFTpZRXgAANxdV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxFTpZRXgAANxdV.jpg",
+						"url": "https://t.co/wv3ELsvm1B",
+						"display_url": "pic.twitter.com/wv3ELsvm1B",
+						"expanded_url": "https://twitter.com/krubinstein/status/1085740967171371009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1085740955792216000,
+						"id_str": "1085740955792216064",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/DxFTpZQWkAAuUXi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxFTpZQWkAAuUXi.jpg",
+						"url": "https://t.co/wv3ELsvm1B",
+						"display_url": "pic.twitter.com/wv3ELsvm1B",
+						"expanded_url": "https://twitter.com/krubinstein/status/1085740967171371009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1085740955788021800,
+						"id_str": "1085740955788021760",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/DxFTpZPWkAA8urd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxFTpZPWkAA8urd.jpg",
+						"url": "https://t.co/wv3ELsvm1B",
+						"display_url": "pic.twitter.com/wv3ELsvm1B",
+						"expanded_url": "https://twitter.com/krubinstein/status/1085740967171371009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1085740955788103700,
+						"id_str": "1085740955788103680",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/DxFTpZPX0AA-7a4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DxFTpZPX0AA-7a4.jpg",
+						"url": "https://t.co/wv3ELsvm1B",
+						"display_url": "pic.twitter.com/wv3ELsvm1B",
+						"expanded_url": "https://twitter.com/krubinstein/status/1085740967171371009/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25455419,
+				"id_str": "25455419",
+				"name": "Karen Rubinstein",
+				"screen_name": "krubinstein",
+				"location": "iPhone: 40.258129,-74.290924",
+				"description": "Mom to 2 really tech savvy sons. STEAM/Technology teacher at Lawrence Twp Public Schools , masters degree in Educational Technology. Lifelong learner and maker.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 284,
+				"friends_count": 497,
+				"listed_count": 18,
+				"created_at": "Fri Mar 20 03:54:50 +0000 2009",
+				"favourites_count": 1237,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 739,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/734561706278592513/Kj9TwadW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/734561706278592513/Kj9TwadW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25455419/1454537443",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking forward to dropping in tomorrow afternoon! #LTPS https://t.co/41fuLtCIQR"
+	},
+	{
 		"created_at": "Wed Jan 16 21:37:20 +0000 2019",
 		"id": 1085652244366684200,
 		"id_str": "1085652244366684161",
