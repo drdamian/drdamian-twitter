@@ -1,6 +1,586 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 19 15:36:28 +0000 2019",
+		"id": 1086648596273999900,
+		"id_str": "1086648596273999879",
+		"full_text": "Another Saturday morning at the office (the other office) (at @DunkinDonuts in Doylestown, PA) https://t.co/jBFXmW8FNy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dunkindonuts",
+					"name": "Dunkin'",
+					"id": 8771022,
+					"id_str": "8771022",
+					"indices": [
+						62,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jBFXmW8FNy",
+					"expanded_url": "https://www.swarmapp.com/c/1J7QD38JNKF",
+					"display_url": "swarmapp.com/c/1J7QD38JNKF",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3245,
+			"friends_count": 1526,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1742,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31605,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another Saturday morning at the office (the other office) (at @DunkinDonuts in Doylestown, PA) https://t.co/jBFXmW8FNy"
+	},
+	{
+		"created_at": "Sat Jan 19 01:20:03 +0000 2019",
+		"id": 1086433069974913000,
+		"id_str": "1086433069974913030",
+		"full_text": "New blog: “Vocal Health: How Choral Directors Can Help Students” by Jennifer Moorhatch of @jwpepper: https://t.co/mLuyTL8uZd #choraleducation #musiced https://t.co/OBoCi7Fgo5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "choraleducation",
+					"indices": [
+						125,
+						141
+					]
+				},
+				{
+					"text": "musiced",
+					"indices": [
+						142,
+						150
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jwpepper",
+					"name": "J.W. Pepper",
+					"id": 21015957,
+					"id_str": "21015957",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mLuyTL8uZd",
+					"expanded_url": "http://ow.ly/kd3730nldnD",
+					"display_url": "ow.ly/kd3730nldnD",
+					"indices": [
+						101,
+						124
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1086433068376903700,
+					"id_str": "1086433068376903681",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/DxPJHpjX0AE3l2G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxPJHpjX0AE3l2G.jpg",
+					"url": "https://t.co/OBoCi7Fgo5",
+					"display_url": "pic.twitter.com/OBoCi7Fgo5",
+					"expanded_url": "https://twitter.com/NAfME/status/1086433069974913030/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 422,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086433068376903700,
+					"id_str": "1086433068376903681",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/DxPJHpjX0AE3l2G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxPJHpjX0AE3l2G.jpg",
+					"url": "https://t.co/OBoCi7Fgo5",
+					"display_url": "pic.twitter.com/OBoCi7Fgo5",
+					"expanded_url": "https://twitter.com/NAfME/status/1086433069974913030/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 422,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 422,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17331872,
+			"id_str": "17331872",
+			"name": "NAfME",
+			"screen_name": "NAfME",
+			"location": "Reston, VA",
+			"description": "Official Twitter account for the National Association for Music Education. Founded in 1907.",
+			"url": "https://t.co/F351z8OUeD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F351z8OUeD",
+							"expanded_url": "http://nafme.org",
+							"display_url": "nafme.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32846,
+			"friends_count": 2118,
+			"listed_count": 766,
+			"created_at": "Wed Nov 12 04:44:53 +0000 2008",
+			"favourites_count": 14733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23589,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080176043351265280/YJPOmEod_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080176043351265280/YJPOmEod_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17331872/1547848252",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New blog: “Vocal Health: How Choral Directors Can Help Students” by Jennifer Moorhatch of @jwpepper: https://t.co/mLuyTL8uZd #choraleducation #musiced https://t.co/OBoCi7Fgo5"
+	},
+	{
+		"created_at": "Fri Jan 18 21:48:24 +0000 2019",
+		"id": 1086379808337158100,
+		"id_str": "1086379808337158144",
+		"full_text": "My wall of @peterhreynolds is finally complete @bfes_ltps Great reminder to always stay creative! @JayBilly2 #dotday #makeyourmark Still can’t believe I found the signed copy this summer and got this original Dot! Thank you! @_drdamian https://t.co/XZ9J2mRcTS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "dotday",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"text": "makeyourmark",
+					"indices": [
+						117,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "peterhreynolds",
+					"name": "Peter H. Reynolds",
+					"id": 15309860,
+					"id_str": "15309860",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"screen_name": "bfes_ltps",
+					"name": "Ben Franklin ES",
+					"id": 326214938,
+					"id_str": "326214938",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"screen_name": "JayBilly2",
+					"name": "Jay Billy",
+					"id": 327326387,
+					"id_str": "327326387",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						225,
+						235
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1086379795708084200,
+					"id_str": "1086379795708084225",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/DxOYqxZXgAEl3zu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxOYqxZXgAEl3zu.jpg",
+					"url": "https://t.co/XZ9J2mRcTS",
+					"display_url": "pic.twitter.com/XZ9J2mRcTS",
+					"expanded_url": "https://twitter.com/Art_Rm_Skorupa/status/1086379808337158144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1086379795708084200,
+					"id_str": "1086379795708084225",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/DxOYqxZXgAEl3zu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxOYqxZXgAEl3zu.jpg",
+					"url": "https://t.co/XZ9J2mRcTS",
+					"display_url": "pic.twitter.com/XZ9J2mRcTS",
+					"expanded_url": "https://twitter.com/Art_Rm_Skorupa/status/1086379808337158144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1086379795368366100,
+					"id_str": "1086379795368366081",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/DxOYqwIX0AEx9p-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxOYqwIX0AEx9p-.jpg",
+					"url": "https://t.co/XZ9J2mRcTS",
+					"display_url": "pic.twitter.com/XZ9J2mRcTS",
+					"expanded_url": "https://twitter.com/Art_Rm_Skorupa/status/1086379808337158144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3590749162,
+			"id_str": "3590749162",
+			"name": "Jennifer Skorupa",
+			"screen_name": "Art_Rm_Skorupa",
+			"location": "",
+			"description": "elementary school art teacher at Ben Franklin",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 341,
+			"friends_count": 275,
+			"listed_count": 1,
+			"created_at": "Tue Sep 08 19:27:35 +0000 2015",
+			"favourites_count": 3853,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1270,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040776929962610689/47LCBi0b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040776929962610689/47LCBi0b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3590749162/1529979329",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My wall of @peterhreynolds is finally complete @bfes_ltps Great reminder to always stay creative! @JayBilly2 #dotday #makeyourmark Still can’t believe I found the signed copy this summer and got this original Dot! Thank you! @_drdamian https://t.co/XZ9J2mRcTS"
+	},
+	{
 		"created_at": "Fri Jan 18 21:48:24 +0000 2019",
 		"id": 1086379808337158100,
 		"id_str": "1086379808337158144",
