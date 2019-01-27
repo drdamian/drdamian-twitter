@@ -1,6 +1,467 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 26 23:34:49 +0000 2019",
+		"id": 1089305689351163900,
+		"id_str": "1089305689351163909",
+		"full_text": "Best of luck to our #LTPS students, and thank you for accompanying them! https://t.co/1LZy0ykEHs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						20,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1LZy0ykEHs",
+					"expanded_url": "https://twitter.com/ClarkLMSmusic/status/1089279424837627905",
+					"display_url": "twitter.com/ClarkLMSmusic/…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3244,
+			"friends_count": 1523,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31619,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1089279424837627900,
+		"quoted_status_id_str": "1089279424837627905",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1LZy0ykEHs",
+			"expanded": "https://twitter.com/ClarkLMSmusic/status/1089279424837627905",
+			"display": "twitter.com/ClarkLMSmusic/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 26 21:50:27 +0000 2019",
+			"id": 1089279424837627900,
+			"id_str": "1089279424837627905",
+			"full_text": "Been a long day @TheCJMEA auditions. Proud of my six @ltps1 (5 @LMSNation and 1 @lisshines) #stringplayers on auditioning for regions. Can't wait for the results to see how they did. #breakastring #musiced https://t.co/jTPmWtVGp9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "stringplayers",
+						"indices": [
+							92,
+							106
+						]
+					},
+					{
+						"text": "breakastring",
+						"indices": [
+							183,
+							196
+						]
+					},
+					{
+						"text": "musiced",
+						"indices": [
+							197,
+							205
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TheCJMEA",
+						"name": "CJMEA",
+						"id": 298657452,
+						"id_str": "298657452",
+						"indices": [
+							16,
+							25
+						]
+					},
+					{
+						"screen_name": "LTPS1",
+						"name": "Lawrence Twp Schools",
+						"id": 2178717536,
+						"id_str": "2178717536",
+						"indices": [
+							53,
+							59
+						]
+					},
+					{
+						"screen_name": "LMSNation",
+						"name": "LMS Nation",
+						"id": 309632193,
+						"id_str": "309632193",
+						"indices": [
+							63,
+							73
+						]
+					},
+					{
+						"screen_name": "LISShines",
+						"name": "LIS Shines",
+						"id": 1029050872075046900,
+						"id_str": "1029050872075046913",
+						"indices": [
+							80,
+							90
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1089279415572463600,
+						"id_str": "1089279415572463616",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/Dx3l23JXgAAu0ZC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dx3l23JXgAAu0ZC.jpg",
+						"url": "https://t.co/jTPmWtVGp9",
+						"display_url": "pic.twitter.com/jTPmWtVGp9",
+						"expanded_url": "https://twitter.com/ClarkLMSmusic/status/1089279424837627905/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1089279415572463600,
+						"id_str": "1089279415572463616",
+						"indices": [
+							206,
+							229
+						],
+						"media_url": "http://pbs.twimg.com/media/Dx3l23JXgAAu0ZC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dx3l23JXgAAu0ZC.jpg",
+						"url": "https://t.co/jTPmWtVGp9",
+						"display_url": "pic.twitter.com/jTPmWtVGp9",
+						"expanded_url": "https://twitter.com/ClarkLMSmusic/status/1089279424837627905/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 249202165,
+				"id_str": "249202165",
+				"name": "Mrs. Clark",
+				"screen_name": "ClarkLMSmusic",
+				"location": "Lawrenceville, NJ",
+				"description": "Orchestra director at Lawrence Middle school and Lawrence Intermediate School.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 979,
+				"friends_count": 1260,
+				"listed_count": 35,
+				"created_at": "Tue Feb 08 15:51:28 +0000 2011",
+				"favourites_count": 24580,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2588,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1048313915346767874/YIP7fevx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048313915346767874/YIP7fevx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/249202165/1528573386",
+				"profile_link_color": "2B0514",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Best of luck to our #LTPS students, and thank you for accompanying them! https://t.co/1LZy0ykEHs"
+	},
+	{
+		"created_at": "Sat Jan 26 23:26:56 +0000 2019",
+		"id": 1089303706842132500,
+		"id_str": "1089303706842132480",
+		"full_text": "Seeing Trevor Noah tonight! (@ Sands Bethlehem Event Center - @thesbec in Bethlehem, PA) https://t.co/TXFvlttbwN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theSBEC",
+					"name": "Sands Event Center",
+					"id": 376229024,
+					"id_str": "376229024",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TXFvlttbwN",
+					"expanded_url": "https://www.swarmapp.com/c/kKcdQQMexOs",
+					"display_url": "swarmapp.com/c/kKcdQQMexOs",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3244,
+			"friends_count": 1523,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1747,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31619,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seeing Trevor Noah tonight! (@ Sands Bethlehem Event Center - @thesbec in Bethlehem, PA) https://t.co/TXFvlttbwN"
+	},
+	{
 		"created_at": "Fri Jan 25 19:34:13 +0000 2019",
 		"id": 1088882753955921900,
 		"id_str": "1088882753955921923",
@@ -56,7 +517,7 @@ Grailbird.data.tweets_2019_01 =
 				},
 				{
 					"screen_name": "Principal_H",
-					"name": "𝐂𝐡𝐫𝐢𝐬𝐭𝐨𝐩𝐡𝐞𝐫 𝐇𝐚𝐫𝐫𝐢𝐬 🎸🏴‍☠️",
+					"name": "𝐂𝐡𝐫𝐢𝐬𝐭𝐨𝐩𝐡𝐞𝐫 𝐇𝐚𝐫𝐫𝐢𝐬 🎸🏴☠️",
 					"id": 2733642166,
 					"id_str": "2733642166",
 					"indices": [
