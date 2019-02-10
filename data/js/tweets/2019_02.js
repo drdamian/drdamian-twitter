@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sat Feb 09 03:26:26 +0000 2019",
+		"id": 1094075020299653100,
+		"id_str": "1094075020299653126",
+		"full_text": "Bedtime #mood https://t.co/Hdq65gLQt9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mood",
+					"indices": [
+						8,
+						13
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hdq65gLQt9",
+					"expanded_url": "https://twitter.com/ThatEricAlper/status/1093955235343753217",
+					"display_url": "twitter.com/ThatEricAlper/…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of EdTech & Arts. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3240,
+			"friends_count": 1525,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1773,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31689,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1093955235343753200,
+		"quoted_status_id_str": "1093955235343753217",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Hdq65gLQt9",
+			"expanded": "https://twitter.com/ThatEricAlper/status/1093955235343753217",
+			"display": "twitter.com/ThatEricAlper/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 08 19:30:27 +0000 2019",
+			"id": 1093955235343753200,
+			"id_str": "1093955235343753217",
+			"full_text": "Your last text message is now your army's new battle cry. What will your followers be shouting?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22018221,
+				"id_str": "22018221",
+				"name": "Eric Alper",
+				"screen_name": "ThatEricAlper",
+				"location": "Toronto",
+				"description": "Freelance Music Publicist. SiriusXM Host. Billboard & Paste Best on Twitter. I talk about Music News in the Media. Lifelong Musicaholic. Eric@ThatEricAlper.com",
+				"url": "https://t.co/yyQlWheDQf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yyQlWheDQf",
+								"expanded_url": "https://ThatEricAlper.com",
+								"display_url": "ThatEricAlper.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 631950,
+				"friends_count": 211694,
+				"listed_count": 5190,
+				"created_at": "Thu Feb 26 15:08:31 +0000 2009",
+				"favourites_count": 400,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 149823,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/652285840962519040/BNchJKJh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/652285840962519040/BNchJKJh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22018221/1530493821",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 329,
+			"favorite_count": 2282,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bedtime #mood https://t.co/Hdq65gLQt9"
+	},
+	{
 		"created_at": "Sat Feb 09 00:06:11 +0000 2019",
 		"id": 1094024626898980900,
 		"id_str": "1094024626898980864",
