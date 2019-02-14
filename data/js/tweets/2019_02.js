@@ -147,6 +147,152 @@ Grailbird.data.tweets_2019_02 =
 		"text": "Sneak preview of \"Nightlife\" opening reception this Saturday from 2-5pm at the Cerulean gallery Philadelphia. \nhttps://t.co/8crWy938Ly\nhttps://t.co/Y8ufYMjGmX\n#nightlife #staining #painting… https://t.co/n20P8lvXP5"
 	},
 	{
+		"created_at": "Thu Feb 14 00:27:58 +0000 2019",
+		"id": 1095842045959327700,
+		"id_str": "1095842045959327744",
+		"full_text": "Sneak preview of \"Nightlife\" opening reception this Saturday from 2-5pm at the Cerulean gallery Philadelphia. \nhttps://t.co/8crWy938Ly\nhttps://t.co/Y8ufYMjGmX\n#nightlife #staining #painting… https://t.co/n20P8lvXP5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nightlife",
+					"indices": [
+						159,
+						169
+					]
+				},
+				{
+					"text": "staining",
+					"indices": [
+						170,
+						179
+					]
+				},
+				{
+					"text": "painting",
+					"indices": [
+						180,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8crWy938Ly",
+					"expanded_url": "http://www.carneystudios.net",
+					"display_url": "carneystudios.net",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/Y8ufYMjGmX",
+					"expanded_url": "http://www.ceruleanarts.com",
+					"display_url": "ceruleanarts.com",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/n20P8lvXP5",
+					"expanded_url": "https://www.instagram.com/p/Bt15IGFnWoY/?utm_source=ig_twitter_share&igshid=1loz6qdh80m1g",
+					"display_url": "instagram.com/p/Bt15IGFnWoY/…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4808156895,
+			"id_str": "4808156895",
+			"name": "Carneystudios",
+			"screen_name": "carneystudios",
+			"location": "New Jersey, USA",
+			"description": "Professional Exhibiting Artist.",
+			"url": "https://t.co/Wdc8YSWg81",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wdc8YSWg81",
+							"expanded_url": "http://www.carneystudios.net",
+							"display_url": "carneystudios.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86,
+			"friends_count": 114,
+			"listed_count": 1,
+			"created_at": "Thu Jan 14 22:25:52 +0000 2016",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 451,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/687768006148141057/522GqD1e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/687768006148141057/522GqD1e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4808156895/1453074699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sneak preview of \"Nightlife\" opening reception this Saturday from 2-5pm at the Cerulean gallery Philadelphia. \nhttps://t.co/8crWy938Ly\nhttps://t.co/Y8ufYMjGmX\n#nightlife #staining #painting… https://t.co/n20P8lvXP5"
+	},
+	{
 		"created_at": "Wed Feb 13 23:58:33 +0000 2019",
 		"id": 1095834643503435800,
 		"id_str": "1095834643503435777",
