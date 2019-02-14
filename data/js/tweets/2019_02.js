@@ -1,6 +1,894 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 14 00:27:58 +0000 2019",
+		"id": 1095842045959327700,
+		"id_str": "1095842045959327744",
+		"full_text": "Sneak preview of \"Nightlife\" opening reception this Saturday from 2-5pm at the Cerulean gallery Philadelphia. \nhttps://t.co/8crWy938Ly\nhttps://t.co/Y8ufYMjGmX\n#nightlife #staining #painting… https://t.co/n20P8lvXP5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nightlife",
+					"indices": [
+						159,
+						169
+					]
+				},
+				{
+					"text": "staining",
+					"indices": [
+						170,
+						179
+					]
+				},
+				{
+					"text": "painting",
+					"indices": [
+						180,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8crWy938Ly",
+					"expanded_url": "http://www.carneystudios.net",
+					"display_url": "carneystudios.net",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/Y8ufYMjGmX",
+					"expanded_url": "http://www.ceruleanarts.com",
+					"display_url": "ceruleanarts.com",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/n20P8lvXP5",
+					"expanded_url": "https://www.instagram.com/p/Bt15IGFnWoY/?utm_source=ig_twitter_share&igshid=1loz6qdh80m1g",
+					"display_url": "instagram.com/p/Bt15IGFnWoY/…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4808156895,
+			"id_str": "4808156895",
+			"name": "Carneystudios",
+			"screen_name": "carneystudios",
+			"location": "New Jersey, USA",
+			"description": "Professional Exhibiting Artist.",
+			"url": "https://t.co/Wdc8YSWg81",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wdc8YSWg81",
+							"expanded_url": "http://www.carneystudios.net",
+							"display_url": "carneystudios.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86,
+			"friends_count": 114,
+			"listed_count": 1,
+			"created_at": "Thu Jan 14 22:25:52 +0000 2016",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 451,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/687768006148141057/522GqD1e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/687768006148141057/522GqD1e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4808156895/1453074699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sneak preview of \"Nightlife\" opening reception this Saturday from 2-5pm at the Cerulean gallery Philadelphia. \nhttps://t.co/8crWy938Ly\nhttps://t.co/Y8ufYMjGmX\n#nightlife #staining #painting… https://t.co/n20P8lvXP5"
+	},
+	{
+		"created_at": "Wed Feb 13 23:58:33 +0000 2019",
+		"id": 1095834643503435800,
+		"id_str": "1095834643503435777",
+		"full_text": "75% done with What School Could Be, by Ted Dintersmith https://t.co/JXQLoZV7yQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JXQLoZV7yQ",
+					"expanded_url": "https://goodreads.com/user_status/show/209830870",
+					"display_url": "goodreads.com/user_status/sh…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.goodreads.com\" rel=\"nofollow\">Goodreads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3236,
+			"friends_count": 1527,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31716,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "75% done with What School Could Be, by Ted Dintersmith https://t.co/JXQLoZV7yQ"
+	},
+	{
+		"created_at": "Wed Feb 13 23:27:24 +0000 2019",
+		"id": 1095826803879563300,
+		"id_str": "1095826803879563264",
+		"full_text": "@loctastic Make it three. Audiobook has multiple narrators in addition to Mike D and AdRock.  Wanda Sykes, John C Reilly, Jon Stewart, Chuck D...",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loctastic",
+					"name": "loctastic",
+					"id": 16176702,
+					"id_str": "16176702",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1095822301084504000,
+		"in_reply_to_status_id_str": "1095822301084504064",
+		"in_reply_to_user_id": 16176702,
+		"in_reply_to_user_id_str": "16176702",
+		"in_reply_to_screen_name": "loctastic",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3236,
+			"friends_count": 1527,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31716,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@loctastic Make it three. Audiobook has multiple narrators in addition to Mike D and AdRock.  Wanda Sykes, John C Reilly, Jon Stewart, Chuck D..."
+	},
+	{
+		"created_at": "Wed Feb 13 15:48:49 +0000 2019",
+		"id": 1095711398032822300,
+		"id_str": "1095711398032822272",
+		"full_text": "Looking forward to another day of professional learning! #LTPS (@ NJPSA in Monroe, NJ) https://t.co/IRKgZ32zQV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						57,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IRKgZ32zQV",
+					"expanded_url": "https://www.swarmapp.com/c/3JuTYPnhb2b",
+					"display_url": "swarmapp.com/c/3JuTYPnhb2b",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3236,
+			"friends_count": 1527,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31716,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking forward to another day of professional learning! #LTPS (@ NJPSA in Monroe, NJ) https://t.co/IRKgZ32zQV"
+	},
+	{
+		"created_at": "Wed Feb 13 14:00:22 +0000 2019",
+		"id": 1095684105994424300,
+		"id_str": "1095684105994424320",
+		"full_text": "I was challenged by @USR_Supt to post 7 books that I love. No explanations, no reviews. (2/7) I now challenge @LTPSSupt_Kasun #LTPS https://t.co/2yFVPSrNmU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						126,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "USR_Supt",
+					"name": "Brad Siegel",
+					"id": 1025384238420566000,
+					"id_str": "1025384238420566016",
+					"indices": [
+						20,
+						29
+					]
+				},
+				{
+					"screen_name": "LTPSSupt_Kasun",
+					"name": "Ross Kasun",
+					"id": 2314074014,
+					"id_str": "2314074014",
+					"indices": [
+						110,
+						125
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095684104350244900,
+					"id_str": "1095684104350244865",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/DzSm40HWoAEC0NV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzSm40HWoAEC0NV.jpg",
+					"url": "https://t.co/2yFVPSrNmU",
+					"display_url": "pic.twitter.com/2yFVPSrNmU",
+					"expanded_url": "https://twitter.com/_drdamian/status/1095684105994424320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 350,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 350,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 350,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095684104350244900,
+					"id_str": "1095684104350244865",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/DzSm40HWoAEC0NV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzSm40HWoAEC0NV.jpg",
+					"url": "https://t.co/2yFVPSrNmU",
+					"display_url": "pic.twitter.com/2yFVPSrNmU",
+					"expanded_url": "https://twitter.com/_drdamian/status/1095684105994424320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 350,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 350,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 350,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3236,
+			"friends_count": 1527,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31716,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was challenged by @USR_Supt to post 7 books that I love. No explanations, no reviews. (2/7) I now challenge @LTPSSupt_Kasun #LTPS https://t.co/2yFVPSrNmU"
+	},
+	{
+		"created_at": "Wed Feb 13 02:35:49 +0000 2019",
+		"id": 1095511832662589400,
+		"id_str": "1095511832662589441",
+		"full_text": "On \"tough love\" schools. Love is high expectations &amp; accountability. It is not cruelty #HipHopEd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HipHopEd",
+					"indices": [
+						91,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29804165,
+			"id_str": "29804165",
+			"name": "Christopher Emdin",
+			"screen_name": "chrisemdin",
+			"location": "New York City",
+			"description": "Prof at TC, Columbia U. Author of For White Folks Who Teach in the Hood ...  Behind the magic that is #HipHopEd & #sciencegenius",
+			"url": "http://t.co/SeCKVmMMNW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/SeCKVmMMNW",
+							"expanded_url": "http://www.chrisemdin.com",
+							"display_url": "chrisemdin.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46521,
+			"friends_count": 1360,
+			"listed_count": 847,
+			"created_at": "Wed Apr 08 19:57:22 +0000 2009",
+			"favourites_count": 4207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/462197048377237504/4RRw64OE_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/462197048377237504/4RRw64OE_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29804165/1460530045",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76,
+		"favorite_count": 324,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "On \"tough love\" schools. Love is high expectations &amp; accountability. It is not cruelty #HipHopEd"
+	},
+	{
+		"created_at": "Wed Feb 13 02:14:10 +0000 2019",
+		"id": 1095506387000614900,
+		"id_str": "1095506387000614912",
+		"full_text": "#HipHopEd(ucators) Love yourself. Love your students. Love your subject. Love your craft #HipHopEd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HipHopEd",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "HipHopEd",
+					"indices": [
+						89,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29804165,
+			"id_str": "29804165",
+			"name": "Christopher Emdin",
+			"screen_name": "chrisemdin",
+			"location": "New York City",
+			"description": "Prof at TC, Columbia U. Author of For White Folks Who Teach in the Hood ...  Behind the magic that is #HipHopEd & #sciencegenius",
+			"url": "http://t.co/SeCKVmMMNW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/SeCKVmMMNW",
+							"expanded_url": "http://www.chrisemdin.com",
+							"display_url": "chrisemdin.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46521,
+			"friends_count": 1360,
+			"listed_count": 847,
+			"created_at": "Wed Apr 08 19:57:22 +0000 2009",
+			"favourites_count": 4207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33190,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/462197048377237504/4RRw64OE_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/462197048377237504/4RRw64OE_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29804165/1460530045",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "#HipHopEd(ucators) Love yourself. Love your students. Love your subject. Love your craft #HipHopEd"
+	},
+	{
 		"created_at": "Wed Feb 13 00:55:30 +0000 2019",
 		"id": 1095486587310403600,
 		"id_str": "1095486587310403584",
