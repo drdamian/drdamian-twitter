@@ -1,6 +1,681 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 14 14:00:53 +0000 2019",
+		"id": 1096046623623389200,
+		"id_str": "1096046623623389184",
+		"full_text": "I was challenged by @USR_Supt to post 7 books that I love. No explanations, no reviews. (3/7) I now challenge @_SeanFry #LTPS https://t.co/eUT5UDkLa8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						120,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "USR_Supt",
+					"name": "Brad Siegel",
+					"id": 1025384238420566000,
+					"id_str": "1025384238420566016",
+					"indices": [
+						20,
+						29
+					]
+				},
+				{
+					"screen_name": "_SeanFry",
+					"name": "Sean Fry",
+					"id": 809430851654156300,
+					"id_str": "809430851654156288",
+					"indices": [
+						110,
+						119
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096046622218350600,
+					"id_str": "1096046622218350592",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/DzXwmIaXcAAJfuq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzXwmIaXcAAJfuq.jpg",
+					"url": "https://t.co/eUT5UDkLa8",
+					"display_url": "pic.twitter.com/eUT5UDkLa8",
+					"expanded_url": "https://twitter.com/_drdamian/status/1096046623623389184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 324,
+							"h": 499,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 324,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 324,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096046622218350600,
+					"id_str": "1096046622218350592",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/DzXwmIaXcAAJfuq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzXwmIaXcAAJfuq.jpg",
+					"url": "https://t.co/eUT5UDkLa8",
+					"display_url": "pic.twitter.com/eUT5UDkLa8",
+					"expanded_url": "https://twitter.com/_drdamian/status/1096046623623389184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 324,
+							"h": 499,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 324,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 324,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3235,
+			"friends_count": 1527,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31718,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was challenged by @USR_Supt to post 7 books that I love. No explanations, no reviews. (3/7) I now challenge @_SeanFry #LTPS https://t.co/eUT5UDkLa8"
+	},
+	{
+		"created_at": "Thu Feb 14 02:50:05 +0000 2019",
+		"id": 1095877813494841300,
+		"id_str": "1095877813494841345",
+		"full_text": "#LTPS #arted #artednow https://t.co/NXeWaFDX61",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"text": "arted",
+					"indices": [
+						6,
+						12
+					]
+				},
+				{
+					"text": "artednow",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NXeWaFDX61",
+					"expanded_url": "https://twitter.com/LMS_ArtRoom/status/1095844770377809925",
+					"display_url": "twitter.com/LMS_ArtRoom/st…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3235,
+			"friends_count": 1527,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31718,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1095844770377809900,
+		"quoted_status_id_str": "1095844770377809925",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NXeWaFDX61",
+			"expanded": "https://twitter.com/LMS_ArtRoom/status/1095844770377809925",
+			"display": "twitter.com/LMS_ArtRoom/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 14 00:38:47 +0000 2019",
+			"id": 1095844770377809900,
+			"id_str": "1095844770377809925",
+			"full_text": "Lately I’ve realized the benefit of recording my demos. Now my students can rewatch the video when confused and I can use for future years! It only took me 4 years of teaching to realize how simple it can be! https://t.co/lRKb6X0FVQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1095844611006885900,
+						"id_str": "1095844611006885888",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1095844611006885888/pu/img/kUDjop4zNR7gAHQY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1095844611006885888/pu/img/kUDjop4zNR7gAHQY.jpg",
+						"url": "https://t.co/lRKb6X0FVQ",
+						"display_url": "pic.twitter.com/lRKb6X0FVQ",
+						"expanded_url": "https://twitter.com/LMS_ArtRoom/status/1095844770377809925/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1095844611006885900,
+						"id_str": "1095844611006885888",
+						"indices": [
+							209,
+							232
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1095844611006885888/pu/img/kUDjop4zNR7gAHQY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1095844611006885888/pu/img/kUDjop4zNR7gAHQY.jpg",
+						"url": "https://t.co/lRKb6X0FVQ",
+						"display_url": "pic.twitter.com/lRKb6X0FVQ",
+						"expanded_url": "https://twitter.com/LMS_ArtRoom/status/1095844770377809925/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 105795,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1095844611006885888/pu/vid/1280x720/JQJqLztxfUTspcr7.mp4?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1095844611006885888/pu/vid/320x180/bCHAKArpGth3P8ti.mp4?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1095844611006885888/pu/vid/640x360/sE0UoEGF028_0vpe.mp4?tag=6"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1095844611006885888/pu/pl/-Sl9oAsxqysx1Maf.m3u8?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 902263919938596900,
+				"id_str": "902263919938596865",
+				"name": "Karyne Richardson",
+				"screen_name": "LMS_ArtRoom",
+				"location": "Lawrence, NJ",
+				"description": "Middle School art teacher! 🎨",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 165,
+				"friends_count": 139,
+				"listed_count": 0,
+				"created_at": "Mon Aug 28 20:17:36 +0000 2017",
+				"favourites_count": 613,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 221,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1042210993206636545/PyJbk6oi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042210993206636545/PyJbk6oi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/902263919938596865/1503951891",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#LTPS #arted #artednow https://t.co/NXeWaFDX61"
+	},
+	{
+		"created_at": "Thu Feb 14 00:27:58 +0000 2019",
+		"id": 1095842045959327700,
+		"id_str": "1095842045959327744",
+		"full_text": "Sneak preview of \"Nightlife\" opening reception this Saturday from 2-5pm at the Cerulean gallery Philadelphia. \nhttps://t.co/8crWy938Ly\nhttps://t.co/Y8ufYMjGmX\n#nightlife #staining #painting… https://t.co/n20P8lvXP5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nightlife",
+					"indices": [
+						159,
+						169
+					]
+				},
+				{
+					"text": "staining",
+					"indices": [
+						170,
+						179
+					]
+				},
+				{
+					"text": "painting",
+					"indices": [
+						180,
+						189
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8crWy938Ly",
+					"expanded_url": "http://www.carneystudios.net",
+					"display_url": "carneystudios.net",
+					"indices": [
+						111,
+						134
+					]
+				},
+				{
+					"url": "https://t.co/Y8ufYMjGmX",
+					"expanded_url": "http://www.ceruleanarts.com",
+					"display_url": "ceruleanarts.com",
+					"indices": [
+						135,
+						158
+					]
+				},
+				{
+					"url": "https://t.co/n20P8lvXP5",
+					"expanded_url": "https://www.instagram.com/p/Bt15IGFnWoY/?utm_source=ig_twitter_share&igshid=1loz6qdh80m1g",
+					"display_url": "instagram.com/p/Bt15IGFnWoY/…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4808156895,
+			"id_str": "4808156895",
+			"name": "Carneystudios",
+			"screen_name": "carneystudios",
+			"location": "New Jersey, USA",
+			"description": "Professional Exhibiting Artist.",
+			"url": "https://t.co/Wdc8YSWg81",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wdc8YSWg81",
+							"expanded_url": "http://www.carneystudios.net",
+							"display_url": "carneystudios.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86,
+			"friends_count": 114,
+			"listed_count": 1,
+			"created_at": "Thu Jan 14 22:25:52 +0000 2016",
+			"favourites_count": 186,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 451,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/687768006148141057/522GqD1e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/687768006148141057/522GqD1e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4808156895/1453074699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sneak preview of \"Nightlife\" opening reception this Saturday from 2-5pm at the Cerulean gallery Philadelphia. \nhttps://t.co/8crWy938Ly\nhttps://t.co/Y8ufYMjGmX\n#nightlife #staining #painting… https://t.co/n20P8lvXP5"
+	},
+	{
 		"created_at": "Thu Feb 14 00:27:58 +0000 2019",
 		"id": 1095842045959327700,
 		"id_str": "1095842045959327744",
