@@ -1,6 +1,899 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Fri Feb 15 21:06:45 +0000 2019",
+		"id": 1096516184260964400,
+		"id_str": "1096516184260964353",
+		"full_text": "Outstanding workshop on developing our libraries' missions and visions today led by @hildakw.  The #LTPS and HVRSD librarians thank you, and thx also to @librarylinknj for funding assistance!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						99,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hildakw",
+					"name": "hilda weisburg",
+					"id": 103718370,
+					"id_str": "103718370",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"screen_name": "librarylinknj",
+					"name": "LibraryLinkNJ",
+					"id": 234811164,
+					"id_str": "234811164",
+					"indices": [
+						153,
+						167
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 1528,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Outstanding workshop on developing our libraries' missions and visions today led by @hildakw.  The #LTPS and HVRSD librarians thank you, and thx also to @librarylinknj for funding assistance!"
+	},
+	{
+		"created_at": "Fri Feb 15 19:25:52 +0000 2019",
+		"id": 1096490798470844400,
+		"id_str": "1096490798470844416",
+		"full_text": "Thank you @ArtworksTrenton for hosting the #ltps art teachers! And thank you @JerrysArtarama for teaching us! We had a blast! @_drdamian @LMSNation https://t.co/F2CDq7oN4Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ltps",
+					"indices": [
+						43,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ArtworksTrenton",
+					"name": "ArtworksTrenton",
+					"id": 287721947,
+					"id_str": "287721947",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"screen_name": "JerrysArtarama",
+					"name": "Jerry's Artarama",
+					"id": 44199369,
+					"id_str": "44199369",
+					"indices": [
+						77,
+						92
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"screen_name": "LMSNation",
+					"name": "LMS Nation",
+					"id": 309632193,
+					"id_str": "309632193",
+					"indices": [
+						137,
+						147
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096490787683094500,
+					"id_str": "1096490787683094529",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/DzeEj9tW0AEP1pk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzeEj9tW0AEP1pk.jpg",
+					"url": "https://t.co/F2CDq7oN4Q",
+					"display_url": "pic.twitter.com/F2CDq7oN4Q",
+					"expanded_url": "https://twitter.com/LMS_ArtRoom/status/1096490798470844416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1097,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 622,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1872,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096490787683094500,
+					"id_str": "1096490787683094529",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/DzeEj9tW0AEP1pk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzeEj9tW0AEP1pk.jpg",
+					"url": "https://t.co/F2CDq7oN4Q",
+					"display_url": "pic.twitter.com/F2CDq7oN4Q",
+					"expanded_url": "https://twitter.com/LMS_ArtRoom/status/1096490798470844416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1097,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 622,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1872,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1096490787808907300,
+					"id_str": "1096490787808907264",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/DzeEj-LWkAAap9N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzeEj-LWkAAap9N.jpg",
+					"url": "https://t.co/F2CDq7oN4Q",
+					"display_url": "pic.twitter.com/F2CDq7oN4Q",
+					"expanded_url": "https://twitter.com/LMS_ArtRoom/status/1096490798470844416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1096490787687272400,
+					"id_str": "1096490787687272453",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/DzeEj9uWkAU3cOK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzeEj9uWkAU3cOK.jpg",
+					"url": "https://t.co/F2CDq7oN4Q",
+					"display_url": "pic.twitter.com/F2CDq7oN4Q",
+					"expanded_url": "https://twitter.com/LMS_ArtRoom/status/1096490798470844416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 902263919938596900,
+			"id_str": "902263919938596865",
+			"name": "Karyne Richardson",
+			"screen_name": "LMS_ArtRoom",
+			"location": "Lawrence, NJ",
+			"description": "Middle School art teacher! 🎨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 171,
+			"friends_count": 139,
+			"listed_count": 0,
+			"created_at": "Mon Aug 28 20:17:36 +0000 2017",
+			"favourites_count": 616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 224,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042210993206636545/PyJbk6oi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042210993206636545/PyJbk6oi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/902263919938596865/1503951891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you @ArtworksTrenton for hosting the #ltps art teachers! And thank you @JerrysArtarama for teaching us! We had a blast! @_drdamian @LMSNation https://t.co/F2CDq7oN4Q"
+	},
+	{
+		"created_at": "Fri Feb 15 14:00:35 +0000 2019",
+		"id": 1096408938684317700,
+		"id_str": "1096408938684317697",
+		"full_text": "I was challenged by @USR_Supt to post 7 books that I love. No explanations, no reviews. (4/7) I now challenge @mhayes611 #LTPS https://t.co/vUFHnFr7tu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						121,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "USR_Supt",
+					"name": "Brad Siegel",
+					"id": 1025384238420566000,
+					"id_str": "1025384238420566016",
+					"indices": [
+						20,
+						29
+					]
+				},
+				{
+					"screen_name": "mhayes611",
+					"name": "Maureen Hayes",
+					"id": 47032216,
+					"id_str": "47032216",
+					"indices": [
+						110,
+						120
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096408937203671000,
+					"id_str": "1096408937203671041",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzc6Ho6WoAEVAW-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzc6Ho6WoAEVAW-.jpg",
+					"url": "https://t.co/vUFHnFr7tu",
+					"display_url": "pic.twitter.com/vUFHnFr7tu",
+					"expanded_url": "https://twitter.com/_drdamian/status/1096408938684317697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 316,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 316,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 316,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096408937203671000,
+					"id_str": "1096408937203671041",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzc6Ho6WoAEVAW-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzc6Ho6WoAEVAW-.jpg",
+					"url": "https://t.co/vUFHnFr7tu",
+					"display_url": "pic.twitter.com/vUFHnFr7tu",
+					"expanded_url": "https://twitter.com/_drdamian/status/1096408938684317697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 316,
+							"h": 499,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 316,
+							"h": 499,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 316,
+							"h": 499,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 1528,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was challenged by @USR_Supt to post 7 books that I love. No explanations, no reviews. (4/7) I now challenge @mhayes611 #LTPS https://t.co/vUFHnFr7tu"
+	},
+	{
+		"created_at": "Fri Feb 15 02:51:37 +0000 2019",
+		"id": 1096240584170324000,
+		"id_str": "1096240584170323968",
+		"full_text": "Inordinately excited at the prospect of buying a label maker.  It truly doesn't take much. #LabelAllTheThings",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LabelAllTheThings",
+					"indices": [
+						91,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 1528,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Inordinately excited at the prospect of buying a label maker.  It truly doesn't take much. #LabelAllTheThings"
+	},
+	{
+		"created_at": "Fri Feb 15 02:42:37 +0000 2019",
+		"id": 1096238322748481500,
+		"id_str": "1096238322748481538",
+		"full_text": "Love it when I learn about a new hashtag.  Hey #LTPS art teachers - check out #k12ArtChat for resources and realtime discussions!  \n\ncc: @SlackwoodART @ArtroomLes @Art_Rm_Skorupa @Yoskowitz_Art @LMS_ArtRoom @MsDonnellyLTPS @carneystudios",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						47,
+						52
+					]
+				},
+				{
+					"text": "k12ArtChat",
+					"indices": [
+						78,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SlackwoodART",
+					"name": "SW Artists",
+					"id": 2815543584,
+					"id_str": "2815543584",
+					"indices": [
+						137,
+						150
+					]
+				},
+				{
+					"screen_name": "ArtroomLes",
+					"name": "Maria Raimondo",
+					"id": 3165331253,
+					"id_str": "3165331253",
+					"indices": [
+						151,
+						162
+					]
+				},
+				{
+					"screen_name": "Art_Rm_Skorupa",
+					"name": "Jennifer Skorupa",
+					"id": 3590749162,
+					"id_str": "3590749162",
+					"indices": [
+						163,
+						178
+					]
+				},
+				{
+					"screen_name": "Yoskowitz_Art",
+					"name": "Sara Yoskowitz",
+					"id": 1034825909944152000,
+					"id_str": "1034825909944152064",
+					"indices": [
+						179,
+						193
+					]
+				},
+				{
+					"screen_name": "LMS_ArtRoom",
+					"name": "Karyne Richardson",
+					"id": 902263919938596900,
+					"id_str": "902263919938596865",
+					"indices": [
+						194,
+						206
+					]
+				},
+				{
+					"screen_name": "MsDonnellyLTPS",
+					"name": "Ms. Donnelly",
+					"id": 1034823769490186200,
+					"id_str": "1034823769490186240",
+					"indices": [
+						207,
+						222
+					]
+				},
+				{
+					"screen_name": "carneystudios",
+					"name": "Carneystudios",
+					"id": 4808156895,
+					"id_str": "4808156895",
+					"indices": [
+						223,
+						237
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 1528,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Love it when I learn about a new hashtag.  Hey #LTPS art teachers - check out #k12ArtChat for resources and realtime discussions!  \n\ncc: @SlackwoodART @ArtroomLes @Art_Rm_Skorupa @Yoskowitz_Art @LMS_ArtRoom @MsDonnellyLTPS @carneystudios"
+	},
+	{
 		"created_at": "Thu Feb 14 14:00:53 +0000 2019",
 		"id": 1096046623623389200,
 		"id_str": "1096046623623389184",
