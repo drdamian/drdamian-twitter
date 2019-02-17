@@ -273,6 +273,278 @@ Grailbird.data.tweets_2019_02 =
 		"text": "Had a wonderful time yesterday at @ArtworksTrenton 😁 thank you for having us! #ltps @LISShines @_drdamian https://t.co/vr03sfldJ8"
 	},
 	{
+		"created_at": "Sat Feb 16 13:18:46 +0000 2019",
+		"id": 1096760802839855100,
+		"id_str": "1096760802839855106",
+		"full_text": "Had a wonderful time yesterday at @ArtworksTrenton 😁 thank you for having us! #ltps @LISShines @_drdamian https://t.co/vr03sfldJ8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ltps",
+					"indices": [
+						78,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ArtworksTrenton",
+					"name": "ArtworksTrenton",
+					"id": 287721947,
+					"id_str": "287721947",
+					"indices": [
+						34,
+						50
+					]
+				},
+				{
+					"screen_name": "LISShines",
+					"name": "LIS Shines",
+					"id": 1029050872075046900,
+					"id_str": "1029050872075046913",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1096760784917577700,
+					"id_str": "1096760784917577735",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzh6H3yXQAcmB4e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzh6H3yXQAcmB4e.jpg",
+					"url": "https://t.co/vr03sfldJ8",
+					"display_url": "pic.twitter.com/vr03sfldJ8",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1096760802839855106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1096760784917577700,
+					"id_str": "1096760784917577735",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzh6H3yXQAcmB4e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzh6H3yXQAcmB4e.jpg",
+					"url": "https://t.co/vr03sfldJ8",
+					"display_url": "pic.twitter.com/vr03sfldJ8",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1096760802839855106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1096760784930172900,
+					"id_str": "1096760784930172929",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzh6H31XcAEU9Dp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzh6H31XcAEU9Dp.jpg",
+					"url": "https://t.co/vr03sfldJ8",
+					"display_url": "pic.twitter.com/vr03sfldJ8",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1096760802839855106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1096760784963686400,
+					"id_str": "1096760784963686400",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzh6H39W0AA579r.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzh6H39W0AA579r.jpg",
+					"url": "https://t.co/vr03sfldJ8",
+					"display_url": "pic.twitter.com/vr03sfldJ8",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1096760802839855106/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1034825909944152000,
+			"id_str": "1034825909944152064",
+			"name": "Sara Yoskowitz",
+			"screen_name": "Yoskowitz_Art",
+			"location": "New Jersey, USA",
+			"description": "Art Teacher at Lawrence Intermediate School 😀🖌️❤️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83,
+			"friends_count": 150,
+			"listed_count": 0,
+			"created_at": "Wed Aug 29 15:31:37 +0000 2018",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034976089720811521/qGjIg4Fp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034976089720811521/qGjIg4Fp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1034825909944152064/1535592922",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Had a wonderful time yesterday at @ArtworksTrenton 😁 thank you for having us! #ltps @LISShines @_drdamian https://t.co/vr03sfldJ8"
+	},
+	{
 		"created_at": "Sat Feb 16 12:56:56 +0000 2019",
 		"id": 1096755308721070100,
 		"id_str": "1096755308721070082",
