@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 20 14:24:56 +0000 2019",
+		"id": 1098227002048475100,
+		"id_str": "1098227002048475136",
+		"full_text": "Oh, cool - just realized that you can download transcripts of each episode at the Teaching Tolerance website as well.  Great for #LTPS teachers and students who want to annotate as they listen. cc @dadamltps @DrMPancoast",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						129,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						197,
+						207
+					]
+				},
+				{
+					"screen_name": "DrMPancoast",
+					"name": "Mary Pancoast",
+					"id": 4048694559,
+					"id_str": "4048694559",
+					"indices": [
+						208,
+						220
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1098226282788204500,
+		"in_reply_to_status_id_str": "1098226282788204544",
+		"in_reply_to_user_id": 7887852,
+		"in_reply_to_user_id_str": "7887852",
+		"in_reply_to_screen_name": "_drdamian",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 1526,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31734,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Oh, cool - just realized that you can download transcripts of each episode at the Teaching Tolerance website as well.  Great for #LTPS teachers and students who want to annotate as they listen. cc @dadamltps @DrMPancoast"
+	},
+	{
+		"created_at": "Wed Feb 20 14:22:04 +0000 2019",
+		"id": 1098226282788204500,
+		"id_str": "1098226282788204544",
+		"full_text": "Taking advantage of the snow day to check out Season 1 of this podcast from @Tolerance_org &amp; @ProfJeffries.  You can subscribe in your favorite podcast app, iTunes, or get individual episodes here: https://t.co/pG1zdVzxYa #LTPS cc @DrMPancoast https://t.co/w6EDMuDzOb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						226,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Tolerance_org",
+					"name": "Teaching Tolerance",
+					"id": 69358848,
+					"id_str": "69358848",
+					"indices": [
+						76,
+						90
+					]
+				},
+				{
+					"screen_name": "ProfJeffries",
+					"name": "Hasan Kwame Jeffries",
+					"id": 3337726865,
+					"id_str": "3337726865",
+					"indices": [
+						97,
+						110
+					]
+				},
+				{
+					"screen_name": "DrMPancoast",
+					"name": "Mary Pancoast",
+					"id": 4048694559,
+					"id_str": "4048694559",
+					"indices": [
+						235,
+						247
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pG1zdVzxYa",
+					"expanded_url": "https://www.tolerance.org/podcasts/teaching-hard-history/american-slavery",
+					"display_url": "tolerance.org/podcasts/teach…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1098226278002540500,
+					"id_str": "1098226278002540544",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz2u-y9XQAA3ovp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz2u-y9XQAA3ovp.jpg",
+					"url": "https://t.co/w6EDMuDzOb",
+					"display_url": "pic.twitter.com/w6EDMuDzOb",
+					"expanded_url": "https://twitter.com/_drdamian/status/1098226282788204544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 654,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 851,
+							"h": 885,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 851,
+							"h": 885,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1098226278002540500,
+					"id_str": "1098226278002540544",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/Dz2u-y9XQAA3ovp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dz2u-y9XQAA3ovp.jpg",
+					"url": "https://t.co/w6EDMuDzOb",
+					"display_url": "pic.twitter.com/w6EDMuDzOb",
+					"expanded_url": "https://twitter.com/_drdamian/status/1098226282788204544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 654,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 851,
+							"h": 885,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 851,
+							"h": 885,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 1526,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1799,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31734,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Taking advantage of the snow day to check out Season 1 of this podcast from @Tolerance_org &amp; @ProfJeffries.  You can subscribe in your favorite podcast app, iTunes, or get individual episodes here: https://t.co/pG1zdVzxYa #LTPS cc @DrMPancoast https://t.co/w6EDMuDzOb"
+	},
+	{
 		"created_at": "Tue Feb 19 13:22:34 +0000 2019",
 		"id": 1097848922968600600,
 		"id_str": "1097848922968600576",
