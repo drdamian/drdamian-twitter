@@ -263,6 +263,268 @@ Grailbird.data.tweets_2019_02 =
 		"text": "Update on our Keith Haring painted stools! 6th grade beautification club is rockin it! 😃🎉👌 #ltps @LISShines @_drdamian https://t.co/8uZkhcqIJZ"
 	},
 	{
+		"created_at": "Mon Feb 25 21:06:05 +0000 2019",
+		"id": 1100139895249608700,
+		"id_str": "1100139895249608704",
+		"full_text": "Update on our Keith Haring painted stools! 6th grade beautification club is rockin it! 😃🎉👌 #ltps @LISShines @_drdamian https://t.co/8uZkhcqIJZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ltps",
+					"indices": [
+						91,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LISShines",
+					"name": "LIS Shines",
+					"id": 1029050872075046900,
+					"id_str": "1029050872075046913",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						108,
+						118
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1100139761992458200,
+					"id_str": "1100139761992458242",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D0R7SOTX4AIzpCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0R7SOTX4AIzpCJ.jpg",
+					"url": "https://t.co/8uZkhcqIJZ",
+					"display_url": "pic.twitter.com/8uZkhcqIJZ",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1100139895249608704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100139761992458200,
+					"id_str": "1100139761992458242",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D0R7SOTX4AIzpCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0R7SOTX4AIzpCJ.jpg",
+					"url": "https://t.co/8uZkhcqIJZ",
+					"display_url": "pic.twitter.com/8uZkhcqIJZ",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1100139895249608704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1100139761992454100,
+					"id_str": "1100139761992454146",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D0R7SOTX0AIQCyo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0R7SOTX0AIQCyo.jpg",
+					"url": "https://t.co/8uZkhcqIJZ",
+					"display_url": "pic.twitter.com/8uZkhcqIJZ",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1100139895249608704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1100139762009231400,
+					"id_str": "1100139762009231362",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D0R7SOXX0AIEgdY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0R7SOXX0AIEgdY.jpg",
+					"url": "https://t.co/8uZkhcqIJZ",
+					"display_url": "pic.twitter.com/8uZkhcqIJZ",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1100139895249608704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1034825909944152000,
+			"id_str": "1034825909944152064",
+			"name": "Sara Yoskowitz",
+			"screen_name": "Yoskowitz_Art",
+			"location": "New Jersey, USA",
+			"description": "Art Teacher at Lawrence Intermediate School 😀🖌️❤️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85,
+			"friends_count": 154,
+			"listed_count": 0,
+			"created_at": "Wed Aug 29 15:31:37 +0000 2018",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034976089720811521/qGjIg4Fp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034976089720811521/qGjIg4Fp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1034825909944152064/1535592922",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Update on our Keith Haring painted stools! 6th grade beautification club is rockin it! 😃🎉👌 #ltps @LISShines @_drdamian https://t.co/8uZkhcqIJZ"
+	},
+	{
 		"created_at": "Mon Feb 25 13:02:34 +0000 2019",
 		"id": 1100018215642718200,
 		"id_str": "1100018215642718210",
