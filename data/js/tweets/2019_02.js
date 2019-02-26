@@ -1,6 +1,1205 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Mon Feb 25 21:06:05 +0000 2019",
+		"id": 1100139895249608700,
+		"id_str": "1100139895249608704",
+		"full_text": "Update on our Keith Haring painted stools! 6th grade beautification club is rockin it! 😃🎉👌 #ltps @LISShines @_drdamian https://t.co/8uZkhcqIJZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ltps",
+					"indices": [
+						91,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LISShines",
+					"name": "LIS Shines",
+					"id": 1029050872075046900,
+					"id_str": "1029050872075046913",
+					"indices": [
+						97,
+						107
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						108,
+						118
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1100139761992458200,
+					"id_str": "1100139761992458242",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D0R7SOTX4AIzpCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0R7SOTX4AIzpCJ.jpg",
+					"url": "https://t.co/8uZkhcqIJZ",
+					"display_url": "pic.twitter.com/8uZkhcqIJZ",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1100139895249608704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100139761992458200,
+					"id_str": "1100139761992458242",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D0R7SOTX4AIzpCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0R7SOTX4AIzpCJ.jpg",
+					"url": "https://t.co/8uZkhcqIJZ",
+					"display_url": "pic.twitter.com/8uZkhcqIJZ",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1100139895249608704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1100139761992454100,
+					"id_str": "1100139761992454146",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D0R7SOTX0AIQCyo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0R7SOTX0AIQCyo.jpg",
+					"url": "https://t.co/8uZkhcqIJZ",
+					"display_url": "pic.twitter.com/8uZkhcqIJZ",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1100139895249608704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1100139762009231400,
+					"id_str": "1100139762009231362",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/D0R7SOXX0AIEgdY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0R7SOXX0AIEgdY.jpg",
+					"url": "https://t.co/8uZkhcqIJZ",
+					"display_url": "pic.twitter.com/8uZkhcqIJZ",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1100139895249608704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1034825909944152000,
+			"id_str": "1034825909944152064",
+			"name": "Sara Yoskowitz",
+			"screen_name": "Yoskowitz_Art",
+			"location": "New Jersey, USA",
+			"description": "Art Teacher at Lawrence Intermediate School 😀🖌️❤️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85,
+			"friends_count": 154,
+			"listed_count": 0,
+			"created_at": "Wed Aug 29 15:31:37 +0000 2018",
+			"favourites_count": 105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034976089720811521/qGjIg4Fp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034976089720811521/qGjIg4Fp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1034825909944152064/1535592922",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Update on our Keith Haring painted stools! 6th grade beautification club is rockin it! 😃🎉👌 #ltps @LISShines @_drdamian https://t.co/8uZkhcqIJZ"
+	},
+	{
+		"created_at": "Mon Feb 25 13:02:34 +0000 2019",
+		"id": 1100018215642718200,
+		"id_str": "1100018215642718210",
+		"full_text": "@MrP_tchr No, didn't calm down.  Still gusty this morning.  I'm exhausted.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrP_tchr",
+					"name": "Anthony Purcell",
+					"id": 144575839,
+					"id_str": "144575839",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1099995059729166300,
+		"in_reply_to_status_id_str": "1099995059729166336",
+		"in_reply_to_user_id": 144575839,
+		"in_reply_to_user_id_str": "144575839",
+		"in_reply_to_screen_name": "MrP_tchr",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 1527,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MrP_tchr No, didn't calm down.  Still gusty this morning.  I'm exhausted."
+	},
+	{
+		"created_at": "Mon Feb 25 05:22:36 +0000 2019",
+		"id": 1099902462742405100,
+		"id_str": "1099902462742405120",
+		"full_text": "33 here. https://t.co/pcQ05MaXH0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pcQ05MaXH0",
+					"expanded_url": "https://twitter.com/chrislehmann/status/1099898934850449408",
+					"display_url": "twitter.com/chrislehmann/s…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 1527,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1099898934850449400,
+		"quoted_status_id_str": "1099898934850449408",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pcQ05MaXH0",
+			"expanded": "https://twitter.com/chrislehmann/status/1099898934850449408",
+			"display": "twitter.com/chrislehmann/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 25 05:08:35 +0000 2019",
+			"id": 1099898934850449400,
+			"id_str": "1099898934850449408",
+			"full_text": "How many of the Best Picture winning films have you seen? \n\nhttps://t.co/igiCY8hRbC\n\nI've seen 55. Dang.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				104
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/igiCY8hRbC",
+						"expanded_url": "https://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture",
+						"display_url": "en.wikipedia.org/wiki/Academy_A…",
+						"indices": [
+							60,
+							83
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7108702,
+				"id_str": "7108702",
+				"name": "Chris Lehmann",
+				"screen_name": "chrislehmann",
+				"location": "Philadelphia, PA",
+				"description": "CEO of the Science Leadership Academy Schools - Co-Chair of EduCon - Author of https://t.co/Ibzf8gxtgq - Dad to Jakob and Theo",
+				"url": "https://t.co/xTcxpLhQIq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xTcxpLhQIq",
+								"expanded_url": "http://www.practicaltheory.org",
+								"display_url": "practicaltheory.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Ibzf8gxtgq",
+								"expanded_url": "http://smile.amazon.com/dp/1118076826/",
+								"display_url": "smile.amazon.com/dp/1118076826/",
+								"indices": [
+									79,
+									102
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 34237,
+				"friends_count": 6166,
+				"listed_count": 1688,
+				"created_at": "Wed Jun 27 13:01:33 +0000 2007",
+				"favourites_count": 10883,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 49853,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/952712743093723137/Aho-aRnD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/952712743093723137/Aho-aRnD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7108702/1368729586",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "33 here. https://t.co/pcQ05MaXH0"
+	},
+	{
+		"created_at": "Mon Feb 25 05:19:03 +0000 2019",
+		"id": 1099901567392731100,
+		"id_str": "1099901567392731137",
+		"full_text": "In other news, I may have underestimated just how much I had to prep for tomorrow's (er, now tonight's) class.  Climbing into bed and letting the dulcet tones of the tornado outside soothe me to sleep.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 1527,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "In other news, I may have underestimated just how much I had to prep for tomorrow's (er, now tonight's) class.  Climbing into bed and letting the dulcet tones of the tornado outside soothe me to sleep."
+	},
+	{
+		"created_at": "Mon Feb 25 04:52:54 +0000 2019",
+		"id": 1099894985976094700,
+		"id_str": "1099894985976094721",
+		"full_text": "As happy as I am that my hair is now long enough to reach my eyes...\n\nI'm getting irritated that my hair is forever in my eyes.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 1527,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "As happy as I am that my hair is now long enough to reach my eyes...\n\nI'm getting irritated that my hair is forever in my eyes."
+	},
+	{
+		"created_at": "Mon Feb 25 04:32:40 +0000 2019",
+		"id": 1099889893294116900,
+		"id_str": "1099889893294116865",
+		"full_text": "@Nixie I refused to spend a cent on this movie after reading about how it centers VM's character in Shirley's story.  More white savior nonsense. https://t.co/NiIOzn9ysO",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nixie",
+					"name": "Loud & Aggressive",
+					"id": 1953911,
+					"id_str": "1953911",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NiIOzn9ysO",
+					"expanded_url": "https://www.indiewire.com/2018/12/green-book-controversy-shirley-family-lies-mahershala-ali-apology-1202028687/",
+					"display_url": "indiewire.com/2018/12/green-…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1099888295667028000,
+		"in_reply_to_status_id_str": "1099888295667027968",
+		"in_reply_to_user_id": 1953911,
+		"in_reply_to_user_id_str": "1953911",
+		"in_reply_to_screen_name": "Nixie",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 1527,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Nixie I refused to spend a cent on this movie after reading about how it centers VM's character in Shirley's story.  More white savior nonsense. https://t.co/NiIOzn9ysO"
+	},
+	{
+		"created_at": "Mon Feb 25 04:21:02 +0000 2019",
+		"id": 1099886965162459100,
+		"id_str": "1099886965162459136",
+		"full_text": "Got the alerts from WaPo and Guardian that 'Green Book' won Best Pic.  Checked Twitter; was not disappointed.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 1527,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Got the alerts from WaPo and Guardian that 'Green Book' won Best Pic.  Checked Twitter; was not disappointed."
+	},
+	{
+		"created_at": "Mon Feb 25 03:30:36 +0000 2019",
+		"id": 1099874276126150700,
+		"id_str": "1099874276126150656",
+		"full_text": "@MrP_tchr Thanks - it's not unsafe (he says, until a window shatters), just really loud.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrP_tchr",
+					"name": "Anthony Purcell",
+					"id": 144575839,
+					"id_str": "144575839",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1099874025294233600,
+		"in_reply_to_status_id_str": "1099874025294233600",
+		"in_reply_to_user_id": 144575839,
+		"in_reply_to_user_id_str": "144575839",
+		"in_reply_to_screen_name": "MrP_tchr",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 1527,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MrP_tchr Thanks - it's not unsafe (he says, until a window shatters), just really loud."
+	},
+	{
+		"created_at": "Mon Feb 25 03:28:58 +0000 2019",
+		"id": 1099873865096929300,
+		"id_str": "1099873865096929280",
+		"full_text": "This wind is whipping and my house is creaking like crazy.  Good thing I'm still up prepping for tomorrow night's class; if I was in bed there's no way I'd be sleeping.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 1527,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "This wind is whipping and my house is creaking like crazy.  Good thing I'm still up prepping for tomorrow night's class; if I was in bed there's no way I'd be sleeping."
+	},
+	{
 		"created_at": "Sat Feb 23 01:36:29 +0000 2019",
 		"id": 1099120781697654800,
 		"id_str": "1099120781697654784",
