@@ -1,6 +1,582 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 28 23:28:45 +0000 2019",
+		"id": 1101262963342798800,
+		"id_str": "1101262963342798849",
+		"full_text": "Jazz season kicks off tonight.  Last middle school season for our family; looking forward to the HS circuit next year! (@ Pennridge High School in Perkasie, PA) https://t.co/Ro4xGUuM5a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ro4xGUuM5a",
+					"expanded_url": "https://www.swarmapp.com/c/gwlqPUtIp0F",
+					"display_url": "swarmapp.com/c/gwlqPUtIp0F",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3233,
+			"friends_count": 1526,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31754,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jazz season kicks off tonight.  Last middle school season for our family; looking forward to the HS circuit next year! (@ Pennridge High School in Perkasie, PA) https://t.co/Ro4xGUuM5a"
+	},
+	{
+		"created_at": "Thu Feb 28 22:26:03 +0000 2019",
+		"id": 1101247183125393400,
+		"id_str": "1101247183125393415",
+		"full_text": "@hildakw Framing study in terms of hope &amp; resistance rather than just victimization. Humanization of enslaved people &amp; learning their stories also paramount; to that end, use primary sources re: not only 'big names' but the everyday people who resisted in both big and small ways.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			288
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hildakw",
+					"name": "hilda weisburg",
+					"id": 103718370,
+					"id_str": "103718370",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1101236274684485600,
+		"in_reply_to_status_id_str": "1101236274684485639",
+		"in_reply_to_user_id": 103718370,
+		"in_reply_to_user_id_str": "103718370",
+		"in_reply_to_screen_name": "hildakw",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3233,
+			"friends_count": 1526,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31754,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hildakw Framing study in terms of hope &amp; resistance rather than just victimization. Humanization of enslaved people &amp; learning their stories also paramount; to that end, use primary sources re: not only 'big names' but the everyday people who resisted in both big and small ways."
+	},
+	{
+		"created_at": "Thu Feb 28 03:35:12 +0000 2019",
+		"id": 1100962595870310400,
+		"id_str": "1100962595870310401",
+		"full_text": "Finally finished Season 1 of the Teaching Hard History podcast.  Outstanding resources and suggestions for teaching about American slavery.  I don't subscribe to many ed-related podcasts but I am anxiously awaiting Season 2.  #sschat #history #LTPS #njed https://t.co/xXkdE2Is6C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sschat",
+					"indices": [
+						226,
+						233
+					]
+				},
+				{
+					"text": "history",
+					"indices": [
+						234,
+						242
+					]
+				},
+				{
+					"text": "LTPS",
+					"indices": [
+						243,
+						248
+					]
+				},
+				{
+					"text": "njed",
+					"indices": [
+						249,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xXkdE2Is6C",
+					"expanded_url": "https://twitter.com/_drdamian/status/1098226282788204544",
+					"display_url": "twitter.com/_drdamian/stat…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3233,
+			"friends_count": 1526,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31754,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1098226282788204500,
+		"quoted_status_id_str": "1098226282788204544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xXkdE2Is6C",
+			"expanded": "https://twitter.com/_drdamian/status/1098226282788204544",
+			"display": "twitter.com/_drdamian/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 20 14:22:04 +0000 2019",
+			"id": 1098226282788204500,
+			"id_str": "1098226282788204544",
+			"full_text": "Taking advantage of the snow day to check out Season 1 of this podcast from @Tolerance_org &amp; @ProfJeffries.  You can subscribe in your favorite podcast app, iTunes, or get individual episodes here: https://t.co/pG1zdVzxYa #LTPS cc @DrMPancoast https://t.co/w6EDMuDzOb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTPS",
+						"indices": [
+							226,
+							231
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Tolerance_org",
+						"name": "Teaching Tolerance",
+						"id": 69358848,
+						"id_str": "69358848",
+						"indices": [
+							76,
+							90
+						]
+					},
+					{
+						"screen_name": "ProfJeffries",
+						"name": "Hasan Kwame Jeffries",
+						"id": 3337726865,
+						"id_str": "3337726865",
+						"indices": [
+							97,
+							110
+						]
+					},
+					{
+						"screen_name": "DrMPancoast",
+						"name": "Mary Pancoast",
+						"id": 4048694559,
+						"id_str": "4048694559",
+						"indices": [
+							235,
+							247
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pG1zdVzxYa",
+						"expanded_url": "https://www.tolerance.org/podcasts/teaching-hard-history/american-slavery",
+						"display_url": "tolerance.org/podcasts/teach…",
+						"indices": [
+							202,
+							225
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1098226278002540500,
+						"id_str": "1098226278002540544",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz2u-y9XQAA3ovp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dz2u-y9XQAA3ovp.jpg",
+						"url": "https://t.co/w6EDMuDzOb",
+						"display_url": "pic.twitter.com/w6EDMuDzOb",
+						"expanded_url": "https://twitter.com/_drdamian/status/1098226282788204544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 654,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 851,
+								"h": 885,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 851,
+								"h": 885,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1098226278002540500,
+						"id_str": "1098226278002540544",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/Dz2u-y9XQAA3ovp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dz2u-y9XQAA3ovp.jpg",
+						"url": "https://t.co/w6EDMuDzOb",
+						"display_url": "pic.twitter.com/w6EDMuDzOb",
+						"expanded_url": "https://twitter.com/_drdamian/status/1098226282788204544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 654,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 851,
+								"h": 885,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 851,
+								"h": 885,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7887852,
+				"id_str": "7887852",
+				"name": "Dr. Damian Bariexca",
+				"screen_name": "_drdamian",
+				"location": "Perkasie, PA USA",
+				"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+				"url": "https://t.co/0mfonM3zAp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0mfonM3zAp",
+								"expanded_url": "http://drdamian.org",
+								"display_url": "drdamian.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3233,
+				"friends_count": 1526,
+				"listed_count": 261,
+				"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+				"favourites_count": 1811,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31754,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+				"profile_link_color": "000080",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Finally finished Season 1 of the Teaching Hard History podcast.  Outstanding resources and suggestions for teaching about American slavery.  I don't subscribe to many ed-related podcasts but I am anxiously awaiting Season 2.  #sschat #history #LTPS #njed https://t.co/xXkdE2Is6C"
+	},
+	{
 		"created_at": "Thu Feb 28 01:06:03 +0000 2019",
 		"id": 1100925059361837000,
 		"id_str": "1100925059361837056",
