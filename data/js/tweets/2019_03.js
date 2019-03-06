@@ -1,6 +1,566 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 05 17:49:09 +0000 2019",
+		"id": 1101934937215647700,
+		"id_str": "1102989437888315392",
+		"full_text": "When the music goes out, the show must go on! Great rehearsal for Mary Poppins Jr today @LMSNation! Come see us March 7-9! @Bridgetbaill @LMSchoirZ @_drdamian https://t.co/RpsURtkxuB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LMSNation",
+					"name": "LMS Nation",
+					"id": 309632193,
+					"id_str": "309632193",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"screen_name": "Bridgetbaill",
+					"name": "Bridget Baill",
+					"id": 343523129,
+					"id_str": "343523129",
+					"indices": [
+						123,
+						136
+					]
+				},
+				{
+					"screen_name": "LMSchoirZ",
+					"name": "mrZ",
+					"id": 768843279614050300,
+					"id_str": "768843279614050305",
+					"indices": [
+						137,
+						147
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						148,
+						158
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1101934866101354500,
+					"id_str": "1101934866101354496",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101934866101354496/pu/img/L6lZcdEuRA-doc90.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101934866101354496/pu/img/L6lZcdEuRA-doc90.jpg",
+					"url": "https://t.co/RpsURtkxuB",
+					"display_url": "pic.twitter.com/RpsURtkxuB",
+					"expanded_url": "https://twitter.com/MrsOboylesClass/status/1101934937215647744/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1101934866101354500,
+					"id_str": "1101934866101354496",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101934866101354496/pu/img/L6lZcdEuRA-doc90.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101934866101354496/pu/img/L6lZcdEuRA-doc90.jpg",
+					"url": "https://t.co/RpsURtkxuB",
+					"display_url": "pic.twitter.com/RpsURtkxuB",
+					"expanded_url": "https://twitter.com/MrsOboylesClass/status/1101934937215647744/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 32528,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1101934866101354496/pu/pl/8bS_MJiMa7jAGVJd.m3u8?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1101934866101354496/pu/vid/1280x720/WQ_bHz45Jd2hslrA.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1101934866101354496/pu/vid/640x360/XFd1DSC6Qp-D0euQ.mp4?tag=6"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1101934866101354496/pu/vid/320x180/JR3qvjhtvXbSOcyQ.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2385991280,
+			"id_str": "2385991280",
+			"name": "Mrs. O'Boyle",
+			"screen_name": "MrsOboylesClass",
+			"location": "Ben Franklin Elementary School",
+			"description": "Kindergarten Teacher at Ben Franklin and Choreographer for the LMS Drama Club! 📚✏️👯‍♀️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 207,
+			"friends_count": 159,
+			"listed_count": 5,
+			"created_at": "Thu Mar 13 00:12:39 +0000 2014",
+			"favourites_count": 335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 468,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068641883814014976/pNgP-1EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068641883814014976/pNgP-1EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2385991280/1409001810",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When the music goes out, the show must go on! Great rehearsal for Mary Poppins Jr today @LMSNation! Come see us March 7-9! @Bridgetbaill @LMSchoirZ @_drdamian https://t.co/RpsURtkxuB"
+	},
+	{
+		"created_at": "Tue Mar 05 03:59:04 +0000 2019",
+		"id": 1102780542314049500,
+		"id_str": "1102780542314049538",
+		"full_text": "Congratulations! #LTPS #LHSDECA @dadamltps @CardinalsLHS https://t.co/iDG0GO67me",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "LHSDECA",
+					"indices": [
+						23,
+						31
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						43,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iDG0GO67me",
+					"expanded_url": "https://twitter.com/SchneckDiane/status/1102779661245992960",
+					"display_url": "twitter.com/SchneckDiane/s…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3233,
+			"friends_count": 1527,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31770,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1102779661245993000,
+		"quoted_status_id_str": "1102779661245992960",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iDG0GO67me",
+			"expanded": "https://twitter.com/SchneckDiane/status/1102779661245992960",
+			"display": "twitter.com/SchneckDiane/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 05 03:55:34 +0000 2019",
+			"id": 1102779661245993000,
+			"id_str": "1102779661245992960",
+			"full_text": "Ayush wins the Central Region Scholarship.  #lhsdeca @dadamltps https://t.co/imXsxkYEyg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				63
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "lhsdeca",
+						"indices": [
+							44,
+							52
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dadamltps",
+						"name": "David Adam",
+						"id": 260753316,
+						"id_str": "260753316",
+						"indices": [
+							53,
+							63
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1102779644338688000,
+						"id_str": "1102779644338688001",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/D03cPmZW0AEzqyK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D03cPmZW0AEzqyK.jpg",
+						"url": "https://t.co/imXsxkYEyg",
+						"display_url": "pic.twitter.com/imXsxkYEyg",
+						"expanded_url": "https://twitter.com/SchneckDiane/status/1102779661245992960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1102779644338688000,
+						"id_str": "1102779644338688001",
+						"indices": [
+							64,
+							87
+						],
+						"media_url": "http://pbs.twimg.com/media/D03cPmZW0AEzqyK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D03cPmZW0AEzqyK.jpg",
+						"url": "https://t.co/imXsxkYEyg",
+						"display_url": "pic.twitter.com/imXsxkYEyg",
+						"expanded_url": "https://twitter.com/SchneckDiane/status/1102779661245992960/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4901883603,
+				"id_str": "4901883603",
+				"name": "Diane Schneck",
+				"screen_name": "SchneckDiane",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 100,
+				"friends_count": 30,
+				"listed_count": 1,
+				"created_at": "Fri Feb 12 17:26:36 +0000 2016",
+				"favourites_count": 444,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 494,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations! #LTPS #LHSDECA @dadamltps @CardinalsLHS https://t.co/iDG0GO67me"
+	},
+	{
 		"created_at": "Mon Mar 04 22:03:02 +0000 2019",
 		"id": 1102690942925062100,
 		"id_str": "1102690942925062149",
