@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 07 17:07:14 +0000 2019",
+		"id": 1103703666563924000,
+		"id_str": "1103703666563923974",
+		"full_text": "@thereadingzone @oonziela @theVogelman @MichLampinen Yikes!  I'm glad that at least in Lawrence, it pays for itself in 2-ish years, and then it's money in the bank.  Worthwhile nonetheless, but the extra $ certainly doesn't hurt. :-)",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thereadingzone",
+					"name": "Sarah Mulhern Gross",
+					"id": 16102033,
+					"id_str": "16102033",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "oonziela",
+					"name": "Oona Marie Abrams",
+					"id": 1268423413,
+					"id_str": "1268423413",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "theVogelman",
+					"name": "Brett Vogelsinger",
+					"id": 862807939,
+					"id_str": "862807939",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "MichLampinen",
+					"name": "𝙼𝚒𝚌𝚑𝚎𝚕𝚕𝚎 𝙻𝚊𝚖𝚙𝚒𝚗𝚎𝚗",
+					"id": 43211667,
+					"id_str": "43211667",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1103702939431063600,
+		"in_reply_to_status_id_str": "1103702939431063552",
+		"in_reply_to_user_id": 16102033,
+		"in_reply_to_user_id_str": "16102033",
+		"in_reply_to_screen_name": "thereadingzone",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3233,
+			"friends_count": 1527,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31779,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thereadingzone @oonziela @theVogelman @MichLampinen Yikes!  I'm glad that at least in Lawrence, it pays for itself in 2-ish years, and then it's money in the bank.  Worthwhile nonetheless, but the extra $ certainly doesn't hurt. :-)"
+	},
+	{
+		"created_at": "Thu Mar 07 16:40:21 +0000 2019",
+		"id": 1103696902376296400,
+		"id_str": "1103696902376296448",
+		"full_text": "@oonziela @thereadingzone @theVogelman @MichLampinen About how much does it cost?",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oonziela",
+					"name": "Oona Marie Abrams",
+					"id": 1268423413,
+					"id_str": "1268423413",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "thereadingzone",
+					"name": "Sarah Mulhern Gross",
+					"id": 16102033,
+					"id_str": "16102033",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "theVogelman",
+					"name": "Brett Vogelsinger",
+					"id": 862807939,
+					"id_str": "862807939",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "MichLampinen",
+					"name": "𝙼𝚒𝚌𝚑𝚎𝚕𝚕𝚎 𝙻𝚊𝚖𝚙𝚒𝚗𝚎𝚗",
+					"id": 43211667,
+					"id_str": "43211667",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1103682913688797200,
+		"in_reply_to_status_id_str": "1103682913688797185",
+		"in_reply_to_user_id": 1268423413,
+		"in_reply_to_user_id_str": "1268423413",
+		"in_reply_to_screen_name": "oonziela",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3233,
+			"friends_count": 1527,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31779,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@oonziela @thereadingzone @theVogelman @MichLampinen About how much does it cost?"
+	},
+	{
+		"created_at": "Thu Mar 07 14:04:32 +0000 2019",
+		"id": 1103657688259612700,
+		"id_str": "1103657688259612672",
+		"full_text": "@thereadingzone @oonziela @theVogelman @MichLampinen Yeah, it definitely adds up over the years.",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thereadingzone",
+					"name": "Sarah Mulhern Gross",
+					"id": 16102033,
+					"id_str": "16102033",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "oonziela",
+					"name": "Oona Marie Abrams",
+					"id": 1268423413,
+					"id_str": "1268423413",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "theVogelman",
+					"name": "Brett Vogelsinger",
+					"id": 862807939,
+					"id_str": "862807939",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "MichLampinen",
+					"name": "𝙼𝚒𝚌𝚑𝚎𝚕𝚕𝚎 𝙻𝚊𝚖𝚙𝚒𝚗𝚎𝚗",
+					"id": 43211667,
+					"id_str": "43211667",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1103656778158563300,
+		"in_reply_to_status_id_str": "1103656778158563329",
+		"in_reply_to_user_id": 16102033,
+		"in_reply_to_user_id_str": "16102033",
+		"in_reply_to_screen_name": "thereadingzone",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3233,
+			"friends_count": 1527,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31779,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thereadingzone @oonziela @theVogelman @MichLampinen Yeah, it definitely adds up over the years."
+	},
+	{
 		"created_at": "Wed Mar 06 16:40:29 +0000 2019",
 		"id": 1103334546291023900,
 		"id_str": "1103334546291023874",
