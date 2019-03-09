@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 08 17:15:08 +0000 2019",
+		"id": 1104064982596182000,
+		"id_str": "1104068041283956736",
+		"full_text": "Observing a stunning rehearsal for Mozart’s Requiem, conducted by Joe Miller! #ExperienceWestminster #ltps1 @_drdamian @msafischer @dadamltps https://t.co/FNROmvkv41",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ExperienceWestminster",
+					"indices": [
+						78,
+						100
+					]
+				},
+				{
+					"text": "ltps1",
+					"indices": [
+						101,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"screen_name": "msafischer",
+					"name": "Alyson Fischer",
+					"id": 720423019,
+					"id_str": "720423019",
+					"indices": [
+						119,
+						130
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						131,
+						141
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1104064977223192600,
+					"id_str": "1104064977223192576",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D1JtP0hWkAAIcCv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1JtP0hWkAAIcCv.jpg",
+					"url": "https://t.co/FNROmvkv41",
+					"display_url": "pic.twitter.com/FNROmvkv41",
+					"expanded_url": "https://twitter.com/JohnsonMusicLHS/status/1104064982596182016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1104064977223192600,
+					"id_str": "1104064977223192576",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D1JtP0hWkAAIcCv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1JtP0hWkAAIcCv.jpg",
+					"url": "https://t.co/FNROmvkv41",
+					"display_url": "pic.twitter.com/FNROmvkv41",
+					"expanded_url": "https://twitter.com/JohnsonMusicLHS/status/1104064982596182016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1104064977231593500,
+					"id_str": "1104064977231593472",
+					"indices": [
+						142,
+						165
+					],
+					"media_url": "http://pbs.twimg.com/media/D1JtP0jWwAAOtPV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1JtP0jWwAAOtPV.jpg",
+					"url": "https://t.co/FNROmvkv41",
+					"display_url": "pic.twitter.com/FNROmvkv41",
+					"expanded_url": "https://twitter.com/JohnsonMusicLHS/status/1104064982596182016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2682026152,
+			"id_str": "2682026152",
+			"name": "mandy Johnson",
+			"screen_name": "JohnsonMusicLHS",
+			"location": "",
+			"description": "Music Educator. Choir Director. Soprano. Proud LHS teacher.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143,
+			"friends_count": 142,
+			"listed_count": 5,
+			"created_at": "Mon Jul 07 04:27:22 +0000 2014",
+			"favourites_count": 437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 199,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/885511986536210432/E6Jtqv6E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/885511986536210432/E6Jtqv6E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2682026152/1522948725",
+			"profile_link_color": "5EB888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Observing a stunning rehearsal for Mozart’s Requiem, conducted by Joe Miller! #ExperienceWestminster #ltps1 @_drdamian @msafischer @dadamltps https://t.co/FNROmvkv41"
+	},
+	{
 		"created_at": "Thu Mar 07 17:07:14 +0000 2019",
 		"id": 1103703666563924000,
 		"id_str": "1103703666563923974",
