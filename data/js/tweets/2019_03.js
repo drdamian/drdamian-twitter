@@ -1,6 +1,453 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 12 15:04:03 +0000 2019",
+		"id": 1105483518237397000,
+		"id_str": "1105484606076342272",
+		"full_text": "If you thought you could make students gritty and that doing so would improve standardized test scores, you really did not understand what grit is. https://t.co/qQ5oQTwq8l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qQ5oQTwq8l",
+					"expanded_url": "https://hechingerreport.org/research-scholars-to-air-problems-with-using-grit-at-school/",
+					"display_url": "hechingerreport.org/research-schol…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 84619537,
+			"id_str": "84619537",
+			"name": "Daniel Willingham",
+			"screen_name": "DTWillingham",
+			"location": "Keswick, Virginia, USA",
+			"description": "Putting the funk back in functional brain imaging and the psycho in psychometrics. One study is just one study, folks.",
+			"url": "http://t.co/fNTtRMN06N",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/fNTtRMN06N",
+							"expanded_url": "http://www.danielwillingham.com",
+							"display_url": "danielwillingham.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21802,
+			"friends_count": 214,
+			"listed_count": 468,
+			"created_at": "Fri Oct 23 15:39:08 +0000 2009",
+			"favourites_count": 2226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7067,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091309343717425153/-kRQ6vdm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091309343717425153/-kRQ6vdm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/84619537/1493024888",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 73,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you thought you could make students gritty and that doing so would improve standardized test scores, you really did not understand what grit is. https://t.co/qQ5oQTwq8l"
+	},
+	{
+		"created_at": "Tue Mar 12 14:52:47 +0000 2019",
+		"id": 1105458413436371000,
+		"id_str": "1105481770324107265",
+		"full_text": "Check out these COOL 5th grade snow globes! Get it, COOL? 😂❄️⛄️🖌#ltps @LISShines @_drdamian and thank you @cassiestephens 🙌 https://t.co/IkDYHsy73I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ltps",
+					"indices": [
+						64,
+						69
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LISShines",
+					"name": "LIS Shines",
+					"id": 1029050872075046900,
+					"id_str": "1029050872075046913",
+					"indices": [
+						70,
+						80
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"screen_name": "cassiestephens",
+					"name": "cassie stephens",
+					"id": 56356037,
+					"id_str": "56356037",
+					"indices": [
+						106,
+						121
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1105458375960219600,
+					"id_str": "1105458375960219650",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/D1dgiTUW0AI-akf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1dgiTUW0AI-akf.jpg",
+					"url": "https://t.co/IkDYHsy73I",
+					"display_url": "pic.twitter.com/IkDYHsy73I",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1105458413436370945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1105458375960219600,
+					"id_str": "1105458375960219650",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/D1dgiTUW0AI-akf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1dgiTUW0AI-akf.jpg",
+					"url": "https://t.co/IkDYHsy73I",
+					"display_url": "pic.twitter.com/IkDYHsy73I",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1105458413436370945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1105458375964459000,
+					"id_str": "1105458375964459009",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/D1dgiTVXgAEfxCt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1dgiTVXgAEfxCt.jpg",
+					"url": "https://t.co/IkDYHsy73I",
+					"display_url": "pic.twitter.com/IkDYHsy73I",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1105458413436370945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1105458375960203300,
+					"id_str": "1105458375960203264",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/D1dgiTUWkAA36W3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1dgiTUWkAA36W3.jpg",
+					"url": "https://t.co/IkDYHsy73I",
+					"display_url": "pic.twitter.com/IkDYHsy73I",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1105458413436370945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1105458375964414000,
+					"id_str": "1105458375964413953",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/D1dgiTVW0AEkpp9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1dgiTVW0AEkpp9.jpg",
+					"url": "https://t.co/IkDYHsy73I",
+					"display_url": "pic.twitter.com/IkDYHsy73I",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1105458413436370945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1034825909944152000,
+			"id_str": "1034825909944152064",
+			"name": "Sara Yoskowitz",
+			"screen_name": "Yoskowitz_Art",
+			"location": "New Jersey, USA",
+			"description": "Art Teacher at Lawrence Intermediate School 😀🖌️❤️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89,
+			"friends_count": 158,
+			"listed_count": 0,
+			"created_at": "Wed Aug 29 15:31:37 +0000 2018",
+			"favourites_count": 115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034976089720811521/qGjIg4Fp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034976089720811521/qGjIg4Fp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1034825909944152064/1535592922",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "07d9c9e1e3484003",
+			"url": "https://api.twitter.com/1.1/geo/id/07d9c9e1e3484003.json",
+			"place_type": "poi",
+			"name": "Lawrence Intermediate School",
+			"full_name": "Lawrence Intermediate School",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.73964198594139,
+							40.272301772869966
+						],
+						[
+							-74.73964198594139,
+							40.272301772869966
+						],
+						[
+							-74.73964198594139,
+							40.272301772869966
+						],
+						[
+							-74.73964198594139,
+							40.272301772869966
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out these COOL 5th grade snow globes! Get it, COOL? 😂❄️⛄️🖌#ltps @LISShines @_drdamian and thank you @cassiestephens 🙌 https://t.co/IkDYHsy73I"
+	},
+	{
 		"created_at": "Mon Mar 11 21:54:29 +0000 2019",
 		"id": 1105225506755170300,
 		"id_str": "1105225506755170304",
