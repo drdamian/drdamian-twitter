@@ -1,6 +1,727 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 25 00:50:00 +0000 2019",
+		"id": 1109980719739256800,
+		"id_str": "1109980719739256833",
+		"full_text": "Check this out @DrMPancoast @mhayes611! https://t.co/xn6liKnjRd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrMPancoast",
+					"name": "Mary Pancoast",
+					"id": 4048694559,
+					"id_str": "4048694559",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "mhayes611",
+					"name": "Maureen Hayes",
+					"id": 47032216,
+					"id_str": "47032216",
+					"indices": [
+						28,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xn6liKnjRd",
+					"expanded_url": "https://twitter.com/JakeMillerTech/status/1107311952492146691",
+					"display_url": "twitter.com/JakeMillerTech…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3236,
+			"friends_count": 1532,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31837,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1107311952492146700,
+		"quoted_status_id_str": "1107311952492146691",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xn6liKnjRd",
+			"expanded": "https://twitter.com/JakeMillerTech/status/1107311952492146691",
+			"display": "twitter.com/JakeMillerTech…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 17 16:05:16 +0000 2019",
+			"id": 1107311952492146700,
+			"id_str": "1107311952492146691",
+			"full_text": "Quickly create vocab lists for #ForeignLanguage classes or for #ESL/#ELL students! #GoogleSheets + #GoogleTranslate = Whoa! #edtechchat @GoogleForEdu @gsuite @googledrive #Chromebooks #DitchBook #EduGIFs https://t.co/pZvBOA43na https://t.co/gOv834Gdg7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				227
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ForeignLanguage",
+						"indices": [
+							31,
+							47
+						]
+					},
+					{
+						"text": "ESL",
+						"indices": [
+							63,
+							67
+						]
+					},
+					{
+						"text": "ELL",
+						"indices": [
+							68,
+							72
+						]
+					},
+					{
+						"text": "GoogleSheets",
+						"indices": [
+							83,
+							96
+						]
+					},
+					{
+						"text": "GoogleTranslate",
+						"indices": [
+							99,
+							115
+						]
+					},
+					{
+						"text": "edtechchat",
+						"indices": [
+							124,
+							135
+						]
+					},
+					{
+						"text": "Chromebooks",
+						"indices": [
+							171,
+							183
+						]
+					},
+					{
+						"text": "DitchBook",
+						"indices": [
+							184,
+							194
+						]
+					},
+					{
+						"text": "EduGIFs",
+						"indices": [
+							195,
+							203
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GoogleForEdu",
+						"name": "Google For Education",
+						"id": 254218142,
+						"id_str": "254218142",
+						"indices": [
+							136,
+							149
+						]
+					},
+					{
+						"screen_name": "gsuite",
+						"name": "G Suite",
+						"id": 17003765,
+						"id_str": "17003765",
+						"indices": [
+							150,
+							157
+						]
+					},
+					{
+						"screen_name": "googledrive",
+						"name": "Google Drive",
+						"id": 32468665,
+						"id_str": "32468665",
+						"indices": [
+							158,
+							170
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pZvBOA43na",
+						"expanded_url": "http://jakemiller.net/translate-in-google-sheets/",
+						"display_url": "jakemiller.net/translate-in-g…",
+						"indices": [
+							204,
+							227
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1107311943923183600,
+						"id_str": "1107311943923183617",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D132WKEWsAEISHo.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D132WKEWsAEISHo.jpg",
+						"url": "https://t.co/gOv834Gdg7",
+						"display_url": "pic.twitter.com/gOv834Gdg7",
+						"expanded_url": "https://twitter.com/JakeMillerTech/status/1107311952492146691/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 674,
+								"h": 594,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 674,
+								"h": 594,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 674,
+								"h": 594,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1107311943923183600,
+						"id_str": "1107311943923183617",
+						"indices": [
+							228,
+							251
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/D132WKEWsAEISHo.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D132WKEWsAEISHo.jpg",
+						"url": "https://t.co/gOv834Gdg7",
+						"display_url": "pic.twitter.com/gOv834Gdg7",
+						"expanded_url": "https://twitter.com/JakeMillerTech/status/1107311952492146691/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 674,
+								"h": 594,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 674,
+								"h": 594,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 674,
+								"h": 594,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								337,
+								297
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/D132WKEWsAEISHo.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 526481896,
+				"id_str": "526481896",
+				"name": "Jake Miller",
+				"screen_name": "JakeMillerTech",
+				"location": "Kent, OH",
+				"description": "#EduDuctTape host, #EduGIF Guy, authorized #GoogleEDU Trainer, Tech Integration Coach, speaker, Former #STEM, Math & Science Teacher, #gSuiteEdu Nerd, presenter",
+				"url": "https://t.co/lYF9ICIaC2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lYF9ICIaC2",
+								"expanded_url": "http://www.jakemiller.net",
+								"display_url": "jakemiller.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12238,
+				"friends_count": 1068,
+				"listed_count": 260,
+				"created_at": "Fri Mar 16 15:03:54 +0000 2012",
+				"favourites_count": 16617,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22180,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1102398523738390529/w3Td08Xj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102398523738390529/w3Td08Xj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/526481896/1551667265",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 468,
+			"favorite_count": 874,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check this out @DrMPancoast @mhayes611! https://t.co/xn6liKnjRd"
+	},
+	{
+		"created_at": "Sun Mar 24 13:00:05 +0000 2019",
+		"id": 1109802060692840400,
+		"id_str": "1109802060692840450",
+		"full_text": "What's the word from the #LTPS Music Dept.?  Stay tuned on Tuesday to find out.  In the meantime, here's another piece of the puzzle... https://t.co/wdeDWYivMR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						25,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1109802059363217400,
+					"id_str": "1109802059363217408",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D2bPF89XcAAVixV.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2bPF89XcAAVixV.png",
+					"url": "https://t.co/wdeDWYivMR",
+					"display_url": "pic.twitter.com/wdeDWYivMR",
+					"expanded_url": "https://twitter.com/_drdamian/status/1109802060692840450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 118,
+							"h": 90,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 118,
+							"h": 90,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 118,
+							"h": 90,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1109802059363217400,
+					"id_str": "1109802059363217408",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D2bPF89XcAAVixV.png",
+					"media_url_https": "https://pbs.twimg.com/media/D2bPF89XcAAVixV.png",
+					"url": "https://t.co/wdeDWYivMR",
+					"display_url": "pic.twitter.com/wdeDWYivMR",
+					"expanded_url": "https://twitter.com/_drdamian/status/1109802060692840450/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 118,
+							"h": 90,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 118,
+							"h": 90,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 90,
+							"h": 90,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 118,
+							"h": 90,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3236,
+			"friends_count": 1532,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31837,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What's the word from the #LTPS Music Dept.?  Stay tuned on Tuesday to find out.  In the meantime, here's another piece of the puzzle... https://t.co/wdeDWYivMR"
+	},
+	{
+		"created_at": "Sun Mar 24 01:45:08 +0000 2019",
+		"id": 1109632206681456600,
+		"id_str": "1109632206681456641",
+		"full_text": "Amazon will donate 0.5% of your purchase price to LIMBO. To sign up, go to https://t.co/ELWhIqBdXf  and search for \"Lawrence Instrumental Music Booster Organization\" as the receiving organization.  It works with your existing Amazon account! #LTPS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						242,
+						247
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ELWhIqBdXf",
+					"expanded_url": "http://smile.amazon.com",
+					"display_url": "smile.amazon.com",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1109630407786545200,
+		"in_reply_to_status_id_str": "1109630407786545152",
+		"in_reply_to_user_id": 7887852,
+		"in_reply_to_user_id_str": "7887852",
+		"in_reply_to_screen_name": "_drdamian",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3236,
+			"friends_count": 1532,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31837,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amazon will donate 0.5% of your purchase price to LIMBO. To sign up, go to https://t.co/ELWhIqBdXf  and search for \"Lawrence Instrumental Music Booster Organization\" as the receiving organization.  It works with your existing Amazon account! #LTPS"
+	},
+	{
 		"created_at": "Sun Mar 24 01:15:57 +0000 2019",
 		"id": 1109624861897490400,
 		"id_str": "1109624861897490432",
