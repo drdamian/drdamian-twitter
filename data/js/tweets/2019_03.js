@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 25 18:58:17 +0000 2019",
+		"id": 1110177761086394400,
+		"id_str": "1110254592527396864",
+		"full_text": "Enjoy trip down rabbit hole w Alice n @LISShines Alice in Wonderland Jr. Meet Mad Hatter, Cheshire Cat, Caterpillar, Queen of Hearts…they’re all there! And yes the White Rabbit is still late. Musical runs March 28-30 @ 7PM at LIS https://t.co/HB4KBGQj87  @cwesthead32 @_drdamian https://t.co/d9M3byEx6F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LISShines",
+					"name": "LIS Shines",
+					"id": 1029050872075046900,
+					"id_str": "1029050872075046913",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"screen_name": "cwesthead32",
+					"name": "cindy westhead",
+					"id": 249681594,
+					"id_str": "249681594",
+					"indices": [
+						255,
+						267
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						268,
+						278
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HB4KBGQj87",
+					"expanded_url": "https://youtu.be/7JwMIxRAuak",
+					"display_url": "youtu.be/7JwMIxRAuak",
+					"indices": [
+						230,
+						253
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1110177645734625300,
+					"id_str": "1110177645734625281",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D2gkr9OXgAE2h3E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2gkr9OXgAE2h3E.jpg",
+					"url": "https://t.co/d9M3byEx6F",
+					"display_url": "pic.twitter.com/d9M3byEx6F",
+					"expanded_url": "https://twitter.com/lanacmnj/status/1110177761086394368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2016,
+							"h": 1512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110177645734625300,
+					"id_str": "1110177645734625281",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/D2gkr9OXgAE2h3E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2gkr9OXgAE2h3E.jpg",
+					"url": "https://t.co/d9M3byEx6F",
+					"display_url": "pic.twitter.com/d9M3byEx6F",
+					"expanded_url": "https://twitter.com/lanacmnj/status/1110177761086394368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2016,
+							"h": 1512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87242842,
+			"id_str": "87242842",
+			"name": "Lana Mueller",
+			"screen_name": "lanacmnj",
+			"location": "New Jersey",
+			"description": "Operations Mgr Superintendent's Office",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 323,
+			"friends_count": 74,
+			"listed_count": 11,
+			"created_at": "Tue Nov 03 17:48:55 +0000 2009",
+			"favourites_count": 202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1810,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/687299602345766912/Gp1BDJY-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/687299602345766912/Gp1BDJY-_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Enjoy trip down rabbit hole w Alice n @LISShines Alice in Wonderland Jr. Meet Mad Hatter, Cheshire Cat, Caterpillar, Queen of Hearts…they’re all there! And yes the White Rabbit is still late. Musical runs March 28-30 @ 7PM at LIS https://t.co/HB4KBGQj87  @cwesthead32 @_drdamian https://t.co/d9M3byEx6F"
+	},
+	{
 		"created_at": "Mon Mar 25 00:50:00 +0000 2019",
 		"id": 1109980719739256800,
 		"id_str": "1109980719739256833",
