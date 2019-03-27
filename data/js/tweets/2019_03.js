@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 27 01:15:26 +0000 2019",
+		"id": 1110710100866547700,
+		"id_str": "1110711895487627265",
+		"full_text": "Allow young people to create their own versions of the art they consume. Teach them to be critical  consumers AND producers #HipHopEd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HipHopEd",
+					"indices": [
+						124,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29804165,
+			"id_str": "29804165",
+			"name": "Christopher Emdin",
+			"screen_name": "chrisemdin",
+			"location": "New York City",
+			"description": "Prof at TC, Columbia U. Author of For White Folks Who Teach in the Hood ...  Behind the magic that is #HipHopEd & #sciencegenius",
+			"url": "http://t.co/SeCKVmMMNW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/SeCKVmMMNW",
+							"expanded_url": "http://www.chrisemdin.com",
+							"display_url": "chrisemdin.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47616,
+			"friends_count": 1367,
+			"listed_count": 839,
+			"created_at": "Wed Apr 08 19:57:22 +0000 2009",
+			"favourites_count": 4488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33501,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/462197048377237504/4RRw64OE_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/462197048377237504/4RRw64OE_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29804165/1460530045",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Allow young people to create their own versions of the art they consume. Teach them to be critical  consumers AND producers #HipHopEd"
+	},
+	{
 		"created_at": "Tue Mar 26 12:45:30 +0000 2019",
 		"id": 1110523167406207000,
 		"id_str": "1110523167406206976",
