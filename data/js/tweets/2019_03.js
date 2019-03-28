@@ -1,6 +1,729 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 28 00:52:25 +0000 2019",
+		"id": 1111068491275132900,
+		"id_str": "1111068491275132928",
+		"full_text": "The only workout you regret is the one you skip #fitleaders #isitbedtimeyet (@ Bedminster Hunt West in Perkasie, PA) https://t.co/xPcS0i9fLa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "fitleaders",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"text": "isitbedtimeyet",
+					"indices": [
+						60,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xPcS0i9fLa",
+					"expanded_url": "https://www.swarmapp.com/c/63zbpKq0jyD",
+					"display_url": "swarmapp.com/c/63zbpKq0jyD",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3237,
+			"friends_count": 1532,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1864,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31849,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The only workout you regret is the one you skip #fitleaders #isitbedtimeyet (@ Bedminster Hunt West in Perkasie, PA) https://t.co/xPcS0i9fLa"
+	},
+	{
+		"created_at": "Wed Mar 27 19:54:38 +0000 2019",
+		"id": 1110993552266399700,
+		"id_str": "1110993552266399745",
+		"full_text": "Fantastic summer PD in central NJ - submit a proposal today! #njed https://t.co/DTn19cXhVw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "njed",
+					"indices": [
+						61,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DTn19cXhVw",
+					"expanded_url": "https://twitter.com/mhayes611/status/1110992838827876352",
+					"display_url": "twitter.com/mhayes611/stat…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3237,
+			"friends_count": 1532,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1864,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31849,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110992838827876400,
+		"quoted_status_id_str": "1110992838827876352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DTn19cXhVw",
+			"expanded": "https://twitter.com/mhayes611/status/1110992838827876352",
+			"display": "twitter.com/mhayes611/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 27 19:51:48 +0000 2019",
+			"id": 1110992838827876400,
+			"id_str": "1110992838827876352",
+			"full_text": "Time is running out to submit a proposal for #LTPSDIVE19 Will you be there @MrEggertsClass @megleventhal @MissRelloLIS @jacampora25 @mskb26 @SmilingTeach @LEHSDLiteracy @KMreaders @Mwallauerteach @john_giusti @MrLehnert2 @MrRudesClass @Mrs_Dumont5 @LTPS1 \nhttps://t.co/EsVZ8kFj4A https://t.co/cOZGomOamW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LTPSDIVE19",
+						"indices": [
+							45,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MrEggertsClass",
+						"name": "ᗪᗩᐯIᗪ EGGEᖇT",
+						"id": 3073239351,
+						"id_str": "3073239351",
+						"indices": [
+							75,
+							90
+						]
+					},
+					{
+						"screen_name": "megleventhal",
+						"name": "Meg Leventhal",
+						"id": 2822929239,
+						"id_str": "2822929239",
+						"indices": [
+							91,
+							104
+						]
+					},
+					{
+						"screen_name": "MissRelloLIS",
+						"name": "Miss Rello",
+						"id": 2586002424,
+						"id_str": "2586002424",
+						"indices": [
+							105,
+							118
+						]
+					},
+					{
+						"screen_name": "jacampora25",
+						"name": "𝕁𝕠𝕙𝕟 𝔸𝕔𝕒𝕞𝕡𝕠𝕣𝕒",
+						"id": 261998302,
+						"id_str": "261998302",
+						"indices": [
+							119,
+							131
+						]
+					},
+					{
+						"screen_name": "mskb26",
+						"name": "Kaylee Baldwin",
+						"id": 2765527619,
+						"id_str": "2765527619",
+						"indices": [
+							132,
+							139
+						]
+					},
+					{
+						"screen_name": "SmilingTeach",
+						"name": "𝔻𝕖𝕟𝕚𝕤𝕖 𝕎𝕖𝕚𝕟𝕥𝕣𝕒𝕦𝕥",
+						"id": 25491459,
+						"id_str": "25491459",
+						"indices": [
+							140,
+							153
+						]
+					},
+					{
+						"screen_name": "LEHSDLiteracy",
+						"name": "Alisa Palazzi",
+						"id": 2453563982,
+						"id_str": "2453563982",
+						"indices": [
+							154,
+							168
+						]
+					},
+					{
+						"screen_name": "KMreaders",
+						"name": "Kim McCarty",
+						"id": 3548257096,
+						"id_str": "3548257096",
+						"indices": [
+							169,
+							179
+						]
+					},
+					{
+						"screen_name": "Mwallauerteach",
+						"name": "Mary",
+						"id": 2484541334,
+						"id_str": "2484541334",
+						"indices": [
+							180,
+							195
+						]
+					},
+					{
+						"screen_name": "john_giusti",
+						"name": "John Giusti",
+						"id": 3440802615,
+						"id_str": "3440802615",
+						"indices": [
+							196,
+							208
+						]
+					},
+					{
+						"screen_name": "MrLehnert2",
+						"name": "Douglas Lehnert",
+						"id": 768981013405978600,
+						"id_str": "768981013405978625",
+						"indices": [
+							209,
+							220
+						]
+					},
+					{
+						"screen_name": "MrRudesClass",
+						"name": "Daniel Rude",
+						"id": 1720488596,
+						"id_str": "1720488596",
+						"indices": [
+							221,
+							234
+						]
+					},
+					{
+						"screen_name": "Mrs_Dumont5",
+						"name": "Jessica Dumont",
+						"id": 3446637195,
+						"id_str": "3446637195",
+						"indices": [
+							235,
+							247
+						]
+					},
+					{
+						"screen_name": "LTPS1",
+						"name": "Lawrence Twp Schools",
+						"id": 2178717536,
+						"id_str": "2178717536",
+						"indices": [
+							248,
+							254
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EsVZ8kFj4A",
+						"expanded_url": "https://forms.gle/9q1HpgRTGHrF2JAi8",
+						"display_url": "forms.gle/9q1HpgRTGHrF2J…",
+						"indices": [
+							256,
+							279
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1110992730711310300,
+						"id_str": "1110992730711310337",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/D2sKAJYWwAEsEwH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2sKAJYWwAEsEwH.jpg",
+						"url": "https://t.co/cOZGomOamW",
+						"display_url": "pic.twitter.com/cOZGomOamW",
+						"expanded_url": "https://twitter.com/mhayes611/status/1110992838827876352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 593,
+								"h": 766,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 593,
+								"h": 766,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 526,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1110992730711310300,
+						"id_str": "1110992730711310337",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/D2sKAJYWwAEsEwH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2sKAJYWwAEsEwH.jpg",
+						"url": "https://t.co/cOZGomOamW",
+						"display_url": "pic.twitter.com/cOZGomOamW",
+						"expanded_url": "https://twitter.com/mhayes611/status/1110992838827876352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 593,
+								"h": 766,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 593,
+								"h": 766,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 526,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47032216,
+				"id_str": "47032216",
+				"name": "Maureen Hayes",
+				"screen_name": "mhayes611",
+				"location": "Lawrence Twp Public Schools",
+				"description": "K-6 Humanities Supervisor, mom, avid reader, Broadway enthusiast, wrestling mom, #OneWord2019 CHALLENGE #4OCFpln https://t.co/zwvnsXgMn3",
+				"url": "https://t.co/IjnmIrLfYO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IjnmIrLfYO",
+								"expanded_url": "http://kidsfirst-passionateleadership.blogspot.com/",
+								"display_url": "…rst-passionateleadership.blogspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/zwvnsXgMn3",
+								"expanded_url": "https://sites.google.com/view/4ocfpln",
+								"display_url": "sites.google.com/view/4ocfpln",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1530,
+				"friends_count": 1313,
+				"listed_count": 28,
+				"created_at": "Sun Jun 14 04:25:11 +0000 2009",
+				"favourites_count": 11797,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3856,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/951189307800412160/Jf0TIey8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/951189307800412160/Jf0TIey8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47032216/1546454772",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1c69a67ad480e1b1",
+				"url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json",
+				"place_type": "city",
+				"name": "Houston",
+				"full_name": "Houston, TX",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-95.823268,
+								29.522325
+							],
+							[
+								-95.069705,
+								29.522325
+							],
+							[
+								-95.069705,
+								30.1546646
+							],
+							[
+								-95.823268,
+								30.1546646
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fantastic summer PD in central NJ - submit a proposal today! #njed https://t.co/DTn19cXhVw"
+	},
+	{
+		"created_at": "Wed Mar 27 12:31:58 +0000 2019",
+		"id": 1110882149538955300,
+		"id_str": "1110882149538955264",
+		"full_text": "50% done with None of the Above, by Shani Robinson https://t.co/LhNalPrUgt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LhNalPrUgt",
+					"expanded_url": "https://goodreads.com/user_status/show/216447679",
+					"display_url": "goodreads.com/user_status/sh…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.goodreads.com\" rel=\"nofollow\">Goodreads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3237,
+			"friends_count": 1532,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1864,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31849,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072298648376107009/6X6Ui2kX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "50% done with None of the Above, by Shani Robinson https://t.co/LhNalPrUgt"
+	},
+	{
 		"created_at": "Wed Mar 27 01:15:26 +0000 2019",
 		"id": 1110710100866547700,
 		"id_str": "1110711895487627265",
