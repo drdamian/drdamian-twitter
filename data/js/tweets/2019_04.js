@@ -1,6 +1,940 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 00:17:08 +0000 2019",
+		"id": 1113958714896265200,
+		"id_str": "1113958714896265216",
+		"full_text": "25% done with Heavy, by Kiese Laymon https://t.co/l6vCyfLYbl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l6vCyfLYbl",
+					"expanded_url": "https://goodreads.com/user_status/show/217727434",
+					"display_url": "goodreads.com/user_status/sh…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.goodreads.com\" rel=\"nofollow\">Goodreads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3237,
+			"friends_count": 1533,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31872,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "25% done with Heavy, by Kiese Laymon https://t.co/l6vCyfLYbl"
+	},
+	{
+		"created_at": "Thu Apr 04 22:06:02 +0000 2019",
+		"id": 1113925720668024800,
+		"id_str": "1113925720668024832",
+		"full_text": "Happy National School Librarian Day to our awesome #LTPS school librarians @mish33ltps @aoliver10 @MrsCasieri @Mrs_Cramer @LHSMediaCenter and Mrs. Offery! https://t.co/U4Bwrpe09t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						51,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mish33ltps",
+					"name": "EPSLibrary",
+					"id": 125689347,
+					"id_str": "125689347",
+					"indices": [
+						75,
+						86
+					]
+				},
+				{
+					"screen_name": "aoliver10",
+					"name": "April Oliver",
+					"id": 2788748732,
+					"id_str": "2788748732",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"screen_name": "MrsCasieri",
+					"name": "Mrs. Casieri",
+					"id": 830254922,
+					"id_str": "830254922",
+					"indices": [
+						98,
+						109
+					]
+				},
+				{
+					"screen_name": "Mrs_Cramer",
+					"name": "Eileen Cramer",
+					"id": 250131255,
+					"id_str": "250131255",
+					"indices": [
+						110,
+						121
+					]
+				},
+				{
+					"screen_name": "LHSMediaCenter",
+					"name": "Ewa Dziedzic-Elliott",
+					"id": 796644332,
+					"id_str": "796644332",
+					"indices": [
+						122,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/U4Bwrpe09t",
+					"expanded_url": "https://twitter.com/NJASL/status/1113762980649472001",
+					"display_url": "twitter.com/NJASL/status/1…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3237,
+			"friends_count": 1533,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31872,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1113762980649472000,
+		"quoted_status_id_str": "1113762980649472001",
+		"quoted_status_permalink": {
+			"url": "https://t.co/U4Bwrpe09t",
+			"expanded": "https://twitter.com/NJASL/status/1113762980649472001",
+			"display": "twitter.com/NJASL/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 04 11:19:21 +0000 2019",
+			"id": 1113762980649472000,
+			"id_str": "1113762980649472001",
+			"full_text": "https://t.co/iXVO6ecdy8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1113762979240206300,
+						"id_str": "1113762979240206336",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/D3Thh1WX4AALniR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3Thh1WX4AALniR.jpg",
+						"url": "https://t.co/iXVO6ecdy8",
+						"display_url": "pic.twitter.com/iXVO6ecdy8",
+						"expanded_url": "https://twitter.com/NJASL/status/1113762980649472001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 1448,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 849,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1113762979240206300,
+						"id_str": "1113762979240206336",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/D3Thh1WX4AALniR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3Thh1WX4AALniR.jpg",
+						"url": "https://t.co/iXVO6ecdy8",
+						"display_url": "pic.twitter.com/iXVO6ecdy8",
+						"expanded_url": "https://twitter.com/NJASL/status/1113762980649472001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 1448,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 849,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 87832393,
+				"id_str": "87832393",
+				"name": "NJ Assn School Libns",
+				"screen_name": "NJASL",
+				"location": "Trenton, New Jersey",
+				"description": "Advocates high standards for librarianship & library media programs in NJ schools to ensure students & staff are effective users & producers of info.",
+				"url": "http://t.co/UWucBkr0fD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/UWucBkr0fD",
+								"expanded_url": "http://www.njasl.org",
+								"display_url": "njasl.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1797,
+				"friends_count": 1015,
+				"listed_count": 88,
+				"created_at": "Fri Nov 06 01:02:28 +0000 2009",
+				"favourites_count": 3629,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4244,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/502156487498534912/Adn8RgX8_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/502156487498534912/Adn8RgX8_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/87832393/1409496611",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy National School Librarian Day to our awesome #LTPS school librarians @mish33ltps @aoliver10 @MrsCasieri @Mrs_Cramer @LHSMediaCenter and Mrs. Offery! https://t.co/U4Bwrpe09t"
+	},
+	{
+		"created_at": "Thu Apr 04 20:18:46 +0000 2019",
+		"id": 1113898727188697100,
+		"id_str": "1113898727188697090",
+		"full_text": "I'll be getting my #LTShadowDay pics up as soon as I check photo permissions - thanks to Peyton, Adrian, Ms. Frikker, Ms. Keffer, and all the students for making me feel so welcome today!  #LTPS  cc @KathrynMRobbins",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTShadowDay",
+					"indices": [
+						19,
+						31
+					]
+				},
+				{
+					"text": "LTPS",
+					"indices": [
+						189,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KathrynMRobbins",
+					"name": "Kathryn Robbins",
+					"id": 2484565476,
+					"id_str": "2484565476",
+					"indices": [
+						199,
+						215
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3237,
+			"friends_count": 1533,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31872,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I'll be getting my #LTShadowDay pics up as soon as I check photo permissions - thanks to Peyton, Adrian, Ms. Frikker, Ms. Keffer, and all the students for making me feel so welcome today!  #LTPS  cc @KathrynMRobbins"
+	},
+	{
+		"created_at": "Thu Apr 04 20:14:58 +0000 2019",
+		"id": 1113892252374294500,
+		"id_str": "1113897772074307584",
+		"full_text": "Principal - Intermediate Level at Lawrence Township Public Schools in Lawrenceville, NJ: Principal Intermediate School Grades 4-6 Salary: LTPSA employee negotiated salary based on experience Qualifications: NJ Principal Certification… https://t.co/PZEu8hPANG #nj #teaching #jobs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nj",
+					"indices": [
+						259,
+						262
+					]
+				},
+				{
+					"text": "teaching",
+					"indices": [
+						263,
+						272
+					]
+				},
+				{
+					"text": "jobs",
+					"indices": [
+						273,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PZEu8hPANG",
+					"expanded_url": "http://dlvr.it/R2B8HJ",
+					"display_url": "dlvr.it/R2B8HJ",
+					"indices": [
+						235,
+						258
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66263683,
+			"id_str": "66263683",
+			"name": "NJSchoolJobs.com",
+			"screen_name": "NJSchoolJobs",
+			"location": "New Jersey, USA",
+			"description": "The leading advertiser of education jobs for New Jersey's Schools since 1999! #nj #teaching #administrative #coaching #education #jobs",
+			"url": "https://t.co/8X1L2Pt7q0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8X1L2Pt7q0",
+							"expanded_url": "http://www.njschooljobs.com",
+							"display_url": "njschooljobs.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2814,
+			"friends_count": 657,
+			"listed_count": 106,
+			"created_at": "Mon Aug 17 03:19:50 +0000 2009",
+			"favourites_count": 861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25436,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8C200",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/410546048/logo2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/410546048/logo2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66263683/1470424150",
+			"profile_link_color": "C90E0E",
+			"profile_sidebar_border_color": "F7CA00",
+			"profile_sidebar_fill_color": "FFEA00",
+			"profile_text_color": "40403C",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Principal - Intermediate Level at Lawrence Township Public Schools in Lawrenceville, NJ: Principal Intermediate School Grades 4-6 Salary: LTPSA employee negotiated salary based on experience Qualifications: NJ Principal Certification… https://t.co/PZEu8hPANG #nj #teaching #jobs"
+	},
+	{
+		"created_at": "Thu Apr 04 20:14:31 +0000 2019",
+		"id": 1113891247851167700,
+		"id_str": "1113897657892843520",
+		"full_text": "Principal - Elementary Level at Lawrence Township Public Schools in Lawrenceville, NJ: Position: Principal - Elementary School Grades K-3 Salary: LTPSA employee negotiated salary based on experience Qualifications: NJ Principal… https://t.co/QgTtS6YTyZ #nj #teaching #jobs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nj",
+					"indices": [
+						253,
+						256
+					]
+				},
+				{
+					"text": "teaching",
+					"indices": [
+						257,
+						266
+					]
+				},
+				{
+					"text": "jobs",
+					"indices": [
+						267,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QgTtS6YTyZ",
+					"expanded_url": "http://dlvr.it/R2B7qY",
+					"display_url": "dlvr.it/R2B7qY",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66263683,
+			"id_str": "66263683",
+			"name": "NJSchoolJobs.com",
+			"screen_name": "NJSchoolJobs",
+			"location": "New Jersey, USA",
+			"description": "The leading advertiser of education jobs for New Jersey's Schools since 1999! #nj #teaching #administrative #coaching #education #jobs",
+			"url": "https://t.co/8X1L2Pt7q0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8X1L2Pt7q0",
+							"expanded_url": "http://www.njschooljobs.com",
+							"display_url": "njschooljobs.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2814,
+			"friends_count": 657,
+			"listed_count": 106,
+			"created_at": "Mon Aug 17 03:19:50 +0000 2009",
+			"favourites_count": 861,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25436,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8C200",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/410546048/logo2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/410546048/logo2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66263683/1470424150",
+			"profile_link_color": "C90E0E",
+			"profile_sidebar_border_color": "F7CA00",
+			"profile_sidebar_fill_color": "FFEA00",
+			"profile_text_color": "40403C",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Principal - Elementary Level at Lawrence Township Public Schools in Lawrenceville, NJ: Position: Principal - Elementary School Grades K-3 Salary: LTPSA employee negotiated salary based on experience Qualifications: NJ Principal… https://t.co/QgTtS6YTyZ #nj #teaching #jobs"
+	},
+	{
+		"created_at": "Thu Apr 04 03:04:13 +0000 2019",
+		"id": 1113638376119394300,
+		"id_str": "1113638376119394305",
+		"full_text": "50% done with Stupidity and Tears, by Herbert R. Kohl https://t.co/1zIthSl37L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1zIthSl37L",
+					"expanded_url": "https://goodreads.com/user_status/show/217599324",
+					"display_url": "goodreads.com/user_status/sh…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.goodreads.com\" rel=\"nofollow\">Goodreads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3237,
+			"friends_count": 1533,
+			"listed_count": 262,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1877,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31872,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "50% done with Stupidity and Tears, by Herbert R. Kohl https://t.co/1zIthSl37L"
+	},
+	{
 		"created_at": "Wed Apr 03 01:24:41 +0000 2019",
 		"id": 1113250940142989300,
 		"id_str": "1113250940142989312",
