@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 23 19:09:41 +0000 2019",
+		"id": 1119266465839030300,
+		"id_str": "1120766710087323650",
+		"full_text": "Alright twitter, do your magic... our 7th grade geo class needs your help. We are collecting data from around the US about words that are prounced differently by region. Please consider filling out this survey! Our goal is 1000 responses! RETWEET away! 🌎\n\nhttps://t.co/uy6kTcyrO5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uy6kTcyrO5",
+					"expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSc2r8tSqkt3vOuVgHuRAcHU21A_NXm4p3nwHzhZ3b2rGkd9MA/viewform?usp=sf_link",
+					"display_url": "docs.google.com/forms/d/e/1FAI…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 907659884832976900,
+			"id_str": "907659884832976898",
+			"name": "Kayla Weidert",
+			"screen_name": "MrsWeidert",
+			"location": "Kansas, USA",
+			"description": "7th/8th Social Studies Teacher @ ACMS. Volleyball coach. Sport stats nerd. Former WSU Shocker athlete. Running enthusiast. Mom, coach's wife.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293,
+			"friends_count": 253,
+			"listed_count": 5,
+			"created_at": "Tue Sep 12 17:39:14 +0000 2017",
+			"favourites_count": 1574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1183,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/907660377827287043/Vyp3HFPC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/907660377827287043/Vyp3HFPC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/907659884832976898/1538509773",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 469,
+		"favorite_count": 331,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Alright twitter, do your magic... our 7th grade geo class needs your help. We are collecting data from around the US about words that are prounced differently by region. Please consider filling out this survey! Our goal is 1000 responses! RETWEET away! 🌎\n\nhttps://t.co/uy6kTcyrO5"
+	},
+	{
 		"created_at": "Mon Apr 22 00:34:41 +0000 2019",
 		"id": 1120123723791634400,
 		"id_str": "1120123723791634432",
