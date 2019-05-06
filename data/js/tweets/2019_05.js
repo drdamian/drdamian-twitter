@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 05 17:47:05 +0000 2019",
+		"id": 1124880436449165300,
+		"id_str": "1125094580674879488",
+		"full_text": "LHS alumnus Jake Verga preforms in his last show at Arcadia University this evening ⁦@CardinalsLHS⁩ ⁦@_drdamian⁩ ⁦@dadamltps⁩ https://t.co/iK4AJwrP1A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						85,
+						98
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						101,
+						111
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						114,
+						124
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124880409307775000,
+					"id_str": "1124880409307774981",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D5xgxbuWAAUnUhW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5xgxbuWAAUnUhW.jpg",
+					"url": "https://t.co/iK4AJwrP1A",
+					"display_url": "pic.twitter.com/iK4AJwrP1A",
+					"expanded_url": "https://twitter.com/JEVERGA1/status/1124880436449165312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 576,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 670,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124880409307775000,
+					"id_str": "1124880409307774981",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D5xgxbuWAAUnUhW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5xgxbuWAAUnUhW.jpg",
+					"url": "https://t.co/iK4AJwrP1A",
+					"display_url": "pic.twitter.com/iK4AJwrP1A",
+					"expanded_url": "https://twitter.com/JEVERGA1/status/1124880436449165312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 576,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 576,
+							"h": 670,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1124880414370406400,
+					"id_str": "1124880414370406400",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D5xgxulXoAAZ-qo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5xgxulXoAAZ-qo.jpg",
+					"url": "https://t.co/iK4AJwrP1A",
+					"display_url": "pic.twitter.com/iK4AJwrP1A",
+					"expanded_url": "https://twitter.com/JEVERGA1/status/1124880436449165312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 614,
+							"h": 654,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 614,
+							"h": 654,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 614,
+							"h": 654,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1124880423929172000,
+					"id_str": "1124880423929171968",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D5xgySMW0AABJbG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D5xgySMW0AABJbG.jpg",
+					"url": "https://t.co/iK4AJwrP1A",
+					"display_url": "pic.twitter.com/iK4AJwrP1A",
+					"expanded_url": "https://twitter.com/JEVERGA1/status/1124880436449165312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 671,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1184,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1578,
+							"h": 1600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1049330853430669300,
+			"id_str": "1049330853430669313",
+			"name": "JEVERGA",
+			"screen_name": "JEVERGA1",
+			"location": "Lawrence Township NJ",
+			"description": "Mathematics Teacher",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31,
+			"friends_count": 62,
+			"listed_count": 0,
+			"created_at": "Mon Oct 08 16:09:05 +0000 2018",
+			"favourites_count": 216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049339263853232129/LZS6EIVc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049339263853232129/LZS6EIVc_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LHS alumnus Jake Verga preforms in his last show at Arcadia University this evening ⁦@CardinalsLHS⁩ ⁦@_drdamian⁩ ⁦@dadamltps⁩ https://t.co/iK4AJwrP1A"
+	},
+	{
 		"created_at": "Sat May 04 22:47:08 +0000 2019",
 		"id": 1124807701475860500,
 		"id_str": "1124807701475860480",
