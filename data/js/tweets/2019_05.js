@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 07 15:27:16 +0000 2019",
+		"id": 1125782480194113500,
+		"id_str": "1125784167801815040",
+		"full_text": "Math Teacher- Secondary - Leave Replacement at Lawrence Township Public Schools in Lawrenceville, NJ: Mathematics Teacher Leave Replacement Position ( 19-20 School Year) Lawrence Middle School START DATE: September 1, 2019… https://t.co/hz4m9gICM2 #nj #teaching #jobs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nj",
+					"indices": [
+						248,
+						251
+					]
+				},
+				{
+					"text": "teaching",
+					"indices": [
+						252,
+						261
+					]
+				},
+				{
+					"text": "jobs",
+					"indices": [
+						262,
+						267
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hz4m9gICM2",
+					"expanded_url": "http://dlvr.it/R4Dqw8",
+					"display_url": "dlvr.it/R4Dqw8",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66263683,
+			"id_str": "66263683",
+			"name": "NJSchoolJobs.com",
+			"screen_name": "NJSchoolJobs",
+			"location": "New Jersey, USA",
+			"description": "The leading advertiser of education jobs for New Jersey's Schools since 1999! #nj #teaching #administrative #coaching #education #jobs",
+			"url": "https://t.co/8X1L2Pt7q0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8X1L2Pt7q0",
+							"expanded_url": "http://www.njschooljobs.com",
+							"display_url": "njschooljobs.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2921,
+			"friends_count": 660,
+			"listed_count": 108,
+			"created_at": "Mon Aug 17 03:19:50 +0000 2009",
+			"favourites_count": 880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27755,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F8C200",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/410546048/logo2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/410546048/logo2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66263683/1470424150",
+			"profile_link_color": "C90E0E",
+			"profile_sidebar_border_color": "F7CA00",
+			"profile_sidebar_fill_color": "FFEA00",
+			"profile_text_color": "40403C",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Math Teacher- Secondary - Leave Replacement at Lawrence Township Public Schools in Lawrenceville, NJ: Mathematics Teacher Leave Replacement Position ( 19-20 School Year) Lawrence Middle School START DATE: September 1, 2019… https://t.co/hz4m9gICM2 #nj #teaching #jobs"
+	},
+	{
 		"created_at": "Mon May 06 21:09:28 +0000 2019",
 		"id": 1125507898388381700,
 		"id_str": "1125507898388381696",
