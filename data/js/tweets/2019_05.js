@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 09 19:28:10 +0000 2019",
+		"id": 1126561227793162200,
+		"id_str": "1126569567516540928",
+		"full_text": "Today, LTPS Supervisors honored @LMSNation w a sweet treat w @_drdamian @DrMPancoast @MicheleDeremer https://t.co/FlKjYwAo3r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LMSNation",
+					"name": "LMS Nation",
+					"id": 309632193,
+					"id_str": "309632193",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"screen_name": "DrMPancoast",
+					"name": "Mary Pancoast",
+					"id": 4048694559,
+					"id_str": "4048694559",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"screen_name": "MicheleDeremer",
+					"name": "Michele Deremer",
+					"id": 455349910,
+					"id_str": "455349910",
+					"indices": [
+						85,
+						100
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126561223242395600,
+					"id_str": "1126561223242395654",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/D6JZdrkXsAYOvBn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6JZdrkXsAYOvBn.jpg",
+					"url": "https://t.co/FlKjYwAo3r",
+					"display_url": "pic.twitter.com/FlKjYwAo3r",
+					"expanded_url": "https://twitter.com/YPanasowich/status/1126561227793162240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126561223242395600,
+					"id_str": "1126561223242395654",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/D6JZdrkXsAYOvBn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6JZdrkXsAYOvBn.jpg",
+					"url": "https://t.co/FlKjYwAo3r",
+					"display_url": "pic.twitter.com/FlKjYwAo3r",
+					"expanded_url": "https://twitter.com/YPanasowich/status/1126561227793162240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 260752291,
+			"id_str": "260752291",
+			"name": "Yvette Panasowich",
+			"screen_name": "YPanasowich",
+			"location": "New Jersey",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 348,
+			"friends_count": 356,
+			"listed_count": 20,
+			"created_at": "Fri Mar 04 14:37:39 +0000 2011",
+			"favourites_count": 1428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1006,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/730934132054892545/6nEIzL9k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/730934132054892545/6nEIzL9k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/260752291/1552237967",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today, LTPS Supervisors honored @LMSNation w a sweet treat w @_drdamian @DrMPancoast @MicheleDeremer https://t.co/FlKjYwAo3r"
+	},
+	{
 		"created_at": "Wed May 08 23:44:44 +0000 2019",
 		"id": 1126271746997407700,
 		"id_str": "1126271746997407745",
