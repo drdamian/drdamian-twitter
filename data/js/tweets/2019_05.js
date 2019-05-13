@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 23:00:44 +0000 2019",
+		"id": 1127708598635835400,
+		"id_str": "1127710226990469120",
+		"full_text": "Let’s go @Sixers! #PhilaUnite https://t.co/Z4oALKHSmz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PhilaUnite",
+					"indices": [
+						18,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sixers",
+					"name": "Philadelphia 76ers",
+					"id": 16201775,
+					"id_str": "16201775",
+					"indices": [
+						9,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127708594173091800,
+					"id_str": "1127708594173091845",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Zs_dXXoAUAkeu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Zs_dXXoAUAkeu.jpg",
+					"url": "https://t.co/Z4oALKHSmz",
+					"display_url": "pic.twitter.com/Z4oALKHSmz",
+					"expanded_url": "https://twitter.com/Glennr1809/status/1127708598635835405/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1180,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1221,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127708594173091800,
+					"id_str": "1127708594173091845",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/D6Zs_dXXoAUAkeu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6Zs_dXXoAUAkeu.jpg",
+					"url": "https://t.co/Z4oALKHSmz",
+					"display_url": "pic.twitter.com/Z4oALKHSmz",
+					"expanded_url": "https://twitter.com/Glennr1809/status/1127708598635835405/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1180,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1221,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 669,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153925839,
+			"id_str": "153925839",
+			"name": "Glenn Robbins",
+			"screen_name": "Glennr1809",
+			"location": "NJ",
+			"description": "Superintendent of @Tabschools Husband&Father. @NASSP National Digital Principal of the Year. @SETDA Student Voice Award. MS Bammy Edu Voice Award",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18162,
+			"friends_count": 11963,
+			"listed_count": 721,
+			"created_at": "Wed Jun 09 22:46:05 +0000 2010",
+			"favourites_count": 46485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52935,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1081528847261224960/Nse398c0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081528847261224960/Nse398c0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153925839/1534292414",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2b5f7dd740ad9b95",
+			"url": "https://api.twitter.com/1.1/geo/id/2b5f7dd740ad9b95.json",
+			"place_type": "city",
+			"name": "Ocean Acres",
+			"full_name": "Ocean Acres, NJ",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.313751,
+							39.712293
+						],
+						[
+							-74.2511385,
+							39.712293
+						],
+						[
+							-74.2511385,
+							39.761457
+						],
+						[
+							-74.313751,
+							39.761457
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let’s go @Sixers! #PhilaUnite https://t.co/Z4oALKHSmz"
+	},
+	{
+		"created_at": "Sun May 12 14:25:33 +0000 2019",
+		"id": 1127272555893723100,
+		"id_str": "1127580578319093760",
+		"full_text": "@Art_Rm_Skorupa @LTPS1 @LTEFNJ @JayBilly2 @KathrynMRobbins @MNLockett @_drdamian What an amazing gallery of books! Many thanks to our incredible #LTPS art teachers who made this a beautiful reality!! Each one of our students’ creations is a masterpiece!!! #TogetherWeCan",
+		"truncated": false,
+		"display_text_range": [
+			81,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						145,
+						150
+					]
+				},
+				{
+					"text": "TogetherWeCan",
+					"indices": [
+						256,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Art_Rm_Skorupa",
+					"name": "Jennifer Skorupa",
+					"id": 3590749162,
+					"id_str": "3590749162",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Twp Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						16,
+						22
+					]
+				},
+				{
+					"screen_name": "LTEFNJ",
+					"name": "LTEFNJ",
+					"id": 1402156748,
+					"id_str": "1402156748",
+					"indices": [
+						23,
+						30
+					]
+				},
+				{
+					"screen_name": "JayBilly2",
+					"name": "Jay Billy",
+					"id": 327326387,
+					"id_str": "327326387",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"screen_name": "KathrynMRobbins",
+					"name": "Kathryn Robbins",
+					"id": 2484565476,
+					"id_str": "2484565476",
+					"indices": [
+						42,
+						58
+					]
+				},
+				{
+					"screen_name": "MNLockett",
+					"name": "Melissa Lockett",
+					"id": 297397894,
+					"id_str": "297397894",
+					"indices": [
+						59,
+						69
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						70,
+						80
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1127254665194876900,
+		"in_reply_to_status_id_str": "1127254665194876934",
+		"in_reply_to_user_id": 3590749162,
+		"in_reply_to_user_id_str": "3590749162",
+		"in_reply_to_screen_name": "Art_Rm_Skorupa",
+		"user": {
+			"id": 1618799258,
+			"id_str": "1618799258",
+			"name": "Jeanne Muzi",
+			"screen_name": "MuziLearningLab",
+			"location": "New Jersey",
+			"description": "Elementary Principal & Learner- Passion for cultivating curiosity, questioning & creative problem solving skills-NJExcel, Google Certified, Adjunct Prof & NJTOY",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2558,
+			"friends_count": 1705,
+			"listed_count": 75,
+			"created_at": "Wed Jul 24 22:51:37 +0000 2013",
+			"favourites_count": 10022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4840,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1014495405424463873/COGyzE8e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1014495405424463873/COGyzE8e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1618799258/1541026237",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@Art_Rm_Skorupa @LTPS1 @LTEFNJ @JayBilly2 @KathrynMRobbins @MNLockett @_drdamian What an amazing gallery of books! Many thanks to our incredible #LTPS art teachers who made this a beautiful reality!! Each one of our students’ creations is a masterpiece!!! #TogetherWeCan"
+	},
+	{
 		"created_at": "Fri May 10 21:23:00 +0000 2019",
 		"id": 1126960853612466200,
 		"id_str": "1126960853612466180",
