@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 13 19:14:57 +0000 2019",
+		"id": 1128015793713819600,
+		"id_str": "1128015793713819649",
+		"full_text": "Check it out #LTPS! https://t.co/r7rSDXOd33",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						13,
+						18
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r7rSDXOd33",
+					"expanded_url": "https://twitter.com/LHSMediaCenter/status/1128007993985888256",
+					"display_url": "twitter.com/LHSMediaCenter…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 1538,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31959,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1128007993985888300,
+		"quoted_status_id_str": "1128007993985888256",
+		"quoted_status_permalink": {
+			"url": "https://t.co/r7rSDXOd33",
+			"expanded": "https://twitter.com/LHSMediaCenter/status/1128007993985888256",
+			"display": "twitter.com/LHSMediaCenter…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 13 18:43:57 +0000 2019",
+			"id": 1128007993985888300,
+			"id_str": "1128007993985888256",
+			"full_text": "Save the date: Friday, June 7th 6:30-9:30!!!!\n@LTPS1 \n@LMSLHSPTO \n@CardinalsLHS \n@LawTwpNJ https://t.co/fK4MFgRx5j",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LTPS1",
+						"name": "Lawrence Twp Schools",
+						"id": 2178717536,
+						"id_str": "2178717536",
+						"indices": [
+							46,
+							52
+						]
+					},
+					{
+						"screen_name": "LMSLHSPTO",
+						"name": "LMS LHS PTO",
+						"id": 4048030095,
+						"id_str": "4048030095",
+						"indices": [
+							54,
+							64
+						]
+					},
+					{
+						"screen_name": "CardinalsLHS",
+						"name": "Lawrence High School",
+						"id": 832085833,
+						"id_str": "832085833",
+						"indices": [
+							66,
+							79
+						]
+					},
+					{
+						"screen_name": "LawTwpNJ",
+						"name": "Lawrence Township NJ",
+						"id": 910168132718874600,
+						"id_str": "910168132718874624",
+						"indices": [
+							81,
+							90
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1128007866865131500,
+						"id_str": "1128007866865131521",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/D6d9LbBXoAEDBAw.png",
+						"media_url_https": "https://pbs.twimg.com/media/D6d9LbBXoAEDBAw.png",
+						"url": "https://t.co/fK4MFgRx5j",
+						"display_url": "pic.twitter.com/fK4MFgRx5j",
+						"expanded_url": "https://twitter.com/LHSMediaCenter/status/1128007993985888256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 376,
+								"h": 492,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 376,
+								"h": 492,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 376,
+								"h": 492,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1128007866865131500,
+						"id_str": "1128007866865131521",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/D6d9LbBXoAEDBAw.png",
+						"media_url_https": "https://pbs.twimg.com/media/D6d9LbBXoAEDBAw.png",
+						"url": "https://t.co/fK4MFgRx5j",
+						"display_url": "pic.twitter.com/fK4MFgRx5j",
+						"expanded_url": "https://twitter.com/LHSMediaCenter/status/1128007993985888256/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 376,
+								"h": 492,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 376,
+								"h": 492,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 376,
+								"h": 492,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 796644332,
+				"id_str": "796644332",
+				"name": "Ewa Dziedzic-Elliott",
+				"screen_name": "LHSMediaCenter",
+				"location": "Lawrenceville, NJ",
+				"description": "Lawrence High School Media Center Specialist/Librarian, educator, reader, library lover.",
+				"url": "https://t.co/LRQHgUhOtp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LRQHgUhOtp",
+								"expanded_url": "http://lawrence1.schoolwires.net/Page/2757",
+								"display_url": "lawrence1.schoolwires.net/Page/2757",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 516,
+				"friends_count": 1215,
+				"listed_count": 21,
+				"created_at": "Sat Sep 01 18:42:52 +0000 2012",
+				"favourites_count": 2417,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1336,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "660000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/931729615571378176/d914NYF8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/931729615571378176/d914NYF8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/796644332/1523378050",
+				"profile_link_color": "660000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check it out #LTPS! https://t.co/r7rSDXOd33"
+	},
+	{
+		"created_at": "Mon May 13 14:09:32 +0000 2019",
+		"id": 1127938934913282000,
+		"id_str": "1127938934913282048",
+		"full_text": "The #LTPS Spring Concert Series kicks off tomorrow, May 13, at 7pm, with @JohnsonMusicLHS and the LHS vocal ensembles - hope to see you there! https://t.co/J4ik2Q0ePj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						4,
+						9
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JohnsonMusicLHS",
+					"name": "mandy Johnson",
+					"id": 2682026152,
+					"id_str": "2682026152",
+					"indices": [
+						73,
+						89
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127938662241587200,
+					"id_str": "1127938662241587200",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/D6c-PLtW0AAna-7.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6c-PLtW0AAna-7.png",
+					"url": "https://t.co/J4ik2Q0ePj",
+					"display_url": "pic.twitter.com/J4ik2Q0ePj",
+					"expanded_url": "https://twitter.com/_drdamian/status/1127938934913282048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 592,
+							"h": 475,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 475,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 592,
+							"h": 475,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127938662241587200,
+					"id_str": "1127938662241587200",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/D6c-PLtW0AAna-7.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6c-PLtW0AAna-7.png",
+					"url": "https://t.co/J4ik2Q0ePj",
+					"display_url": "pic.twitter.com/J4ik2Q0ePj",
+					"expanded_url": "https://twitter.com/_drdamian/status/1127938934913282048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 592,
+							"h": 475,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 475,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 592,
+							"h": 475,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 1538,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1924,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 31959,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The #LTPS Spring Concert Series kicks off tomorrow, May 13, at 7pm, with @JohnsonMusicLHS and the LHS vocal ensembles - hope to see you there! https://t.co/J4ik2Q0ePj"
+	},
+	{
 		"created_at": "Sun May 12 23:00:44 +0000 2019",
 		"id": 1127708598635835400,
 		"id_str": "1127710226990469120",
