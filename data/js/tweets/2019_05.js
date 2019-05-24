@@ -1,6 +1,1335 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 23 17:41:08 +0000 2019",
+		"id": 1131616063077212200,
+		"id_str": "1131616063077212160",
+		"full_text": "Thank you @jlgroeger @LTEFNJ @LTPSSupt_Kasun for joining the LIS Chamber Strings and LMS Orchestra for their joint performance at @LMSNation this morning! #LTPS #LMSArtsFestival #ArtsEdNow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						155,
+						160
+					]
+				},
+				{
+					"text": "LMSArtsFestival",
+					"indices": [
+						161,
+						177
+					]
+				},
+				{
+					"text": "ArtsEdNow",
+					"indices": [
+						178,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jlgroeger",
+					"name": "JoAnn groeger",
+					"id": 256572535,
+					"id_str": "256572535",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "LTEFNJ",
+					"name": "LTEFNJ",
+					"id": 1402156748,
+					"id_str": "1402156748",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"screen_name": "LTPSSupt_Kasun",
+					"name": "Ross Kasun",
+					"id": 2314074014,
+					"id_str": "2314074014",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"screen_name": "LMSNation",
+					"name": "LMS Nation",
+					"id": 309632193,
+					"id_str": "309632193",
+					"indices": [
+						130,
+						140
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3240,
+			"friends_count": 1542,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Thank you @jlgroeger @LTEFNJ @LTPSSupt_Kasun for joining the LIS Chamber Strings and LMS Orchestra for their joint performance at @LMSNation this morning! #LTPS #LMSArtsFestival #ArtsEdNow"
+	},
+	{
+		"created_at": "Thu May 23 14:54:26 +0000 2019",
+		"id": 1131573724988227600,
+		"id_str": "1131574110969049089",
+		"full_text": "Students are learning about how @carneystudios Creates his beautiful wood stain paintings! @_drdamian @LMSNation https://t.co/CtC0PsbrN6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "carneystudios",
+					"name": "Carneystudios",
+					"id": 4808156895,
+					"id_str": "4808156895",
+					"indices": [
+						32,
+						46
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"screen_name": "LMSNation",
+					"name": "LMS Nation",
+					"id": 309632193,
+					"id_str": "309632193",
+					"indices": [
+						102,
+						112
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131573619002413000,
+					"id_str": "1131573619002413060",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/D7QoNg3XkAQJINB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7QoNg3XkAQJINB.jpg",
+					"url": "https://t.co/CtC0PsbrN6",
+					"display_url": "pic.twitter.com/CtC0PsbrN6",
+					"expanded_url": "https://twitter.com/LMS_ArtRoom/status/1131573724988227585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131573619002413000,
+					"id_str": "1131573619002413060",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/D7QoNg3XkAQJINB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7QoNg3XkAQJINB.jpg",
+					"url": "https://t.co/CtC0PsbrN6",
+					"display_url": "pic.twitter.com/CtC0PsbrN6",
+					"expanded_url": "https://twitter.com/LMS_ArtRoom/status/1131573724988227585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1131573618922721300,
+					"id_str": "1131573618922721280",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/D7QoNgkXkAAPBau.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7QoNgkXkAAPBau.jpg",
+					"url": "https://t.co/CtC0PsbrN6",
+					"display_url": "pic.twitter.com/CtC0PsbrN6",
+					"expanded_url": "https://twitter.com/LMS_ArtRoom/status/1131573724988227585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1131573618880798700,
+					"id_str": "1131573618880798720",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/D7QoNgaX4AAoUAg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7QoNgaX4AAoUAg.jpg",
+					"url": "https://t.co/CtC0PsbrN6",
+					"display_url": "pic.twitter.com/CtC0PsbrN6",
+					"expanded_url": "https://twitter.com/LMS_ArtRoom/status/1131573724988227585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1131573618897510400,
+					"id_str": "1131573618897510400",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/D7QoNgeW4AA9i-d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7QoNgeW4AA9i-d.jpg",
+					"url": "https://t.co/CtC0PsbrN6",
+					"display_url": "pic.twitter.com/CtC0PsbrN6",
+					"expanded_url": "https://twitter.com/LMS_ArtRoom/status/1131573724988227585/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 902263919938596900,
+			"id_str": "902263919938596865",
+			"name": "Karyne Richardson",
+			"screen_name": "LMS_ArtRoom",
+			"location": "Lawrence, NJ",
+			"description": "Middle School art teacher! 🎨",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 179,
+			"friends_count": 141,
+			"listed_count": 0,
+			"created_at": "Mon Aug 28 20:17:36 +0000 2017",
+			"favourites_count": 694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042210993206636545/PyJbk6oi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042210993206636545/PyJbk6oi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/902263919938596865/1503951891",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Students are learning about how @carneystudios Creates his beautiful wood stain paintings! @_drdamian @LMSNation https://t.co/CtC0PsbrN6"
+	},
+	{
+		"created_at": "Thu May 23 14:20:48 +0000 2019",
+		"id": 1131565646561595400,
+		"id_str": "1131565646561595392",
+		"full_text": "The eyes have it at the #lmsartsfestival. #LTPS #artsednow https://t.co/yVPdMHv6NU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lmsartsfestival",
+					"indices": [
+						24,
+						40
+					]
+				},
+				{
+					"text": "LTPS",
+					"indices": [
+						42,
+						47
+					]
+				},
+				{
+					"text": "artsednow",
+					"indices": [
+						48,
+						58
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131565635740344300,
+					"id_str": "1131565635740344320",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Qg805XoAAYCg3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7Qg805XoAAYCg3.jpg",
+					"url": "https://t.co/yVPdMHv6NU",
+					"display_url": "pic.twitter.com/yVPdMHv6NU",
+					"expanded_url": "https://twitter.com/_drdamian/status/1131565646561595392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131565635740344300,
+					"id_str": "1131565635740344320",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Qg805XoAAYCg3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7Qg805XoAAYCg3.jpg",
+					"url": "https://t.co/yVPdMHv6NU",
+					"display_url": "pic.twitter.com/yVPdMHv6NU",
+					"expanded_url": "https://twitter.com/_drdamian/status/1131565646561595392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3240,
+			"friends_count": 1542,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The eyes have it at the #lmsartsfestival. #LTPS #artsednow https://t.co/yVPdMHv6NU"
+	},
+	{
+		"created_at": "Thu May 23 14:16:53 +0000 2019",
+		"id": 1131564660484956200,
+		"id_str": "1131564660484956160",
+		"full_text": "LIS Chamber Strings and LMS Orchestra perform an original commissioned piece with #LTPS alum @jasonbembry - don't miss it! #artsednow https://t.co/qwtjbPpA0y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "artsednow",
+					"indices": [
+						123,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jasonbembry",
+					"name": "Jason Bembry",
+					"id": 1011100368435114000,
+					"id_str": "1011100368435113985",
+					"indices": [
+						93,
+						105
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qwtjbPpA0y",
+					"expanded_url": "https://twitter.com/LMSNation/status/1131560963004653568",
+					"display_url": "twitter.com/LMSNation/stat…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3240,
+			"friends_count": 1542,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1131560963004653600,
+		"quoted_status_id_str": "1131560963004653568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qwtjbPpA0y",
+			"expanded": "https://twitter.com/LMSNation/status/1131560963004653568",
+			"display": "twitter.com/LMSNation/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 23 14:02:11 +0000 2019",
+			"id": 1131560963004653600,
+			"id_str": "1131560963004653568",
+			"full_text": "We will be live streaming at 10:25 join us https://t.co/IuLe0fPHnO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				66
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IuLe0fPHnO",
+						"expanded_url": "https://www.youtube.com/channel/UCnRCCJmqjx_BoNKbPdm2B_Q",
+						"display_url": "youtube.com/channel/UCnRCC…",
+						"indices": [
+							43,
+							66
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 309632193,
+				"id_str": "309632193",
+				"name": "LMS Nation",
+				"screen_name": "LMSNation",
+				"location": "Lawrenceville, NJ",
+				"description": "NJ State School of Character, Principal Mindy Milavsky, Assistant Principal Louis Solomon",
+				"url": "https://t.co/kkkPLbKQgu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kkkPLbKQgu",
+								"expanded_url": "http://www.ltps.org/MiddleSchool.cfm",
+								"display_url": "ltps.org/MiddleSchool.c…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 779,
+				"friends_count": 114,
+				"listed_count": 10,
+				"created_at": "Thu Jun 02 12:10:53 +0000 2011",
+				"favourites_count": 4669,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2828,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/878778296896552960/SYlKCdAI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/878778296896552960/SYlKCdAI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/309632193/1391641617",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LIS Chamber Strings and LMS Orchestra perform an original commissioned piece with #LTPS alum @jasonbembry - don't miss it! #artsednow https://t.co/qwtjbPpA0y"
+	},
+	{
+		"created_at": "Thu May 23 13:58:40 +0000 2019",
+		"id": 1131560076689465300,
+		"id_str": "1131560076689465346",
+		"full_text": "LIS Chamber Strings &amp; LMS Orchestra feat. @JasonBembry put finishing touches on before the world premiere of Bembry's piece commissioned by Mrs. Clark &amp; Ms. Ploener w/support from @LTEFNJ. #LTPS #lmsartsfestival #artsednow #NJED https://t.co/J4QNHpKINL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						197,
+						202
+					]
+				},
+				{
+					"text": "lmsartsfestival",
+					"indices": [
+						203,
+						219
+					]
+				},
+				{
+					"text": "artsednow",
+					"indices": [
+						220,
+						230
+					]
+				},
+				{
+					"text": "NJED",
+					"indices": [
+						231,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jasonbembry",
+					"name": "Jason Bembry",
+					"id": 1011100368435114000,
+					"id_str": "1011100368435113985",
+					"indices": [
+						46,
+						58
+					]
+				},
+				{
+					"screen_name": "LTEFNJ",
+					"name": "LTEFNJ",
+					"id": 1402156748,
+					"id_str": "1402156748",
+					"indices": [
+						188,
+						195
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131560067889881100,
+					"id_str": "1131560067889881088",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Qb4vCX4AAIKo-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7Qb4vCX4AAIKo-.jpg",
+					"url": "https://t.co/J4QNHpKINL",
+					"display_url": "pic.twitter.com/J4QNHpKINL",
+					"expanded_url": "https://twitter.com/_drdamian/status/1131560076689465346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 964,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 565,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131560067889881100,
+					"id_str": "1131560067889881088",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/D7Qb4vCX4AAIKo-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7Qb4vCX4AAIKo-.jpg",
+					"url": "https://t.co/J4QNHpKINL",
+					"display_url": "pic.twitter.com/J4QNHpKINL",
+					"expanded_url": "https://twitter.com/_drdamian/status/1131560076689465346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 320,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 964,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 565,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3240,
+			"friends_count": 1542,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LIS Chamber Strings &amp; LMS Orchestra feat. @JasonBembry put finishing touches on before the world premiere of Bembry's piece commissioned by Mrs. Clark &amp; Ms. Ploener w/support from @LTEFNJ. #LTPS #lmsartsfestival #artsednow #NJED https://t.co/J4QNHpKINL"
+	},
+	{
+		"created_at": "Thu May 23 02:29:15 +0000 2019",
+		"id": 1131383927107665900,
+		"id_str": "1131386578511777793",
+		"full_text": "An amazing DECA year is coming to a close. A huge thank you to all of our DECA officers for their support throughout the year! We couldn’t of done this without you!  @SchneckDiane #LTPS #DECA #NJDECA #ReadyForIt #DECABOLD https://t.co/pWazhhxENZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						180,
+						185
+					]
+				},
+				{
+					"text": "DECA",
+					"indices": [
+						186,
+						191
+					]
+				},
+				{
+					"text": "NJDECA",
+					"indices": [
+						192,
+						199
+					]
+				},
+				{
+					"text": "ReadyForIt",
+					"indices": [
+						200,
+						211
+					]
+				},
+				{
+					"text": "DECABOLD",
+					"indices": [
+						212,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SchneckDiane",
+					"name": "Diane Schneck",
+					"id": 4901883603,
+					"id_str": "4901883603",
+					"indices": [
+						166,
+						179
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131383918194774000,
+					"id_str": "1131383918194774016",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/D7N7reSW0AAkR4u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7N7reSW0AAkR4u.jpg",
+					"url": "https://t.co/pWazhhxENZ",
+					"display_url": "pic.twitter.com/pWazhhxENZ",
+					"expanded_url": "https://twitter.com/john_tees/status/1131383927107665921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131383918194774000,
+					"id_str": "1131383918194774016",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/D7N7reSW0AAkR4u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7N7reSW0AAkR4u.jpg",
+					"url": "https://t.co/pWazhhxENZ",
+					"display_url": "pic.twitter.com/pWazhhxENZ",
+					"expanded_url": "https://twitter.com/john_tees/status/1131383927107665921/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 801118345,
+			"id_str": "801118345",
+			"name": "John Tees",
+			"screen_name": "john_tees",
+			"location": "",
+			"description": "High School Business teacher and Co-DECA Advisor In Lawrenceville, NJ. Solely my comments.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86,
+			"friends_count": 101,
+			"listed_count": 1,
+			"created_at": "Mon Sep 03 20:03:32 +0000 2012",
+			"favourites_count": 133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 69,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103658353404850176/Asky8PI__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103658353404850176/Asky8PI__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An amazing DECA year is coming to a close. A huge thank you to all of our DECA officers for their support throughout the year! We couldn’t of done this without you!  @SchneckDiane #LTPS #DECA #NJDECA #ReadyForIt #DECABOLD https://t.co/pWazhhxENZ"
+	},
+	{
 		"created_at": "Wed May 22 13:54:14 +0000 2019",
 		"id": 1131196574787362800,
 		"id_str": "1131196574787362816",
