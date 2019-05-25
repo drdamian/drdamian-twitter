@@ -1,6 +1,671 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 24 17:16:35 +0000 2019",
+		"id": 1131972274393890800,
+		"id_str": "1131972274393890817",
+		"full_text": "Let 'em know you're with #LTPS and the LMS Music Dept. gets a portion of your meal check!  Until 5pm today. (@ Captain Paul's Firehouse Dogs in Lawrenceville, NJ) https://t.co/Z4MZ5WaJQb https://t.co/W5sHn3QtEe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						25,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z4MZ5WaJQb",
+					"expanded_url": "https://www.swarmapp.com/c/gieTkbbnEI8",
+					"display_url": "swarmapp.com/c/gieTkbbnEI8",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1131972272972079100,
+					"id_str": "1131972272972079104",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D7WSyOoXoAA8ERU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7WSyOoXoAA8ERU.jpg",
+					"url": "https://t.co/W5sHn3QtEe",
+					"display_url": "pic.twitter.com/W5sHn3QtEe",
+					"expanded_url": "https://twitter.com/_drdamian/status/1131972274393890817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1425,
+							"h": 1900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131972272972079100,
+					"id_str": "1131972272972079104",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/D7WSyOoXoAA8ERU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7WSyOoXoAA8ERU.jpg",
+					"url": "https://t.co/W5sHn3QtEe",
+					"display_url": "pic.twitter.com/W5sHn3QtEe",
+					"expanded_url": "https://twitter.com/_drdamian/status/1131972274393890817/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1425,
+							"h": 1900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3240,
+			"friends_count": 1542,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let 'em know you're with #LTPS and the LMS Music Dept. gets a portion of your meal check!  Until 5pm today. (@ Captain Paul's Firehouse Dogs in Lawrenceville, NJ) https://t.co/Z4MZ5WaJQb https://t.co/W5sHn3QtEe"
+	},
+	{
+		"created_at": "Fri May 24 09:26:57 +0000 2019",
+		"id": 1131854086540857300,
+		"id_str": "1131854086540857345",
+		"full_text": "Congratulations! #LTPS #artsednow https://t.co/3P9u6h33y8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"text": "artsednow",
+					"indices": [
+						23,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3P9u6h33y8",
+					"expanded_url": "https://twitter.com/JohnsonMusicLHS/status/1131756918253465601",
+					"display_url": "twitter.com/JohnsonMusicLH…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3240,
+			"friends_count": 1542,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1943,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1131756918253465600,
+		"quoted_status_id_str": "1131756918253465601",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3P9u6h33y8",
+			"expanded": "https://twitter.com/JohnsonMusicLHS/status/1131756918253465601",
+			"display": "twitter.com/JohnsonMusicLH…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 24 03:00:50 +0000 2019",
+			"id": 1131756918253465600,
+			"id_str": "1131756918253465601",
+			"full_text": "Congratulations #LHSChoirs for their SUPERIOR ratings at NJACDA today!!  🙌🎼@LTPSSupt_Kasun @dadamltps @dadamltps  @_drdamian @msafischer @CardinalsLHS @LTPS1 @cjwilliamsjr @FaykimL #NAMMBestCommunitiesForMusicEducation @LMSchoirZ https://t.co/r95m44oluf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				229
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LHSChoirs",
+						"indices": [
+							16,
+							26
+						]
+					},
+					{
+						"text": "NAMMBestCommunitiesForMusicEducation",
+						"indices": [
+							181,
+							218
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LTPSSupt_Kasun",
+						"name": "Ross Kasun",
+						"id": 2314074014,
+						"id_str": "2314074014",
+						"indices": [
+							75,
+							90
+						]
+					},
+					{
+						"screen_name": "dadamltps",
+						"name": "David Adam",
+						"id": 260753316,
+						"id_str": "260753316",
+						"indices": [
+							91,
+							101
+						]
+					},
+					{
+						"screen_name": "dadamltps",
+						"name": "David Adam",
+						"id": 260753316,
+						"id_str": "260753316",
+						"indices": [
+							102,
+							112
+						]
+					},
+					{
+						"screen_name": "_drdamian",
+						"name": "Dr. Damian Bariexca",
+						"id": 7887852,
+						"id_str": "7887852",
+						"indices": [
+							114,
+							124
+						]
+					},
+					{
+						"screen_name": "msafischer",
+						"name": "Alyson Fischer",
+						"id": 720423019,
+						"id_str": "720423019",
+						"indices": [
+							125,
+							136
+						]
+					},
+					{
+						"screen_name": "CardinalsLHS",
+						"name": "Lawrence High School",
+						"id": 832085833,
+						"id_str": "832085833",
+						"indices": [
+							137,
+							150
+						]
+					},
+					{
+						"screen_name": "LTPS1",
+						"name": "Lawrence Twp Schools",
+						"id": 2178717536,
+						"id_str": "2178717536",
+						"indices": [
+							151,
+							157
+						]
+					},
+					{
+						"screen_name": "cjwilliamsjr",
+						"name": "Cliff Williams",
+						"id": 465193444,
+						"id_str": "465193444",
+						"indices": [
+							158,
+							171
+						]
+					},
+					{
+						"screen_name": "FaykimL",
+						"name": "Fay Kim-Lopez",
+						"id": 1013578285773705200,
+						"id_str": "1013578285773705216",
+						"indices": [
+							172,
+							180
+						]
+					},
+					{
+						"screen_name": "LMSchoirZ",
+						"name": "mrZ",
+						"id": 768843279614050300,
+						"id_str": "768843279614050305",
+						"indices": [
+							219,
+							229
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1131756914113691600,
+						"id_str": "1131756914113691648",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/media/D7TO6sXWwAAXCTR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7TO6sXWwAAXCTR.jpg",
+						"url": "https://t.co/r95m44oluf",
+						"display_url": "pic.twitter.com/r95m44oluf",
+						"expanded_url": "https://twitter.com/JohnsonMusicLHS/status/1131756918253465601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 703,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 619,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 703,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1131756914113691600,
+						"id_str": "1131756914113691648",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/media/D7TO6sXWwAAXCTR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7TO6sXWwAAXCTR.jpg",
+						"url": "https://t.co/r95m44oluf",
+						"display_url": "pic.twitter.com/r95m44oluf",
+						"expanded_url": "https://twitter.com/JohnsonMusicLHS/status/1131756918253465601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 703,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 619,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 703,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1131756914109505500,
+						"id_str": "1131756914109505536",
+						"indices": [
+							230,
+							253
+						],
+						"media_url": "http://pbs.twimg.com/media/D7TO6sWW4AAuZ3G.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7TO6sWW4AAuZ3G.jpg",
+						"url": "https://t.co/r95m44oluf",
+						"display_url": "pic.twitter.com/r95m44oluf",
+						"expanded_url": "https://twitter.com/JohnsonMusicLHS/status/1131756918253465601/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 1136,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2682026152,
+				"id_str": "2682026152",
+				"name": "mandy Johnson",
+				"screen_name": "JohnsonMusicLHS",
+				"location": "",
+				"description": "Music Educator. Choir Director. Soprano. Proud LHS teacher.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 151,
+				"friends_count": 149,
+				"listed_count": 5,
+				"created_at": "Mon Jul 07 04:27:22 +0000 2014",
+				"favourites_count": 480,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 228,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/885511986536210432/E6Jtqv6E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/885511986536210432/E6Jtqv6E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2682026152/1522948725",
+				"profile_link_color": "5EB888",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "65b4760a2b411e11",
+				"url": "https://api.twitter.com/1.1/geo/id/65b4760a2b411e11.json",
+				"place_type": "admin",
+				"name": "New Jersey",
+				"full_name": "New Jersey, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-75.563587,
+								38.788657
+							],
+							[
+								-73.88506,
+								38.788657
+							],
+							[
+								-73.88506,
+								41.357424
+							],
+							[
+								-75.563587,
+								41.357424
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations! #LTPS #artsednow https://t.co/3P9u6h33y8"
+	},
+	{
 		"created_at": "Thu May 23 17:41:08 +0000 2019",
 		"id": 1131616063077212200,
 		"id_str": "1131616063077212160",
