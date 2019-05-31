@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 30 23:10:29 +0000 2019",
+		"id": 1133816335732027400,
+		"id_str": "1134235660682969088",
+		"full_text": "Inspiring our LES students to pursue careers in Science, Technology, Communications, Engineering &amp; Math! Thank you for your interactive presentations! ⁦@MNLockett⁩ ⁦@azuck1⁩ ⁦@_drdamian⁩ https://t.co/8gMZerDkXT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MNLockett",
+					"name": "Melissa Lockett",
+					"id": 297397894,
+					"id_str": "297397894",
+					"indices": [
+						156,
+						166
+					]
+				},
+				{
+					"screen_name": "azuck1",
+					"name": "Andrew Zuckerman",
+					"id": 40480591,
+					"id_str": "40480591",
+					"indices": [
+						169,
+						176
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						179,
+						189
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1133816281721921500,
+					"id_str": "1133816281721921538",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/D7wf5qiW4AIFJm_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7wf5qiW4AIFJm_.jpg",
+					"url": "https://t.co/8gMZerDkXT",
+					"display_url": "pic.twitter.com/8gMZerDkXT",
+					"expanded_url": "https://twitter.com/LindaAKMiller/status/1133816335732027392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1133816281721921500,
+					"id_str": "1133816281721921538",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/D7wf5qiW4AIFJm_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D7wf5qiW4AIFJm_.jpg",
+					"url": "https://t.co/8gMZerDkXT",
+					"display_url": "pic.twitter.com/8gMZerDkXT",
+					"expanded_url": "https://twitter.com/LindaAKMiller/status/1133816335732027392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 33872299,
+			"id_str": "33872299",
+			"name": "Linda Miller",
+			"screen_name": "LindaAKMiller",
+			"location": "Central New Jersey",
+			"description": "Technology, Robotics, & STEAM Teacher in Lawrence Twp. It's all about digital learning and meaningful/authentic experiences. Mom to three beautiful daughters!",
+			"url": "https://t.co/6Kl8ceQie6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6Kl8ceQie6",
+							"expanded_url": "https://sites.google.com/ltps.info/k-3-technology-mrs-miller",
+							"display_url": "sites.google.com/ltps.info/k-3-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 411,
+			"friends_count": 442,
+			"listed_count": 15,
+			"created_at": "Tue Apr 21 11:00:56 +0000 2009",
+			"favourites_count": 2707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/513036340816916480/F3MX5tam_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/513036340816916480/F3MX5tam_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/33872299/1559047780",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Inspiring our LES students to pursue careers in Science, Technology, Communications, Engineering &amp; Math! Thank you for your interactive presentations! ⁦@MNLockett⁩ ⁦@azuck1⁩ ⁦@_drdamian⁩ https://t.co/8gMZerDkXT"
+	},
+	{
 		"created_at": "Wed May 29 11:45:40 +0000 2019",
 		"id": 1133700935509790700,
 		"id_str": "1133700935509790721",
