@@ -1,0 +1,324 @@
+Grailbird.data.tweets_2019_06 = 
+[
+	{
+		"created_at": "Sat Jun 01 12:37:47 +0000 2019",
+		"id": 1134801213126524900,
+		"id_str": "1134801213126524928",
+		"full_text": "1990 was all about Wall to Wall Sound &amp; Video (which I think later became The Wall), Sam Goody, and Nobody Beats the Wiz for my tapes, plus local music shops... also can't forget Columbia House and 12 cassettes for a penny! I didn't get a CD player til 1995ish. #GenX https://t.co/dN66a1OIx7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GenX",
+					"indices": [
+						266,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dN66a1OIx7",
+					"expanded_url": "https://twitter.com/RebeccaPodos/status/1134265875673047040",
+					"display_url": "twitter.com/RebeccaPodos/s…",
+					"indices": [
+						272,
+						295
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3238,
+			"friends_count": 1541,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1134265875673047000,
+		"quoted_status_id_str": "1134265875673047040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dN66a1OIx7",
+			"expanded": "https://twitter.com/RebeccaPodos/status/1134265875673047040",
+			"display": "twitter.com/RebeccaPodos/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 31 01:10:33 +0000 2019",
+			"id": 1134265875673047000,
+			"id_str": "1134265875673047040",
+			"full_text": "HEY Gen Xers, I will love you forever if you tell me where you shopped for music in 1990, and in what form (I remember frequenting the local Strawberries to buy CDs in the early aughts, but my book research is failing me)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				221
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2176209187,
+				"id_str": "2176209187",
+				"name": "Rebecca Podos",
+				"screen_name": "RebeccaPodos",
+				"location": "Boston, MA",
+				"description": "Reps YA/MG at Rees Literary Agency. Author of THE MYSTERY OF HOLLOW PLACES, LIKE WATER, THE WISE AND THE WICKED. She/her. Repped by @ericsmithrocks",
+				"url": "https://t.co/ScqPoSEr0H",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ScqPoSEr0H",
+								"expanded_url": "http://Rebeccapodos.com",
+								"display_url": "Rebeccapodos.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7015,
+				"friends_count": 1705,
+				"listed_count": 214,
+				"created_at": "Tue Nov 05 14:41:02 +0000 2013",
+				"favourites_count": 20146,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12042,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1043949974470500353/YgVrfGJ6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043949974470500353/YgVrfGJ6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2176209187/1558382941",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 443,
+			"favorite_count": 3117,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "1990 was all about Wall to Wall Sound &amp; Video (which I think later became The Wall), Sam Goody, and Nobody Beats the Wiz for my tapes, plus local music shops... also can't forget Columbia House and 12 cassettes for a penny! I didn't get a CD player til 1995ish. #GenX https://t.co/dN66a1OIx7"
+	},
+	{
+		"created_at": "Sat Jun 01 12:33:11 +0000 2019",
+		"id": 1134800056429752300,
+		"id_str": "1134800056429752321",
+		"full_text": "@Basler I haven't heard Front 242 since high school.  Talk about a blast from the past!",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Basler",
+					"name": "Dale Basler",
+					"id": 4556021,
+					"id_str": "4556021",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1134797729786413000,
+		"in_reply_to_status_id_str": "1134797729786413057",
+		"in_reply_to_user_id": 4556021,
+		"in_reply_to_user_id_str": "4556021",
+		"in_reply_to_screen_name": "Basler",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3238,
+			"friends_count": 1541,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Basler I haven't heard Front 242 since high school.  Talk about a blast from the past!"
+	}
+]
