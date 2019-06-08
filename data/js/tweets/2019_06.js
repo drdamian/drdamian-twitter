@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 07 19:28:21 +0000 2019",
+		"id": 1137078282258735100,
+		"id_str": "1137078862892937216",
+		"full_text": "Adolescents need teachers who trust both their capacity to learn and their intent to do the right thing. https://t.co/ikZMOi6B1c @cat3y @elmagazine https://t.co/ZJARdsr7Dt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cat3y",
+					"name": "Carol Ann Tomlinson",
+					"id": 54759635,
+					"id_str": "54759635",
+					"indices": [
+						129,
+						135
+					]
+				},
+				{
+					"screen_name": "ELmagazine",
+					"name": "EL Magazine",
+					"id": 762747229882974200,
+					"id_str": "762747229882974210",
+					"indices": [
+						136,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ikZMOi6B1c",
+					"expanded_url": "https://bit.ly/2WWqchh",
+					"display_url": "bit.ly/2WWqchh",
+					"indices": [
+						105,
+						128
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1137078275732320300,
+					"id_str": "1137078275732320257",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/D8e2qtLWsAE0R0U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8e2qtLWsAE0R0U.jpg",
+					"url": "https://t.co/ZJARdsr7Dt",
+					"display_url": "pic.twitter.com/ZJARdsr7Dt",
+					"expanded_url": "https://twitter.com/ASCD/status/1137078282258735104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1137078275732320300,
+					"id_str": "1137078275732320257",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/media/D8e2qtLWsAE0R0U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8e2qtLWsAE0R0U.jpg",
+					"url": "https://t.co/ZJARdsr7Dt",
+					"display_url": "pic.twitter.com/ZJARdsr7Dt",
+					"expanded_url": "https://twitter.com/ASCD/status/1137078282258735104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15743206,
+			"id_str": "15743206",
+			"name": "ASCD",
+			"screen_name": "ASCD",
+			"location": "Alexandria, VA (D.C. area)",
+			"description": "ASCD is a nonprofit organization that supports the global community of educators dedicated to excellence in learning, teaching, and leading.",
+			"url": "https://t.co/nAriNAS7s2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nAriNAS7s2",
+							"expanded_url": "https://bit.ly/2zv8uH5",
+							"display_url": "bit.ly/2zv8uH5",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 237621,
+			"friends_count": 2090,
+			"listed_count": 3866,
+			"created_at": "Tue Aug 05 23:22:23 +0000 2008",
+			"favourites_count": 14798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "72A8B2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090661113916739586/mFljNalS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090661113916739586/mFljNalS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15743206/1525828421",
+			"profile_link_color": "22505F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "589199",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Adolescents need teachers who trust both their capacity to learn and their intent to do the right thing. https://t.co/ikZMOi6B1c @cat3y @elmagazine https://t.co/ZJARdsr7Dt"
+	},
+	{
 		"created_at": "Thu Jun 06 23:34:58 +0000 2019",
 		"id": 1136778539536191500,
 		"id_str": "1136778539536191488",
