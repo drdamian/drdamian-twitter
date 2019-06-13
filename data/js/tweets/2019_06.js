@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 12 14:12:32 +0000 2019",
+		"id": 1138810885860921300,
+		"id_str": "1138811324824260608",
+		"full_text": "LIS students had a blast creating their kindness rocks on field day! Thank you everyone who helped out!! #ltps @LISShines @_drdamian https://t.co/Amp209lqSh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ltps",
+					"indices": [
+						105,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LISShines",
+					"name": "LIS Shines",
+					"id": 1029050872075046900,
+					"id_str": "1029050872075046913",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						122,
+						132
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1138810831204958200,
+					"id_str": "1138810831204958209",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/D83eatRWwAE2GJh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D83eatRWwAE2GJh.jpg",
+					"url": "https://t.co/Amp209lqSh",
+					"display_url": "pic.twitter.com/Amp209lqSh",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1138810885860921344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138810831204958200,
+					"id_str": "1138810831204958209",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/D83eatRWwAE2GJh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D83eatRWwAE2GJh.jpg",
+					"url": "https://t.co/Amp209lqSh",
+					"display_url": "pic.twitter.com/Amp209lqSh",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1138810885860921344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1138810831230177300,
+					"id_str": "1138810831230177280",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/D83eatXXkAAdj_7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D83eatXXkAAdj_7.jpg",
+					"url": "https://t.co/Amp209lqSh",
+					"display_url": "pic.twitter.com/Amp209lqSh",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1138810885860921344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1138810831246889000,
+					"id_str": "1138810831246888960",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/D83eatbWkAAafx5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D83eatbWkAAafx5.jpg",
+					"url": "https://t.co/Amp209lqSh",
+					"display_url": "pic.twitter.com/Amp209lqSh",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1138810885860921344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1138810831276314600,
+					"id_str": "1138810831276314626",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/D83eatiXkAIexqc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D83eatiXkAIexqc.jpg",
+					"url": "https://t.co/Amp209lqSh",
+					"display_url": "pic.twitter.com/Amp209lqSh",
+					"expanded_url": "https://twitter.com/Yoskowitz_Art/status/1138810885860921344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1034825909944152000,
+			"id_str": "1034825909944152064",
+			"name": "Sara Yoskowitz",
+			"screen_name": "Yoskowitz_Art",
+			"location": "New Jersey, USA",
+			"description": "Art Teacher at Lawrence Intermediate School 😀🖌️❤️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97,
+			"friends_count": 161,
+			"listed_count": 0,
+			"created_at": "Wed Aug 29 15:31:37 +0000 2018",
+			"favourites_count": 157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 34,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034976089720811521/qGjIg4Fp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034976089720811521/qGjIg4Fp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1034825909944152064/1535592922",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LIS students had a blast creating their kindness rocks on field day! Thank you everyone who helped out!! #ltps @LISShines @_drdamian https://t.co/Amp209lqSh"
+	},
+	{
 		"created_at": "Tue Jun 11 23:11:36 +0000 2019",
 		"id": 1138584596789043200,
 		"id_str": "1138584596789043200",
