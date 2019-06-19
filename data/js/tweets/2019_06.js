@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 18 14:40:32 +0000 2019",
+		"id": 1140992696091365400,
+		"id_str": "1140992696091365376",
+		"full_text": "Congratulations Mr. Krajunus! #LTPS https://t.co/9sLeC3ZScU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						30,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9sLeC3ZScU",
+					"expanded_url": "https://twitter.com/LTPSAthletics/status/1140936349048090624",
+					"display_url": "twitter.com/LTPSAthletics/…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "#LTPS Supervisor of Arts, Tech, & Libraries. Dad, husband, reader, lifter, runner. #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3238,
+			"friends_count": 1542,
+			"listed_count": 261,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1140936349048090600,
+		"quoted_status_id_str": "1140936349048090624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9sLeC3ZScU",
+			"expanded": "https://twitter.com/LTPSAthletics/status/1140936349048090624",
+			"display": "twitter.com/LTPSAthletics/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 18 10:56:37 +0000 2019",
+			"id": 1140936349048090600,
+			"id_str": "1140936349048090624",
+			"full_text": "Alex Krajunus of Lawrence is the https://t.co/p1e0zNe4nK boys tennis Coach of the Year, 2019 https://t.co/xD2WuU1L3u",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/p1e0zNe4nK",
+						"expanded_url": "http://NJ.com",
+						"display_url": "NJ.com",
+						"indices": [
+							33,
+							56
+						]
+					},
+					{
+						"url": "https://t.co/xD2WuU1L3u",
+						"expanded_url": "http://s.nj.com/oepUnDL",
+						"display_url": "s.nj.com/oepUnDL",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2845523504,
+				"id_str": "2845523504",
+				"name": "LTPS AD",
+				"screen_name": "LTPSAthletics",
+				"location": "Lawrenceville, NJ",
+				"description": "Home of the Lawrence Cardinals - Official Site for the LTPS Athletic Department",
+				"url": "https://t.co/KETOW12XgE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KETOW12XgE",
+								"expanded_url": "http://www.ltps.org",
+								"display_url": "ltps.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 738,
+				"friends_count": 286,
+				"listed_count": 9,
+				"created_at": "Wed Oct 08 01:11:54 +0000 2014",
+				"favourites_count": 2444,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2497,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/773867953204977664/fcpjI0Mg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/773867953204977664/fcpjI0Mg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2845523504/1487948361",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Congratulations Mr. Krajunus! #LTPS https://t.co/9sLeC3ZScU"
+	},
+	{
 		"created_at": "Mon Jun 17 13:08:29 +0000 2019",
 		"id": 1140607146922524700,
 		"id_str": "1140607146922524674",
