@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 19 14:12:37 +0000 2019",
+		"id": 1141346212785922000,
+		"id_str": "1141348059626070019",
+		"full_text": "@LMSNation 8th graders visit @LHSMediaCenter here comes the #Classof2023 @dadamltps https://t.co/KA5NY08tvx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Classof2023",
+					"indices": [
+						60,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LMSNation",
+					"name": "LMS Nation",
+					"id": 309632193,
+					"id_str": "309632193",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "LHSMediaCenter",
+					"name": "Ewa Dziedzic-Elliott",
+					"id": 796644332,
+					"id_str": "796644332",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						73,
+						83
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1141346171253928000,
+					"id_str": "1141346171253927937",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/D9bgS69XsAE_9K_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9bgS69XsAE_9K_.jpg",
+					"url": "https://t.co/KA5NY08tvx",
+					"display_url": "pic.twitter.com/KA5NY08tvx",
+					"expanded_url": "https://twitter.com/Mrs_Cramer/status/1141346212785922048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 605,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 605,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141346171253928000,
+					"id_str": "1141346171253927937",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/D9bgS69XsAE_9K_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9bgS69XsAE_9K_.jpg",
+					"url": "https://t.co/KA5NY08tvx",
+					"display_url": "pic.twitter.com/KA5NY08tvx",
+					"expanded_url": "https://twitter.com/Mrs_Cramer/status/1141346212785922048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 605,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 605,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 309632193,
+		"in_reply_to_user_id_str": "309632193",
+		"in_reply_to_screen_name": "LMSNation",
+		"user": {
+			"id": 250131255,
+			"id_str": "250131255",
+			"name": "Eileen Cramer",
+			"screen_name": "Mrs_Cramer",
+			"location": "New Jersey",
+			"description": "Middle School Librarian: READER & tech user who loves travel, the arts, my job, the Oxford comma, and my wonderful family. Opinions expressed are solely my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 739,
+			"friends_count": 1208,
+			"listed_count": 36,
+			"created_at": "Thu Feb 10 13:52:17 +0000 2011",
+			"favourites_count": 5318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/931290585016696832/zYX0gpbq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/931290585016696832/zYX0gpbq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/250131255/1520009335",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "004fcac6274ef9ca",
+			"url": "https://api.twitter.com/1.1/geo/id/004fcac6274ef9ca.json",
+			"place_type": "city",
+			"name": "Lawrence",
+			"full_name": "Lawrence, NJ",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.762755,
+							40.2398165
+						],
+						[
+							-74.6644118,
+							40.2398165
+						],
+						[
+							-74.6644118,
+							40.3177474
+						],
+						[
+							-74.762755,
+							40.3177474
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@LMSNation 8th graders visit @LHSMediaCenter here comes the #Classof2023 @dadamltps https://t.co/KA5NY08tvx"
+	},
+	{
 		"created_at": "Tue Jun 18 14:40:32 +0000 2019",
 		"id": 1140992696091365400,
 		"id_str": "1140992696091365376",
