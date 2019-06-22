@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 21 12:51:22 +0000 2019",
+		"id": 1142050291711467500,
+		"id_str": "1142052388515328000",
+		"full_text": "The 2019 National School Climate Survey is GLSEN's 11th national survey of LGBTQ youth. It is a crucial tool in GLSEN's mission for fighting anti-LGBTQ bias in K–12 schools across the nation. Share the survey today: https://t.co/Az1QrebBGL. https://t.co/qoFrtYcdQG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Az1QrebBGL",
+					"expanded_url": "https://buff.ly/2r85E5c",
+					"display_url": "buff.ly/2r85E5c",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1142050289303900200,
+					"id_str": "1142050289303900161",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/D9lgr_GXUAE6irN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9lgr_GXUAE6irN.jpg",
+					"url": "https://t.co/qoFrtYcdQG",
+					"display_url": "pic.twitter.com/qoFrtYcdQG",
+					"expanded_url": "https://twitter.com/NASSP/status/1142050291711467520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1142050289303900200,
+					"id_str": "1142050289303900161",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/D9lgr_GXUAE6irN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9lgr_GXUAE6irN.jpg",
+					"url": "https://t.co/qoFrtYcdQG",
+					"display_url": "pic.twitter.com/qoFrtYcdQG",
+					"expanded_url": "https://twitter.com/NASSP/status/1142050291711467520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15894074,
+			"id_str": "15894074",
+			"name": "NASSP",
+			"screen_name": "NASSP",
+			"location": "Reston, VA",
+			"description": "National Association of Secondary School Principals || We connect and engage principals, assistant principals, and school leaders. #ThankAPrincipal",
+			"url": "http://t.co/TCmpKbWeVM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/TCmpKbWeVM",
+							"expanded_url": "http://www.nassp.org",
+							"display_url": "nassp.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 39348,
+			"friends_count": 2203,
+			"listed_count": 831,
+			"created_at": "Mon Aug 18 17:33:07 +0000 2008",
+			"favourites_count": 12164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908079366143447041/QrYfZXWk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908079366143447041/QrYfZXWk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15894074/1542748363",
+			"profile_link_color": "D40C0C",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 2019 National School Climate Survey is GLSEN's 11th national survey of LGBTQ youth. It is a crucial tool in GLSEN's mission for fighting anti-LGBTQ bias in K–12 schools across the nation. Share the survey today: https://t.co/Az1QrebBGL. https://t.co/qoFrtYcdQG"
+	},
+	{
 		"created_at": "Thu Jun 20 23:20:38 +0000 2019",
 		"id": 1141848362880262100,
 		"id_str": "1141848362880262144",
