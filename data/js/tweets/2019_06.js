@@ -1,6 +1,151 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 29 12:12:35 +0000 2019",
+		"id": 1144639171203608600,
+		"id_str": "1144941730069975040",
+		"full_text": "The Big List of Class Discussion Strategies\nhttps://t.co/jiFZ39TARH\n#teachingstrategies #studenttalk #criticalthinking #studentengagement",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "teachingstrategies",
+					"indices": [
+						68,
+						87
+					]
+				},
+				{
+					"text": "studenttalk",
+					"indices": [
+						88,
+						100
+					]
+				},
+				{
+					"text": "criticalthinking",
+					"indices": [
+						101,
+						118
+					]
+				},
+				{
+					"text": "studentengagement",
+					"indices": [
+						119,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jiFZ39TARH",
+					"expanded_url": "http://ow.ly/aQEi30p0U7K",
+					"display_url": "ow.ly/aQEi30p0U7K",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1881304950,
+			"id_str": "1881304950",
+			"name": "Jennifer Gonzalez",
+			"screen_name": "cultofpedagogy",
+			"location": "Kentucky, USA",
+			"description": "I help teachers crush it in the classroom. Love my family and CrossFit. She/her. Find my courses at https://t.co/Qb99SWDEiH",
+			"url": "http://t.co/B8cgBB9bin",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/B8cgBB9bin",
+							"expanded_url": "http://www.cultofpedagogy.com",
+							"display_url": "cultofpedagogy.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Qb99SWDEiH",
+							"expanded_url": "http://cultofpedagogy.teachable.com/",
+							"display_url": "cultofpedagogy.teachable.com",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 97364,
+			"friends_count": 19651,
+			"listed_count": 1451,
+			"created_at": "Thu Sep 19 00:23:44 +0000 2013",
+			"favourites_count": 39161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/960514741473914881/18_2TprC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/960514741473914881/18_2TprC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1881304950/1532740814",
+			"profile_link_color": "847462",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 292,
+		"favorite_count": 618,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Big List of Class Discussion Strategies\nhttps://t.co/jiFZ39TARH\n#teachingstrategies #studenttalk #criticalthinking #studentengagement"
+	},
+	{
 		"created_at": "Fri Jun 28 00:00:09 +0000 2019",
 		"id": 1144395021468217300,
 		"id_str": "1144395021468217344",
