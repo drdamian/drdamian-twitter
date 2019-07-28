@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 28 01:13:45 +0000 2019",
+		"id": 1155285181110136800,
+		"id_str": "1155285181110136833",
+		"full_text": "Pretty sure I sold 3-6 when I worked at Radio Shack in college in the late '90s (and probably had a 3). https://t.co/vVKk00W6xr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vVKk00W6xr",
+					"expanded_url": "https://twitter.com/AngelinaBabee/status/1154250520984317952",
+					"display_url": "twitter.com/AngelinaBabee/…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Assistant Principal, Lawrence High School. Dad, husband, reader, lifter, runner. \n#LTPS since 2011, #NJED since 2000. Tweets ≠ opinion of my employer.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3227,
+			"friends_count": 1526,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1988,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32080,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1154250520984318000,
+		"quoted_status_id_str": "1154250520984317952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vVKk00W6xr",
+			"expanded": "https://twitter.com/AngelinaBabee/status/1154250520984317952",
+			"display": "twitter.com/AngelinaBabee/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 25 04:42:23 +0000 2019",
+			"id": 1154250520984318000,
+			"id_str": "1154250520984317952",
+			"full_text": "Which was your first phone? Mine was 9 https://t.co/wCVqpXiyDF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				38
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1154250516693540900,
+						"id_str": "1154250516693540865",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/EAS4ur1UYAE3WeP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAS4ur1UYAE3WeP.jpg",
+						"url": "https://t.co/wCVqpXiyDF",
+						"display_url": "pic.twitter.com/wCVqpXiyDF",
+						"expanded_url": "https://twitter.com/AngelinaBabee/status/1154250520984317952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 822,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 822,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 582,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1154250516693540900,
+						"id_str": "1154250516693540865",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/EAS4ur1UYAE3WeP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAS4ur1UYAE3WeP.jpg",
+						"url": "https://t.co/wCVqpXiyDF",
+						"display_url": "pic.twitter.com/wCVqpXiyDF",
+						"expanded_url": "https://twitter.com/AngelinaBabee/status/1154250520984317952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 822,
+								"h": 960,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 822,
+								"h": 960,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 582,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 169861566,
+				"id_str": "169861566",
+				"name": "trippyprincess❥",
+				"screen_name": "AngelinaBabee",
+				"location": "åŁâšKä ",
+				"description": "꧁ mhmm, honey ꧂| •insta aangeliciouss | ♡Erik’s girl",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1230,
+				"friends_count": 503,
+				"listed_count": 3,
+				"created_at": "Fri Jul 23 10:17:50 +0000 2010",
+				"favourites_count": 36666,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 36196,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5ABB5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1152307076661567488/L_G0FJNJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152307076661567488/L_G0FJNJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/169861566/1563566391",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "F1FA3F",
+				"profile_sidebar_fill_color": "51DCF5",
+				"profile_text_color": "BE04DB",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1683,
+			"favorite_count": 7885,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pretty sure I sold 3-6 when I worked at Radio Shack in college in the late '90s (and probably had a 3). https://t.co/vVKk00W6xr"
+	},
+	{
 		"created_at": "Sun Jul 28 00:37:54 +0000 2019",
 		"id": 1155276155144085500,
 		"id_str": "1155276155144085509",
