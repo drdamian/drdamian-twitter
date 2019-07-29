@@ -1,6 +1,400 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 28 18:01:23 +0000 2019",
+		"id": 1155538757816336400,
+		"id_str": "1155538757816336385",
+		"full_text": "@JaredParker I feel seen. #TeamGenX",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			35
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeamGenX",
+					"indices": [
+						26,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JaredParker",
+					"name": "𝙹𝚊𝚛𝚎𝚍 𝙹𝚘𝚑𝚗𝚜𝚘𝚗",
+					"id": 15641837,
+					"id_str": "15641837",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1155535984408350700,
+		"in_reply_to_status_id_str": "1155535984408350721",
+		"in_reply_to_user_id": 15641837,
+		"in_reply_to_user_id_str": "15641837",
+		"in_reply_to_screen_name": "JaredParker",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Assistant Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3226,
+			"friends_count": 1526,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JaredParker I feel seen. #TeamGenX"
+	},
+	{
+		"created_at": "Sun Jul 28 03:08:53 +0000 2019",
+		"id": 1155314152421900300,
+		"id_str": "1155314152421900288",
+		"full_text": "@TheWeirdTeacher https://t.co/PYeUECe3KL",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheWeirdTeacher",
+					"name": "Doug Robertson",
+					"id": 492501665,
+					"id_str": "492501665",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1155314149372682200,
+					"id_str": "1155314149372682241",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EAiAGQVXYAED-FS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAiAGQVXYAED-FS.jpg",
+					"url": "https://t.co/PYeUECe3KL",
+					"display_url": "pic.twitter.com/PYeUECe3KL",
+					"expanded_url": "https://twitter.com/_drdamian/status/1155314152421900288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 584,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1155314149372682200,
+					"id_str": "1155314149372682241",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EAiAGQVXYAED-FS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAiAGQVXYAED-FS.jpg",
+					"url": "https://t.co/PYeUECe3KL",
+					"display_url": "pic.twitter.com/PYeUECe3KL",
+					"expanded_url": "https://twitter.com/_drdamian/status/1155314152421900288/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 584,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 900,
+							"h": 584,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1155312311629828000,
+		"in_reply_to_status_id_str": "1155312311629828097",
+		"in_reply_to_user_id": 492501665,
+		"in_reply_to_user_id_str": "492501665",
+		"in_reply_to_screen_name": "TheWeirdTeacher",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Assistant Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3226,
+			"friends_count": 1526,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@TheWeirdTeacher https://t.co/PYeUECe3KL"
+	},
+	{
+		"created_at": "Sun Jul 28 03:01:33 +0000 2019",
+		"id": 1155312308031283200,
+		"id_str": "1155312308031283200",
+		"full_text": "Now if only there was a script or extension to hide all those sumall/paperli/fllwers autoposts... 🤮",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Assistant Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3226,
+			"friends_count": 1526,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 1992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Now if only there was a script or extension to hide all those sumall/paperli/fllwers autoposts... 🤮"
+	},
+	{
 		"created_at": "Sun Jul 28 01:13:45 +0000 2019",
 		"id": 1155285181110136800,
 		"id_str": "1155285181110136833",
