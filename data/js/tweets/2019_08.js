@@ -1,6 +1,923 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 10 00:22:24 +0000 2019",
+		"id": 1159983298048876500,
+		"id_str": "1159983298048876544",
+		"full_text": "@AlexMLamon @john_tees @mgcjusa @SchneckDiane Wonderful; thank you so much!  Will definitely keep you in mind for the future.  I appreciate your help.",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlexMLamon",
+					"name": "Alex Lamon",
+					"id": 1273371661,
+					"id_str": "1273371661",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "john_tees",
+					"name": "John Tees",
+					"id": 801118345,
+					"id_str": "801118345",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "mgcjusa",
+					"name": "Michael G Curran Jr",
+					"id": 21947812,
+					"id_str": "21947812",
+					"indices": [
+						23,
+						31
+					]
+				},
+				{
+					"screen_name": "SchneckDiane",
+					"name": "Diane Schneck",
+					"id": 4901883603,
+					"id_str": "4901883603",
+					"indices": [
+						32,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1159982769193324500,
+		"in_reply_to_status_id_str": "1159982769193324546",
+		"in_reply_to_user_id": 1273371661,
+		"in_reply_to_user_id_str": "1273371661",
+		"in_reply_to_screen_name": "AlexMLamon",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Assistant Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224,
+			"friends_count": 1532,
+			"listed_count": 260,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AlexMLamon @john_tees @mgcjusa @SchneckDiane Wonderful; thank you so much!  Will definitely keep you in mind for the future.  I appreciate your help."
+	},
+	{
+		"created_at": "Sat Aug 10 00:17:33 +0000 2019",
+		"id": 1159982080098480000,
+		"id_str": "1159982080098480129",
+		"full_text": "@AlexMLamon @john_tees @mgcjusa @SchneckDiane I just added it to the bottom of the doc.  I didn't want to mess with the format of the spreadsheet so if it's OK and if you don't mind, a bump to the top for better visibility would be most appreciated.  Thanks!",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlexMLamon",
+					"name": "Alex Lamon",
+					"id": 1273371661,
+					"id_str": "1273371661",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "john_tees",
+					"name": "John Tees",
+					"id": 801118345,
+					"id_str": "801118345",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "mgcjusa",
+					"name": "Michael G Curran Jr",
+					"id": 21947812,
+					"id_str": "21947812",
+					"indices": [
+						23,
+						31
+					]
+				},
+				{
+					"screen_name": "SchneckDiane",
+					"name": "Diane Schneck",
+					"id": 4901883603,
+					"id_str": "4901883603",
+					"indices": [
+						32,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1159979794097934300,
+		"in_reply_to_status_id_str": "1159979794097934336",
+		"in_reply_to_user_id": 1273371661,
+		"in_reply_to_user_id_str": "1273371661",
+		"in_reply_to_screen_name": "AlexMLamon",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Assistant Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224,
+			"friends_count": 1532,
+			"listed_count": 260,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AlexMLamon @john_tees @mgcjusa @SchneckDiane I just added it to the bottom of the doc.  I didn't want to mess with the format of the spreadsheet so if it's OK and if you don't mind, a bump to the top for better visibility would be most appreciated.  Thanks!"
+	},
+	{
+		"created_at": "Sat Aug 10 00:10:10 +0000 2019",
+		"id": 1159980218649587700,
+		"id_str": "1159980218649587712",
+		"full_text": "@AlexMLamon @john_tees @mgcjusa @SchneckDiane Unfortunately, yes (beyond our control, I'm afraid).  Thanks for the Google Doc link; I'll add the info shortly!",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlexMLamon",
+					"name": "Alex Lamon",
+					"id": 1273371661,
+					"id_str": "1273371661",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "john_tees",
+					"name": "John Tees",
+					"id": 801118345,
+					"id_str": "801118345",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "mgcjusa",
+					"name": "Michael G Curran Jr",
+					"id": 21947812,
+					"id_str": "21947812",
+					"indices": [
+						23,
+						31
+					]
+				},
+				{
+					"screen_name": "SchneckDiane",
+					"name": "Diane Schneck",
+					"id": 4901883603,
+					"id_str": "4901883603",
+					"indices": [
+						32,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1159979794097934300,
+		"in_reply_to_status_id_str": "1159979794097934336",
+		"in_reply_to_user_id": 1273371661,
+		"in_reply_to_user_id_str": "1273371661",
+		"in_reply_to_screen_name": "AlexMLamon",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Assistant Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224,
+			"friends_count": 1532,
+			"listed_count": 260,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AlexMLamon @john_tees @mgcjusa @SchneckDiane Unfortunately, yes (beyond our control, I'm afraid).  Thanks for the Google Doc link; I'll add the info shortly!"
+	},
+	{
+		"created_at": "Fri Aug 09 16:26:12 +0000 2019",
+		"id": 1159863460303446000,
+		"id_str": "1159863460303446018",
+		"full_text": "@biblio_phile This is heartbreaking. The commenter in the original thread who called it 'somebody punching above their weight' sounded dead-on to me.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "biblio_phile",
+					"name": "Christina Torres",
+					"id": 15310950,
+					"id_str": "15310950",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1159860370749526000,
+		"in_reply_to_status_id_str": "1159860370749526017",
+		"in_reply_to_user_id": 15310950,
+		"in_reply_to_user_id_str": "15310950",
+		"in_reply_to_screen_name": "biblio_phile",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Assistant Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224,
+			"friends_count": 1532,
+			"listed_count": 260,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@biblio_phile This is heartbreaking. The commenter in the original thread who called it 'somebody punching above their weight' sounded dead-on to me."
+	},
+	{
+		"created_at": "Fri Aug 09 15:52:10 +0000 2019",
+		"id": 1159854822268518400,
+		"id_str": "1159854894255431680",
+		"full_text": "Lawrence High School has a tenure-track full time Business Teacher opening! https://t.co/Vn6bXUlAQc @mgcjusa @_drdamian @SchneckDiane",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mgcjusa",
+					"name": "Michael G Curran Jr",
+					"id": 21947812,
+					"id_str": "21947812",
+					"indices": [
+						100,
+						108
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"screen_name": "SchneckDiane",
+					"name": "Diane Schneck",
+					"id": 4901883603,
+					"id_str": "4901883603",
+					"indices": [
+						120,
+						133
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Vn6bXUlAQc",
+					"expanded_url": "https://www.applitrack.com/lawrence/OnlineApp/JobPostings/View.asp?AppliTrackJobId=3562",
+					"display_url": "applitrack.com/lawrence/Onlin…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 801118345,
+			"id_str": "801118345",
+			"name": "John Tees",
+			"screen_name": "john_tees",
+			"location": "",
+			"description": "High School Business teacher and Co-DECA Advisor in Lawrenceville, NJ. Solely my comments.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89,
+			"friends_count": 105,
+			"listed_count": 1,
+			"created_at": "Mon Sep 03 20:03:32 +0000 2012",
+			"favourites_count": 161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 79,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103658353404850176/Asky8PI__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103658353404850176/Asky8PI__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lawrence High School has a tenure-track full time Business Teacher opening! https://t.co/Vn6bXUlAQc @mgcjusa @_drdamian @SchneckDiane"
+	},
+	{
+		"created_at": "Fri Aug 09 15:43:54 +0000 2019",
+		"id": 1159852813381513200,
+		"id_str": "1159852813381513218",
+		"full_text": "Come work with us! #DECABold #DECANJ #DECA cc @mgcjusa #LTPS https://t.co/bge7dSTKiv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DECABold",
+					"indices": [
+						19,
+						28
+					]
+				},
+				{
+					"text": "DECANJ",
+					"indices": [
+						29,
+						36
+					]
+				},
+				{
+					"text": "DECA",
+					"indices": [
+						37,
+						42
+					]
+				},
+				{
+					"text": "LTPS",
+					"indices": [
+						55,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mgcjusa",
+					"name": "Michael G Curran Jr",
+					"id": 21947812,
+					"id_str": "21947812",
+					"indices": [
+						46,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bge7dSTKiv",
+					"expanded_url": "https://twitter.com/NJSchoolJobs/status/1159848583283138562",
+					"display_url": "twitter.com/NJSchoolJobs/s…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Assistant Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers.",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224,
+			"friends_count": 1532,
+			"listed_count": 260,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2015,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1159848583283138600,
+		"quoted_status_id_str": "1159848583283138562",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bge7dSTKiv",
+			"expanded": "https://twitter.com/NJSchoolJobs/status/1159848583283138562",
+			"display": "twitter.com/NJSchoolJobs/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 09 15:27:05 +0000 2019",
+			"id": 1159848583283138600,
+			"id_str": "1159848583283138562",
+			"full_text": "Teacher of Business - Anticipated at Lawrence Township Public Schools in Lawrenceville, NJ: TEACHER OF BUSINESS - ANTICIPATED SALARY RANGE: Starting at $55,656Requirements: NJDOE Teacher of Comprehensive Business Certificate… https://t.co/U4RIVq3hAr #nj #teaching #jobs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "nj",
+						"indices": [
+							250,
+							253
+						]
+					},
+					{
+						"text": "teaching",
+						"indices": [
+							254,
+							263
+						]
+					},
+					{
+						"text": "jobs",
+						"indices": [
+							264,
+							269
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/U4RIVq3hAr",
+						"expanded_url": "http://dlvr.it/R9yRRJ",
+						"display_url": "dlvr.it/R9yRRJ",
+						"indices": [
+							226,
+							249
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 66263683,
+				"id_str": "66263683",
+				"name": "NJSchoolJobs.com",
+				"screen_name": "NJSchoolJobs",
+				"location": "New Jersey, USA",
+				"description": "The leading advertiser of education jobs for New Jersey's Schools since 1999! #nj #teaching #administrative #coaching #education #jobs",
+				"url": "https://t.co/8X1L2Pt7q0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8X1L2Pt7q0",
+								"expanded_url": "http://www.njschooljobs.com",
+								"display_url": "njschooljobs.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3008,
+				"friends_count": 665,
+				"listed_count": 108,
+				"created_at": "Mon Aug 17 03:19:50 +0000 2009",
+				"favourites_count": 915,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 35155,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F8C200",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/410546048/logo2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/410546048/logo2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/66263683/1470424150",
+				"profile_link_color": "C90E0E",
+				"profile_sidebar_border_color": "F7CA00",
+				"profile_sidebar_fill_color": "FFEA00",
+				"profile_text_color": "40403C",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come work with us! #DECABold #DECANJ #DECA cc @mgcjusa #LTPS https://t.co/bge7dSTKiv"
+	},
+	{
 		"created_at": "Thu Aug 08 19:55:36 +0000 2019",
 		"id": 1159553767521554400,
 		"id_str": "1159553767521554435",
