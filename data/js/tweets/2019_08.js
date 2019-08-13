@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 13 00:09:21 +0000 2019",
+		"id": 1161067179439198200,
+		"id_str": "1161067179439198209",
+		"full_text": "Saw Michael J Fox trending\n\nChecked tweets\n\nRelievedDenzel.gif",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3222,
+			"friends_count": 1537,
+			"listed_count": 260,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Saw Michael J Fox trending\n\nChecked tweets\n\nRelievedDenzel.gif"
+	},
+	{
+		"created_at": "Mon Aug 12 19:02:22 +0000 2019",
+		"id": 1160988693693444000,
+		"id_str": "1160989925191430145",
+		"full_text": "Head of the Class: Just Help the Kids!\n\nColts Neck Township schools won an NSBA Magna Award for helping students get services right away – without waiting for an IEP. Read more here: https://t.co/a6Z2ntqoCf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a6Z2ntqoCf",
+					"expanded_url": "https://www.njsba.org/news-publications/school-leader/july-august-2019-vol-50-no-1/head-of-the-class-just-help-the-kids/",
+					"display_url": "njsba.org/news-publicati…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47416519,
+			"id_str": "47416519",
+			"name": "NJSBA",
+			"screen_name": "njsba",
+			"location": "Trenton, NJ",
+			"description": "NJSBA provides training, resources and advocacy for boards of education & charter schools in NJ.",
+			"url": "https://t.co/2p7JzRQO6D",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2p7JzRQO6D",
+							"expanded_url": "https://www.njsba.org",
+							"display_url": "njsba.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4392,
+			"friends_count": 1676,
+			"listed_count": 120,
+			"created_at": "Mon Jun 15 19:16:35 +0000 2009",
+			"favourites_count": 833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "003F7D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/575308394719924224/aZppU5lp_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/575308394719924224/aZppU5lp_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47416519/1554907809",
+			"profile_link_color": "003F7D",
+			"profile_sidebar_border_color": "575757",
+			"profile_sidebar_fill_color": "BDE3F0",
+			"profile_text_color": "302F30",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Head of the Class: Just Help the Kids!\n\nColts Neck Township schools won an NSBA Magna Award for helping students get services right away – without waiting for an IEP. Read more here: https://t.co/a6Z2ntqoCf"
+	},
+	{
+		"created_at": "Mon Aug 12 18:43:10 +0000 2019",
+		"id": 1160985090970869800,
+		"id_str": "1160985090970869760",
+		"full_text": "@SchleiderJustin @NPRCodeSwitch @carmelhealth @MrPranPatel This is a great podcast in general; highly recommend subscribing!",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SchleiderJustin",
+					"name": "Justin Schleider ABC, BBD",
+					"id": 2171504722,
+					"id_str": "2171504722",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "NPRCodeSwitch",
+					"name": "NPR's Code Switch",
+					"id": 1117836660,
+					"id_str": "1117836660",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "carmelhealth",
+					"name": "Andrew Milne",
+					"id": 234865198,
+					"id_str": "234865198",
+					"indices": [
+						32,
+						45
+					]
+				},
+				{
+					"screen_name": "MrPranPatel",
+					"name": "Pran Patel",
+					"id": 3128492555,
+					"id_str": "3128492555",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1160984467130986500,
+		"in_reply_to_status_id_str": "1160984467130986496",
+		"in_reply_to_user_id": 2171504722,
+		"in_reply_to_user_id_str": "2171504722",
+		"in_reply_to_screen_name": "SchleiderJustin",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3222,
+			"friends_count": 1537,
+			"listed_count": 260,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SchleiderJustin @NPRCodeSwitch @carmelhealth @MrPranPatel This is a great podcast in general; highly recommend subscribing!"
+	},
+	{
 		"created_at": "Sat Aug 10 17:32:50 +0000 2019",
 		"id": 1160242615838826500,
 		"id_str": "1160242615838826503",
