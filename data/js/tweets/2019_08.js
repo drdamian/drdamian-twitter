@@ -1,6 +1,152 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 13 01:26:34 +0000 2019",
+		"id": 1161086610647261200,
+		"id_str": "1161086610647261189",
+		"full_text": "@MaureenDano @NCSSNetwork @digitalteacher I highly recommend following @Tolerance_org and @ZinnEdProject for starters",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MaureenDano",
+					"name": "Maureen Danovsky 📕",
+					"id": 36812578,
+					"id_str": "36812578",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "NCSSNetwork",
+					"name": "NCSS",
+					"id": 88029423,
+					"id_str": "88029423",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "digitalteacher",
+					"name": "Cheryl Davis",
+					"id": 7576162,
+					"id_str": "7576162",
+					"indices": [
+						26,
+						41
+					]
+				},
+				{
+					"screen_name": "Tolerance_org",
+					"name": "Teaching Tolerance",
+					"id": 69358848,
+					"id_str": "69358848",
+					"indices": [
+						71,
+						85
+					]
+				},
+				{
+					"screen_name": "ZinnEdProject",
+					"name": "Zinn Ed Project",
+					"id": 115463768,
+					"id_str": "115463768",
+					"indices": [
+						90,
+						104
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1160899354019991600,
+		"in_reply_to_status_id_str": "1160899354019991552",
+		"in_reply_to_user_id": 36812578,
+		"in_reply_to_user_id_str": "36812578",
+		"in_reply_to_screen_name": "MaureenDano",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224,
+			"friends_count": 1536,
+			"listed_count": 260,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2019,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MaureenDano @NCSSNetwork @digitalteacher I highly recommend following @Tolerance_org and @ZinnEdProject for starters"
+	},
+	{
 		"created_at": "Tue Aug 13 00:09:21 +0000 2019",
 		"id": 1161067179439198200,
 		"id_str": "1161067179439198209",
