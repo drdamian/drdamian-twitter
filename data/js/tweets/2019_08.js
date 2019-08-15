@@ -1,6 +1,501 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 14 14:35:02 +0000 2019",
+		"id": 1161647422776512500,
+		"id_str": "1161647422776512513",
+		"full_text": "My mistake; must have misheard the announcement.  Looking forward to next week then! https://t.co/364GOfYARn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/364GOfYARn",
+					"expanded_url": "https://twitter.com/MCostelloTT/status/1161644399333388288",
+					"display_url": "twitter.com/MCostelloTT/st…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3225,
+			"friends_count": 1539,
+			"listed_count": 260,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1161644399333388300,
+		"quoted_status_id_str": "1161644399333388288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/364GOfYARn",
+			"expanded": "https://twitter.com/MCostelloTT/status/1161644399333388288",
+			"display": "twitter.com/MCostelloTT/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 14 14:23:01 +0000 2019",
+			"id": 1161644399333388300,
+			"id_str": "1161644399333388288",
+			"full_text": "First full episode of Season 2 will be here next week!  Catch up on Season 1 now! @Tolerance_org @kateshuster https://t.co/ehKWPcXlAQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Tolerance_org",
+						"name": "Teaching Tolerance",
+						"id": 69358848,
+						"id_str": "69358848",
+						"indices": [
+							82,
+							96
+						]
+					},
+					{
+						"screen_name": "kateshuster",
+						"name": "Kate Shuster",
+						"id": 2285579869,
+						"id_str": "2285579869",
+						"indices": [
+							97,
+							109
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ehKWPcXlAQ",
+						"expanded_url": "https://twitter.com/_drdamian/status/1161447856592556032",
+						"display_url": "twitter.com/_drdamian/stat…",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 263857136,
+				"id_str": "263857136",
+				"name": "Maureen Costello",
+				"screen_name": "MCostelloTT",
+				"location": "Montgomery, Alabama",
+				"description": "Director of the award-winning Teaching Tolerance. New Yorker in the deep South. Continuing my quest to advocate and educate for a diverse democracy.",
+				"url": "http://t.co/xA5JOf9KUE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xA5JOf9KUE",
+								"expanded_url": "http://www.tolerance.org",
+								"display_url": "tolerance.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 872,
+				"friends_count": 174,
+				"listed_count": 13,
+				"created_at": "Thu Mar 10 21:45:31 +0000 2011",
+				"favourites_count": 473,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1327,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/925045013742080000/orA3NpRH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/925045013742080000/orA3NpRH_normal.jpg",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1161447856592556000,
+			"quoted_status_id_str": "1161447856592556032",
+			"quoted_status_permalink": {
+				"url": "https://t.co/ehKWPcXlAQ",
+				"expanded": "https://twitter.com/_drdamian/status/1161447856592556032",
+				"display": "twitter.com/_drdamian/stat…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My mistake; must have misheard the announcement.  Looking forward to next week then! https://t.co/364GOfYARn"
+	},
+	{
+		"created_at": "Wed Aug 14 02:31:13 +0000 2019",
+		"id": 1161465266058010600,
+		"id_str": "1161465266058010624",
+		"full_text": "@kateshuster @ProfJeffries @Tolerance_org @meredithlmccoy The teaser just popped up in my podcast app this evening.  Really looking forward to the new season!",
+		"truncated": false,
+		"display_text_range": [
+			58,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kateshuster",
+					"name": "Kate Shuster",
+					"id": 2285579869,
+					"id_str": "2285579869",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ProfJeffries",
+					"name": "Hasan Kwame Jeffries",
+					"id": 3337726865,
+					"id_str": "3337726865",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "Tolerance_org",
+					"name": "Teaching Tolerance",
+					"id": 69358848,
+					"id_str": "69358848",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "meredithlmccoy",
+					"name": "Meredith McCoy",
+					"id": 2822008231,
+					"id_str": "2822008231",
+					"indices": [
+						42,
+						57
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1161464717958897700,
+		"in_reply_to_status_id_str": "1161464717958897666",
+		"in_reply_to_user_id": 2285579869,
+		"in_reply_to_user_id_str": "2285579869",
+		"in_reply_to_screen_name": "kateshuster",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3225,
+			"friends_count": 1539,
+			"listed_count": 260,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kateshuster @ProfJeffries @Tolerance_org @meredithlmccoy The teaser just popped up in my podcast app this evening.  Really looking forward to the new season!"
+	},
+	{
+		"created_at": "Wed Aug 14 01:26:23 +0000 2019",
+		"id": 1161061559268806700,
+		"id_str": "1161448953382166528",
+		"full_text": "#sschat A5 Adichie made clear that single stories are easy to create/perpetuate when there are a dearth of stories, so lots of stories so important. BUT not in a “both sides-ist” kind of way - “sides” that promote hate shouldn’t hold equal weight! https://t.co/f3fJs33crB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sschat",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f3fJs33crB",
+					"expanded_url": "https://www.tolerance.org/magazine/the-danger-of-the-story-of-both-sides",
+					"display_url": "tolerance.org/magazine/the-d…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1161061497096663000,
+		"in_reply_to_status_id_str": "1161061497096663040",
+		"in_reply_to_user_id": 1097531188338552800,
+		"in_reply_to_user_id_str": "1097531188338552832",
+		"in_reply_to_screen_name": "DrMunaSaleh",
+		"user": {
+			"id": 1097531188338552800,
+			"id_str": "1097531188338552832",
+			"name": "Muna Saleh",
+			"screen_name": "DrMunaSaleh",
+			"location": "#Treaty6 #YEG",
+			"description": "Assistant Professor @CUEdmonton. Views all mine. I tweet about Education, politics, life, and have great Mom jokes. RTs/Follows ≠ endorsement #ally 🌈",
+			"url": "https://t.co/vrDqT2GfXS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vrDqT2GfXS",
+							"expanded_url": "http://demeterpress.org/books/stories-we-live-and-grow-by-retelling-our-experiences-as-muslim-mother",
+							"display_url": "demeterpress.org/books/stories-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1042,
+			"friends_count": 1084,
+			"listed_count": 3,
+			"created_at": "Mon Feb 18 16:20:01 +0000 2019",
+			"favourites_count": 13755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159595517069807617/HTXrGqRv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159595517069807617/HTXrGqRv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1097531188338552832/1550516367",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#sschat A5 Adichie made clear that single stories are easy to create/perpetuate when there are a dearth of stories, so lots of stories so important. BUT not in a “both sides-ist” kind of way - “sides” that promote hate shouldn’t hold equal weight! https://t.co/f3fJs33crB"
+	},
+	{
 		"created_at": "Tue Aug 13 01:26:34 +0000 2019",
 		"id": 1161086610647261200,
 		"id_str": "1161086610647261189",
