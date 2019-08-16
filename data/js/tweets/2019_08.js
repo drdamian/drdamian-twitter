@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Thu Aug 15 22:52:18 +0000 2019",
+		"id": 1162134950793158700,
+		"id_str": "1162134950793158656",
+		"full_text": "#MercerCountyLS folks: this book is bound to be essential reading for all working for equity in our districts.  I'm looking forward to digging into the audiobook next week!  If anyone is interested in doing a virtual/in-person book study, my DMs are open. #HowToBeAnAntiracist https://t.co/Qz7vF4q1m3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MercerCountyLS",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "HowToBeAnAntiracist",
+					"indices": [
+						256,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qz7vF4q1m3",
+					"expanded_url": "https://twitter.com/DrIbram/status/1161281676082917379",
+					"display_url": "twitter.com/DrIbram/status…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3225,
+			"friends_count": 1540,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1161281676082917400,
+		"quoted_status_id_str": "1161281676082917379",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Qz7vF4q1m3",
+			"expanded": "https://twitter.com/DrIbram/status/1161281676082917379",
+			"display": "twitter.com/DrIbram/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 13 14:21:41 +0000 2019",
+			"id": 1161281676082917400,
+			"id_str": "1161281676082917379",
+			"full_text": "What if in addition to receiving gifts on our birthdays, we gave gifts? We gave gifts to our loved ones, we gave gifts to the world. On this my birthday, I’m proud to say #HowToBeAnAntiracist is available wherever books are sold. https://t.co/lTwC5LggJK https://t.co/1O4bYthBkv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HowToBeAnAntiracist",
+						"indices": [
+							171,
+							191
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lTwC5LggJK",
+						"expanded_url": "https://www.ibramxkendi.com/how-to-be-an-antiracist-1",
+						"display_url": "ibramxkendi.com/how-to-be-an-a…",
+						"indices": [
+							230,
+							253
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1161281671758581800,
+						"id_str": "1161281671758581761",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/EB2zhxlXkAEBhJA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EB2zhxlXkAEBhJA.jpg",
+						"url": "https://t.co/1O4bYthBkv",
+						"display_url": "pic.twitter.com/1O4bYthBkv",
+						"expanded_url": "https://twitter.com/DrIbram/status/1161281676082917379/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1161281671758581800,
+						"id_str": "1161281671758581761",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/EB2zhxlXkAEBhJA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EB2zhxlXkAEBhJA.jpg",
+						"url": "https://t.co/1O4bYthBkv",
+						"display_url": "pic.twitter.com/1O4bYthBkv",
+						"expanded_url": "https://twitter.com/DrIbram/status/1161281676082917379/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 474154291,
+				"id_str": "474154291",
+				"name": "Ibram X. Kendi",
+				"screen_name": "DrIbram",
+				"location": "Washington, DC",
+				"description": "Prof @AmericanU. Dir @AntiracismCtr. Contributor @TheAtlantic. @NationalBook Award #StampedfromtheBeginning. #HowToBeAnAntiracist coming 8•13•19 @OneWorldLit.",
+				"url": "https://t.co/oX4pGzT82Q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oX4pGzT82Q",
+								"expanded_url": "http://ibramxkendi.com",
+								"display_url": "ibramxkendi.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 59068,
+				"friends_count": 900,
+				"listed_count": 698,
+				"created_at": "Wed Jan 25 18:12:41 +0000 2012",
+				"favourites_count": 10479,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8147,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/911210240187731969/gEonmNwX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/911210240187731969/gEonmNwX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/474154291/1556833869",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 249,
+			"favorite_count": 1349,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#MercerCountyLS folks: this book is bound to be essential reading for all working for equity in our districts.  I'm looking forward to digging into the audiobook next week!  If anyone is interested in doing a virtual/in-person book study, my DMs are open. #HowToBeAnAntiracist https://t.co/Qz7vF4q1m3"
+	},
+	{
 		"created_at": "Wed Aug 14 14:35:02 +0000 2019",
 		"id": 1161647422776512500,
 		"id_str": "1161647422776512513",
