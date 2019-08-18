@@ -1,6 +1,814 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 17 21:14:28 +0000 2019",
+		"id": 1162835107197141000,
+		"id_str": "1162835107197140992",
+		"full_text": "The longer WaPo article with more info is linked within the NYT article.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1162834258685288400,
+		"in_reply_to_status_id_str": "1162834258685288449",
+		"in_reply_to_user_id": 7887852,
+		"in_reply_to_user_id_str": "7887852",
+		"in_reply_to_screen_name": "_drdamian",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224,
+			"friends_count": 1539,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The longer WaPo article with more info is linked within the NYT article."
+	},
+	{
+		"created_at": "Sat Aug 17 21:11:06 +0000 2019",
+		"id": 1162834258685288400,
+		"id_str": "1162834258685288449",
+		"full_text": "Well, damn.  Today I learned. https://t.co/DwzZx2lTwW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DwzZx2lTwW",
+					"expanded_url": "https://twitter.com/BridgetMarie/status/1162435626949591040",
+					"display_url": "twitter.com/BridgetMarie/s…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224,
+			"friends_count": 1539,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1162435626949591000,
+		"quoted_status_id_str": "1162435626949591040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DwzZx2lTwW",
+			"expanded": "https://twitter.com/BridgetMarie/status/1162435626949591040",
+			"display": "twitter.com/BridgetMarie/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 16 18:47:05 +0000 2019",
+			"id": 1162435626949591000,
+			"id_str": "1162435626949591040",
+			"full_text": "we dont talk enough about how poet and professor nikki giovanni has a \"thug life\" tattoo and tried to prevent the Virginia Tech shooting by reporting the shooter when he was in one of her classes but nobody listened to her: https://t.co/ZZvNmnMO99 https://t.co/KOMzhmJSj2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZZvNmnMO99",
+						"expanded_url": "https://thelede.blogs.nytimes.com/2007/04/18/virginia-massacre-day-three/",
+						"display_url": "thelede.blogs.nytimes.com/2007/04/18/vir…",
+						"indices": [
+							224,
+							247
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1162435610617045000,
+						"id_str": "1162435610617044992",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/ECHNB20X4AAGVij.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECHNB20X4AAGVij.jpg",
+						"url": "https://t.co/KOMzhmJSj2",
+						"display_url": "pic.twitter.com/KOMzhmJSj2",
+						"expanded_url": "https://twitter.com/BridgetMarie/status/1162435626949591040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1046,
+								"h": 1076,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1046,
+								"h": 1076,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 661,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1162435610617045000,
+						"id_str": "1162435610617044992",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/ECHNB20X4AAGVij.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECHNB20X4AAGVij.jpg",
+						"url": "https://t.co/KOMzhmJSj2",
+						"display_url": "pic.twitter.com/KOMzhmJSj2",
+						"expanded_url": "https://twitter.com/BridgetMarie/status/1162435626949591040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1046,
+								"h": 1076,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1046,
+								"h": 1076,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 661,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15276654,
+				"id_str": "15276654",
+				"name": "Bridget Todd 💁🏿",
+				"screen_name": "BridgetMarie",
+				"location": "DC, NYC, Amtrak",
+				"description": "I make cool shit on the internet. Host @afropunk. Past lives: @MomStuffPodcast.  @HowardU, @PPact, @MSNBC. Fun to drink with. Rep: MHurwitz@wmeentertainment.com",
+				"url": "https://t.co/6J9UGAFk3l",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6J9UGAFk3l",
+								"expanded_url": "https://www.unbossedcreative.com/",
+								"display_url": "unbossedcreative.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15928,
+				"friends_count": 11771,
+				"listed_count": 296,
+				"created_at": "Mon Jun 30 05:51:42 +0000 2008",
+				"favourites_count": 36254,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17307,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1116390166569078784/DYU6SBBb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1116390166569078784/DYU6SBBb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15276654/1551381677",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "D3D2CF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2091,
+			"favorite_count": 7346,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well, damn.  Today I learned. https://t.co/DwzZx2lTwW"
+	},
+	{
+		"created_at": "Sat Aug 17 18:58:14 +0000 2019",
+		"id": 1162800822385807400,
+		"id_str": "1162800822385807363",
+		"full_text": "I am Mortimer Ichabod Marker years old. https://t.co/arbCFpde2p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/arbCFpde2p",
+					"expanded_url": "https://twitter.com/gunna_brooklyn/status/1162523585212243968",
+					"display_url": "twitter.com/gunna_brooklyn…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224,
+			"friends_count": 1539,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1162523585212244000,
+		"quoted_status_id_str": "1162523585212243968",
+		"quoted_status_permalink": {
+			"url": "https://t.co/arbCFpde2p",
+			"expanded": "https://twitter.com/gunna_brooklyn/status/1162523585212243968",
+			"display": "twitter.com/gunna_brooklyn…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 17 00:36:36 +0000 2019",
+			"id": 1162523585212244000,
+			"id_str": "1162523585212243968",
+			"full_text": "Without using numbers or typing the word, how old are you?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1048758407409410000,
+				"id_str": "1048758407409410048",
+				"name": "BrooklynGunna",
+				"screen_name": "gunna_brooklyn",
+				"location": "Brooklyn, NY",
+				"description": "Born n Raised Brooklyn NY\n🇺🇸Navy Veteran (8404)\nZombie Addict 🏹🗡\nSingle Gentleman's Club",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 674,
+				"friends_count": 1213,
+				"listed_count": 0,
+				"created_at": "Sun Oct 07 02:14:24 +0000 2018",
+				"favourites_count": 4734,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6339,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1144702223299076096/Ki_1T2wy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144702223299076096/Ki_1T2wy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1048758407409410048/1562429184",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 191,
+			"favorite_count": 1225,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am Mortimer Ichabod Marker years old. https://t.co/arbCFpde2p"
+	},
+	{
+		"created_at": "Sat Aug 17 13:53:27 +0000 2019",
+		"id": 1162398315318636500,
+		"id_str": "1162724120112619526",
+		"full_text": "I thought you would like to read the article that I wrote for @THR about Quentin Tarantino’s  film:  Once Upon a Time in Hollywood regarding the films portrayal of Bruce Lee\n\nhttps://t.co/DDMnR7wdIL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "THR",
+					"name": "Hollywood Reporter",
+					"id": 17446621,
+					"id_str": "17446621",
+					"indices": [
+						62,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DDMnR7wdIL",
+					"expanded_url": "http://bit.ly/2ZaF7Jc",
+					"display_url": "bit.ly/2ZaF7Jc",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37774152,
+			"id_str": "37774152",
+			"name": "Kareem Abdul-Jabbar",
+			"screen_name": "kaj33",
+			"location": "Los Angeles",
+			"description": "Official Twitter of NBA's All-Time Leading Scorer, NY Times best-selling author, Columnist - The Hollywood Reporter & The Guardian.  Book: Becoming Kareem",
+			"url": "https://t.co/glIzItD34E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/glIzItD34E",
+							"expanded_url": "http://bit.ly/2hXh09I",
+							"display_url": "bit.ly/2hXh09I",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2119576,
+			"friends_count": 371,
+			"listed_count": 8882,
+			"created_at": "Mon May 04 22:10:57 +0000 2009",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/866070713412734976/1jDARUsB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/866070713412734976/1jDARUsB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37774152/1545241972",
+			"profile_link_color": "5A00B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FAD70A",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2694,
+		"favorite_count": 7177,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I thought you would like to read the article that I wrote for @THR about Quentin Tarantino’s  film:  Once Upon a Time in Hollywood regarding the films portrayal of Bruce Lee\n\nhttps://t.co/DDMnR7wdIL"
+	},
+	{
+		"created_at": "Sat Aug 17 02:57:23 +0000 2019",
+		"id": 1162559017308295200,
+		"id_str": "1162559017308295176",
+		"full_text": "@amichetti Not sure if that was my /last/ visit there, but if it wasn't, it was pretty close to it. I don't go there anymore. I'm with you; unless it strikes a deeply personal chord I'm more likely to just 'uh-huh' or bury my face in my phone if I can.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amichetti",
+					"name": "Adrienne Michetti",
+					"id": 5646592,
+					"id_str": "5646592",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1162555828831842300,
+		"in_reply_to_status_id_str": "1162555828831842304",
+		"in_reply_to_user_id": 5646592,
+		"in_reply_to_user_id_str": "5646592",
+		"in_reply_to_screen_name": "amichetti",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224,
+			"friends_count": 1539,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2027,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@amichetti Not sure if that was my /last/ visit there, but if it wasn't, it was pretty close to it. I don't go there anymore. I'm with you; unless it strikes a deeply personal chord I'm more likely to just 'uh-huh' or bury my face in my phone if I can."
+	},
+	{
 		"created_at": "Fri Aug 16 02:29:27 +0000 2019",
 		"id": 1162189599118123000,
 		"id_str": "1162189599118123008",
