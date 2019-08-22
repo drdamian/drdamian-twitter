@@ -1,6 +1,852 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 21 15:12:50 +0000 2019",
+		"id": 1164193651880267800,
+		"id_str": "1164193651880267777",
+		"full_text": "Check the episode here: https://t.co/6H3vtpTpbf (Aug 21, 'All That Glisters Is Not Gold')",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6H3vtpTpbf",
+					"expanded_url": "https://www.npr.org/podcasts/510312/codeswitch",
+					"display_url": "npr.org/podcasts/51031…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1164193039524475000,
+		"in_reply_to_status_id_str": "1164193039524474880",
+		"in_reply_to_user_id": 7887852,
+		"in_reply_to_user_id_str": "7887852",
+		"in_reply_to_screen_name": "_drdamian",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3222,
+			"friends_count": 1534,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check the episode here: https://t.co/6H3vtpTpbf (Aug 21, 'All That Glisters Is Not Gold')"
+	},
+	{
+		"created_at": "Wed Aug 21 15:11:08 +0000 2019",
+		"id": 1164193222974984200,
+		"id_str": "1164193222974984192",
+		"full_text": "My earlier tweet erroneously listed the Teaching While White podcast as the source of the interview.  I listened to both on my morning commute and got them mixed up.  My bad.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1164193039524475000,
+		"in_reply_to_status_id_str": "1164193039524474880",
+		"in_reply_to_user_id": 7887852,
+		"in_reply_to_user_id_str": "7887852",
+		"in_reply_to_screen_name": "_drdamian",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3222,
+			"friends_count": 1534,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "My earlier tweet erroneously listed the Teaching While White podcast as the source of the interview.  I listened to both on my morning commute and got them mixed up.  My bad."
+	},
+	{
+		"created_at": "Wed Aug 21 15:10:24 +0000 2019",
+		"id": 1164193039524475000,
+		"id_str": "1164193039524474880",
+		"full_text": "Glad to learn about Dr. Ayanna Thompson's critical work on Shakespeare &amp; race via this week's episode of NPR Code Switch.  Just marked a bunch of her work as \"to read\" on Goodreads.  Can't seem to find her on Twitter but check out her bibliography here: https://t.co/pLln4E5IwH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pLln4E5IwH",
+					"expanded_url": "https://www.goodreads.com/search?q=ayanna+thompson",
+					"display_url": "goodreads.com/search?q=ayann…",
+					"indices": [
+						258,
+						281
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1164192649143828500,
+		"in_reply_to_status_id_str": "1164192649143828480",
+		"in_reply_to_user_id": 7887852,
+		"in_reply_to_user_id_str": "7887852",
+		"in_reply_to_screen_name": "_drdamian",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3222,
+			"friends_count": 1534,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Glad to learn about Dr. Ayanna Thompson's critical work on Shakespeare &amp; race via this week's episode of NPR Code Switch.  Just marked a bunch of her work as \"to read\" on Goodreads.  Can't seem to find her on Twitter but check out her bibliography here: https://t.co/pLln4E5IwH"
+	},
+	{
+		"created_at": "Wed Aug 21 15:08:51 +0000 2019",
+		"id": 1164192649143828500,
+		"id_str": "1164192649143828480",
+		"full_text": "Have to correct an earlier tweet:",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3222,
+			"friends_count": 1534,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Have to correct an earlier tweet:"
+	},
+	{
+		"created_at": "Wed Aug 21 15:08:08 +0000 2019",
+		"id": 1164192466213462000,
+		"id_str": "1164192466213462016",
+		"full_text": "@audhilly Yeah, that was more the gist of the comment - not a call for outright censorship, but more identifying that the plays are irredeemably marred by racism/misogyny/anti-Semitism.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "audhilly",
+					"name": "audhilly",
+					"id": 8069492,
+					"id_str": "8069492",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1164186449949921300,
+		"in_reply_to_status_id_str": "1164186449949921280",
+		"in_reply_to_user_id": 8069492,
+		"in_reply_to_user_id_str": "8069492",
+		"in_reply_to_screen_name": "audhilly",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3222,
+			"friends_count": 1534,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@audhilly Yeah, that was more the gist of the comment - not a call for outright censorship, but more identifying that the plays are irredeemably marred by racism/misogyny/anti-Semitism."
+	},
+	{
+		"created_at": "Wed Aug 21 14:34:41 +0000 2019",
+		"id": 1164184050719953000,
+		"id_str": "1164184050719952896",
+		"full_text": "@audhilly @TWW_podblog Othello was one of them.  Other two were Shrew and Merchant.",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "audhilly",
+					"name": "audhilly",
+					"id": 8069492,
+					"id_str": "8069492",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "TWW_podblog",
+					"name": "Teaching While White- Jenna",
+					"id": 854115848549785600,
+					"id_str": "854115848549785604",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1164183729763471400,
+		"in_reply_to_status_id_str": "1164183729763471360",
+		"in_reply_to_user_id": 8069492,
+		"in_reply_to_user_id_str": "8069492",
+		"in_reply_to_screen_name": "audhilly",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3222,
+			"friends_count": 1534,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@audhilly @TWW_podblog Othello was one of them.  Other two were Shrew and Merchant."
+	},
+	{
+		"created_at": "Wed Aug 21 14:31:16 +0000 2019",
+		"id": 1164183189453267000,
+		"id_str": "1164183189453266945",
+		"full_text": "@audhilly @TWW_podblog Any guesses before I tell you?  And I screwed up; it wasn't TWW I was listening to, it was Code Switch by NPR.",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "audhilly",
+					"name": "audhilly",
+					"id": 8069492,
+					"id_str": "8069492",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "TWW_podblog",
+					"name": "Teaching While White- Jenna",
+					"id": 854115848549785600,
+					"id_str": "854115848549785604",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1164178593477533700,
+		"in_reply_to_status_id_str": "1164178593477533696",
+		"in_reply_to_user_id": 8069492,
+		"in_reply_to_user_id_str": "8069492",
+		"in_reply_to_screen_name": "audhilly",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3222,
+			"friends_count": 1534,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@audhilly @TWW_podblog Any guesses before I tell you?  And I screwed up; it wasn't TWW I was listening to, it was Code Switch by NPR."
+	},
+	{
+		"created_at": "Wed Aug 21 14:02:16 +0000 2019",
+		"id": 1164175890483470300,
+		"id_str": "1164175890483470336",
+		"full_text": "@TWW_podblog One interesting bit from the interview was her list of 3 Shakespeare works she considered beyond redemption (my paraphrasing) and that should not be taught in schools.  Any guesses?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TWW_podblog",
+					"name": "Teaching While White- Jenna",
+					"id": 854115848549785600,
+					"id_str": "854115848549785604",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1164175062435582000,
+		"in_reply_to_status_id_str": "1164175062435581958",
+		"in_reply_to_user_id": 7887852,
+		"in_reply_to_user_id_str": "7887852",
+		"in_reply_to_screen_name": "_drdamian",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3222,
+			"friends_count": 1534,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TWW_podblog One interesting bit from the interview was her list of 3 Shakespeare works she considered beyond redemption (my paraphrasing) and that should not be taught in schools.  Any guesses?"
+	},
+	{
 		"created_at": "Tue Aug 20 12:52:21 +0000 2019",
 		"id": 1163795907835572200,
 		"id_str": "1163795907835572224",
