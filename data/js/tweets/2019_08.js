@@ -1,6 +1,468 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 26 12:20:29 +0000 2019",
+		"id": 1165962217566679000,
+		"id_str": "1165962217566679042",
+		"full_text": "cc @john_tees #LTPS https://t.co/ApN64DuBqB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						14,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "john_tees",
+					"name": "John Tees",
+					"id": 801118345,
+					"id_str": "801118345",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ApN64DuBqB",
+					"expanded_url": "https://twitter.com/CodeHS/status/1165961341858918400",
+					"display_url": "twitter.com/CodeHS/status/…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3226,
+			"friends_count": 1533,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1165961341858918400,
+		"quoted_status_id_str": "1165961341858918400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ApN64DuBqB",
+			"expanded": "https://twitter.com/CodeHS/status/1165961341858918400",
+			"display": "twitter.com/CodeHS/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 26 12:17:01 +0000 2019",
+			"id": 1165961341858918400,
+			"id_str": "1165961341858918400",
+			"full_text": "Frustrated by programming language shortcomings, Guido van Rossum created #Python. And now, Python continues to add new users faster than any other #programming language. #ReadWriteCode \n\nRead more via @TechRepublic --&gt; https://t.co/Spu33le4UE https://t.co/PWhHNhjcnU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				246
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Python",
+						"indices": [
+							74,
+							81
+						]
+					},
+					{
+						"text": "programming",
+						"indices": [
+							148,
+							160
+						]
+					},
+					{
+						"text": "ReadWriteCode",
+						"indices": [
+							171,
+							185
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TechRepublic",
+						"name": "TechRepublic",
+						"id": 6486602,
+						"id_str": "6486602",
+						"indices": [
+							202,
+							215
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Spu33le4UE",
+						"expanded_url": "https://buff.ly/2JvH9em",
+						"display_url": "buff.ly/2JvH9em",
+						"indices": [
+							223,
+							246
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1165961340579696600,
+						"id_str": "1165961340579696641",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/media/EC5TqWcXUAEaES9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EC5TqWcXUAEaES9.jpg",
+						"url": "https://t.co/PWhHNhjcnU",
+						"display_url": "pic.twitter.com/PWhHNhjcnU",
+						"expanded_url": "https://twitter.com/CodeHS/status/1165961341858918400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 770,
+								"h": 578,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 770,
+								"h": 578,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1165961340579696600,
+						"id_str": "1165961340579696641",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/media/EC5TqWcXUAEaES9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EC5TqWcXUAEaES9.jpg",
+						"url": "https://t.co/PWhHNhjcnU",
+						"display_url": "pic.twitter.com/PWhHNhjcnU",
+						"expanded_url": "https://twitter.com/CodeHS/status/1165961341858918400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 770,
+								"h": 578,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 770,
+								"h": 578,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 544016831,
+				"id_str": "544016831",
+				"name": "CodeHS",
+				"screen_name": "CodeHS",
+				"location": "San Francisco, CA",
+				"description": "Comprehensive platform for helping schools teach coding and CS. FREE 6-12 curriculum, PD, resources and software tools for teachers #ReadWriteCode #CSforAll",
+				"url": "https://t.co/etBhZ2cmFa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/etBhZ2cmFa",
+								"expanded_url": "http://codehs.com",
+								"display_url": "codehs.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5522,
+				"friends_count": 881,
+				"listed_count": 216,
+				"created_at": "Tue Apr 03 06:04:20 +0000 2012",
+				"favourites_count": 5805,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5362,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3390002725/93ab7351c9a6611b0a4be10a3c847dfd_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3390002725/93ab7351c9a6611b0a4be10a3c847dfd_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/544016831/1398973455",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "cc @john_tees #LTPS https://t.co/ApN64DuBqB"
+	},
+	{
+		"created_at": "Mon Aug 26 11:32:51 +0000 2019",
+		"id": 1165950229574803500,
+		"id_str": "1165950229574803457",
+		"full_text": "New Staff Orientation this week! #LTPS (@ Lawrence High School in Lawrenceville, NJ) https://t.co/o6kXbfWZCy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						33,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o6kXbfWZCy",
+					"expanded_url": "https://www.swarmapp.com/c/5hoxROMfS0y",
+					"display_url": "swarmapp.com/c/5hoxROMfS0y",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3226,
+			"friends_count": 1533,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2036,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32178,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New Staff Orientation this week! #LTPS (@ Lawrence High School in Lawrenceville, NJ) https://t.co/o6kXbfWZCy"
+	},
+	{
 		"created_at": "Sat Aug 24 15:28:22 +0000 2019",
 		"id": 1165284721087123500,
 		"id_str": "1165284721087123456",
