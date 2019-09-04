@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 03 22:50:55 +0000 2019",
+		"id": 1169019974792491000,
+		"id_str": "1169019974792491008",
+		"full_text": "My #YearsInEducation: 20 this year!\n\nHours slept last night: ~4ish https://t.co/kjiJjdB4NE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "YearsInEducation",
+					"indices": [
+						3,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kjiJjdB4NE",
+					"expanded_url": "https://twitter.com/ScottRRocco/status/1168838905514418176",
+					"display_url": "twitter.com/ScottRRocco/st…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3234,
+			"friends_count": 1537,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1168838905514418200,
+		"quoted_status_id_str": "1168838905514418176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kjiJjdB4NE",
+			"expanded": "https://twitter.com/ScottRRocco/status/1168838905514418176",
+			"display": "twitter.com/ScottRRocco/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 03 10:51:25 +0000 2019",
+			"id": 1168838905514418200,
+			"id_str": "1168838905514418176",
+			"full_text": "For all my PLN starting today, have a great day. \nThis is my 26th year in education and I still don’t sleep well the night before faculty and the night before students arrive. \n\nHow many years are you in education this year?\n\n#YearsInEducation https://t.co/59Z3AHPsF4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				243
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "YearsInEducation",
+						"indices": [
+							226,
+							243
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1168838899961147400,
+						"id_str": "1168838899961147392",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EDiMyWfXsAAxTM2.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EDiMyWfXsAAxTM2.jpg",
+						"url": "https://t.co/59Z3AHPsF4",
+						"display_url": "pic.twitter.com/59Z3AHPsF4",
+						"expanded_url": "https://twitter.com/ScottRRocco/status/1168838905514418176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 498,
+								"h": 248,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 248,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 248,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1168838899961147400,
+						"id_str": "1168838899961147392",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EDiMyWfXsAAxTM2.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EDiMyWfXsAAxTM2.jpg",
+						"url": "https://t.co/59Z3AHPsF4",
+						"display_url": "pic.twitter.com/59Z3AHPsF4",
+						"expanded_url": "https://twitter.com/ScottRRocco/status/1168838905514418176/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 498,
+								"h": 248,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 248,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 248,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								249,
+								124
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EDiMyWfXsAAxTM2.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 338650873,
+				"id_str": "338650873",
+				"name": "Scott Rocco, Ed.D.",
+				"screen_name": "ScottRRocco",
+				"location": "New Jersey",
+				"description": "Proud @WeAreHTSD Superintendent • #Satchat Co-Creator • NJEXCEL Instructor • @TCNJ Adjunct Prof • #140EduTips & #HackingGoogleEdu co-author •  NJASA President",
+				"url": "https://t.co/CBfOc7LdOR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CBfOc7LdOR",
+								"expanded_url": "http://evolvingeducators.wordpress.com",
+								"display_url": "evolvingeducators.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21565,
+				"friends_count": 5695,
+				"listed_count": 748,
+				"created_at": "Tue Jul 19 22:02:38 +0000 2011",
+				"favourites_count": 4624,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32481,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1129504057025015813/Whnz1cli_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129504057025015813/Whnz1cli_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/338650873/1552225996",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 55,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My #YearsInEducation: 20 this year!\n\nHours slept last night: ~4ish https://t.co/kjiJjdB4NE"
+	},
+	{
 		"created_at": "Tue Sep 03 01:13:01 +0000 2019",
 		"id": 1168693346937770000,
 		"id_str": "1168693346937769984",
