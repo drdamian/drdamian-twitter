@@ -1,6 +1,442 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Fri Sep 13 23:22:12 +0000 2019",
+		"id": 1172648906410168300,
+		"id_str": "1172651722914914307",
+		"full_text": "Let’s go Cardinals!!!! ⁦@LTPSAthletics⁩ ⁦@CardinalsLHS⁩ https://t.co/CGXMzhXSE8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTPSAthletics",
+					"name": "LTPS AD",
+					"id": 2845523504,
+					"id_str": "2845523504",
+					"indices": [
+						24,
+						38
+					]
+				},
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						41,
+						54
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172648895412940800,
+					"id_str": "1172648895412940800",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EEYV9RlXsAArTc7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEYV9RlXsAArTc7.jpg",
+					"url": "https://t.co/CGXMzhXSE8",
+					"display_url": "pic.twitter.com/CGXMzhXSE8",
+					"expanded_url": "https://twitter.com/cjwilliamsjr/status/1172648906410168320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172648895412940800,
+					"id_str": "1172648895412940800",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EEYV9RlXsAArTc7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEYV9RlXsAArTc7.jpg",
+					"url": "https://t.co/CGXMzhXSE8",
+					"display_url": "pic.twitter.com/CGXMzhXSE8",
+					"expanded_url": "https://twitter.com/cjwilliamsjr/status/1172648906410168320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1172648900513226800,
+					"id_str": "1172648900513226753",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EEYV9klX4AEvkmd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEYV9klX4AEvkmd.jpg",
+					"url": "https://t.co/CGXMzhXSE8",
+					"display_url": "pic.twitter.com/CGXMzhXSE8",
+					"expanded_url": "https://twitter.com/cjwilliamsjr/status/1172648906410168320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 465193444,
+			"id_str": "465193444",
+			"name": "Cliff Williams",
+			"screen_name": "cjwilliamsjr",
+			"location": "Central Jersey",
+			"description": "Father, Assistant Principal, Life Long Learner & Doctoral Student",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 252,
+			"friends_count": 245,
+			"listed_count": 6,
+			"created_at": "Mon Jan 16 02:31:15 +0000 2012",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103133924451065856/auSENG7C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103133924451065856/auSENG7C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/465193444/1499730508",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let’s go Cardinals!!!! ⁦@LTPSAthletics⁩ ⁦@CardinalsLHS⁩ https://t.co/CGXMzhXSE8"
+	},
+	{
+		"created_at": "Fri Sep 13 21:00:47 +0000 2019",
+		"id": 1172616135075934200,
+		"id_str": "1172616135075934209",
+		"full_text": "Go Cards! #LTPS https://t.co/EvuNNkrblA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						10,
+						15
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172616115677212700,
+					"id_str": "1172616115677212673",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EEX4JPjWsAEKgd1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEX4JPjWsAEKgd1.jpg",
+					"url": "https://t.co/EvuNNkrblA",
+					"display_url": "pic.twitter.com/EvuNNkrblA",
+					"expanded_url": "https://twitter.com/_drdamian/status/1172616135075934209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172616115677212700,
+					"id_str": "1172616115677212673",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EEX4JPjWsAEKgd1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEX4JPjWsAEKgd1.jpg",
+					"url": "https://t.co/EvuNNkrblA",
+					"display_url": "pic.twitter.com/EvuNNkrblA",
+					"expanded_url": "https://twitter.com/_drdamian/status/1172616135075934209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1172616126397845500,
+					"id_str": "1172616126397845504",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EEX4J3fWkAAEFDz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEX4J3fWkAAEFDz.jpg",
+					"url": "https://t.co/EvuNNkrblA",
+					"display_url": "pic.twitter.com/EvuNNkrblA",
+					"expanded_url": "https://twitter.com/_drdamian/status/1172616135075934209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3236,
+			"friends_count": 1541,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2066,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Go Cards! #LTPS https://t.co/EvuNNkrblA"
+	},
+	{
 		"created_at": "Thu Sep 12 23:54:32 +0000 2019",
 		"id": 1172297471877427200,
 		"id_str": "1172297471877427200",
