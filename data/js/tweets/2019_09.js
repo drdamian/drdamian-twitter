@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 15 19:06:44 +0000 2019",
+		"id": 1173305456409927700,
+		"id_str": "1173312209436454912",
+		"full_text": "Let me repeat myself for those is the back:\n\n\"Simulations can be productive tools for teaching, for certain things,” he said. “THEY'RE TERRIBLE FOR TEACHING TRAUMA.\"\n\nIndiana middle school cancels 'slave ship' role-play lesson after parents raise concerns https://t.co/Dgs3OJCDft",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dgs3OJCDft",
+					"expanded_url": "https://www.indystar.com/story/news/education/2019/09/09/indiana-westen-middle-school-howard-county-cancels-slave-ship-role-play-lesson/2234566001/",
+					"display_url": "indystar.com/story/news/edu…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3337726865,
+			"id_str": "3337726865",
+			"name": "Hasan Kwame Jeffries",
+			"screen_name": "ProfJeffries",
+			"location": "Columbus, OH",
+			"description": "Brooklyn. @Morehouse. Duke (not basketball, PhD). Author of #BloodyLowndes. Teacher at #tOSU. Host #TeachingHardHistory podcast. President @acluOhio Board. #BLM",
+			"url": "https://t.co/d72rGhaF42",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d72rGhaF42",
+							"expanded_url": "https://www.tolerance.org/podcasts/teaching-hard-history/american-slavery",
+							"display_url": "tolerance.org/podcasts/teach…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6680,
+			"friends_count": 1223,
+			"listed_count": 83,
+			"created_at": "Sat Jun 20 21:30:23 +0000 2015",
+			"favourites_count": 16269,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11556,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1010049645257678849/GMbbp-wD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010049645257678849/GMbbp-wD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3337726865/1559591812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let me repeat myself for those is the back:\n\n\"Simulations can be productive tools for teaching, for certain things,” he said. “THEY'RE TERRIBLE FOR TEACHING TRAUMA.\"\n\nIndiana middle school cancels 'slave ship' role-play lesson after parents raise concerns https://t.co/Dgs3OJCDft"
+	},
+	{
 		"created_at": "Sat Sep 14 13:15:25 +0000 2019",
 		"id": 1172861408670826500,
 		"id_str": "1172861408670826497",
