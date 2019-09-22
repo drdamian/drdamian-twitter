@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 21 13:40:57 +0000 2019",
+		"id": 1175397404939554800,
+		"id_str": "1175404550875996161",
+		"full_text": "Come support Lawrence High School DECA and Good Grief! All proceeds will be donated! #HereWeGo #NJDECAELECTRIC @_drdamian @FaykimL @cjwilliamsjr https://t.co/7VtnzE4jzT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HereWeGo",
+					"indices": [
+						85,
+						94
+					]
+				},
+				{
+					"text": "NJDECAELECTRIC",
+					"indices": [
+						95,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"screen_name": "FaykimL",
+					"name": "Fay Kim-Lopez",
+					"id": 1013578285773705200,
+					"id_str": "1013578285773705216",
+					"indices": [
+						122,
+						130
+					]
+				},
+				{
+					"screen_name": "cjwilliamsjr",
+					"name": "Cliff Williams",
+					"id": 465193444,
+					"id_str": "465193444",
+					"indices": [
+						131,
+						144
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7VtnzE4jzT",
+					"expanded_url": "https://twitter.com/schneckdiane/status/1175396027760861184",
+					"display_url": "twitter.com/schneckdiane/s…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 801118345,
+			"id_str": "801118345",
+			"name": "John Tees",
+			"screen_name": "john_tees",
+			"location": "",
+			"description": "High School Business teacher and Co-DECA Advisor in Lawrenceville, NJ. Solely my comments.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 97,
+			"friends_count": 111,
+			"listed_count": 1,
+			"created_at": "Mon Sep 03 20:03:32 +0000 2012",
+			"favourites_count": 195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103658353404850176/Asky8PI__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103658353404850176/Asky8PI__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1175396027760861200,
+		"quoted_status_id_str": "1175396027760861184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7VtnzE4jzT",
+			"expanded": "https://twitter.com/schneckdiane/status/1175396027760861184",
+			"display": "twitter.com/schneckdiane/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 21 13:07:05 +0000 2019",
+			"id": 1175396027760861200,
+			"id_str": "1175396027760861184",
+			"full_text": "LHS DECA Car Wash 9-12:30. All proceeds go to Good Grief; helping children who have lost loved ones. #LHS #LHSDECA #NJDECAELECTRIC #HereWeGo @LTPS1 @dadamltps @john_tees @DECAJeff https://t.co/EIlPJiQtP5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				179
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LHS",
+						"indices": [
+							101,
+							105
+						]
+					},
+					{
+						"text": "LHSDECA",
+						"indices": [
+							106,
+							114
+						]
+					},
+					{
+						"text": "NJDECAELECTRIC",
+						"indices": [
+							115,
+							130
+						]
+					},
+					{
+						"text": "HereWeGo",
+						"indices": [
+							131,
+							140
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LTPS1",
+						"name": "Lawrence Twp Schools",
+						"id": 2178717536,
+						"id_str": "2178717536",
+						"indices": [
+							141,
+							147
+						]
+					},
+					{
+						"screen_name": "dadamltps",
+						"name": "David Adam",
+						"id": 260753316,
+						"id_str": "260753316",
+						"indices": [
+							148,
+							158
+						]
+					},
+					{
+						"screen_name": "john_tees",
+						"name": "John Tees",
+						"id": 801118345,
+						"id_str": "801118345",
+						"indices": [
+							159,
+							169
+						]
+					},
+					{
+						"screen_name": "DECAJeff",
+						"name": "Dr. Jeff Victor",
+						"id": 2404969712,
+						"id_str": "2404969712",
+						"indices": [
+							170,
+							179
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1175396016528470000,
+						"id_str": "1175396016528470016",
+						"indices": [
+							180,
+							203
+						],
+						"media_url": "http://pbs.twimg.com/media/EE_YcxOWsAAsf8o.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EE_YcxOWsAAsf8o.jpg",
+						"url": "https://t.co/EIlPJiQtP5",
+						"display_url": "pic.twitter.com/EIlPJiQtP5",
+						"expanded_url": "https://twitter.com/SchneckDiane/status/1175396027760861184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1175396016528470000,
+						"id_str": "1175396016528470016",
+						"indices": [
+							180,
+							203
+						],
+						"media_url": "http://pbs.twimg.com/media/EE_YcxOWsAAsf8o.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EE_YcxOWsAAsf8o.jpg",
+						"url": "https://t.co/EIlPJiQtP5",
+						"display_url": "pic.twitter.com/EIlPJiQtP5",
+						"expanded_url": "https://twitter.com/SchneckDiane/status/1175396027760861184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4901883603,
+				"id_str": "4901883603",
+				"name": "Diane Schneck",
+				"screen_name": "SchneckDiane",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 108,
+				"friends_count": 32,
+				"listed_count": 1,
+				"created_at": "Fri Feb 12 17:26:36 +0000 2016",
+				"favourites_count": 580,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 588,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come support Lawrence High School DECA and Good Grief! All proceeds will be donated! #HereWeGo #NJDECAELECTRIC @_drdamian @FaykimL @cjwilliamsjr https://t.co/7VtnzE4jzT"
+	},
+	{
 		"created_at": "Fri Sep 20 23:18:09 +0000 2019",
 		"id": 1175187418275881000,
 		"id_str": "1175187418275880960",
