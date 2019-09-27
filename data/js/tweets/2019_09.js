@@ -1,6 +1,427 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 26 23:09:50 +0000 2019",
+		"id": 1177359653224796200,
+		"id_str": "1177359653224796160",
+		"full_text": "My first Back-To-School Night as an assistant principal #LTPS (@ Lawrence High School in Lawrenceville, NJ) https://t.co/6mmgrpiphk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						56,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6mmgrpiphk",
+					"expanded_url": "https://www.swarmapp.com/c/2kmesZQA62H",
+					"display_url": "swarmapp.com/c/2kmesZQA62H",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3233,
+			"friends_count": 1542,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My first Back-To-School Night as an assistant principal #LTPS (@ Lawrence High School in Lawrenceville, NJ) https://t.co/6mmgrpiphk"
+	},
+	{
+		"created_at": "Thu Sep 26 15:47:38 +0000 2019",
+		"id": 1177022936718487600,
+		"id_str": "1177248371918147584",
+		"full_text": "Amazing win tonight! 6-0 over Hopewell! #keyteamofthegame #proud https://t.co/pLNxdeutGL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "keyteamofthegame",
+					"indices": [
+						40,
+						57
+					]
+				},
+				{
+					"text": "proud",
+					"indices": [
+						58,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pLNxdeutGL",
+					"expanded_url": "https://twitter.com/ltpsathletics/status/1176998398806908928",
+					"display_url": "twitter.com/ltpsathletics/…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3431361843,
+			"id_str": "3431361843",
+			"name": "LHS Field Hockey",
+			"screen_name": "cardsfh",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 153,
+			"friends_count": 161,
+			"listed_count": 1,
+			"created_at": "Wed Aug 19 12:04:45 +0000 2015",
+			"favourites_count": 272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/778185140392620033/2blyUzDA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/778185140392620033/2blyUzDA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3431361843/1540382447",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1176998398806909000,
+		"quoted_status_id_str": "1176998398806908928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pLNxdeutGL",
+			"expanded": "https://twitter.com/ltpsathletics/status/1176998398806908928",
+			"display": "twitter.com/ltpsathletics/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 25 23:14:20 +0000 2019",
+			"id": 1176998398806909000,
+			"id_str": "1176998398806908928",
+			"full_text": "Big win for the Lady Cards field hockey team vs Hopewell Valley this evening!!! #cardinalpride @cardsfh https://t.co/4lLsHQsfdF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				103
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "cardinalpride",
+						"indices": [
+							80,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "cardsfh",
+						"name": "LHS Field Hockey",
+						"id": 3431361843,
+						"id_str": "3431361843",
+						"indices": [
+							95,
+							103
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1176998382927327200,
+						"id_str": "1176998382927327232",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/EFWJyxOXsAAnvA_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFWJyxOXsAAnvA_.jpg",
+						"url": "https://t.co/4lLsHQsfdF",
+						"display_url": "pic.twitter.com/4lLsHQsfdF",
+						"expanded_url": "https://twitter.com/LTPSAthletics/status/1176998398806908928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1176998382927327200,
+						"id_str": "1176998382927327232",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/EFWJyxOXsAAnvA_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFWJyxOXsAAnvA_.jpg",
+						"url": "https://t.co/4lLsHQsfdF",
+						"display_url": "pic.twitter.com/4lLsHQsfdF",
+						"expanded_url": "https://twitter.com/LTPSAthletics/status/1176998398806908928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2845523504,
+				"id_str": "2845523504",
+				"name": "LTPS AD",
+				"screen_name": "LTPSAthletics",
+				"location": "Lawrenceville, NJ",
+				"description": "Home of the Lawrence Cardinals - Official Site for the LTPS Athletic Department",
+				"url": "https://t.co/KETOW12XgE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KETOW12XgE",
+								"expanded_url": "http://www.ltps.org",
+								"display_url": "ltps.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 754,
+				"friends_count": 291,
+				"listed_count": 10,
+				"created_at": "Wed Oct 08 01:11:54 +0000 2014",
+				"favourites_count": 2557,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2545,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/773867953204977664/fcpjI0Mg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/773867953204977664/fcpjI0Mg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2845523504/1487948361",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amazing win tonight! 6-0 over Hopewell! #keyteamofthegame #proud https://t.co/pLNxdeutGL"
+	},
+	{
 		"created_at": "Wed Sep 25 18:29:57 +0000 2019",
 		"id": 1176685828829061000,
 		"id_str": "1176926832257622016",
