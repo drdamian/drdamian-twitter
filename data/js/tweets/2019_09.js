@@ -1,6 +1,978 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 28 18:18:51 +0000 2019",
+		"id": 1177547793717760000,
+		"id_str": "1178011199524544512",
+		"full_text": "Y’all, let’s really chill out on “Privilege Walk” activities until we actually understand what we’re doing - reflect enough to be sure that we’re not doing violence to our already marginalized students... a lot of our “breakthroughs” are just trauma - hurting kids isn’t our job.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2602023644,
+			"id_str": "2602023644",
+			"name": "Matthew Kay",
+			"screen_name": "MattRKay",
+			"location": "Philadelphia",
+			"description": "Educator, Author of Not Light, but Fire, Columnist for Educational Leadership Magazine, Founder and Executive Director of the Philly Slam League.",
+			"url": "https://t.co/ObJHrBQAx1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ObJHrBQAx1",
+							"expanded_url": "http://www.phillyslamleague.org",
+							"display_url": "phillyslamleague.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2673,
+			"friends_count": 813,
+			"listed_count": 32,
+			"created_at": "Thu Jul 03 17:50:21 +0000 2014",
+			"favourites_count": 2786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054150770315137024/FyJfyEa5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054150770315137024/FyJfyEa5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2602023644/1534016831",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 476,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Y’all, let’s really chill out on “Privilege Walk” activities until we actually understand what we’re doing - reflect enough to be sure that we’re not doing violence to our already marginalized students... a lot of our “breakthroughs” are just trauma - hurting kids isn’t our job."
+	},
+	{
+		"created_at": "Sat Sep 28 18:17:42 +0000 2019",
+		"id": 1178010911367409700,
+		"id_str": "1178010911367409664",
+		"full_text": "@laflammemusic @LISHealthOffice There are downloadable forms on his website for some of the resources he references in the book - check them out! #LTPSchat",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			155
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPSchat",
+					"indices": [
+						146,
+						155
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laflammemusic",
+					"name": "ColleenLaFlammeMUSIC",
+					"id": 622417762,
+					"id_str": "622417762",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "LISHealthOffice",
+					"name": "LIS_Health_Office",
+					"id": 878254091289452500,
+					"id_str": "878254091289452544",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1173571233826377700,
+		"in_reply_to_status_id_str": "1173571233826377728",
+		"in_reply_to_user_id": 622417762,
+		"in_reply_to_user_id_str": "622417762",
+		"in_reply_to_screen_name": "laflammemusic",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3235,
+			"friends_count": 1542,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@laflammemusic @LISHealthOffice There are downloadable forms on his website for some of the resources he references in the book - check them out! #LTPSchat"
+	},
+	{
+		"created_at": "Sat Sep 28 18:14:51 +0000 2019",
+		"id": 1178010195177459700,
+		"id_str": "1178010195177459712",
+		"full_text": "@laflammemusic As far as fiction/non-edu reads go, I started Umberto Eco's 'The Name of the Rose' in the summer and got about halfway through it before back-to-school season punched me square in the face.  It's a big one; I hope to plow through the back half by New Year. #LTPSchat",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPSchat",
+					"indices": [
+						272,
+						281
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laflammemusic",
+					"name": "ColleenLaFlammeMUSIC",
+					"id": 622417762,
+					"id_str": "622417762",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1173537006812635100,
+		"in_reply_to_status_id_str": "1173537006812635136",
+		"in_reply_to_user_id": 622417762,
+		"in_reply_to_user_id_str": "622417762",
+		"in_reply_to_screen_name": "laflammemusic",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3235,
+			"friends_count": 1542,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@laflammemusic As far as fiction/non-edu reads go, I started Umberto Eco's 'The Name of the Rose' in the summer and got about halfway through it before back-to-school season punched me square in the face.  It's a big one; I hope to plow through the back half by New Year. #LTPSchat"
+	},
+	{
+		"created_at": "Sat Sep 28 18:11:07 +0000 2019",
+		"id": 1178009253753364500,
+		"id_str": "1178009253753364480",
+		"full_text": "@LISHealthOffice @laflammemusic I just noticed you mentioned Bettina Love as well. I read her book earlier this year as well.",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LISHealthOffice",
+					"name": "LIS_Health_Office",
+					"id": 878254091289452500,
+					"id_str": "878254091289452544",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "laflammemusic",
+					"name": "ColleenLaFlammeMUSIC",
+					"id": 622417762,
+					"id_str": "622417762",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1173569609687064600,
+		"in_reply_to_status_id_str": "1173569609687064577",
+		"in_reply_to_user_id": 878254091289452500,
+		"in_reply_to_user_id_str": "878254091289452544",
+		"in_reply_to_screen_name": "LISHealthOffice",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3235,
+			"friends_count": 1542,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LISHealthOffice @laflammemusic I just noticed you mentioned Bettina Love as well. I read her book earlier this year as well."
+	},
+	{
+		"created_at": "Sat Sep 28 11:56:36 +0000 2019",
+		"id": 1177915003548160000,
+		"id_str": "1177915003548160000",
+		"full_text": "@elissamalespina https://t.co/oXsffYF2vA",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elissamalespina",
+					"name": "Elissa Malespina",
+					"id": 367199600,
+					"id_str": "367199600",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1177915001857888300,
+					"id_str": "1177915001857888256",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EFjLdA1X0AAHM2L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFjLdA1X0AAHM2L.jpg",
+					"url": "https://t.co/oXsffYF2vA",
+					"display_url": "pic.twitter.com/oXsffYF2vA",
+					"expanded_url": "https://twitter.com/_drdamian/status/1177915003548160000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 296,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 296,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 296,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1177915001857888300,
+					"id_str": "1177915001857888256",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/EFjLdA1X0AAHM2L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EFjLdA1X0AAHM2L.jpg",
+					"url": "https://t.co/oXsffYF2vA",
+					"display_url": "pic.twitter.com/oXsffYF2vA",
+					"expanded_url": "https://twitter.com/_drdamian/status/1177915003548160000/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 296,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 296,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 296,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1177912174234218500,
+		"in_reply_to_status_id_str": "1177912174234218497",
+		"in_reply_to_user_id": 367199600,
+		"in_reply_to_user_id_str": "367199600",
+		"in_reply_to_screen_name": "elissamalespina",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3235,
+			"friends_count": 1542,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@elissamalespina https://t.co/oXsffYF2vA"
+	},
+	{
+		"created_at": "Sat Sep 28 02:38:01 +0000 2019",
+		"id": 1177774434112999400,
+		"id_str": "1177774434112999425",
+		"full_text": "@MrsClineELA But on a serious note, it breaks my heart that a student felt the need to clarify that he/she does not \"hate everyone\" specifically because he/she is Muslim.  I wonder if any students noticed that sentiment, sat with it, and reflected on its implications. Or have felt similarly.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			292
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrsClineELA",
+					"name": "Jen Cline",
+					"id": 609589340,
+					"id_str": "609589340",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1177705949982789600,
+		"in_reply_to_status_id_str": "1177705949982789632",
+		"in_reply_to_user_id": 609589340,
+		"in_reply_to_user_id_str": "609589340",
+		"in_reply_to_screen_name": "MrsClineELA",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3235,
+			"friends_count": 1542,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MrsClineELA But on a serious note, it breaks my heart that a student felt the need to clarify that he/she does not \"hate everyone\" specifically because he/she is Muslim.  I wonder if any students noticed that sentiment, sat with it, and reflected on its implications. Or have felt similarly."
+	},
+	{
+		"created_at": "Sat Sep 28 02:03:32 +0000 2019",
+		"id": 1177765753849823200,
+		"id_str": "1177765753849823233",
+		"full_text": "@MrsClineELA \"I am tall but I don't play basketball\" hit me right in the feels - I'm 6'2\" and useless on the court!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrsClineELA",
+					"name": "Jen Cline",
+					"id": 609589340,
+					"id_str": "609589340",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1177705949982789600,
+		"in_reply_to_status_id_str": "1177705949982789632",
+		"in_reply_to_user_id": 609589340,
+		"in_reply_to_user_id_str": "609589340",
+		"in_reply_to_screen_name": "MrsClineELA",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3235,
+			"friends_count": 1542,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MrsClineELA \"I am tall but I don't play basketball\" hit me right in the feels - I'm 6'2\" and useless on the court!"
+	},
+	{
+		"created_at": "Sat Sep 28 01:35:19 +0000 2019",
+		"id": 1177758653383876600,
+		"id_str": "1177758653383876608",
+		"full_text": "@davezirk @TheExSPIERience @XposdPhraud_too My bad, you already noted that upthread. Sorry, I saw the transcript image and just focused on that.",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davezirk",
+					"name": "Dave Zirkle",
+					"id": 58459037,
+					"id_str": "58459037",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "TheExSPIERience",
+					"name": "Sherry Spier",
+					"id": 456157174,
+					"id_str": "456157174",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"screen_name": "XposdPhraud_too",
+					"name": "🔍 𝚡𝙿𝚘𝚜𝚍 𝙿𝙷𝚁𝙰𝚄𝙳, 𝙱.𝚂. 🔎",
+					"id": 1005919918469140500,
+					"id_str": "1005919918469140481",
+					"indices": [
+						27,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1177757651570233300,
+		"in_reply_to_status_id_str": "1177757651570233344",
+		"in_reply_to_user_id": 7887852,
+		"in_reply_to_user_id_str": "7887852",
+		"in_reply_to_screen_name": "_drdamian",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3235,
+			"friends_count": 1542,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2080,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@davezirk @TheExSPIERience @XposdPhraud_too My bad, you already noted that upthread. Sorry, I saw the transcript image and just focused on that."
+	},
+	{
 		"created_at": "Fri Sep 27 20:20:24 +0000 2019",
 		"id": 1177679403100311600,
 		"id_str": "1177679403100311558",
