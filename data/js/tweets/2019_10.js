@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Tue Oct 08 01:02:25 +0000 2019",
+		"id": 1181374252748030000,
+		"id_str": "1181374252748029952",
+		"full_text": "@MrsCasieri @mhayes611 @msafischer @PrincipalToohey @MissRelloLIS You should totally go.  I've been a few times and have always found it a valuable learning experience! https://t.co/k4cGEFfGKI",
+		"truncated": false,
+		"display_text_range": [
+			66,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrsCasieri",
+					"name": "Mrs. Casieri",
+					"id": 830254922,
+					"id_str": "830254922",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "mhayes611",
+					"name": "Maureen Hayes",
+					"id": 47032216,
+					"id_str": "47032216",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "msafischer",
+					"name": "Alyson Fischer",
+					"id": 720423019,
+					"id_str": "720423019",
+					"indices": [
+						23,
+						34
+					]
+				},
+				{
+					"screen_name": "PrincipalToohey",
+					"name": "Tom Toohey, Ed.D.",
+					"id": 2853448227,
+					"id_str": "2853448227",
+					"indices": [
+						35,
+						51
+					]
+				},
+				{
+					"screen_name": "MissRelloLIS",
+					"name": "Sharin Rello",
+					"id": 2586002424,
+					"id_str": "2586002424",
+					"indices": [
+						52,
+						65
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1181374244653015000,
+					"id_str": "1181374244653015040",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EGUVncdWoAAlZ1N.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGUVncdWoAAlZ1N.jpg",
+					"url": "https://t.co/k4cGEFfGKI",
+					"display_url": "pic.twitter.com/k4cGEFfGKI",
+					"expanded_url": "https://twitter.com/_drdamian/status/1181374252748029952/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 298,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 298,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 298,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1181374244653015000,
+					"id_str": "1181374244653015040",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EGUVncdWoAAlZ1N.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EGUVncdWoAAlZ1N.jpg",
+					"url": "https://t.co/k4cGEFfGKI",
+					"display_url": "pic.twitter.com/k4cGEFfGKI",
+					"expanded_url": "https://twitter.com/_drdamian/status/1181374252748029952/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 300,
+							"h": 298,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 298,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 298,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							150,
+							149
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EGUVncdWoAAlZ1N.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1181371348611948500,
+		"in_reply_to_status_id_str": "1181371348611948545",
+		"in_reply_to_user_id": 830254922,
+		"in_reply_to_user_id_str": "830254922",
+		"in_reply_to_screen_name": "MrsCasieri",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3238,
+			"friends_count": 1546,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@MrsCasieri @mhayes611 @msafischer @PrincipalToohey @MissRelloLIS You should totally go.  I've been a few times and have always found it a valuable learning experience! https://t.co/k4cGEFfGKI"
+	},
+	{
+		"created_at": "Mon Oct 07 22:15:14 +0000 2019",
+		"id": 1181332178480828400,
+		"id_str": "1181332178480828416",
+		"full_text": "@laflammemusic My wife and I act as sounding boards and advisors for each other.  It helps that she is a teacher so we both have a fairly common frame of reference while also having different perspectives based on our different professional experiences. #ltpschat",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ltpschat",
+					"indices": [
+						254,
+						263
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laflammemusic",
+					"name": "ColleenLaFlammeMUSIC",
+					"id": 622417762,
+					"id_str": "622417762",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1180086664368132000,
+		"in_reply_to_status_id_str": "1180086664368132096",
+		"in_reply_to_user_id": 622417762,
+		"in_reply_to_user_id_str": "622417762",
+		"in_reply_to_screen_name": "laflammemusic",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3238,
+			"friends_count": 1546,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@laflammemusic My wife and I act as sounding boards and advisors for each other.  It helps that she is a teacher so we both have a fairly common frame of reference while also having different perspectives based on our different professional experiences. #ltpschat"
+	},
+	{
 		"created_at": "Sat Oct 05 12:40:49 +0000 2019",
 		"id": 1180462847622553600,
 		"id_str": "1180462847622553600",
