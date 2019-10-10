@@ -1,6 +1,495 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 10 00:14:31 +0000 2019",
+		"id": 1182086973189771300,
+		"id_str": "1182086973189771264",
+		"full_text": "Congratulations @ArtroomLes and @carneystudios! #LTPS https://t.co/pND1O4Wc4q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						48,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ArtroomLes",
+					"name": "Maria Raimondo",
+					"id": 3165331253,
+					"id_str": "3165331253",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "carneystudios",
+					"name": "Carneystudios",
+					"id": 4808156895,
+					"id_str": "4808156895",
+					"indices": [
+						32,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pND1O4Wc4q",
+					"expanded_url": "https://twitter.com/YPanasowich/status/1182079396368310272",
+					"display_url": "twitter.com/YPanasowich/st…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3237,
+			"friends_count": 1547,
+			"listed_count": 259,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111809974143987713/-kZ7O0zJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1182079396368310300,
+		"quoted_status_id_str": "1182079396368310272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pND1O4Wc4q",
+			"expanded": "https://twitter.com/YPanasowich/status/1182079396368310272",
+			"display": "twitter.com/YPanasowich/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 09 23:44:24 +0000 2019",
+			"id": 1182079396368310300,
+			"id_str": "1182079396368310272",
+			"full_text": "Attended the Hamilton Arts opening tonight to see @ArtroomLes n @LHSArtRoom art @LTPS1 #CardinalPride #ProudSupervisor https://t.co/SGVqISZ7fc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CardinalPride",
+						"indices": [
+							87,
+							101
+						]
+					},
+					{
+						"text": "ProudSupervisor",
+						"indices": [
+							102,
+							118
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ArtroomLes",
+						"name": "Maria Raimondo",
+						"id": 3165331253,
+						"id_str": "3165331253",
+						"indices": [
+							50,
+							61
+						]
+					},
+					{
+						"screen_name": "LHSArtRoom",
+						"name": "LHS Art",
+						"id": 789493821428097000,
+						"id_str": "789493821428097024",
+						"indices": [
+							64,
+							75
+						]
+					},
+					{
+						"screen_name": "LTPS1",
+						"name": "Lawrence Twp Schools",
+						"id": 2178717536,
+						"id_str": "2178717536",
+						"indices": [
+							80,
+							86
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1182079387719655400,
+						"id_str": "1182079387719655426",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/EGeW8LFXYAI0jeq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGeW8LFXYAI0jeq.jpg",
+						"url": "https://t.co/SGVqISZ7fc",
+						"display_url": "pic.twitter.com/SGVqISZ7fc",
+						"expanded_url": "https://twitter.com/YPanasowich/status/1182079396368310272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1182079387719655400,
+						"id_str": "1182079387719655426",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/EGeW8LFXYAI0jeq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGeW8LFXYAI0jeq.jpg",
+						"url": "https://t.co/SGVqISZ7fc",
+						"display_url": "pic.twitter.com/SGVqISZ7fc",
+						"expanded_url": "https://twitter.com/YPanasowich/status/1182079396368310272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1182079387727999000,
+						"id_str": "1182079387727998977",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/EGeW8LHWsAEAKN7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGeW8LHWsAEAKN7.jpg",
+						"url": "https://t.co/SGVqISZ7fc",
+						"display_url": "pic.twitter.com/SGVqISZ7fc",
+						"expanded_url": "https://twitter.com/YPanasowich/status/1182079396368310272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1182079387727990800,
+						"id_str": "1182079387727990786",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/EGeW8LHWkAIjS02.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGeW8LHWkAIjS02.jpg",
+						"url": "https://t.co/SGVqISZ7fc",
+						"display_url": "pic.twitter.com/SGVqISZ7fc",
+						"expanded_url": "https://twitter.com/YPanasowich/status/1182079396368310272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1182079387979714600,
+						"id_str": "1182079387979714567",
+						"indices": [
+							119,
+							142
+						],
+						"media_url": "http://pbs.twimg.com/media/EGeW8MDXkAceS2Y.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGeW8MDXkAceS2Y.jpg",
+						"url": "https://t.co/SGVqISZ7fc",
+						"display_url": "pic.twitter.com/SGVqISZ7fc",
+						"expanded_url": "https://twitter.com/YPanasowich/status/1182079396368310272/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 260752291,
+				"id_str": "260752291",
+				"name": "Yvette Panasowich",
+				"screen_name": "YPanasowich",
+				"location": "New Jersey",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 366,
+				"friends_count": 401,
+				"listed_count": 20,
+				"created_at": "Fri Mar 04 14:37:39 +0000 2011",
+				"favourites_count": 1532,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1070,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1167261714800398336/hisjsTs1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167261714800398336/hisjsTs1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/260752291/1552237967",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "006939a81b21bc06",
+				"url": "https://api.twitter.com/1.1/geo/id/006939a81b21bc06.json",
+				"place_type": "city",
+				"name": "Robbinsville",
+				"full_name": "Robbinsville, NJ",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.655279,
+								40.1916656
+							],
+							[
+								-74.5688284,
+								40.1916656
+							],
+							[
+								-74.5688284,
+								40.2574346
+							],
+							[
+								-74.655279,
+								40.2574346
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations @ArtroomLes and @carneystudios! #LTPS https://t.co/pND1O4Wc4q"
+	},
+	{
 		"created_at": "Wed Oct 09 01:07:28 +0000 2019",
 		"id": 1181737910233632800,
 		"id_str": "1181737910233632768",
