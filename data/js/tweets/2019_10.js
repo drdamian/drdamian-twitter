@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 14 15:13:36 +0000 2019",
+		"id": 1183758462146273300,
+		"id_str": "1183762789459996673",
+		"full_text": "A huge shout to @bbb_bri12 and @joelle20d for educating @LMSNation  teachers on implementing Financial Literacy in their classrooms today! #LHSDECA #NJDECA #NJDECAElectric @SchneckDiane @dadamltps @_drdamian https://t.co/FgCRxIrAV3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LHSDECA",
+					"indices": [
+						139,
+						147
+					]
+				},
+				{
+					"text": "NJDECA",
+					"indices": [
+						148,
+						155
+					]
+				},
+				{
+					"text": "NJDECAElectric",
+					"indices": [
+						156,
+						171
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bbb_bri12",
+					"name": "Bri",
+					"id": 971526153398882300,
+					"id_str": "971526153398882304",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "joelle20d",
+					"name": "Joelle",
+					"id": 845096950068400100,
+					"id_str": "845096950068400129",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"screen_name": "LMSNation",
+					"name": "LMS Nation",
+					"id": 309632193,
+					"id_str": "309632193",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"screen_name": "SchneckDiane",
+					"name": "Diane Schneck",
+					"id": 4901883603,
+					"id_str": "4901883603",
+					"indices": [
+						172,
+						185
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						186,
+						196
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Boo-riexca 🎃👻🌛",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						197,
+						207
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1183758425630617600,
+					"id_str": "1183758425630617600",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EG2OBCuWsAA5rFZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG2OBCuWsAA5rFZ.jpg",
+					"url": "https://t.co/FgCRxIrAV3",
+					"display_url": "pic.twitter.com/FgCRxIrAV3",
+					"expanded_url": "https://twitter.com/john_tees/status/1183758462146273280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1183758425630617600,
+					"id_str": "1183758425630617600",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EG2OBCuWsAA5rFZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG2OBCuWsAA5rFZ.jpg",
+					"url": "https://t.co/FgCRxIrAV3",
+					"display_url": "pic.twitter.com/FgCRxIrAV3",
+					"expanded_url": "https://twitter.com/john_tees/status/1183758462146273280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 801118345,
+			"id_str": "801118345",
+			"name": "John Tees",
+			"screen_name": "john_tees",
+			"location": "",
+			"description": "High School Business Educator and Co-DECA Advisor in Lawrenceville, NJ. Solely my comments.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105,
+			"friends_count": 114,
+			"listed_count": 0,
+			"created_at": "Mon Sep 03 20:03:32 +0000 2012",
+			"favourites_count": 227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 91,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103658353404850176/Asky8PI__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103658353404850176/Asky8PI__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A huge shout to @bbb_bri12 and @joelle20d for educating @LMSNation  teachers on implementing Financial Literacy in their classrooms today! #LHSDECA #NJDECA #NJDECAElectric @SchneckDiane @dadamltps @_drdamian https://t.co/FgCRxIrAV3"
+	},
+	{
 		"created_at": "Mon Oct 14 00:23:49 +0000 2019",
 		"id": 1183538867426775000,
 		"id_str": "1183538867426775040",
