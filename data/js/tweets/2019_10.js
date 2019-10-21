@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 20 02:55:44 +0000 2019",
+		"id": 1185751424216506400,
+		"id_str": "1185751424216506371",
+		"full_text": "@mgcjusa @monlee1029 @Glennr1809 @RACzyz @rkiker @TheBradCurrie @ScottRRocco @karentravers @Principal_H @snydesn2 They've been in Perkasie for ages; I've been evicting then from my garage.",
+		"truncated": false,
+		"display_text_range": [
+			114,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mgcjusa",
+					"name": "Michael G Curran Jr",
+					"id": 21947812,
+					"id_str": "21947812",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "monlee1029",
+					"name": "Monica Lee",
+					"id": 488838458,
+					"id_str": "488838458",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "Glennr1809",
+					"name": "Glenn Robbins",
+					"id": 153925839,
+					"id_str": "153925839",
+					"indices": [
+						21,
+						32
+					]
+				},
+				{
+					"screen_name": "RACzyz",
+					"name": "Rich Czyz",
+					"id": 1977261344,
+					"id_str": "1977261344",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"screen_name": "rkiker",
+					"name": "Rich Kiker",
+					"id": 19551063,
+					"id_str": "19551063",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"screen_name": "TheBradCurrie",
+					"name": "Brad Currie",
+					"id": 261311337,
+					"id_str": "261311337",
+					"indices": [
+						49,
+						63
+					]
+				},
+				{
+					"screen_name": "ScottRRocco",
+					"name": "Scott Rocco, Ed.D.",
+					"id": 338650873,
+					"id_str": "338650873",
+					"indices": [
+						64,
+						76
+					]
+				},
+				{
+					"screen_name": "karentravers",
+					"name": "Karen Travers",
+					"id": 48038024,
+					"id_str": "48038024",
+					"indices": [
+						77,
+						90
+					]
+				},
+				{
+					"screen_name": "Principal_H",
+					"name": "𝐂𝐡𝐫𝐢𝐬𝐭𝐨𝐩𝐡𝐞𝐫 𝐇𝐚𝐫𝐫𝐢𝐬 🎸🏴‍☠️🧩",
+					"id": 2733642166,
+					"id_str": "2733642166",
+					"indices": [
+						91,
+						103
+					]
+				},
+				{
+					"screen_name": "snydesn2",
+					"name": "Tom Snyder",
+					"id": 2209549559,
+					"id_str": "2209549559",
+					"indices": [
+						104,
+						113
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1185565120090558500,
+		"in_reply_to_status_id_str": "1185565120090558466",
+		"in_reply_to_user_id": 21947812,
+		"in_reply_to_user_id_str": "21947812",
+		"in_reply_to_screen_name": "mgcjusa",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Boo-riexca 🎃👻🌛",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3237,
+			"friends_count": 1546,
+			"listed_count": 260,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mgcjusa @monlee1029 @Glennr1809 @RACzyz @rkiker @TheBradCurrie @ScottRRocco @karentravers @Principal_H @snydesn2 They've been in Perkasie for ages; I've been evicting then from my garage."
+	},
+	{
 		"created_at": "Fri Oct 18 22:44:29 +0000 2019",
 		"id": 1185325805884399600,
 		"id_str": "1185325805884399616",
