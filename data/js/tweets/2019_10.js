@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 24 23:39:37 +0000 2019",
+		"id": 1187514009421078500,
+		"id_str": "1187514009421078528",
+		"full_text": "I.  AM.  THERE.  Can't wait to catch Bob Mould at @SteelStacks in January! https://t.co/Y8qzMMGkgH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SteelStacks",
+					"name": "SteelStacks",
+					"id": 16367205,
+					"id_str": "16367205",
+					"indices": [
+						50,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y8qzMMGkgH",
+					"expanded_url": "https://twitter.com/bobmouldmusic/status/1186643749973221376",
+					"display_url": "twitter.com/bobmouldmusic/…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Boo-riexca 🎃👻🌛",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, Lawrence High School ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3237,
+			"friends_count": 1546,
+			"listed_count": 260,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2125,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1186643749973221400,
+		"quoted_status_id_str": "1186643749973221376",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Y8qzMMGkgH",
+			"expanded": "https://twitter.com/bobmouldmusic/status/1186643749973221376",
+			"display": "twitter.com/bobmouldmusic/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 22 14:01:31 +0000 2019",
+			"id": 1186643749973221400,
+			"id_str": "1186643749973221376",
+			"full_text": "Very excited to be playing a bunch of solo electric shows in January 2020! Will Johnson (from Centro-matic) will open on all dates except NYC. Tickets go onsale this Friday, October 25 on https://t.co/pMZT0FJbNK. https://t.co/PrYLXvNss4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				212
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/pMZT0FJbNK",
+						"expanded_url": "http://bobmould.com",
+						"display_url": "bobmould.com",
+						"indices": [
+							188,
+							211
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1186643731249848300,
+						"id_str": "1186643731249848321",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/EHfOL7wXYAEZbKz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHfOL7wXYAEZbKz.jpg",
+						"url": "https://t.co/PrYLXvNss4",
+						"display_url": "pic.twitter.com/PrYLXvNss4",
+						"expanded_url": "https://twitter.com/bobmouldmusic/status/1186643749973221376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1186643731249848300,
+						"id_str": "1186643731249848321",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/EHfOL7wXYAEZbKz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHfOL7wXYAEZbKz.jpg",
+						"url": "https://t.co/PrYLXvNss4",
+						"display_url": "pic.twitter.com/PrYLXvNss4",
+						"expanded_url": "https://twitter.com/bobmouldmusic/status/1186643749973221376/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1800,
+								"h": 1800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 568652009,
+				"id_str": "568652009",
+				"name": "Bob Mould",
+				"screen_name": "bobmouldmusic",
+				"location": "",
+				"description": "New album 'Sunshine Rock' out now! // Order + listen: https://t.co/BKLyNnjXmW",
+				"url": "http://t.co/DlEzpMcO25",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/DlEzpMcO25",
+								"expanded_url": "http://www.bobmould.com",
+								"display_url": "bobmould.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/BKLyNnjXmW",
+								"expanded_url": "http://smarturl.it/SunshineRock",
+								"display_url": "smarturl.it/SunshineRock",
+								"indices": [
+									54,
+									77
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 25143,
+				"friends_count": 69,
+				"listed_count": 367,
+				"created_at": "Wed May 02 00:18:53 +0000 2012",
+				"favourites_count": 98,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1014,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1055143911398600704/ivBsJ5vo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055143911398600704/ivBsJ5vo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/568652009/1549661450",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 67,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I.  AM.  THERE.  Can't wait to catch Bob Mould at @SteelStacks in January! https://t.co/Y8qzMMGkgH"
+	},
+	{
 		"created_at": "Wed Oct 23 23:02:37 +0000 2019",
 		"id": 1187142309382688800,
 		"id_str": "1187142309382688770",
