@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 25 21:23:49 +0000 2019",
+		"id": 1187833489229602800,
+		"id_str": "1187842223104237574",
+		"full_text": "5-0 win over Manasquan! Onward and upward Lady Cards! @LTPSAthletics @cardsfh @dadamltps https://t.co/phYXcRZhxI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTPSAthletics",
+					"name": "LTPS AD",
+					"id": 2845523504,
+					"id_str": "2845523504",
+					"indices": [
+						54,
+						68
+					]
+				},
+				{
+					"screen_name": "cardsfh",
+					"name": "LHS Field Hockey",
+					"id": 3431361843,
+					"id_str": "3431361843",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						78,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/phYXcRZhxI",
+					"expanded_url": "https://twitter.com/cardsfh/status/1187748197734768642",
+					"display_url": "twitter.com/cardsfh/status…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 832085833,
+			"id_str": "832085833",
+			"name": "Lawrence High School",
+			"screen_name": "CardinalsLHS",
+			"location": "Lawrenceville, NJ",
+			"description": "2014 NJ State School of Character. Home of the Cardinals. Principal: Dave Adam and Assistant Principals: Damian Bariexca, Fay Kim Lopez and Clifford Williams",
+			"url": "https://t.co/lgrxKNnvRA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lgrxKNnvRA",
+							"expanded_url": "http://www.ltps.org/HighSchool.cfm",
+							"display_url": "ltps.org/HighSchool.cfm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1183,
+			"friends_count": 132,
+			"listed_count": 15,
+			"created_at": "Tue Sep 18 23:20:52 +0000 2012",
+			"favourites_count": 1134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/776179866374995968/CI6XfSYH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/776179866374995968/CI6XfSYH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/832085833/1391362624",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1187748197734768600,
+		"quoted_status_id_str": "1187748197734768642",
+		"quoted_status_permalink": {
+			"url": "https://t.co/phYXcRZhxI",
+			"expanded": "https://twitter.com/cardsfh/status/1187748197734768642",
+			"display": "twitter.com/cardsfh/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 25 15:10:12 +0000 2019",
+			"id": 1187748197734768600,
+			"id_str": "1187748197734768642",
+			"full_text": "So proud of these girls!!! State game against Manasquan today!!! #ladycards #playtogetherwintogether https://t.co/Us3yqknU6X",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ladycards",
+						"indices": [
+							65,
+							75
+						]
+					},
+					{
+						"text": "playtogetherwintogether",
+						"indices": [
+							76,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1187748022299648000,
+						"id_str": "1187748022299648002",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/EHu6iIfX4AI81sh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHu6iIfX4AI81sh.jpg",
+						"url": "https://t.co/Us3yqknU6X",
+						"display_url": "pic.twitter.com/Us3yqknU6X",
+						"expanded_url": "https://twitter.com/cardsfh/status/1187748197734768642/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1187748022299648000,
+						"id_str": "1187748022299648002",
+						"indices": [
+							101,
+							124
+						],
+						"media_url": "http://pbs.twimg.com/media/EHu6iIfX4AI81sh.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHu6iIfX4AI81sh.jpg",
+						"url": "https://t.co/Us3yqknU6X",
+						"display_url": "pic.twitter.com/Us3yqknU6X",
+						"expanded_url": "https://twitter.com/cardsfh/status/1187748197734768642/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3431361843,
+				"id_str": "3431361843",
+				"name": "LHS Field Hockey",
+				"screen_name": "cardsfh",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 157,
+				"friends_count": 163,
+				"listed_count": 0,
+				"created_at": "Wed Aug 19 12:04:45 +0000 2015",
+				"favourites_count": 302,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 557,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/778185140392620033/2blyUzDA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/778185140392620033/2blyUzDA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3431361843/1570809940",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "5-0 win over Manasquan! Onward and upward Lady Cards! @LTPSAthletics @cardsfh @dadamltps https://t.co/phYXcRZhxI"
+	},
+	{
 		"created_at": "Thu Oct 24 23:39:37 +0000 2019",
 		"id": 1187514009421078500,
 		"id_str": "1187514009421078528",
