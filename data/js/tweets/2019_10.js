@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 28 22:32:41 +0000 2019",
+		"id": 1188575152876994600,
+		"id_str": "1188946716311072774",
+		"full_text": "\"In the real world\" https://t.co/6pKzubDMl0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6pKzubDMl0",
+					"expanded_url": "https://unconditionallearning.org/2018/04/17/in-the-real-world/",
+					"display_url": "unconditionallearning.org/2018/04/17/in-…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 552703082,
+			"id_str": "552703082",
+			"name": "Alex Shevrin Venet",
+			"screen_name": "AlexSVenet",
+			"location": "Winooski, VT",
+			"description": "Teaching, writing, learning, Vermonting. CCV, Antioch & more. Community facilitator w/ @edutopia. Facilitating PD & writing about trauma-informed ed & equity.",
+			"url": "https://t.co/5IB6ITRcVW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5IB6ITRcVW",
+							"expanded_url": "http://unconditionallearning.org",
+							"display_url": "unconditionallearning.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5243,
+			"friends_count": 1565,
+			"listed_count": 136,
+			"created_at": "Fri Apr 13 13:38:49 +0000 2012",
+			"favourites_count": 30931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085347681361412096/yWm_JybD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085347681361412096/yWm_JybD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/552703082/1562857514",
+			"profile_link_color": "81C6AF",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"In the real world\" https://t.co/6pKzubDMl0"
+	},
+	{
 		"created_at": "Mon Oct 28 00:35:42 +0000 2019",
 		"id": 1188615289086369800,
 		"id_str": "1188615289086369793",
