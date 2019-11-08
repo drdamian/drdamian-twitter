@@ -1,6 +1,540 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 07 11:53:48 +0000 2019",
+		"id": 1192408276975136800,
+		"id_str": "1192409813357146120",
+		"full_text": "Hey! We know that guy!!! Participants of your sessions are beyond lucky!!! #NJAMLE @_drdamian @DrMPancoast @MrsClineELA @LMSassamanMath @MrsPTweets @msqteach @Mrs_Cramer @TeachChristel @Bridgetbaill @pludwigmathland @MsFitz02 @dadamltps @nbartley6 @BethHouf https://t.co/IsoVdbIL99",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NJAMLE",
+					"indices": [
+						75,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						83,
+						93
+					]
+				},
+				{
+					"screen_name": "DrMPancoast",
+					"name": "Mary Pancoast",
+					"id": 4048694559,
+					"id_str": "4048694559",
+					"indices": [
+						94,
+						106
+					]
+				},
+				{
+					"screen_name": "MrsClineELA",
+					"name": "Jen Cline",
+					"id": 609589340,
+					"id_str": "609589340",
+					"indices": [
+						107,
+						119
+					]
+				},
+				{
+					"screen_name": "LMSassamanMath",
+					"name": "Lisa Sassaman",
+					"id": 495934423,
+					"id_str": "495934423",
+					"indices": [
+						120,
+						135
+					]
+				},
+				{
+					"screen_name": "MrsPTweets",
+					"name": "Mrs. P Tweets",
+					"id": 372319608,
+					"id_str": "372319608",
+					"indices": [
+						136,
+						147
+					]
+				},
+				{
+					"screen_name": "msqteach",
+					"name": "Lisa Quarry",
+					"id": 256526211,
+					"id_str": "256526211",
+					"indices": [
+						148,
+						157
+					]
+				},
+				{
+					"screen_name": "Mrs_Cramer",
+					"name": "Eileen Cramer",
+					"id": 250131255,
+					"id_str": "250131255",
+					"indices": [
+						158,
+						169
+					]
+				},
+				{
+					"screen_name": "TeachChristel",
+					"name": "ChristelTeach",
+					"id": 1049358441825927200,
+					"id_str": "1049358441825927170",
+					"indices": [
+						170,
+						184
+					]
+				},
+				{
+					"screen_name": "Bridgetbaill",
+					"name": "Bridget Baill",
+					"id": 343523129,
+					"id_str": "343523129",
+					"indices": [
+						185,
+						198
+					]
+				},
+				{
+					"screen_name": "pludwigmathland",
+					"name": "Patricia Ludwig",
+					"id": 3590588177,
+					"id_str": "3590588177",
+					"indices": [
+						199,
+						215
+					]
+				},
+				{
+					"screen_name": "MsFitz02",
+					"name": "Megan Fitzpatrick",
+					"id": 902189096902197200,
+					"id_str": "902189096902197250",
+					"indices": [
+						216,
+						225
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						226,
+						236
+					]
+				},
+				{
+					"screen_name": "nbartley6",
+					"name": "Nili Bartley",
+					"id": 2648535199,
+					"id_str": "2648535199",
+					"indices": [
+						237,
+						247
+					]
+				},
+				{
+					"screen_name": "BethHouf",
+					"name": "Beth Houf",
+					"id": 1616479344,
+					"id_str": "1616479344",
+					"indices": [
+						248,
+						257
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IsoVdbIL99",
+					"expanded_url": "https://twitter.com/stamglish/status/1192186515348217856",
+					"display_url": "twitter.com/stamglish/stat…",
+					"indices": [
+						258,
+						281
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3590820563,
+			"id_str": "3590820563",
+			"name": "Donna Maccaroni",
+			"screen_name": "DonnaMaccaroni",
+			"location": "Lawrence, NJ",
+			"description": "Mom of 5, Teacher of MS Special Education, Foster Mom...some day I will perfect the art of reading while trail running...that will be my happy place.",
+			"url": "https://t.co/pksWgb8OXf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pksWgb8OXf",
+							"expanded_url": "http://donnamacc.blogspot.com/",
+							"display_url": "donnamacc.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1714,
+			"friends_count": 3269,
+			"listed_count": 7,
+			"created_at": "Tue Sep 08 19:44:51 +0000 2015",
+			"favourites_count": 5276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/995053239983894528/429jxNy2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/995053239983894528/429jxNy2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3590820563/1526074208",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1192186515348217900,
+		"quoted_status_id_str": "1192186515348217856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IsoVdbIL99",
+			"expanded": "https://twitter.com/stamglish/status/1192186515348217856",
+			"display": "twitter.com/stamglish/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 06 21:06:29 +0000 2019",
+			"id": 1192186515348217900,
+			"id_str": "1192186515348217856",
+			"full_text": "Made it to #nashville Representing @LMSNation and @LTPS1 at #AMLE19 - excited to present about #infographics and #googlekeep on Friday! @AMLE #lmsnation https://t.co/op4XKhcyim",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "nashville",
+						"indices": [
+							11,
+							21
+						]
+					},
+					{
+						"text": "AMLE19",
+						"indices": [
+							60,
+							67
+						]
+					},
+					{
+						"text": "infographics",
+						"indices": [
+							95,
+							108
+						]
+					},
+					{
+						"text": "googlekeep",
+						"indices": [
+							113,
+							124
+						]
+					},
+					{
+						"text": "lmsnation",
+						"indices": [
+							142,
+							152
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LMSNation",
+						"name": "LMS Nation",
+						"id": 309632193,
+						"id_str": "309632193",
+						"indices": [
+							35,
+							45
+						]
+					},
+					{
+						"screen_name": "LTPS1",
+						"name": "Lawrence Twp Schools",
+						"id": 2178717536,
+						"id_str": "2178717536",
+						"indices": [
+							50,
+							56
+						]
+					},
+					{
+						"screen_name": "AMLE",
+						"name": "AMLE",
+						"id": 309214242,
+						"id_str": "309214242",
+						"indices": [
+							136,
+							141
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1192186509383938000,
+						"id_str": "1192186509383938049",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/EIt_UFXXsAE6sl_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIt_UFXXsAE6sl_.jpg",
+						"url": "https://t.co/op4XKhcyim",
+						"display_url": "pic.twitter.com/op4XKhcyim",
+						"expanded_url": "https://twitter.com/stamglish/status/1192186515348217856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1192186509383938000,
+						"id_str": "1192186509383938049",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/EIt_UFXXsAE6sl_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EIt_UFXXsAE6sl_.jpg",
+						"url": "https://t.co/op4XKhcyim",
+						"display_url": "pic.twitter.com/op4XKhcyim",
+						"expanded_url": "https://twitter.com/stamglish/status/1192186515348217856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2851553152,
+				"id_str": "2851553152",
+				"name": "Jon-Erik Stamatelos",
+				"screen_name": "stamglish",
+				"location": "LMS",
+				"description": "7th and 8th Grade Technology Teacher at Lawrence Middle School -Google Educator -authorized Google Education Trainer - Classcraft Ambassador",
+				"url": "http://t.co/KETOW12XgE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/KETOW12XgE",
+								"expanded_url": "http://www.ltps.org",
+								"display_url": "ltps.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 407,
+				"friends_count": 303,
+				"listed_count": 39,
+				"created_at": "Thu Oct 30 15:15:25 +0000 2014",
+				"favourites_count": 575,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 571,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/641338360770883585/LSrc3gYB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/641338360770883585/LSrc3gYB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2851553152/1447994257",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey! We know that guy!!! Participants of your sessions are beyond lucky!!! #NJAMLE @_drdamian @DrMPancoast @MrsClineELA @LMSassamanMath @MrsPTweets @msqteach @Mrs_Cramer @TeachChristel @Bridgetbaill @pludwigmathland @MsFitz02 @dadamltps @nbartley6 @BethHouf https://t.co/IsoVdbIL99"
+	},
+	{
 		"created_at": "Wed Nov 06 13:35:38 +0000 2019",
 		"id": 1192072982925136000,
 		"id_str": "1192073054173716481",
