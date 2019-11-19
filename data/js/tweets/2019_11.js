@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 18 23:37:41 +0000 2019",
+		"id": 1196558724959293400,
+		"id_str": "1196573218338942976",
+		"full_text": "FTC Issues Guidelines to Social Media Influencers for Endorsement Disclosures. This Means You, Too, Educators.\nhttps://t.co/CerV1JVRBL https://t.co/6USjNfwbU1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CerV1JVRBL",
+					"expanded_url": "http://ow.ly/OufU50xeie2",
+					"display_url": "ow.ly/OufU50xeie2",
+					"indices": [
+						111,
+						134
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1196558722748813300,
+					"id_str": "1196558722748813314",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EJsH0ZZWkAIsKrI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJsH0ZZWkAIsKrI.jpg",
+					"url": "https://t.co/6USjNfwbU1",
+					"display_url": "pic.twitter.com/6USjNfwbU1",
+					"expanded_url": "https://twitter.com/sljournal/status/1196558724959293441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 458,
+							"h": 229,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 458,
+							"h": 229,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 229,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 37,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 37,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 37,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 37,
+									"h": 42,
+									"w": 42
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196558722748813300,
+					"id_str": "1196558722748813314",
+					"indices": [
+						135,
+						158
+					],
+					"media_url": "http://pbs.twimg.com/media/EJsH0ZZWkAIsKrI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJsH0ZZWkAIsKrI.jpg",
+					"url": "https://t.co/6USjNfwbU1",
+					"display_url": "pic.twitter.com/6USjNfwbU1",
+					"expanded_url": "https://twitter.com/sljournal/status/1196558724959293441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 458,
+							"h": 229,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 458,
+							"h": 229,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 229,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 37,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 37,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 37,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 37,
+									"h": 42,
+									"w": 42
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15740502,
+			"id_str": "15740502",
+			"name": "SchoolLibraryJournal",
+			"screen_name": "sljournal",
+			"location": "New York, NY",
+			"description": "School Library Journal is the largest reviewer of kids & YA content, from books to digital. Serving up tweets: the editors of SLJ.",
+			"url": "http://t.co/elNg9sNMYX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/elNg9sNMYX",
+							"expanded_url": "http://www.slj.com",
+							"display_url": "slj.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 91207,
+			"friends_count": 1108,
+			"listed_count": 2819,
+			"created_at": "Tue Aug 05 19:29:10 +0000 2008",
+			"favourites_count": 4017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61455,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CDCDFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1011302708618452997/rB8ZJkvu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1011302708618452997/rB8ZJkvu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15740502/1528231723",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFCD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "FTC Issues Guidelines to Social Media Influencers for Endorsement Disclosures. This Means You, Too, Educators.\nhttps://t.co/CerV1JVRBL https://t.co/6USjNfwbU1"
+	},
+	{
 		"created_at": "Sun Nov 17 20:13:01 +0000 2019",
 		"id": 1196159325674393600,
 		"id_str": "1196159325674393600",
