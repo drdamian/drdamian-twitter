@@ -1,6 +1,411 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 21 20:15:54 +0000 2019",
+		"id": 1197609213939323000,
+		"id_str": "1197609603938340864",
+		"full_text": "@CardinalsLHS, @DrMPancoast &amp; @MrLehnert2  are learning at #NCTE2019 this weekend in Baltimore! Great experience for all of us!!! @LTPS1 https://t.co/YAhtyvIcuV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NCTE2019",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "DrMPancoast",
+					"name": "Mary Pancoast",
+					"id": 4048694559,
+					"id_str": "4048694559",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "MrLehnert2",
+					"name": "Douglas Lehnert",
+					"id": 768981013405978600,
+					"id_str": "768981013405978625",
+					"indices": [
+						34,
+						45
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Twp Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						134,
+						140
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1197609208822321200,
+					"id_str": "1197609208822321153",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ7DOu-XUAEiHWb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ7DOu-XUAEiHWb.jpg",
+					"url": "https://t.co/YAhtyvIcuV",
+					"display_url": "pic.twitter.com/YAhtyvIcuV",
+					"expanded_url": "https://twitter.com/dadamltps/status/1197609213939322881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 931,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 931,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 618,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 485,
+									"y": 207,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 147,
+									"y": 171,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 741,
+									"y": 202,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 485,
+									"y": 207,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 147,
+									"y": 171,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 741,
+									"y": 202,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 485,
+									"y": 207,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 147,
+									"y": 171,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 741,
+									"y": 202,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 322,
+									"y": 137,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 97,
+									"y": 113,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 492,
+									"y": 134,
+									"h": 100,
+									"w": 100
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197609208822321200,
+					"id_str": "1197609208822321153",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ7DOu-XUAEiHWb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ7DOu-XUAEiHWb.jpg",
+					"url": "https://t.co/YAhtyvIcuV",
+					"display_url": "pic.twitter.com/YAhtyvIcuV",
+					"expanded_url": "https://twitter.com/dadamltps/status/1197609213939322881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 931,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 931,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 618,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 485,
+									"y": 207,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 147,
+									"y": 171,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 741,
+									"y": 202,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 485,
+									"y": 207,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 147,
+									"y": 171,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 741,
+									"y": 202,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 485,
+									"y": 207,
+									"h": 116,
+									"w": 116
+								},
+								{
+									"x": 147,
+									"y": 171,
+									"h": 142,
+									"w": 142
+								},
+								{
+									"x": 741,
+									"y": 202,
+									"h": 152,
+									"w": 152
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 322,
+									"y": 137,
+									"h": 77,
+									"w": 77
+								},
+								{
+									"x": 97,
+									"y": 113,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 492,
+									"y": 134,
+									"h": 100,
+									"w": 100
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 832085833,
+		"in_reply_to_user_id_str": "832085833",
+		"in_reply_to_screen_name": "CardinalsLHS",
+		"user": {
+			"id": 260753316,
+			"id_str": "260753316",
+			"name": "David Adam",
+			"screen_name": "dadamltps",
+			"location": "Lawrence, NJ",
+			"description": "Principal of Lawrence High School",
+			"url": "https://t.co/KETOW12XgE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KETOW12XgE",
+							"expanded_url": "http://www.ltps.org",
+							"display_url": "ltps.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 922,
+			"friends_count": 142,
+			"listed_count": 42,
+			"created_at": "Fri Mar 04 14:40:19 +0000 2011",
+			"favourites_count": 9983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/260753316/1477665508",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@CardinalsLHS, @DrMPancoast &amp; @MrLehnert2  are learning at #NCTE2019 this weekend in Baltimore! Great experience for all of us!!! @LTPS1 https://t.co/YAhtyvIcuV"
+	},
+	{
 		"created_at": "Wed Nov 20 23:40:44 +0000 2019",
 		"id": 1197298763620126700,
 		"id_str": "1197298763620126721",
