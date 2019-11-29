@@ -1,6 +1,1197 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 28 20:45:28 +0000 2019",
+		"id": 1200153760363958300,
+		"id_str": "1200153760363958278",
+		"full_text": "@SchleiderJustin @eveewing Still waiting here, too.  #hangry",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			60
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "hangry",
+					"indices": [
+						53,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SchleiderJustin",
+					"name": "Justin Schleider ABC, BBD",
+					"id": 2171504722,
+					"id_str": "2171504722",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "eveewing",
+					"name": "wikipedia brown aka silk bonnet spectre",
+					"id": 19166519,
+					"id_str": "19166519",
+					"indices": [
+						17,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1200150604552822800,
+		"in_reply_to_status_id_str": "1200150604552822784",
+		"in_reply_to_user_id": 2171504722,
+		"in_reply_to_user_id_str": "2171504722",
+		"in_reply_to_screen_name": "SchleiderJustin",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3239,
+			"friends_count": 1548,
+			"listed_count": 258,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SchleiderJustin @eveewing Still waiting here, too.  #hangry"
+	},
+	{
+		"created_at": "Thu Nov 28 15:26:18 +0000 2019",
+		"id": 1200073436703404000,
+		"id_str": "1200073436703404032",
+		"full_text": "Taking a break from my usual professionally-focused reading fare to read up on a band I loved as a teenager. https://t.co/JTDMAvWqu1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1200073435218665500,
+					"id_str": "1200073435218665472",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EKeEblqXYAAq0_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKeEblqXYAAq0_B.jpg",
+					"url": "https://t.co/JTDMAvWqu1",
+					"display_url": "pic.twitter.com/JTDMAvWqu1",
+					"expanded_url": "https://twitter.com/_drdamian/status/1200073436703404032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 252,
+									"y": 368,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 322,
+									"y": 432,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 226,
+									"y": 449,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 423,
+									"y": 455,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 111,
+									"y": 458,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 475,
+									"y": 304,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 252,
+									"y": 368,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 322,
+									"y": 432,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 226,
+									"y": 449,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 423,
+									"y": 455,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 111,
+									"y": 458,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 475,
+									"y": 304,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 252,
+									"y": 368,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 322,
+									"y": 432,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 226,
+									"y": 449,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 423,
+									"y": 455,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 111,
+									"y": 458,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 475,
+									"y": 304,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 252,
+									"y": 368,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 322,
+									"y": 432,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 226,
+									"y": 449,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 423,
+									"y": 455,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 111,
+									"y": 458,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 475,
+									"y": 304,
+									"h": 43,
+									"w": 43
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200073435218665500,
+					"id_str": "1200073435218665472",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EKeEblqXYAAq0_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKeEblqXYAAq0_B.jpg",
+					"url": "https://t.co/JTDMAvWqu1",
+					"display_url": "pic.twitter.com/JTDMAvWqu1",
+					"expanded_url": "https://twitter.com/_drdamian/status/1200073436703404032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 252,
+									"y": 368,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 322,
+									"y": 432,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 226,
+									"y": 449,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 423,
+									"y": 455,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 111,
+									"y": 458,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 475,
+									"y": 304,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 252,
+									"y": 368,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 322,
+									"y": 432,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 226,
+									"y": 449,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 423,
+									"y": 455,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 111,
+									"y": 458,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 475,
+									"y": 304,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 252,
+									"y": 368,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 322,
+									"y": 432,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 226,
+									"y": 449,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 423,
+									"y": 455,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 111,
+									"y": 458,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 475,
+									"y": 304,
+									"h": 43,
+									"w": 43
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 252,
+									"y": 368,
+									"h": 36,
+									"w": 36
+								},
+								{
+									"x": 322,
+									"y": 432,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 226,
+									"y": 449,
+									"h": 42,
+									"w": 42
+								},
+								{
+									"x": 423,
+									"y": 455,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 111,
+									"y": 458,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 475,
+									"y": 304,
+									"h": 43,
+									"w": 43
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3239,
+			"friends_count": 1548,
+			"listed_count": 258,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Taking a break from my usual professionally-focused reading fare to read up on a band I loved as a teenager. https://t.co/JTDMAvWqu1"
+	},
+	{
+		"created_at": "Thu Nov 28 14:31:41 +0000 2019",
+		"id": 1200059693441462300,
+		"id_str": "1200059693441462272",
+		"full_text": "👀 at @ dr_damian and maybe also @ drdamian https://t.co/40CfS1CT5K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/40CfS1CT5K",
+					"expanded_url": "https://twitter.com/verge/status/1199425300821684224",
+					"display_url": "twitter.com/verge/status/1…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3239,
+			"friends_count": 1548,
+			"listed_count": 258,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1199425300821684200,
+		"quoted_status_id_str": "1199425300821684224",
+		"quoted_status_permalink": {
+			"url": "https://t.co/40CfS1CT5K",
+			"expanded": "https://twitter.com/verge/status/1199425300821684224",
+			"display": "twitter.com/verge/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 26 20:30:50 +0000 2019",
+			"id": 1199425300821684200,
+			"id_str": "1199425300821684224",
+			"full_text": "Twitter will remove inactive accounts and free up usernames in December https://t.co/poTkyUhnFm https://t.co/3ZGV0KcftD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/poTkyUhnFm",
+						"expanded_url": "https://www.theverge.com/2019/11/26/20984328/twitter-removing-inactive-accounts-usernames-available-date?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+						"display_url": "theverge.com/2019/11/26/209…",
+						"indices": [
+							72,
+							95
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1199425297923358700,
+						"id_str": "1199425297923358720",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/EKU29CFWwAA-USB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKU29CFWwAA-USB.jpg",
+						"url": "https://t.co/3ZGV0KcftD",
+						"display_url": "pic.twitter.com/3ZGV0KcftD",
+						"expanded_url": "https://twitter.com/verge/status/1199425300821684224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2040,
+								"h": 1360,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1199425297923358700,
+						"id_str": "1199425297923358720",
+						"indices": [
+							96,
+							119
+						],
+						"media_url": "http://pbs.twimg.com/media/EKU29CFWwAA-USB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKU29CFWwAA-USB.jpg",
+						"url": "https://t.co/3ZGV0KcftD",
+						"display_url": "pic.twitter.com/3ZGV0KcftD",
+						"expanded_url": "https://twitter.com/verge/status/1199425300821684224/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2040,
+								"h": 1360,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Vox Media</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 275686563,
+				"id_str": "275686563",
+				"name": "The Verge",
+				"screen_name": "verge",
+				"location": "New York",
+				"description": "https://t.co/W2SFxIXkC4 covers life in the future.",
+				"url": "http://t.co/W2SFxIXkC4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/W2SFxIXkC4",
+								"expanded_url": "http://www.theverge.com",
+								"display_url": "theverge.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/W2SFxIXkC4",
+								"expanded_url": "http://www.theverge.com",
+								"display_url": "theverge.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2599683,
+				"friends_count": 165,
+				"listed_count": 36999,
+				"created_at": "Fri Apr 01 19:54:22 +0000 2011",
+				"favourites_count": 1447,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 166433,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1569273426",
+				"profile_link_color": "EC008C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9244,
+			"favorite_count": 42871,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "👀 at @ dr_damian and maybe also @ drdamian https://t.co/40CfS1CT5K"
+	},
+	{
+		"created_at": "Thu Nov 28 14:00:45 +0000 2019",
+		"id": 1200051910029578200,
+		"id_str": "1200051910029578246",
+		"full_text": "@ehoffman In the meantime, check this out.  Highly, highly recommend: https://t.co/zuABLqoF54",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ehoffman",
+					"name": "Elissa Hoffman",
+					"id": 12956342,
+					"id_str": "12956342",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zuABLqoF54",
+					"expanded_url": "https://www.goodreads.com/book/show/6642850-the-restorative-practices-handbook",
+					"display_url": "goodreads.com/book/show/6642…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1200049145635102700,
+		"in_reply_to_status_id_str": "1200049145635102721",
+		"in_reply_to_user_id": 12956342,
+		"in_reply_to_user_id_str": "12956342",
+		"in_reply_to_screen_name": "ehoffman",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3239,
+			"friends_count": 1548,
+			"listed_count": 258,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ehoffman In the meantime, check this out.  Highly, highly recommend: https://t.co/zuABLqoF54"
+	},
+	{
+		"created_at": "Thu Nov 28 13:39:27 +0000 2019",
+		"id": 1200046547804852200,
+		"id_str": "1200046547804852225",
+		"full_text": "@ehoffman Finished it last night.  3/5.  If you read, take with a lump of salt.  If you skip, you're not missing much you can't get elsewhere.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ehoffman",
+					"name": "Elissa Hoffman",
+					"id": 12956342,
+					"id_str": "12956342",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1199843203727417300,
+		"in_reply_to_status_id_str": "1199843203727417346",
+		"in_reply_to_user_id": 12956342,
+		"in_reply_to_user_id_str": "12956342",
+		"in_reply_to_screen_name": "ehoffman",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3239,
+			"friends_count": 1548,
+			"listed_count": 258,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32400,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ehoffman Finished it last night.  3/5.  If you read, take with a lump of salt.  If you skip, you're not missing much you can't get elsewhere."
+	},
+	{
 		"created_at": "Thu Nov 28 00:23:29 +0000 2019",
 		"id": 1199846236322500600,
 		"id_str": "1199846236322500610",
@@ -220,7 +1411,7 @@ Grailbird.data.tweets_2019_11 =
 		"created_at": "Wed Nov 27 23:30:39 +0000 2019",
 		"id": 1199832939036627000,
 		"id_str": "1199832939036626946",
-		"full_text": "@ehoffman But at this point I'm more than halfway thru so I feel obligated to finish. 🤷🏼‍♂️",
+		"full_text": "@ehoffman But at this point I'm more than halfway thru so I feel obligated to finish. 🤷🏼♂️",
 		"truncated": false,
 		"display_text_range": [
 			10,
@@ -322,7 +1513,7 @@ Grailbird.data.tweets_2019_11 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@ehoffman But at this point I'm more than halfway thru so I feel obligated to finish. 🤷🏼‍♂️"
+		"text": "@ehoffman But at this point I'm more than halfway thru so I feel obligated to finish. 🤷🏼♂️"
 	},
 	{
 		"created_at": "Wed Nov 27 23:30:04 +0000 2019",
