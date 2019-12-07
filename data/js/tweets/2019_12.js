@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 06 03:43:48 +0000 2019",
+		"id": 1202795751203586000,
+		"id_str": "1202795751203586050",
+		"full_text": "Peter Falk https://t.co/LpqnbvLqF6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LpqnbvLqF6",
+					"expanded_url": "https://twitter.com/CarlosCrits/status/1202301691648970758",
+					"display_url": "twitter.com/CarlosCrits/st…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3237,
+			"friends_count": 1548,
+			"listed_count": 258,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32414,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1202301691648970800,
+		"quoted_status_id_str": "1202301691648970758",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LpqnbvLqF6",
+			"expanded": "https://twitter.com/CarlosCrits/status/1202301691648970758",
+			"display": "twitter.com/CarlosCrits/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 04 19:00:35 +0000 2019",
+			"id": 1202301691648970800,
+			"id_str": "1202301691648970758",
+			"full_text": "Who should they pick to do the voice of baby Yoda? \n(Wrong answers only) https://t.co/vIt8xrrCF1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				72
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1202301680773144600,
+						"id_str": "1202301680773144579",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EK9vAjNWoAMBFhU.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EK9vAjNWoAMBFhU.jpg",
+						"url": "https://t.co/vIt8xrrCF1",
+						"display_url": "pic.twitter.com/vIt8xrrCF1",
+						"expanded_url": "https://twitter.com/CarlosCrits/status/1202301691648970758/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 498,
+								"h": 300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 300,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1202301680773144600,
+						"id_str": "1202301680773144579",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EK9vAjNWoAMBFhU.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EK9vAjNWoAMBFhU.jpg",
+						"url": "https://t.co/vIt8xrrCF1",
+						"display_url": "pic.twitter.com/vIt8xrrCF1",
+						"expanded_url": "https://twitter.com/CarlosCrits/status/1202301691648970758/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 498,
+								"h": 300,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 498,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 498,
+								"h": 300,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								83,
+								50
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EK9vAjNWoAMBFhU.mp4"
+								}
+							]
+						},
+						"features": {}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17135891,
+				"id_str": "17135891",
+				"name": "Carlos",
+				"screen_name": "CarlosCrits",
+				"location": "Chicago, IL",
+				"description": "Creative Director | Videographer | Graphic Designer | Content Producer: @roll20app | He/Him | Carloslunainfo@gmail.com",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3707,
+				"friends_count": 701,
+				"listed_count": 61,
+				"created_at": "Mon Nov 03 18:16:22 +0000 2008",
+				"favourites_count": 41784,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6178,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1069445167323713536/zeDbDhzE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069445167323713536/zeDbDhzE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17135891/1542833653",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 282,
+			"favorite_count": 3434,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Peter Falk https://t.co/LpqnbvLqF6"
+	},
+	{
 		"created_at": "Thu Dec 05 21:43:17 +0000 2019",
 		"id": 1202705025253986300,
 		"id_str": "1202705025253986305",
