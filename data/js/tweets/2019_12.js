@@ -1,6 +1,597 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 18 20:35:46 +0000 2019",
+		"id": 1207399074556711000,
+		"id_str": "1207399074556710912",
+		"full_text": "Fashion goals. #LTPS https://t.co/XuPT1mL8w1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						15,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XuPT1mL8w1",
+					"expanded_url": "https://twitter.com/dadamltps/status/1207337345449676801",
+					"display_url": "twitter.com/dadamltps/stat…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3237,
+			"friends_count": 1548,
+			"listed_count": 258,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1207337345449676800,
+		"quoted_status_id_str": "1207337345449676801",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XuPT1mL8w1",
+			"expanded": "https://twitter.com/dadamltps/status/1207337345449676801",
+			"display": "twitter.com/dadamltps/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 18 16:30:29 +0000 2019",
+			"id": 1207337345449676800,
+			"id_str": "1207337345449676801",
+			"full_text": "The @CardinalsLHS administrative team getting into the holiday spirit!  Many faculty, students, and staff spreading joy this time of year! @LTPS1 https://t.co/UguoOpz1IX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				145
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CardinalsLHS",
+						"name": "Lawrence High School",
+						"id": 832085833,
+						"id_str": "832085833",
+						"indices": [
+							4,
+							17
+						]
+					},
+					{
+						"screen_name": "LTPS1",
+						"name": "Lawrence Twp Schools",
+						"id": 2178717536,
+						"id_str": "2178717536",
+						"indices": [
+							139,
+							145
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1207337334548705300,
+						"id_str": "1207337334548705280",
+						"indices": [
+							146,
+							169
+						],
+						"media_url": "http://pbs.twimg.com/media/EMFS6LXXsAAJMJK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMFS6LXXsAAJMJK.jpg",
+						"url": "https://t.co/UguoOpz1IX",
+						"display_url": "pic.twitter.com/UguoOpz1IX",
+						"expanded_url": "https://twitter.com/dadamltps/status/1207337345449676801/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1797,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1053,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 597,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "465193444",
+										"screen_name": "cjwilliamsjr",
+										"name": "Cliff Williams"
+									},
+									{
+										"type": "user",
+										"user_id": "7887852",
+										"screen_name": "_drdamian",
+										"name": "Dr. Damian Bariexca"
+									},
+									{
+										"type": "user",
+										"user_id": "1013578285773705216",
+										"screen_name": "FaykimL",
+										"name": "Fay Kim-Lopez"
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 215,
+										"y": 333,
+										"h": 165,
+										"w": 165
+									},
+									{
+										"x": 713,
+										"y": 199,
+										"h": 159,
+										"w": 159
+									},
+									{
+										"x": 1095,
+										"y": 213,
+										"h": 173,
+										"w": 173
+									},
+									{
+										"x": 1463,
+										"y": 393,
+										"h": 179,
+										"w": 179
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 126,
+										"y": 195,
+										"h": 97,
+										"w": 97
+									},
+									{
+										"x": 417,
+										"y": 117,
+										"h": 93,
+										"w": 93
+									},
+									{
+										"x": 641,
+										"y": 125,
+										"h": 101,
+										"w": 101
+									},
+									{
+										"x": 857,
+										"y": 230,
+										"h": 105,
+										"w": 105
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 71,
+										"y": 110,
+										"h": 55,
+										"w": 55
+									},
+									{
+										"x": 236,
+										"y": 66,
+										"h": 52,
+										"w": 52
+									},
+									{
+										"x": 363,
+										"y": 71,
+										"h": 57,
+										"w": 57
+									},
+									{
+										"x": 486,
+										"y": 130,
+										"h": 59,
+										"w": 59
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 353,
+										"y": 546,
+										"h": 271,
+										"w": 271
+									},
+									{
+										"x": 1167,
+										"y": 327,
+										"h": 261,
+										"w": 261
+									},
+									{
+										"x": 1792,
+										"y": 350,
+										"h": 284,
+										"w": 284
+									},
+									{
+										"x": 2394,
+										"y": 644,
+										"h": 294,
+										"w": 294
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1207337334548705300,
+						"id_str": "1207337334548705280",
+						"indices": [
+							146,
+							169
+						],
+						"media_url": "http://pbs.twimg.com/media/EMFS6LXXsAAJMJK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMFS6LXXsAAJMJK.jpg",
+						"url": "https://t.co/UguoOpz1IX",
+						"display_url": "pic.twitter.com/UguoOpz1IX",
+						"expanded_url": "https://twitter.com/dadamltps/status/1207337345449676801/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1797,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1053,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 597,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "465193444",
+										"screen_name": "cjwilliamsjr",
+										"name": "Cliff Williams"
+									},
+									{
+										"type": "user",
+										"user_id": "7887852",
+										"screen_name": "_drdamian",
+										"name": "Dr. Damian Bariexca"
+									},
+									{
+										"type": "user",
+										"user_id": "1013578285773705216",
+										"screen_name": "FaykimL",
+										"name": "Fay Kim-Lopez"
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 215,
+										"y": 333,
+										"h": 165,
+										"w": 165
+									},
+									{
+										"x": 713,
+										"y": 199,
+										"h": 159,
+										"w": 159
+									},
+									{
+										"x": 1095,
+										"y": 213,
+										"h": 173,
+										"w": 173
+									},
+									{
+										"x": 1463,
+										"y": 393,
+										"h": 179,
+										"w": 179
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 126,
+										"y": 195,
+										"h": 97,
+										"w": 97
+									},
+									{
+										"x": 417,
+										"y": 117,
+										"h": 93,
+										"w": 93
+									},
+									{
+										"x": 641,
+										"y": 125,
+										"h": 101,
+										"w": 101
+									},
+									{
+										"x": 857,
+										"y": 230,
+										"h": 105,
+										"w": 105
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 71,
+										"y": 110,
+										"h": 55,
+										"w": 55
+									},
+									{
+										"x": 236,
+										"y": 66,
+										"h": 52,
+										"w": 52
+									},
+									{
+										"x": 363,
+										"y": 71,
+										"h": 57,
+										"w": 57
+									},
+									{
+										"x": 486,
+										"y": 130,
+										"h": 59,
+										"w": 59
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 353,
+										"y": 546,
+										"h": 271,
+										"w": 271
+									},
+									{
+										"x": 1167,
+										"y": 327,
+										"h": 261,
+										"w": 261
+									},
+									{
+										"x": 1792,
+										"y": 350,
+										"h": 284,
+										"w": 284
+									},
+									{
+										"x": 2394,
+										"y": 644,
+										"h": 294,
+										"w": 294
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 260753316,
+				"id_str": "260753316",
+				"name": "David Adam",
+				"screen_name": "dadamltps",
+				"location": "Lawrence, NJ",
+				"description": "Principal of Lawrence High School",
+				"url": "https://t.co/KETOW12XgE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KETOW12XgE",
+								"expanded_url": "http://www.ltps.org",
+								"display_url": "ltps.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 922,
+				"friends_count": 142,
+				"listed_count": 42,
+				"created_at": "Fri Mar 04 14:40:19 +0000 2011",
+				"favourites_count": 10207,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4199,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/260753316/1477665508",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fashion goals. #LTPS https://t.co/XuPT1mL8w1"
+	},
+	{
 		"created_at": "Mon Dec 16 21:30:39 +0000 2019",
 		"id": 1206688109263556600,
 		"id_str": "1206688109263556609",
