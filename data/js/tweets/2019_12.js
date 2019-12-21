@@ -1,6 +1,2139 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 20 23:18:11 +0000 2019",
+		"id": 1208164726171144200,
+		"id_str": "1208164726171144192",
+		"full_text": "Update: IT WAS A MISTAKE https://t.co/SW6m5pBqKU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SW6m5pBqKU",
+					"expanded_url": "https://twitter.com/_drdamian/status/1208113449915551744",
+					"display_url": "twitter.com/_drdamian/stat…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3238,
+			"friends_count": 1548,
+			"listed_count": 258,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1208113449915551700,
+		"quoted_status_id_str": "1208113449915551744",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SW6m5pBqKU",
+			"expanded": "https://twitter.com/_drdamian/status/1208113449915551744",
+			"display": "twitter.com/_drdamian/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 20 19:54:26 +0000 2019",
+			"id": 1208113449915551700,
+			"id_str": "1208113449915551744",
+			"full_text": "Me avoiding #RiseofSkywalker spoilers all week.  It's almost showtime! https://t.co/QeBYe49kSQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				70
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RiseofSkywalker",
+						"indices": [
+							12,
+							28
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1208113433767489500,
+						"id_str": "1208113433767489536",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EMQUxGQWsAARRXg.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMQUxGQWsAARRXg.jpg",
+						"url": "https://t.co/QeBYe49kSQ",
+						"display_url": "pic.twitter.com/QeBYe49kSQ",
+						"expanded_url": "https://twitter.com/_drdamian/status/1208113449915551744/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 294,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 294,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 294,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1208113433767489500,
+						"id_str": "1208113433767489536",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EMQUxGQWsAARRXg.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMQUxGQWsAARRXg.jpg",
+						"url": "https://t.co/QeBYe49kSQ",
+						"display_url": "pic.twitter.com/QeBYe49kSQ",
+						"expanded_url": "https://twitter.com/_drdamian/status/1208113449915551744/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 294,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 294,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 294,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								250,
+								147
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EMQUxGQWsAARRXg.mp4"
+								}
+							]
+						},
+						"features": {}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7887852,
+				"id_str": "7887852",
+				"name": "Dr. Damian Bariexca",
+				"screen_name": "_drdamian",
+				"location": "Perkasie, PA USA",
+				"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+				"url": "https://t.co/0mfonM3zAp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0mfonM3zAp",
+								"expanded_url": "http://drdamian.org",
+								"display_url": "drdamian.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3238,
+				"friends_count": 1548,
+				"listed_count": 258,
+				"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+				"favourites_count": 2183,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 32443,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+				"profile_link_color": "000080",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Update: IT WAS A MISTAKE https://t.co/SW6m5pBqKU"
+	},
+	{
+		"created_at": "Fri Dec 20 19:54:26 +0000 2019",
+		"id": 1208113449915551700,
+		"id_str": "1208113449915551744",
+		"full_text": "Me avoiding #RiseofSkywalker spoilers all week.  It's almost showtime! https://t.co/QeBYe49kSQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RiseofSkywalker",
+					"indices": [
+						12,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1208113433767489500,
+					"id_str": "1208113433767489536",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EMQUxGQWsAARRXg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMQUxGQWsAARRXg.jpg",
+					"url": "https://t.co/QeBYe49kSQ",
+					"display_url": "pic.twitter.com/QeBYe49kSQ",
+					"expanded_url": "https://twitter.com/_drdamian/status/1208113449915551744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 294,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 294,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 294,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208113433767489500,
+					"id_str": "1208113433767489536",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EMQUxGQWsAARRXg.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMQUxGQWsAARRXg.jpg",
+					"url": "https://t.co/QeBYe49kSQ",
+					"display_url": "pic.twitter.com/QeBYe49kSQ",
+					"expanded_url": "https://twitter.com/_drdamian/status/1208113449915551744/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 294,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 294,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 294,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							250,
+							147
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EMQUxGQWsAARRXg.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3238,
+			"friends_count": 1548,
+			"listed_count": 258,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Me avoiding #RiseofSkywalker spoilers all week.  It's almost showtime! https://t.co/QeBYe49kSQ"
+	},
+	{
+		"created_at": "Fri Dec 20 14:16:48 +0000 2019",
+		"id": 1208028479108898800,
+		"id_str": "1208028479108898816",
+		"full_text": "Congratulations! #LTPS https://t.co/7g2FFOrM0m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						17,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7g2FFOrM0m",
+					"expanded_url": "https://twitter.com/dadamltps/status/1208024907822567426",
+					"display_url": "twitter.com/dadamltps/stat…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3238,
+			"friends_count": 1548,
+			"listed_count": 258,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1208024907822567400,
+		"quoted_status_id_str": "1208024907822567426",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7g2FFOrM0m",
+			"expanded": "https://twitter.com/dadamltps/status/1208024907822567426",
+			"display": "twitter.com/dadamltps/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 20 14:02:36 +0000 2019",
+			"id": 1208024907822567400,
+			"id_str": "1208024907822567426",
+			"full_text": "Please join us in congratulating our @CardinalsLHS 2019 Governor's Teacher of the Year, Mrs. Recentio ... and ESP of the Year Ms. DeGennaro. Two great educators and role models at Lawrence High School. Very well deserved recognition! https://t.co/By6lfUfE7J",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				233
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CardinalsLHS",
+						"name": "Lawrence High School",
+						"id": 832085833,
+						"id_str": "832085833",
+						"indices": [
+							37,
+							50
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1208024871009226800,
+						"id_str": "1208024871009226755",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/media/EMPEOERXkAMzRil.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMPEOERXkAMzRil.jpg",
+						"url": "https://t.co/By6lfUfE7J",
+						"display_url": "pic.twitter.com/By6lfUfE7J",
+						"expanded_url": "https://twitter.com/dadamltps/status/1208024907822567426/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "601375489",
+										"screen_name": "DawnRecentio",
+										"name": "Dawn"
+									},
+									{
+										"type": "user",
+										"user_id": "1067094483622346755",
+										"screen_name": "ltps_counseling",
+										"name": "Lawrence High School Counseling Dept"
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 116,
+										"y": 57,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 210,
+										"y": 138,
+										"h": 25,
+										"w": 25
+									},
+									{
+										"x": 400,
+										"y": 160,
+										"h": 28,
+										"w": 28
+									},
+									{
+										"x": 328,
+										"y": 168,
+										"h": 27,
+										"w": 27
+									},
+									{
+										"x": 304,
+										"y": 172,
+										"h": 27,
+										"w": 27
+									},
+									{
+										"x": 105,
+										"y": 187,
+										"h": 27,
+										"w": 27
+									},
+									{
+										"x": 136,
+										"y": 187,
+										"h": 26,
+										"w": 26
+									},
+									{
+										"x": 274,
+										"y": 205,
+										"h": 29,
+										"w": 29
+									},
+									{
+										"x": 423,
+										"y": 163,
+										"h": 34,
+										"w": 34
+									},
+									{
+										"x": 171,
+										"y": 175,
+										"h": 28,
+										"w": 28
+									},
+									{
+										"x": 232,
+										"y": 179,
+										"h": 29,
+										"w": 29
+									},
+									{
+										"x": 26,
+										"y": 186,
+										"h": 31,
+										"w": 31
+									},
+									{
+										"x": 350,
+										"y": 166,
+										"h": 32,
+										"w": 32
+									},
+									{
+										"x": 626,
+										"y": 198,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 571,
+										"y": 201,
+										"h": 32,
+										"w": 32
+									},
+									{
+										"x": 496,
+										"y": 167,
+										"h": 37,
+										"w": 37
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 352,
+										"y": 172,
+										"h": 70,
+										"w": 70
+									},
+									{
+										"x": 634,
+										"y": 418,
+										"h": 78,
+										"w": 78
+									},
+									{
+										"x": 1206,
+										"y": 484,
+										"h": 86,
+										"w": 86
+									},
+									{
+										"x": 988,
+										"y": 508,
+										"h": 82,
+										"w": 82
+									},
+									{
+										"x": 918,
+										"y": 520,
+										"h": 82,
+										"w": 82
+									},
+									{
+										"x": 318,
+										"y": 566,
+										"h": 84,
+										"w": 84
+									},
+									{
+										"x": 412,
+										"y": 564,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 826,
+										"y": 618,
+										"h": 90,
+										"w": 90
+									},
+									{
+										"x": 1274,
+										"y": 492,
+										"h": 104,
+										"w": 104
+									},
+									{
+										"x": 518,
+										"y": 530,
+										"h": 86,
+										"w": 86
+									},
+									{
+										"x": 700,
+										"y": 542,
+										"h": 90,
+										"w": 90
+									},
+									{
+										"x": 80,
+										"y": 562,
+										"h": 94,
+										"w": 94
+									},
+									{
+										"x": 1056,
+										"y": 500,
+										"h": 98,
+										"w": 98
+									},
+									{
+										"x": 1888,
+										"y": 598,
+										"h": 100,
+										"w": 100
+									},
+									{
+										"x": 1722,
+										"y": 608,
+										"h": 98,
+										"w": 98
+									},
+									{
+										"x": 1496,
+										"y": 504,
+										"h": 114,
+										"w": 114
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 206,
+										"y": 100,
+										"h": 41,
+										"w": 41
+									},
+									{
+										"x": 371,
+										"y": 244,
+										"h": 45,
+										"w": 45
+									},
+									{
+										"x": 706,
+										"y": 283,
+										"h": 50,
+										"w": 50
+									},
+									{
+										"x": 578,
+										"y": 297,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 537,
+										"y": 304,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 186,
+										"y": 331,
+										"h": 49,
+										"w": 49
+									},
+									{
+										"x": 241,
+										"y": 330,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 483,
+										"y": 362,
+										"h": 52,
+										"w": 52
+									},
+									{
+										"x": 746,
+										"y": 288,
+										"h": 60,
+										"w": 60
+									},
+									{
+										"x": 303,
+										"y": 310,
+										"h": 50,
+										"w": 50
+									},
+									{
+										"x": 410,
+										"y": 317,
+										"h": 52,
+										"w": 52
+									},
+									{
+										"x": 46,
+										"y": 329,
+										"h": 55,
+										"w": 55
+									},
+									{
+										"x": 618,
+										"y": 292,
+										"h": 57,
+										"w": 57
+									},
+									{
+										"x": 1106,
+										"y": 350,
+										"h": 58,
+										"w": 58
+									},
+									{
+										"x": 1008,
+										"y": 356,
+										"h": 57,
+										"w": 57
+									},
+									{
+										"x": 876,
+										"y": 295,
+										"h": 66,
+										"w": 66
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 352,
+										"y": 172,
+										"h": 70,
+										"w": 70
+									},
+									{
+										"x": 634,
+										"y": 418,
+										"h": 78,
+										"w": 78
+									},
+									{
+										"x": 1206,
+										"y": 484,
+										"h": 86,
+										"w": 86
+									},
+									{
+										"x": 988,
+										"y": 508,
+										"h": 82,
+										"w": 82
+									},
+									{
+										"x": 918,
+										"y": 520,
+										"h": 82,
+										"w": 82
+									},
+									{
+										"x": 318,
+										"y": 566,
+										"h": 84,
+										"w": 84
+									},
+									{
+										"x": 412,
+										"y": 564,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 826,
+										"y": 618,
+										"h": 90,
+										"w": 90
+									},
+									{
+										"x": 1274,
+										"y": 492,
+										"h": 104,
+										"w": 104
+									},
+									{
+										"x": 518,
+										"y": 530,
+										"h": 86,
+										"w": 86
+									},
+									{
+										"x": 700,
+										"y": 542,
+										"h": 90,
+										"w": 90
+									},
+									{
+										"x": 80,
+										"y": 562,
+										"h": 94,
+										"w": 94
+									},
+									{
+										"x": 1056,
+										"y": 500,
+										"h": 98,
+										"w": 98
+									},
+									{
+										"x": 1888,
+										"y": 598,
+										"h": 100,
+										"w": 100
+									},
+									{
+										"x": 1722,
+										"y": 608,
+										"h": 98,
+										"w": 98
+									},
+									{
+										"x": 1496,
+										"y": 504,
+										"h": 114,
+										"w": 114
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1208024871009226800,
+						"id_str": "1208024871009226755",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/media/EMPEOERXkAMzRil.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMPEOERXkAMzRil.jpg",
+						"url": "https://t.co/By6lfUfE7J",
+						"display_url": "pic.twitter.com/By6lfUfE7J",
+						"expanded_url": "https://twitter.com/dadamltps/status/1208024907822567426/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "601375489",
+										"screen_name": "DawnRecentio",
+										"name": "Dawn"
+									},
+									{
+										"type": "user",
+										"user_id": "1067094483622346755",
+										"screen_name": "ltps_counseling",
+										"name": "Lawrence High School Counseling Dept"
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 116,
+										"y": 57,
+										"h": 23,
+										"w": 23
+									},
+									{
+										"x": 210,
+										"y": 138,
+										"h": 25,
+										"w": 25
+									},
+									{
+										"x": 400,
+										"y": 160,
+										"h": 28,
+										"w": 28
+									},
+									{
+										"x": 328,
+										"y": 168,
+										"h": 27,
+										"w": 27
+									},
+									{
+										"x": 304,
+										"y": 172,
+										"h": 27,
+										"w": 27
+									},
+									{
+										"x": 105,
+										"y": 187,
+										"h": 27,
+										"w": 27
+									},
+									{
+										"x": 136,
+										"y": 187,
+										"h": 26,
+										"w": 26
+									},
+									{
+										"x": 274,
+										"y": 205,
+										"h": 29,
+										"w": 29
+									},
+									{
+										"x": 423,
+										"y": 163,
+										"h": 34,
+										"w": 34
+									},
+									{
+										"x": 171,
+										"y": 175,
+										"h": 28,
+										"w": 28
+									},
+									{
+										"x": 232,
+										"y": 179,
+										"h": 29,
+										"w": 29
+									},
+									{
+										"x": 26,
+										"y": 186,
+										"h": 31,
+										"w": 31
+									},
+									{
+										"x": 350,
+										"y": 166,
+										"h": 32,
+										"w": 32
+									},
+									{
+										"x": 626,
+										"y": 198,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 571,
+										"y": 201,
+										"h": 32,
+										"w": 32
+									},
+									{
+										"x": 496,
+										"y": 167,
+										"h": 37,
+										"w": 37
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 352,
+										"y": 172,
+										"h": 70,
+										"w": 70
+									},
+									{
+										"x": 634,
+										"y": 418,
+										"h": 78,
+										"w": 78
+									},
+									{
+										"x": 1206,
+										"y": 484,
+										"h": 86,
+										"w": 86
+									},
+									{
+										"x": 988,
+										"y": 508,
+										"h": 82,
+										"w": 82
+									},
+									{
+										"x": 918,
+										"y": 520,
+										"h": 82,
+										"w": 82
+									},
+									{
+										"x": 318,
+										"y": 566,
+										"h": 84,
+										"w": 84
+									},
+									{
+										"x": 412,
+										"y": 564,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 826,
+										"y": 618,
+										"h": 90,
+										"w": 90
+									},
+									{
+										"x": 1274,
+										"y": 492,
+										"h": 104,
+										"w": 104
+									},
+									{
+										"x": 518,
+										"y": 530,
+										"h": 86,
+										"w": 86
+									},
+									{
+										"x": 700,
+										"y": 542,
+										"h": 90,
+										"w": 90
+									},
+									{
+										"x": 80,
+										"y": 562,
+										"h": 94,
+										"w": 94
+									},
+									{
+										"x": 1056,
+										"y": 500,
+										"h": 98,
+										"w": 98
+									},
+									{
+										"x": 1888,
+										"y": 598,
+										"h": 100,
+										"w": 100
+									},
+									{
+										"x": 1722,
+										"y": 608,
+										"h": 98,
+										"w": 98
+									},
+									{
+										"x": 1496,
+										"y": 504,
+										"h": 114,
+										"w": 114
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 206,
+										"y": 100,
+										"h": 41,
+										"w": 41
+									},
+									{
+										"x": 371,
+										"y": 244,
+										"h": 45,
+										"w": 45
+									},
+									{
+										"x": 706,
+										"y": 283,
+										"h": 50,
+										"w": 50
+									},
+									{
+										"x": 578,
+										"y": 297,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 537,
+										"y": 304,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 186,
+										"y": 331,
+										"h": 49,
+										"w": 49
+									},
+									{
+										"x": 241,
+										"y": 330,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 483,
+										"y": 362,
+										"h": 52,
+										"w": 52
+									},
+									{
+										"x": 746,
+										"y": 288,
+										"h": 60,
+										"w": 60
+									},
+									{
+										"x": 303,
+										"y": 310,
+										"h": 50,
+										"w": 50
+									},
+									{
+										"x": 410,
+										"y": 317,
+										"h": 52,
+										"w": 52
+									},
+									{
+										"x": 46,
+										"y": 329,
+										"h": 55,
+										"w": 55
+									},
+									{
+										"x": 618,
+										"y": 292,
+										"h": 57,
+										"w": 57
+									},
+									{
+										"x": 1106,
+										"y": 350,
+										"h": 58,
+										"w": 58
+									},
+									{
+										"x": 1008,
+										"y": 356,
+										"h": 57,
+										"w": 57
+									},
+									{
+										"x": 876,
+										"y": 295,
+										"h": 66,
+										"w": 66
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 352,
+										"y": 172,
+										"h": 70,
+										"w": 70
+									},
+									{
+										"x": 634,
+										"y": 418,
+										"h": 78,
+										"w": 78
+									},
+									{
+										"x": 1206,
+										"y": 484,
+										"h": 86,
+										"w": 86
+									},
+									{
+										"x": 988,
+										"y": 508,
+										"h": 82,
+										"w": 82
+									},
+									{
+										"x": 918,
+										"y": 520,
+										"h": 82,
+										"w": 82
+									},
+									{
+										"x": 318,
+										"y": 566,
+										"h": 84,
+										"w": 84
+									},
+									{
+										"x": 412,
+										"y": 564,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 826,
+										"y": 618,
+										"h": 90,
+										"w": 90
+									},
+									{
+										"x": 1274,
+										"y": 492,
+										"h": 104,
+										"w": 104
+									},
+									{
+										"x": 518,
+										"y": 530,
+										"h": 86,
+										"w": 86
+									},
+									{
+										"x": 700,
+										"y": 542,
+										"h": 90,
+										"w": 90
+									},
+									{
+										"x": 80,
+										"y": 562,
+										"h": 94,
+										"w": 94
+									},
+									{
+										"x": 1056,
+										"y": 500,
+										"h": 98,
+										"w": 98
+									},
+									{
+										"x": 1888,
+										"y": 598,
+										"h": 100,
+										"w": 100
+									},
+									{
+										"x": 1722,
+										"y": 608,
+										"h": 98,
+										"w": 98
+									},
+									{
+										"x": 1496,
+										"y": 504,
+										"h": 114,
+										"w": 114
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1208024897873682400,
+						"id_str": "1208024897873682432",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/media/EMPEPoWWoAAgp8H.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMPEPoWWoAAgp8H.jpg",
+						"url": "https://t.co/By6lfUfE7J",
+						"display_url": "pic.twitter.com/By6lfUfE7J",
+						"expanded_url": "https://twitter.com/dadamltps/status/1208024907822567426/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 623,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 938,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 938,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"all": {
+								"tags": [
+									{
+										"type": "user",
+										"user_id": "601375489",
+										"screen_name": "DawnRecentio",
+										"name": "Dawn"
+									},
+									{
+										"type": "user",
+										"user_id": "1067094483622346755",
+										"screen_name": "ltps_counseling",
+										"name": "Lawrence High School Counseling Dept"
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 264,
+										"y": 29,
+										"h": 32,
+										"w": 32
+									},
+									{
+										"x": 142,
+										"y": 67,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 257,
+										"y": 74,
+										"h": 44,
+										"w": 44
+									},
+									{
+										"x": 421,
+										"y": 97,
+										"h": 53,
+										"w": 53
+									},
+									{
+										"x": 313,
+										"y": 110,
+										"h": 49,
+										"w": 49
+									},
+									{
+										"x": 152,
+										"y": 118,
+										"h": 45,
+										"w": 45
+									},
+									{
+										"x": 66,
+										"y": 64,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 367,
+										"y": 39,
+										"h": 53,
+										"w": 53
+									},
+									{
+										"x": 474,
+										"y": 379,
+										"h": 51,
+										"w": 51
+									},
+									{
+										"x": 224,
+										"y": 120,
+										"h": 66,
+										"w": 66
+									},
+									{
+										"x": 86,
+										"y": 130,
+										"h": 68,
+										"w": 68
+									},
+									{
+										"x": 465,
+										"y": 122,
+										"h": 69,
+										"w": 69
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 398,
+										"y": 45,
+										"h": 49,
+										"w": 49
+									},
+									{
+										"x": 215,
+										"y": 102,
+										"h": 51,
+										"w": 51
+									},
+									{
+										"x": 387,
+										"y": 112,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 635,
+										"y": 147,
+										"h": 81,
+										"w": 81
+									},
+									{
+										"x": 472,
+										"y": 166,
+										"h": 75,
+										"w": 75
+									},
+									{
+										"x": 229,
+										"y": 178,
+										"h": 68,
+										"w": 68
+									},
+									{
+										"x": 100,
+										"y": 97,
+										"h": 71,
+										"w": 71
+									},
+									{
+										"x": 554,
+										"y": 60,
+										"h": 81,
+										"w": 81
+									},
+									{
+										"x": 715,
+										"y": 572,
+										"h": 78,
+										"w": 78
+									},
+									{
+										"x": 338,
+										"y": 181,
+										"h": 100,
+										"w": 100
+									},
+									{
+										"x": 130,
+										"y": 196,
+										"h": 103,
+										"w": 103
+									},
+									{
+										"x": 701,
+										"y": 184,
+										"h": 104,
+										"w": 104
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 398,
+										"y": 45,
+										"h": 49,
+										"w": 49
+									},
+									{
+										"x": 215,
+										"y": 102,
+										"h": 51,
+										"w": 51
+									},
+									{
+										"x": 387,
+										"y": 112,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 635,
+										"y": 147,
+										"h": 81,
+										"w": 81
+									},
+									{
+										"x": 472,
+										"y": 166,
+										"h": 75,
+										"w": 75
+									},
+									{
+										"x": 229,
+										"y": 178,
+										"h": 68,
+										"w": 68
+									},
+									{
+										"x": 100,
+										"y": 97,
+										"h": 71,
+										"w": 71
+									},
+									{
+										"x": 554,
+										"y": 60,
+										"h": 81,
+										"w": 81
+									},
+									{
+										"x": 715,
+										"y": 572,
+										"h": 78,
+										"w": 78
+									},
+									{
+										"x": 338,
+										"y": 181,
+										"h": 100,
+										"w": 100
+									},
+									{
+										"x": 130,
+										"y": 196,
+										"h": 103,
+										"w": 103
+									},
+									{
+										"x": 701,
+										"y": 184,
+										"h": 104,
+										"w": 104
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 398,
+										"y": 45,
+										"h": 49,
+										"w": 49
+									},
+									{
+										"x": 215,
+										"y": 102,
+										"h": 51,
+										"w": 51
+									},
+									{
+										"x": 387,
+										"y": 112,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 635,
+										"y": 147,
+										"h": 81,
+										"w": 81
+									},
+									{
+										"x": 472,
+										"y": 166,
+										"h": 75,
+										"w": 75
+									},
+									{
+										"x": 229,
+										"y": 178,
+										"h": 68,
+										"w": 68
+									},
+									{
+										"x": 100,
+										"y": 97,
+										"h": 71,
+										"w": 71
+									},
+									{
+										"x": 554,
+										"y": 60,
+										"h": 81,
+										"w": 81
+									},
+									{
+										"x": 715,
+										"y": 572,
+										"h": 78,
+										"w": 78
+									},
+									{
+										"x": 338,
+										"y": 181,
+										"h": 100,
+										"w": 100
+									},
+									{
+										"x": 130,
+										"y": 196,
+										"h": 103,
+										"w": 103
+									},
+									{
+										"x": 701,
+										"y": 184,
+										"h": 104,
+										"w": 104
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 260753316,
+				"id_str": "260753316",
+				"name": "David Adam",
+				"screen_name": "dadamltps",
+				"location": "Lawrence, NJ",
+				"description": "Principal of Lawrence High School",
+				"url": "https://t.co/KETOW12XgE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KETOW12XgE",
+								"expanded_url": "http://www.ltps.org",
+								"display_url": "ltps.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 922,
+				"friends_count": 142,
+				"listed_count": 42,
+				"created_at": "Fri Mar 04 14:40:19 +0000 2011",
+				"favourites_count": 10218,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4202,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/260753316/1477665508",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations! #LTPS https://t.co/7g2FFOrM0m"
+	},
+	{
+		"created_at": "Fri Dec 20 03:36:25 +0000 2019",
+		"id": 1207867323341783000,
+		"id_str": "1207867323341783046",
+		"full_text": "@mikazak @Nixie I tried to give it a chance.  I really, really did.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mikazak",
+					"name": "Jeff",
+					"id": 324032831,
+					"id_str": "324032831",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "Nixie",
+					"name": "Loud & Aggressive",
+					"id": 1953911,
+					"id_str": "1953911",
+					"indices": [
+						9,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1207482731053097000,
+		"in_reply_to_status_id_str": "1207482731053096960",
+		"in_reply_to_user_id": 324032831,
+		"in_reply_to_user_id_str": "324032831",
+		"in_reply_to_screen_name": "mikazak",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3238,
+			"friends_count": 1548,
+			"listed_count": 258,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2183,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32443,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mikazak @Nixie I tried to give it a chance.  I really, really did."
+	},
+	{
 		"created_at": "Thu Dec 19 23:40:44 +0000 2019",
 		"id": 1207808009205928000,
 		"id_str": "1207808009205927937",
