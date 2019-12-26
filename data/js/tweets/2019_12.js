@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 25 17:36:04 +0000 2019",
+		"id": 1209201659601178600,
+		"id_str": "1209890565510324227",
+		"full_text": "The holidays can be A LOT.\n\nIf you are struggling, know that\n\nYOU\n\nARE\n\nNOT\n\nALONE\n\nFor 24/7 crisis support: text NJ to 741741 or call 855-654-6735, or visit: \n\nhttps://t.co/7MH9c8teXI https://t.co/VHzAERVgV6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7MH9c8teXI",
+					"expanded_url": "https://www.state.nj.us/humanservices/dmhas/resources/mental/",
+					"display_url": "state.nj.us/humanservices/…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1209201637832712200,
+					"id_str": "1209201637832712197",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EMfye6TW4AUt3T_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMfye6TW4AUt3T_.jpg",
+					"url": "https://t.co/VHzAERVgV6",
+					"display_url": "pic.twitter.com/VHzAERVgV6",
+					"expanded_url": "https://twitter.com/NJGov/status/1209201659601178624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1228,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1209201637832712200,
+					"id_str": "1209201637832712197",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EMfye6TW4AUt3T_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMfye6TW4AUt3T_.jpg",
+					"url": "https://t.co/VHzAERVgV6",
+					"display_url": "pic.twitter.com/VHzAERVgV6",
+					"expanded_url": "https://twitter.com/NJGov/status/1209201659601178624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1228,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 984819646082797600,
+			"id_str": "984819646082797568",
+			"name": "New Jersey ☃️",
+			"screen_name": "NJGov",
+			"location": "New Jersey, USA",
+			"description": "Official Twitter of the Garden State. All New Jersey, all the time. Let’s agree to disagree.",
+			"url": "https://t.co/765nmfftnO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/765nmfftnO",
+							"expanded_url": "http://NJ.gov",
+							"display_url": "NJ.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 111298,
+			"friends_count": 514,
+			"listed_count": 165,
+			"created_at": "Fri Apr 13 15:44:35 +0000 2018",
+			"favourites_count": 5069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207050460831584256/Ge5wTz2I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207050460831584256/Ge5wTz2I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/984819646082797568/1575404407",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 535,
+		"favorite_count": 1729,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The holidays can be A LOT.\n\nIf you are struggling, know that\n\nYOU\n\nARE\n\nNOT\n\nALONE\n\nFor 24/7 crisis support: text NJ to 741741 or call 855-654-6735, or visit: \n\nhttps://t.co/7MH9c8teXI https://t.co/VHzAERVgV6"
+	},
+	{
 		"created_at": "Tue Dec 24 17:17:44 +0000 2019",
 		"id": 1209523565827149800,
 		"id_str": "1209523565827149825",
