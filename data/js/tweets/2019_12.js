@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 30 00:39:38 +0000 2019",
+		"id": 1211446580404015000,
+		"id_str": "1211446714353246213",
+		"full_text": "Your 2019 NFC East Division Champions!\n\n#FlyEaglesFly https://t.co/QkbiWEF7Ph",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FlyEaglesFly",
+					"indices": [
+						40,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1211443366493393000,
+					"id_str": "1211443366493392903",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EM_p4R9XkAA_ie6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EM_p4R9XkAA_ie6.jpg",
+					"url": "https://t.co/QkbiWEF7Ph",
+					"display_url": "pic.twitter.com/QkbiWEF7Ph",
+					"expanded_url": "https://twitter.com/Eagles/status/1211446580404015109/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1211443366493393000,
+					"id_str": "1211443366493392903",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EM_p4R9XkAA_ie6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EM_p4R9XkAA_ie6.jpg",
+					"url": "https://t.co/QkbiWEF7Ph",
+					"display_url": "pic.twitter.com/QkbiWEF7Ph",
+					"expanded_url": "https://twitter.com/Eagles/status/1211446580404015109/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 6006,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1211443366493392903/vid/480x270/AuePEdulzZH8_OAi.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1211443366493392903/pl/5Au9vHcCkLZUc43M.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1211443366493392903/vid/640x360/4O6iHB12tDi_DWvI.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1211443366493392903/vid/1280x720/2tDJxnzftugi9jML.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180503626,
+			"id_str": "180503626",
+			"name": "Philadelphia Eagles",
+			"screen_name": "Eagles",
+			"location": "Philadelphia, PA",
+			"description": "",
+			"url": "https://t.co/XLqr1xYvDZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XLqr1xYvDZ",
+							"expanded_url": "http://www.philadelphiaeagles.com/",
+							"display_url": "philadelphiaeagles.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3481496,
+			"friends_count": 108,
+			"listed_count": 8346,
+			"created_at": "Thu Aug 19 20:04:15 +0000 2010",
+			"favourites_count": 5357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 52589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191389491161968640/yYceJj-6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191389491161968640/yYceJj-6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180503626/1577209643",
+			"profile_link_color": "004953",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10775,
+		"favorite_count": 16664,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Your 2019 NFC East Division Champions!\n\n#FlyEaglesFly https://t.co/QkbiWEF7Ph"
+	},
+	{
+		"created_at": "Sun Dec 29 19:41:11 +0000 2019",
+		"id": 1211367737257341000,
+		"id_str": "1211371605940744193",
+		"full_text": "My daughter is doing a project on electronic waste. If you have a minute, please consider completing her online #survey: https://t.co/jEiTiOLVjh Please RT &amp; thank you in advance! #science #scied #onted #electronicwaste #ewaste #recycle #reuse #electronics #peelfam #peel21st",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "survey",
+					"indices": [
+						112,
+						119
+					]
+				},
+				{
+					"text": "science",
+					"indices": [
+						183,
+						191
+					]
+				},
+				{
+					"text": "scied",
+					"indices": [
+						192,
+						198
+					]
+				},
+				{
+					"text": "onted",
+					"indices": [
+						199,
+						205
+					]
+				},
+				{
+					"text": "electronicwaste",
+					"indices": [
+						206,
+						222
+					]
+				},
+				{
+					"text": "ewaste",
+					"indices": [
+						223,
+						230
+					]
+				},
+				{
+					"text": "recycle",
+					"indices": [
+						231,
+						239
+					]
+				},
+				{
+					"text": "reuse",
+					"indices": [
+						240,
+						246
+					]
+				},
+				{
+					"text": "electronics",
+					"indices": [
+						247,
+						259
+					]
+				},
+				{
+					"text": "peelfam",
+					"indices": [
+						260,
+						268
+					]
+				},
+				{
+					"text": "peel21st",
+					"indices": [
+						269,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jEiTiOLVjh",
+					"expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSdviSR7KJ8zbRWtNXBm6i1pTTdYTpQ_ugujDTdOnfAfMtMnNA/viewform?usp=pp_url",
+					"display_url": "docs.google.com/forms/d/e/1FAI…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 89803097,
+			"id_str": "89803097",
+			"name": "Jim Cash",
+			"screen_name": "cashjim",
+			"location": "Pale Blue Dot",
+			"description": "Full-time, classroom teacher. Balancing construction and instruction. Make. Play. Learn. Unlearn. Relearn.",
+			"url": "https://t.co/awFUE6IeyB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/awFUE6IeyB",
+							"expanded_url": "http://makelearn.org",
+							"display_url": "makelearn.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6367,
+			"friends_count": 2583,
+			"listed_count": 243,
+			"created_at": "Fri Nov 13 21:56:32 +0000 2009",
+			"favourites_count": 23812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/664839276715118592/mregAzbD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/664839276715118592/mregAzbD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/89803097/1576939064",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My daughter is doing a project on electronic waste. If you have a minute, please consider completing her online #survey: https://t.co/jEiTiOLVjh Please RT &amp; thank you in advance! #science #scied #onted #electronicwaste #ewaste #recycle #reuse #electronics #peelfam #peel21st"
+	},
+	{
 		"created_at": "Sun Dec 29 00:11:07 +0000 2019",
 		"id": 1211077147235889200,
 		"id_str": "1211077147235889152",
