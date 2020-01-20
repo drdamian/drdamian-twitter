@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 20 00:25:15 +0000 2020",
+		"id": 1219053239481569300,
+		"id_str": "1219053239481569280",
+		"full_text": "Two weeks early, but tonight was the best night for a celebratory sleepover.  One more year till we have two teenagers in this house. https://t.co/WVUyNzKs1p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1219053238277808000,
+					"id_str": "1219053238277808130",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EOrydh3WoAIm6HQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOrydh3WoAIm6HQ.jpg",
+					"url": "https://t.co/WVUyNzKs1p",
+					"display_url": "pic.twitter.com/WVUyNzKs1p",
+					"expanded_url": "https://twitter.com/_drdamian/status/1219053239481569280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 557,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 557,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 557,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219053238277808000,
+					"id_str": "1219053238277808130",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/EOrydh3WoAIm6HQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOrydh3WoAIm6HQ.jpg",
+					"url": "https://t.co/WVUyNzKs1p",
+					"display_url": "pic.twitter.com/WVUyNzKs1p",
+					"expanded_url": "https://twitter.com/_drdamian/status/1219053239481569280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 557,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 557,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 557,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3237,
+			"friends_count": 1547,
+			"listed_count": 258,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Two weeks early, but tonight was the best night for a celebratory sleepover.  One more year till we have two teenagers in this house. https://t.co/WVUyNzKs1p"
+	},
+	{
 		"created_at": "Wed Jan 15 21:36:24 +0000 2020",
 		"id": 1217561194464206800,
 		"id_str": "1217561194464206849",
