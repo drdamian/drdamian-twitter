@@ -1,6 +1,611 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 23 14:47:09 +0000 2020",
+		"id": 1220350484084555800,
+		"id_str": "1220357307483262979",
+		"full_text": "Our @CardinalsLHS January Student of the Month event is happening now in our Library-media center.  Congratulations to all our very impressive students!!! Thanks @_drdamian for leading this program.  @LTPS1 #cardinalsculture https://t.co/q0BvOs8iLE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "cardinalsculture",
+					"indices": [
+						207,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						4,
+						17
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						162,
+						172
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Twp Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						200,
+						206
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1220350456008003600,
+					"id_str": "1220350456008003587",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EO-ORifX0AMioWG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO-ORifX0AMioWG.jpg",
+					"url": "https://t.co/q0BvOs8iLE",
+					"display_url": "pic.twitter.com/q0BvOs8iLE",
+					"expanded_url": "https://twitter.com/dadamltps/status/1220350484084555777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 418,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 630,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 630,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 210,
+									"y": 513,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 318,
+									"y": 774,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 318,
+									"y": 774,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 318,
+									"y": 774,
+									"h": 141,
+									"w": 141
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1220350456008003600,
+					"id_str": "1220350456008003587",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EO-ORifX0AMioWG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO-ORifX0AMioWG.jpg",
+					"url": "https://t.co/q0BvOs8iLE",
+					"display_url": "pic.twitter.com/q0BvOs8iLE",
+					"expanded_url": "https://twitter.com/dadamltps/status/1220350484084555777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 418,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 630,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 630,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 210,
+									"y": 513,
+									"h": 93,
+									"w": 93
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 318,
+									"y": 774,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 318,
+									"y": 774,
+									"h": 141,
+									"w": 141
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 318,
+									"y": 774,
+									"h": 141,
+									"w": 141
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1220350462089744400,
+					"id_str": "1220350462089744384",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EO-OR5JX0AA1WpC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO-OR5JX0AA1WpC.jpg",
+					"url": "https://t.co/q0BvOs8iLE",
+					"display_url": "pic.twitter.com/q0BvOs8iLE",
+					"expanded_url": "https://twitter.com/dadamltps/status/1220350484084555777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 302,
+									"y": 421,
+									"h": 55,
+									"w": 55
+								},
+								{
+									"x": 786,
+									"y": 379,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 171,
+									"y": 239,
+									"h": 31,
+									"w": 31
+								},
+								{
+									"x": 445,
+									"y": 215,
+									"h": 32,
+									"w": 32
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 516,
+									"y": 720,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 1342,
+									"y": 648,
+									"h": 98,
+									"w": 98
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 516,
+									"y": 720,
+									"h": 94,
+									"w": 94
+								},
+								{
+									"x": 1342,
+									"y": 648,
+									"h": 98,
+									"w": 98
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1220350470075637800,
+					"id_str": "1220350470075637760",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EO-OSW5W4AAGi7U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO-OSW5W4AAGi7U.jpg",
+					"url": "https://t.co/q0BvOs8iLE",
+					"display_url": "pic.twitter.com/q0BvOs8iLE",
+					"expanded_url": "https://twitter.com/dadamltps/status/1220350484084555777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 390,
+									"y": 239,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 892,
+									"y": 455,
+									"h": 70,
+									"w": 70
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 666,
+									"y": 408,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1524,
+									"y": 778,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 666,
+									"y": 408,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 1524,
+									"y": 778,
+									"h": 120,
+									"w": 120
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 221,
+									"y": 135,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 506,
+									"y": 258,
+									"h": 39,
+									"w": 39
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1220350477977706500,
+					"id_str": "1220350477977706499",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/EO-OS0VW4AM84be.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO-OS0VW4AM84be.jpg",
+					"url": "https://t.co/q0BvOs8iLE",
+					"display_url": "pic.twitter.com/q0BvOs8iLE",
+					"expanded_url": "https://twitter.com/dadamltps/status/1220350484084555777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 716,
+									"y": 680,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 1422,
+									"y": 750,
+									"h": 122,
+									"w": 122
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 237,
+									"y": 225,
+									"h": 40,
+									"w": 40
+								},
+								{
+									"x": 472,
+									"y": 249,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 419,
+									"y": 398,
+									"h": 71,
+									"w": 71
+								},
+								{
+									"x": 833,
+									"y": 439,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 716,
+									"y": 680,
+									"h": 122,
+									"w": 122
+								},
+								{
+									"x": 1422,
+									"y": 750,
+									"h": 122,
+									"w": 122
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 260753316,
+			"id_str": "260753316",
+			"name": "David Adam",
+			"screen_name": "dadamltps",
+			"location": "Lawrence, NJ",
+			"description": "Principal of Lawrence High School",
+			"url": "https://t.co/KETOW12XgE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KETOW12XgE",
+							"expanded_url": "http://www.ltps.org",
+							"display_url": "ltps.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 927,
+			"friends_count": 143,
+			"listed_count": 42,
+			"created_at": "Fri Mar 04 14:40:19 +0000 2011",
+			"favourites_count": 10430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/260753316/1477665508",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our @CardinalsLHS January Student of the Month event is happening now in our Library-media center.  Congratulations to all our very impressive students!!! Thanks @_drdamian for leading this program.  @LTPS1 #cardinalsculture https://t.co/q0BvOs8iLE"
+	},
+	{
 		"created_at": "Wed Jan 22 23:40:39 +0000 2020",
 		"id": 1220129175522201600,
 		"id_str": "1220129175522201600",
