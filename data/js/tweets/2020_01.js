@@ -1,6 +1,385 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 24 17:23:17 +0000 2020",
+		"id": 1220682998997233700,
+		"id_str": "1220758987777499136",
+		"full_text": "Join @LISShines at the LHS Boys Basketball game on February 4th for LIS Night, all LIS students get in for free (must be accompanied by an adult) - our very own Pitch Black will be singing the National Anthem! @PrincipalToohey @MissRelloLIS @LTPSAthletics  @JeffreyMolinel1 https://t.co/QVhFHBja7u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LISShines",
+					"name": "LIS Shines",
+					"id": 1029050872075046900,
+					"id_str": "1029050872075046913",
+					"indices": [
+						5,
+						15
+					]
+				},
+				{
+					"screen_name": "PrincipalToohey",
+					"name": "Tom Toohey, Ed.D.",
+					"id": 2853448227,
+					"id_str": "2853448227",
+					"indices": [
+						210,
+						226
+					]
+				},
+				{
+					"screen_name": "MissRelloLIS",
+					"name": "Sharin Rello",
+					"id": 2586002424,
+					"id_str": "2586002424",
+					"indices": [
+						227,
+						240
+					]
+				},
+				{
+					"screen_name": "LTPSAthletics",
+					"name": "LTPS AD",
+					"id": 2845523504,
+					"id_str": "2845523504",
+					"indices": [
+						241,
+						255
+					]
+				},
+				{
+					"screen_name": "JeffreyMolinel1",
+					"name": "Jeffrey Molinelli",
+					"id": 4472472269,
+					"id_str": "4472472269",
+					"indices": [
+						257,
+						273
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1220682995415294000,
+					"id_str": "1220682995415293952",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EPC8t4UWoAAYQvC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPC8t4UWoAAYQvC.jpg",
+					"url": "https://t.co/QVhFHBja7u",
+					"display_url": "pic.twitter.com/QVhFHBja7u",
+					"expanded_url": "https://twitter.com/msafischer/status/1220682998997233665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 578,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 578,
+							"h": 810,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "260753316",
+									"screen_name": "dadamltps",
+									"name": "David Adam"
+								},
+								{
+									"type": "user",
+									"user_id": "2178717536",
+									"screen_name": "LTPS1",
+									"name": "Lawrence Twp Schools"
+								},
+								{
+									"type": "user",
+									"user_id": "465193444",
+									"screen_name": "cjwilliamsjr",
+									"name": "Cliff Williams"
+								},
+								{
+									"type": "user",
+									"user_id": "7887852",
+									"screen_name": "_drdamian",
+									"name": "Dr. Damian Bariexca"
+								},
+								{
+									"type": "user",
+									"user_id": "1013578285773705216",
+									"screen_name": "FaykimL",
+									"name": "Fay Kim-Lopez"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 223,
+									"y": 107,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 223,
+									"y": 107,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 187,
+									"y": 89,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 223,
+									"y": 107,
+									"h": 45,
+									"w": 45
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1220682995415294000,
+					"id_str": "1220682995415293952",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/EPC8t4UWoAAYQvC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPC8t4UWoAAYQvC.jpg",
+					"url": "https://t.co/QVhFHBja7u",
+					"display_url": "pic.twitter.com/QVhFHBja7u",
+					"expanded_url": "https://twitter.com/msafischer/status/1220682998997233665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 578,
+							"h": 810,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 485,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 578,
+							"h": 810,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "260753316",
+									"screen_name": "dadamltps",
+									"name": "David Adam"
+								},
+								{
+									"type": "user",
+									"user_id": "2178717536",
+									"screen_name": "LTPS1",
+									"name": "Lawrence Twp Schools"
+								},
+								{
+									"type": "user",
+									"user_id": "465193444",
+									"screen_name": "cjwilliamsjr",
+									"name": "Cliff Williams"
+								},
+								{
+									"type": "user",
+									"user_id": "7887852",
+									"screen_name": "_drdamian",
+									"name": "Dr. Damian Bariexca"
+								},
+								{
+									"type": "user",
+									"user_id": "1013578285773705216",
+									"screen_name": "FaykimL",
+									"name": "Fay Kim-Lopez"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 223,
+									"y": 107,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 223,
+									"y": 107,
+									"h": 45,
+									"w": 45
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 187,
+									"y": 89,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 223,
+									"y": 107,
+									"h": 45,
+									"w": 45
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720423019,
+			"id_str": "720423019",
+			"name": "Alyson Fischer",
+			"screen_name": "msafischer",
+			"location": "Lawrenceville, NJ",
+			"description": "Principal in Lawrenceville, NJ. On my Ed.D. journey at Rider University. Avid reader, runner, and proud mom of three.",
+			"url": "https://t.co/KETOW12XgE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KETOW12XgE",
+							"expanded_url": "http://www.ltps.org",
+							"display_url": "ltps.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 682,
+			"friends_count": 685,
+			"listed_count": 11,
+			"created_at": "Fri Jul 27 16:12:34 +0000 2012",
+			"favourites_count": 4315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1156347991801942017/UkDJvoNc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1156347991801942017/UkDJvoNc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720423019/1374677482",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join @LISShines at the LHS Boys Basketball game on February 4th for LIS Night, all LIS students get in for free (must be accompanied by an adult) - our very own Pitch Black will be singing the National Anthem! @PrincipalToohey @MissRelloLIS @LTPSAthletics  @JeffreyMolinel1 https://t.co/QVhFHBja7u"
+	},
+	{
 		"created_at": "Thu Jan 23 14:47:09 +0000 2020",
 		"id": 1220350484084555800,
 		"id_str": "1220357307483262979",
