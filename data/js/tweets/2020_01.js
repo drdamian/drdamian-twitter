@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 31 23:01:13 +0000 2020",
+		"id": 1223380744988434400,
+		"id_str": "1223380744988434432",
+		"full_text": "@DrTimony @MrBungle @KNEECAPCEOL @SineadOConnor @sebastianbach I just saw Bob Mould this past Sunday night at ArtsQuest in Bethlehem. Great little venue. #chefkiss",
+		"truncated": false,
+		"display_text_range": [
+			63,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "chefkiss",
+					"indices": [
+						154,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrTimony",
+					"name": "David D. Timony, PhD",
+					"id": 118111651,
+					"id_str": "118111651",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "MrBungle",
+					"name": "MrBungle",
+					"id": 25985313,
+					"id_str": "25985313",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"screen_name": "KNEECAPCEOL",
+					"name": "KNEECAP",
+					"id": 922508288910155800,
+					"id_str": "922508288910155776",
+					"indices": [
+						20,
+						32
+					]
+				},
+				{
+					"screen_name": "SineadOConnor",
+					"name": "Sinéad O'Connor",
+					"id": 2485170618,
+					"id_str": "2485170618",
+					"indices": [
+						33,
+						47
+					]
+				},
+				{
+					"screen_name": "sebastianbach",
+					"name": "Sebastian Bach",
+					"id": 17450410,
+					"id_str": "17450410",
+					"indices": [
+						48,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1223377575264891000,
+		"in_reply_to_status_id_str": "1223377575264890881",
+		"in_reply_to_user_id": 118111651,
+		"in_reply_to_user_id_str": "118111651",
+		"in_reply_to_screen_name": "DrTimony",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3233,
+			"friends_count": 1549,
+			"listed_count": 257,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2210,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrTimony @MrBungle @KNEECAPCEOL @SineadOConnor @sebastianbach I just saw Bob Mould this past Sunday night at ArtsQuest in Bethlehem. Great little venue. #chefkiss"
+	},
+	{
 		"created_at": "Thu Jan 30 12:19:29 +0000 2020",
 		"id": 1222856861050904600,
 		"id_str": "1222856861050904576",
