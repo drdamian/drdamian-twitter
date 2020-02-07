@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 06 11:57:24 +0000 2020",
+		"id": 1225265242273386500,
+		"id_str": "1225388015536746497",
+		"full_text": "Lawrence High DECA raises funds for @GoodGriefNJ  https://t.co/T4k3ZxtI72 via @Community News #NJDECA #ProudAdvisors #Teamwork #Dedication @SchneckDiane @CardinalsLHS @dadamltps @_drdamian",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NJDECA",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"text": "ProudAdvisors",
+					"indices": [
+						102,
+						116
+					]
+				},
+				{
+					"text": "Teamwork",
+					"indices": [
+						117,
+						126
+					]
+				},
+				{
+					"text": "Dedication",
+					"indices": [
+						127,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GoodGriefNJ",
+					"name": "Good Grief",
+					"id": 321544199,
+					"id_str": "321544199",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"screen_name": "Community",
+					"name": "community",
+					"id": 1065042945747836900,
+					"id_str": "1065042945747836928",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"screen_name": "SchneckDiane",
+					"name": "Diane Schneck",
+					"id": 4901883603,
+					"id_str": "4901883603",
+					"indices": [
+						139,
+						152
+					]
+				},
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						153,
+						166
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						167,
+						177
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						178,
+						188
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/T4k3ZxtI72",
+					"expanded_url": "https://communitynews.org/2020/02/01/lawrence-high-deca-raises-funds-for-grieving-kids/",
+					"display_url": "communitynews.org/2020/02/01/law…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 801118345,
+			"id_str": "801118345",
+			"name": "John Tees",
+			"screen_name": "john_tees",
+			"location": "",
+			"description": "High School Business Educator and Co-DECA Advisor in Lawrenceville, NJ. Solely my comments.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116,
+			"friends_count": 120,
+			"listed_count": 0,
+			"created_at": "Mon Sep 03 20:03:32 +0000 2012",
+			"favourites_count": 277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103658353404850176/Asky8PI__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103658353404850176/Asky8PI__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lawrence High DECA raises funds for @GoodGriefNJ  https://t.co/T4k3ZxtI72 via @Community News #NJDECA #ProudAdvisors #Teamwork #Dedication @SchneckDiane @CardinalsLHS @dadamltps @_drdamian"
+	},
+	{
 		"created_at": "Wed Feb 05 22:35:02 +0000 2020",
 		"id": 1225186094280593400,
 		"id_str": "1225186094280593413",
