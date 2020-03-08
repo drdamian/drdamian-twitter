@@ -1,6 +1,427 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 07 17:28:08 +0000 2020",
+		"id": 1236342883944411100,
+		"id_str": "1236342883944411138",
+		"full_text": "I spy @MrsCasieri! #LTPS https://t.co/T4UZeU7Lce",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						19,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrsCasieri",
+					"name": "Mrs. Casieri",
+					"id": 830254922,
+					"id_str": "830254922",
+					"indices": [
+						6,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/T4UZeU7Lce",
+					"expanded_url": "https://twitter.com/NJASL/status/1236338688361140230",
+					"display_url": "twitter.com/NJASL/status/1…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3235,
+			"friends_count": 1547,
+			"listed_count": 257,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2232,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1236338688361140200,
+		"quoted_status_id_str": "1236338688361140230",
+		"quoted_status_permalink": {
+			"url": "https://t.co/T4UZeU7Lce",
+			"expanded": "https://twitter.com/NJASL/status/1236338688361140230",
+			"display": "twitter.com/NJASL/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 07 17:11:28 +0000 2020",
+			"id": 1236338688361140200,
+			"id_str": "1236338688361140230",
+			"full_text": "Some more winners in our raffle to close-out the day. A big thank you again to all of our presenters, vendors, and donators! #njaslspring2020 https://t.co/ZcLX5IRCZB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				141
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "njaslspring2020",
+						"indices": [
+							125,
+							141
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1236338672292806700,
+						"id_str": "1236338672292806658",
+						"indices": [
+							142,
+							165
+						],
+						"media_url": "http://pbs.twimg.com/media/EShbeNgXQAIe7gu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EShbeNgXQAIe7gu.jpg",
+						"url": "https://t.co/ZcLX5IRCZB",
+						"display_url": "pic.twitter.com/ZcLX5IRCZB",
+						"expanded_url": "https://twitter.com/NJASL/status/1236338688361140230/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1236338672292806700,
+						"id_str": "1236338672292806658",
+						"indices": [
+							142,
+							165
+						],
+						"media_url": "http://pbs.twimg.com/media/EShbeNgXQAIe7gu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EShbeNgXQAIe7gu.jpg",
+						"url": "https://t.co/ZcLX5IRCZB",
+						"display_url": "pic.twitter.com/ZcLX5IRCZB",
+						"expanded_url": "https://twitter.com/NJASL/status/1236338688361140230/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1236338674108858400,
+						"id_str": "1236338674108858370",
+						"indices": [
+							142,
+							165
+						],
+						"media_url": "http://pbs.twimg.com/media/EShbeURWAAIDc3U.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EShbeURWAAIDc3U.jpg",
+						"url": "https://t.co/ZcLX5IRCZB",
+						"display_url": "pic.twitter.com/ZcLX5IRCZB",
+						"expanded_url": "https://twitter.com/NJASL/status/1236338688361140230/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1236338672296960000,
+						"id_str": "1236338672296960000",
+						"indices": [
+							142,
+							165
+						],
+						"media_url": "http://pbs.twimg.com/media/EShbeNhWoAAqdwx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EShbeNhWoAAqdwx.jpg",
+						"url": "https://t.co/ZcLX5IRCZB",
+						"display_url": "pic.twitter.com/ZcLX5IRCZB",
+						"expanded_url": "https://twitter.com/NJASL/status/1236338688361140230/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1236338672301224000,
+						"id_str": "1236338672301223936",
+						"indices": [
+							142,
+							165
+						],
+						"media_url": "http://pbs.twimg.com/media/EShbeNiXsAANAjS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EShbeNiXsAANAjS.jpg",
+						"url": "https://t.co/ZcLX5IRCZB",
+						"display_url": "pic.twitter.com/ZcLX5IRCZB",
+						"expanded_url": "https://twitter.com/NJASL/status/1236338688361140230/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 87832393,
+				"id_str": "87832393",
+				"name": "NJ Assn School Libns",
+				"screen_name": "NJASL",
+				"location": "Trenton, New Jersey",
+				"description": "Advocates high standards for librarianship & library media programs in NJ schools to ensure students & staff are effective users & producers of info.",
+				"url": "http://t.co/UWucBkr0fD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/UWucBkr0fD",
+								"expanded_url": "http://www.njasl.org",
+								"display_url": "njasl.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2054,
+				"friends_count": 1106,
+				"listed_count": 95,
+				"created_at": "Fri Nov 06 01:02:28 +0000 2009",
+				"favourites_count": 4794,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5238,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/502156487498534912/Adn8RgX8_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/502156487498534912/Adn8RgX8_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/87832393/1409496611",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I spy @MrsCasieri! #LTPS https://t.co/T4UZeU7Lce"
+	},
+	{
 		"created_at": "Thu Mar 05 17:07:57 +0000 2020",
 		"id": 1235613029041164300,
 		"id_str": "1235613029041164288",
