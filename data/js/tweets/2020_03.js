@@ -1,6 +1,560 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 21 01:05:04 +0000 2020",
+		"id": 1241168916585549800,
+		"id_str": "1241168916585549825",
+		"full_text": "Anyone else become @zoom_us experts this week?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "zoom_us",
+					"name": "Zoom",
+					"id": 522701657,
+					"id_str": "522701657",
+					"indices": [
+						19,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 1547,
+			"listed_count": 257,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Anyone else become @zoom_us experts this week?"
+	},
+	{
+		"created_at": "Sat Mar 21 01:02:49 +0000 2020",
+		"id": 1241168352120377300,
+		"id_str": "1241168352120377346",
+		"full_text": "Yup... Still home. (@ Bedminster Hunt West in Perkasie, PA) https://t.co/J5kmkuDJ5l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J5kmkuDJ5l",
+					"expanded_url": "https://www.swarmapp.com/c/9By6wYonyo9",
+					"display_url": "swarmapp.com/c/9By6wYonyo9",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 1547,
+			"listed_count": 257,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yup... Still home. (@ Bedminster Hunt West in Perkasie, PA) https://t.co/J5kmkuDJ5l"
+	},
+	{
+		"created_at": "Fri Mar 20 22:02:22 +0000 2020",
+		"id": 1241122941032525800,
+		"id_str": "1241122941032525824",
+		"full_text": "@cincottajessica @CCooperWWP @CathyReilly2LA @bethpando @katiecubano @msafischer @PHS_MsBaxter @CardinalsLHS @mrs_bicknell Thanks, Jess!",
+		"truncated": false,
+		"display_text_range": [
+			123,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cincottajessica",
+					"name": "Jessica Cincotta",
+					"id": 634879506,
+					"id_str": "634879506",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "CCooperWWP",
+					"name": "Carl Cooper",
+					"id": 3314894585,
+					"id_str": "3314894585",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "CathyReilly2LA",
+					"name": "cathy reilly",
+					"id": 3198155493,
+					"id_str": "3198155493",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"screen_name": "bethpando",
+					"name": "Beth Pandolpho",
+					"id": 354053471,
+					"id_str": "354053471",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"screen_name": "katiecubano",
+					"name": "Katie Cubano",
+					"id": 812020760,
+					"id_str": "812020760",
+					"indices": [
+						56,
+						68
+					]
+				},
+				{
+					"screen_name": "msafischer",
+					"name": "Alyson Fischer",
+					"id": 720423019,
+					"id_str": "720423019",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"screen_name": "PHS_MsBaxter",
+					"name": "Jessica Baxter",
+					"id": 1158371618,
+					"id_str": "1158371618",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						95,
+						108
+					]
+				},
+				{
+					"screen_name": "mrs_bicknell",
+					"name": "Shannon Bicknell",
+					"id": 378695393,
+					"id_str": "378695393",
+					"indices": [
+						109,
+						122
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1241122657296355300,
+		"in_reply_to_status_id_str": "1241122657296355333",
+		"in_reply_to_user_id": 634879506,
+		"in_reply_to_user_id_str": "634879506",
+		"in_reply_to_screen_name": "cincottajessica",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 1547,
+			"listed_count": 257,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@cincottajessica @CCooperWWP @CathyReilly2LA @bethpando @katiecubano @msafischer @PHS_MsBaxter @CardinalsLHS @mrs_bicknell Thanks, Jess!"
+	},
+	{
+		"created_at": "Fri Mar 20 18:38:49 +0000 2020",
+		"id": 1241071712965402600,
+		"id_str": "1241071712965402626",
+		"full_text": "@SchleiderJustin @Zoom @msafischer @MissRelloLIS @PrincipalToohey @cjwilliamsjr I did the same for my a.m. recording session this morning!",
+		"truncated": false,
+		"display_text_range": [
+			80,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SchleiderJustin",
+					"name": "Justin Schleider ABC, BBD",
+					"id": 2171504722,
+					"id_str": "2171504722",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Zoom",
+					"name": "Zoom",
+					"id": 395456593,
+					"id_str": "395456593",
+					"indices": [
+						17,
+						22
+					]
+				},
+				{
+					"screen_name": "msafischer",
+					"name": "Alyson Fischer",
+					"id": 720423019,
+					"id_str": "720423019",
+					"indices": [
+						23,
+						34
+					]
+				},
+				{
+					"screen_name": "MissRelloLIS",
+					"name": "Sharin Rello",
+					"id": 2586002424,
+					"id_str": "2586002424",
+					"indices": [
+						35,
+						48
+					]
+				},
+				{
+					"screen_name": "PrincipalToohey",
+					"name": "Tom Toohey, Ed.D.",
+					"id": 2853448227,
+					"id_str": "2853448227",
+					"indices": [
+						49,
+						65
+					]
+				},
+				{
+					"screen_name": "cjwilliamsjr",
+					"name": "Cliff Williams",
+					"id": 465193444,
+					"id_str": "465193444",
+					"indices": [
+						66,
+						79
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1241033368491511800,
+		"in_reply_to_status_id_str": "1241033368491511808",
+		"in_reply_to_user_id": 2171504722,
+		"in_reply_to_user_id_str": "2171504722",
+		"in_reply_to_screen_name": "SchleiderJustin",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 1547,
+			"listed_count": 257,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2244,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32647,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SchleiderJustin @Zoom @msafischer @MissRelloLIS @PrincipalToohey @cjwilliamsjr I did the same for my a.m. recording session this morning!"
+	},
+	{
 		"created_at": "Fri Mar 20 01:06:58 +0000 2020",
 		"id": 1240807007562739700,
 		"id_str": "1240807007562739713",
