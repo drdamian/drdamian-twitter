@@ -1,6 +1,1624 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 21 23:32:02 +0000 2020",
+		"id": 1241368094544728000,
+		"id_str": "1241507893234601984",
+		"full_text": "Anxiety, fear and stress from #COVID19 can feel overwhelming and cause strong emotions. \n\nPlease remember to be kind. It takes ALL OF US to stop the spread of COVID-19.\n\n💬 If you need help coping, you can text PA to 741-741. https://t.co/HBBQdn67ZE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						30,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241367937925210000,
+					"id_str": "1241367937925210115",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/ETo5j_-XYAMInWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETo5j_-XYAMInWA.jpg",
+					"url": "https://t.co/HBBQdn67ZE",
+					"display_url": "pic.twitter.com/HBBQdn67ZE",
+					"expanded_url": "https://twitter.com/PAHealthDept/status/1241368094544728066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241367937925210000,
+					"id_str": "1241367937925210115",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/ETo5j_-XYAMInWA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETo5j_-XYAMInWA.jpg",
+					"url": "https://t.co/HBBQdn67ZE",
+					"display_url": "pic.twitter.com/HBBQdn67ZE",
+					"expanded_url": "https://twitter.com/PAHealthDept/status/1241368094544728066/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3218464527,
+			"id_str": "3218464527",
+			"name": "PA Department of Health",
+			"screen_name": "PAHealthDept",
+			"location": "Harrisburg, PA",
+			"description": "Official Twitter account for the Pennsylvania Department of Health. DOH is Pennsylvania’s primary source for public health information and services.",
+			"url": "https://t.co/8j11yVd6Dh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8j11yVd6Dh",
+							"expanded_url": "http://www.health.pa.gov",
+							"display_url": "health.pa.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26736,
+			"friends_count": 950,
+			"listed_count": 391,
+			"created_at": "Tue Apr 28 19:38:36 +0000 2015",
+			"favourites_count": 2243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131895323918520322/YOury57e_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131895323918520322/YOury57e_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3218464527/1568814965",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Anxiety, fear and stress from #COVID19 can feel overwhelming and cause strong emotions. \n\nPlease remember to be kind. It takes ALL OF US to stop the spread of COVID-19.\n\n💬 If you need help coping, you can text PA to 741-741. https://t.co/HBBQdn67ZE"
+	},
+	{
+		"created_at": "Sat Mar 21 19:51:17 +0000 2020",
+		"id": 1241452340462473200,
+		"id_str": "1241452340462473217",
+		"full_text": "I don't know who needs to hear this, but...\n\n(not me since I've already seen them all, but if you haven't, you do) https://t.co/mpR1mmMl4V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mpR1mmMl4V",
+					"expanded_url": "https://twitter.com/shazrasul/status/1241451730115723264",
+					"display_url": "twitter.com/shazrasul/stat…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 1548,
+			"listed_count": 257,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1241451730115723300,
+		"quoted_status_id_str": "1241451730115723264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mpR1mmMl4V",
+			"expanded": "https://twitter.com/shazrasul/status/1241451730115723264",
+			"display": "twitter.com/shazrasul/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 21 19:48:52 +0000 2020",
+			"id": 1241451730115723300,
+			"id_str": "1241451730115723264",
+			"full_text": "Seasons 1-5 of the wire are on Amazon prime (in the free if you have a prime membership category).  Just saying.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1356241,
+				"id_str": "1356241",
+				"name": "shaz rasul",
+				"screen_name": "shazrasul",
+				"location": "Chicago",
+				"description": "Outsider/Insider #CivicEngagement #HigherEd #UChicago #Edu #Chicago #Southside | ✶ ✶ ✶ ✶ | Always #Reading | Opinions mine alone | RT just RT",
+				"url": "https://t.co/CFfnxF6STF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CFfnxF6STF",
+								"expanded_url": "http://shazrasul.wordpress.com/",
+								"display_url": "shazrasul.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2908,
+				"friends_count": 2911,
+				"listed_count": 155,
+				"created_at": "Sat Mar 17 14:45:51 +0000 2007",
+				"favourites_count": 69167,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 50186,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/686011303/IMG_1658_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/686011303/IMG_1658_normal.JPG",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1356241/1531098552",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1d9a5370a355ab0c",
+				"url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json",
+				"place_type": "city",
+				"name": "Chicago",
+				"full_name": "Chicago, IL",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-87.940033,
+								41.644102
+							],
+							[
+								-87.523993,
+								41.644102
+							],
+							[
+								-87.523993,
+								42.0230669
+							],
+							[
+								-87.940033,
+								42.0230669
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I don't know who needs to hear this, but...\n\n(not me since I've already seen them all, but if you haven't, you do) https://t.co/mpR1mmMl4V"
+	},
+	{
+		"created_at": "Sat Mar 21 19:21:33 +0000 2020",
+		"id": 1241441893428445200,
+		"id_str": "1241444857236860933",
+		"full_text": "If you are home and are looking for something to do check out https://t.co/o12JusIQi5\nOne of my best friends David Ferreira and I are finally getting to exhibit together. I was so looking forward to attending… https://t.co/X5ycbm8ib1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o12JusIQi5",
+					"expanded_url": "http://www.spectrumartgallery.org",
+					"display_url": "spectrumartgallery.org",
+					"indices": [
+						62,
+						85
+					]
+				},
+				{
+					"url": "https://t.co/X5ycbm8ib1",
+					"expanded_url": "https://www.instagram.com/p/B-AcRXMDgWI/?igshid=19enedirbou3l",
+					"display_url": "instagram.com/p/B-AcRXMDgWI/…",
+					"indices": [
+						210,
+						233
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4808156895,
+			"id_str": "4808156895",
+			"name": "Carneystudios",
+			"screen_name": "carneystudios",
+			"location": "New Jersey, USA",
+			"description": "Professional Exhibiting Artist.",
+			"url": "https://t.co/Wdc8YSWg81",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wdc8YSWg81",
+							"expanded_url": "http://www.carneystudios.net",
+							"display_url": "carneystudios.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 94,
+			"friends_count": 115,
+			"listed_count": 0,
+			"created_at": "Thu Jan 14 22:25:52 +0000 2016",
+			"favourites_count": 191,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 572,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/687768006148141057/522GqD1e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/687768006148141057/522GqD1e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4808156895/1453074699",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you are home and are looking for something to do check out https://t.co/o12JusIQi5\nOne of my best friends David Ferreira and I are finally getting to exhibit together. I was so looking forward to attending… https://t.co/X5ycbm8ib1"
+	},
+	{
+		"created_at": "Sat Mar 21 19:20:42 +0000 2020",
+		"id": 1241426036967051300,
+		"id_str": "1241444641083404289",
+		"full_text": "THANK YOU to everyone who is staying home! While you're home, it's still OK to:\n• go outside + get fresh air\n• enjoy the sunshine (it's out today!) \n• take a walk (6' away from others)\n• play with your kids in your yard\n\nKeep practicing #socialdistancing + #FlattenTheCurve! https://t.co/uWC43vPGrX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "socialdistancing",
+					"indices": [
+						237,
+						254
+					]
+				},
+				{
+					"text": "FlattenTheCurve",
+					"indices": [
+						257,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241425974283186200,
+					"id_str": "1241425974283186176",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/ETpuWKQXsAAuBfE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETpuWKQXsAAuBfE.jpg",
+					"url": "https://t.co/uWC43vPGrX",
+					"display_url": "pic.twitter.com/uWC43vPGrX",
+					"expanded_url": "https://twitter.com/PAHealthDept/status/1241426036967051266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241425974283186200,
+					"id_str": "1241425974283186176",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/ETpuWKQXsAAuBfE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETpuWKQXsAAuBfE.jpg",
+					"url": "https://t.co/uWC43vPGrX",
+					"display_url": "pic.twitter.com/uWC43vPGrX",
+					"expanded_url": "https://twitter.com/PAHealthDept/status/1241426036967051266/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3218464527,
+			"id_str": "3218464527",
+			"name": "PA Department of Health",
+			"screen_name": "PAHealthDept",
+			"location": "Harrisburg, PA",
+			"description": "Official Twitter account for the Pennsylvania Department of Health. DOH is Pennsylvania’s primary source for public health information and services.",
+			"url": "https://t.co/8j11yVd6Dh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8j11yVd6Dh",
+							"expanded_url": "http://www.health.pa.gov",
+							"display_url": "health.pa.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26736,
+			"friends_count": 950,
+			"listed_count": 391,
+			"created_at": "Tue Apr 28 19:38:36 +0000 2015",
+			"favourites_count": 2243,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131895323918520322/YOury57e_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131895323918520322/YOury57e_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3218464527/1568814965",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 191,
+		"favorite_count": 354,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THANK YOU to everyone who is staying home! While you're home, it's still OK to:\n• go outside + get fresh air\n• enjoy the sunshine (it's out today!) \n• take a walk (6' away from others)\n• play with your kids in your yard\n\nKeep practicing #socialdistancing + #FlattenTheCurve! https://t.co/uWC43vPGrX"
+	},
+	{
+		"created_at": "Sat Mar 21 18:29:22 +0000 2020",
+		"id": 1241431724917239800,
+		"id_str": "1241431724917239808",
+		"full_text": "Like most other 70s/80s kids, I love 'The Gambler' too, but don't sleep on First Edition Kenny: https://t.co/0D4vIDIvBh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0D4vIDIvBh",
+					"expanded_url": "https://www.youtube.com/watch?v=AULOC--qUOI",
+					"display_url": "youtube.com/watch?v=AULOC-…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 1548,
+			"listed_count": 257,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Like most other 70s/80s kids, I love 'The Gambler' too, but don't sleep on First Edition Kenny: https://t.co/0D4vIDIvBh"
+	},
+	{
+		"created_at": "Sat Mar 21 17:30:07 +0000 2020",
+		"id": 1241414208417345500,
+		"id_str": "1241416815995244545",
+		"full_text": "New Jerseyans can still take a walk outside, go buy groceries, or get take-out from a local restaurant.\n \nBut, otherwise, STAY AT HOME.\n \nThis is a time for us all to come together to flatten the curve, slow, and eventually halt the spread of #COVID19.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						243,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1241413979366359000,
+		"in_reply_to_status_id_str": "1241413979366359040",
+		"in_reply_to_user_id": 948946378939609100,
+		"in_reply_to_user_id_str": "948946378939609089",
+		"in_reply_to_screen_name": "GovMurphy",
+		"user": {
+			"id": 948946378939609100,
+			"id_str": "948946378939609089",
+			"name": "Governor Phil Murphy",
+			"screen_name": "GovMurphy",
+			"location": "New Jersey, USA",
+			"description": "56th Governor of the great State of New Jersey. Proud husband of @FirstLadyNJ and father of 4 humans and 2 dogs. Proud to lead @NJGov alongside @LtGovOliver.",
+			"url": "https://t.co/bB3uxx4f5p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bB3uxx4f5p",
+							"expanded_url": "http://NJ.Gov",
+							"display_url": "NJ.Gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132613,
+			"friends_count": 129,
+			"listed_count": 630,
+			"created_at": "Thu Jan 04 15:57:02 +0000 2018",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5369,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1237143859005665282/OyTayLI9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237143859005665282/OyTayLI9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/948946378939609089/1584550812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 532,
+		"favorite_count": 1183,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "New Jerseyans can still take a walk outside, go buy groceries, or get take-out from a local restaurant.\n \nBut, otherwise, STAY AT HOME.\n \nThis is a time for us all to come together to flatten the curve, slow, and eventually halt the spread of #COVID19."
+	},
+	{
+		"created_at": "Sat Mar 21 17:29:43 +0000 2020",
+		"id": 1241413979366359000,
+		"id_str": "1241416713163476998",
+		"full_text": "BREAKING: I just signed an Executive Order directing nearly all residents to STAY AT HOME.\n \nALL gatherings are canceled.\n \nALL non-essential retail businesses must indefinitely close their physical stores to the public effective 9:00 p.m. tonight.\n \nMore: https://t.co/JW1q8awGh7 https://t.co/fmElyFwNtf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JW1q8awGh7",
+					"expanded_url": "http://covid19.nj.gov",
+					"display_url": "covid19.nj.gov",
+					"indices": [
+						257,
+						280
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1241413495528308700,
+					"id_str": "1241413495528308739",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241413495528308739/pu/img/9WHDmbe51GwNzyCi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241413495528308739/pu/img/9WHDmbe51GwNzyCi.jpg",
+					"url": "https://t.co/fmElyFwNtf",
+					"display_url": "pic.twitter.com/fmElyFwNtf",
+					"expanded_url": "https://twitter.com/GovMurphy/status/1241413979366359040/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241413495528308700,
+					"id_str": "1241413495528308739",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241413495528308739/pu/img/9WHDmbe51GwNzyCi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241413495528308739/pu/img/9WHDmbe51GwNzyCi.jpg",
+					"url": "https://t.co/fmElyFwNtf",
+					"display_url": "pic.twitter.com/fmElyFwNtf",
+					"expanded_url": "https://twitter.com/GovMurphy/status/1241413979366359040/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 106023,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241413495528308739/pu/vid/720x720/d7JOMZeyPbgguL_1.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1241413495528308739/pu/pl/gdV19Tw14thpqMk0.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241413495528308739/pu/vid/320x320/msCI7YzpoBRmtRle.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241413495528308739/pu/vid/480x480/IndoY0Th0E7sTZXW.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948946378939609100,
+			"id_str": "948946378939609089",
+			"name": "Governor Phil Murphy",
+			"screen_name": "GovMurphy",
+			"location": "New Jersey, USA",
+			"description": "56th Governor of the great State of New Jersey. Proud husband of @FirstLadyNJ and father of 4 humans and 2 dogs. Proud to lead @NJGov alongside @LtGovOliver.",
+			"url": "https://t.co/bB3uxx4f5p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bB3uxx4f5p",
+							"expanded_url": "http://NJ.Gov",
+							"display_url": "NJ.Gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 132613,
+			"friends_count": 129,
+			"listed_count": 630,
+			"created_at": "Thu Jan 04 15:57:02 +0000 2018",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5369,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1237143859005665282/OyTayLI9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237143859005665282/OyTayLI9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/948946378939609089/1584550812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7236,
+		"favorite_count": 10776,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BREAKING: I just signed an Executive Order directing nearly all residents to STAY AT HOME.\n \nALL gatherings are canceled.\n \nALL non-essential retail businesses must indefinitely close their physical stores to the public effective 9:00 p.m. tonight.\n \nMore: https://t.co/JW1q8awGh7 https://t.co/fmElyFwNtf"
+	},
+	{
+		"created_at": "Sat Mar 21 17:27:45 +0000 2020",
+		"id": 1241239569577754600,
+		"id_str": "1241416218977935361",
+		"full_text": "Handling Your Kid’s Disappointment When Everything Is Canceled - The New York Times https://t.co/ZEbtW70xf8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZEbtW70xf8",
+					"expanded_url": "https://www.nytimes.com/2020/03/18/parenting/coronavirus-kids-events-cancelled.html",
+					"display_url": "nytimes.com/2020/03/18/par…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 793771848,
+			"id_str": "793771848",
+			"name": "Dr. Robert R. Zywicki",
+			"screen_name": "ZywickiR",
+			"location": "The Garden State",
+			"description": "Father of 4 | Superintendent of PK-12 #FutureReady Certified @MountOliveTSD l PD Coordinator of @RutgersCESP | @FutureReady District Thought Leader | Grad Prof",
+			"url": "https://t.co/1Ccrf52ycy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1Ccrf52ycy",
+							"expanded_url": "https://linktr.ee/robertrzywicki",
+							"display_url": "linktr.ee/robertrzywicki",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7708,
+			"friends_count": 6402,
+			"listed_count": 304,
+			"created_at": "Fri Aug 31 12:37:39 +0000 2012",
+			"favourites_count": 17886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3387A3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151303298235994114/zdi0lOWB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151303298235994114/zdi0lOWB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/793771848/1576276579",
+			"profile_link_color": "1D718C",
+			"profile_sidebar_border_color": "966F30",
+			"profile_sidebar_fill_color": "39484D",
+			"profile_text_color": "050B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Handling Your Kid’s Disappointment When Everything Is Canceled - The New York Times https://t.co/ZEbtW70xf8"
+	},
+	{
+		"created_at": "Sat Mar 21 17:25:16 +0000 2020",
+		"id": 1241415595154948000,
+		"id_str": "1241415595154948097",
+		"full_text": "@melissalstager @HollyProcida @danloughran55 @larajean89 @CarolynLRoss @TaliAxelrod @mtsd_tech @barrykid1 @axgm22 @agratitudegirl @NeelDesaiBA @kshurina @klemerich @AskStacyYoung @backwardsdesign Thanks, Melissa!",
+		"truncated": false,
+		"display_text_range": [
+			196,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melissalstager",
+					"name": "Melissa Stager",
+					"id": 1415476850,
+					"id_str": "1415476850",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "HollyProcida",
+					"name": "Holly Foley",
+					"id": 1553821369,
+					"id_str": "1553821369",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "danloughran55",
+					"name": "Daniel Loughran",
+					"id": 2944115811,
+					"id_str": "2944115811",
+					"indices": [
+						30,
+						44
+					]
+				},
+				{
+					"screen_name": "larajean89",
+					"name": "Lori Howard",
+					"id": 835502660,
+					"id_str": "835502660",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"screen_name": "CarolynLRoss",
+					"name": "Carolyn Ross",
+					"id": 261794163,
+					"id_str": "261794163",
+					"indices": [
+						57,
+						70
+					]
+				},
+				{
+					"screen_name": "TaliAxelrod",
+					"name": "Dr. Tali Axelrod",
+					"id": 741738559,
+					"id_str": "741738559",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"screen_name": "mtsd_tech",
+					"name": "Fiona E. Borland",
+					"id": 2260806933,
+					"id_str": "2260806933",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"screen_name": "barrykid1",
+					"name": "Barry Saide",
+					"id": 247973894,
+					"id_str": "247973894",
+					"indices": [
+						95,
+						105
+					]
+				},
+				{
+					"screen_name": "axgm22",
+					"name": "Alex Guzman, Ed.D.",
+					"id": 327078348,
+					"id_str": "327078348",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"screen_name": "agratitudegirl",
+					"name": "Kimberley Harrington",
+					"id": 251158756,
+					"id_str": "251158756",
+					"indices": [
+						114,
+						129
+					]
+				},
+				{
+					"screen_name": "NeelDesaiBA",
+					"name": "Neel Desai",
+					"id": 1677072013,
+					"id_str": "1677072013",
+					"indices": [
+						130,
+						142
+					]
+				},
+				{
+					"screen_name": "kshurina",
+					"name": "Kristy Shurina, Ed.D",
+					"id": 14898853,
+					"id_str": "14898853",
+					"indices": [
+						143,
+						152
+					]
+				},
+				{
+					"screen_name": "klemerich",
+					"name": "Katie Lemerich",
+					"id": 29883326,
+					"id_str": "29883326",
+					"indices": [
+						153,
+						163
+					]
+				},
+				{
+					"screen_name": "AskStacyYoung",
+					"name": "Stacy Young",
+					"id": 820256248096522200,
+					"id_str": "820256248096522240",
+					"indices": [
+						164,
+						178
+					]
+				},
+				{
+					"screen_name": "backwardsdesign",
+					"name": "Ron Zalika",
+					"id": 4352769856,
+					"id_str": "4352769856",
+					"indices": [
+						179,
+						195
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1241415337842704400,
+		"in_reply_to_status_id_str": "1241415337842704385",
+		"in_reply_to_user_id": 1415476850,
+		"in_reply_to_user_id_str": "1415476850",
+		"in_reply_to_screen_name": "melissalstager",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 1548,
+			"listed_count": 257,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melissalstager @HollyProcida @danloughran55 @larajean89 @CarolynLRoss @TaliAxelrod @mtsd_tech @barrykid1 @axgm22 @agratitudegirl @NeelDesaiBA @kshurina @klemerich @AskStacyYoung @backwardsdesign Thanks, Melissa!"
+	},
+	{
+		"created_at": "Sat Mar 21 13:25:28 +0000 2020",
+		"id": 1241355247093715000,
+		"id_str": "1241355247093714944",
+		"full_text": "@LHSMrsMendicino @zoom_us Same!  My wife is a HS teacher and will be using it with her students next week.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LHSMrsMendicino",
+					"name": "Mrs.Mendicino",
+					"id": 850983506,
+					"id_str": "850983506",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "zoom_us",
+					"name": "Zoom",
+					"id": 522701657,
+					"id_str": "522701657",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1241354756926451700,
+		"in_reply_to_status_id_str": "1241354756926451718",
+		"in_reply_to_user_id": 850983506,
+		"in_reply_to_user_id_str": "850983506",
+		"in_reply_to_screen_name": "LHSMrsMendicino",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 1548,
+			"listed_count": 257,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LHSMrsMendicino @zoom_us Same!  My wife is a HS teacher and will be using it with her students next week."
+	},
+	{
 		"created_at": "Sat Mar 21 01:05:04 +0000 2020",
 		"id": 1241168916585549800,
 		"id_str": "1241168916585549825",
