@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 22 19:56:16 +0000 2020",
+		"id": 1241806034911613000,
+		"id_str": "1241815983293181960",
+		"full_text": "Remember: YOU ARE NOT ALONE. If you're feeling down, or you or a loved one feel unsafe:\n💕Crisis Text Line: text “NJ” to 741741\n💕Family Helpline: 1-800-843-5437\n💕Domestic Violence Hotline: 1-800-572-7233\n💕Mental Health Hotline: 866-202-4357\n\nWe will get through this together. https://t.co/UZP6Lei2Vc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241805522501861400,
+					"id_str": "1241805522501861381",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/ETvHixjXgAU9sjd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETvHixjXgAU9sjd.jpg",
+					"url": "https://t.co/UZP6Lei2Vc",
+					"display_url": "pic.twitter.com/UZP6Lei2Vc",
+					"expanded_url": "https://twitter.com/GovMurphy/status/1241806034911612928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241805522501861400,
+					"id_str": "1241805522501861381",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/ETvHixjXgAU9sjd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETvHixjXgAU9sjd.jpg",
+					"url": "https://t.co/UZP6Lei2Vc",
+					"display_url": "pic.twitter.com/UZP6Lei2Vc",
+					"expanded_url": "https://twitter.com/GovMurphy/status/1241806034911612928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948946378939609100,
+			"id_str": "948946378939609089",
+			"name": "Governor Phil Murphy",
+			"screen_name": "GovMurphy",
+			"location": "New Jersey, USA",
+			"description": "56th Governor of the great State of New Jersey. Proud husband of @FirstLadyNJ and father of 4 humans and 2 dogs. Proud to lead @NJGov alongside @LtGovOliver.",
+			"url": "https://t.co/bB3uxx4f5p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bB3uxx4f5p",
+							"expanded_url": "http://NJ.Gov",
+							"display_url": "NJ.Gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 137758,
+			"friends_count": 129,
+			"listed_count": 640,
+			"created_at": "Thu Jan 04 15:57:02 +0000 2018",
+			"favourites_count": 18,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 5392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1237143859005665282/OyTayLI9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1237143859005665282/OyTayLI9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/948946378939609089/1584550812",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1017,
+		"favorite_count": 1750,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Remember: YOU ARE NOT ALONE. If you're feeling down, or you or a loved one feel unsafe:\n💕Crisis Text Line: text “NJ” to 741741\n💕Family Helpline: 1-800-843-5437\n💕Domestic Violence Hotline: 1-800-572-7233\n💕Mental Health Hotline: 866-202-4357\n\nWe will get through this together. https://t.co/UZP6Lei2Vc"
+	},
+	{
 		"created_at": "Sat Mar 21 23:32:02 +0000 2020",
 		"id": 1241368094544728000,
 		"id_str": "1241507893234601984",
