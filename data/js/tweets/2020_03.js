@@ -1,6 +1,578 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 27 00:55:54 +0000 2020",
+		"id": 1243340936442192000,
+		"id_str": "1243340936442191873",
+		"full_text": "Mrs. Cozens, at the International School of Basel (@ISBasel) , 1983-84 school year https://t.co/tiOGT7kigm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ISBasel",
+					"name": "ISBasel",
+					"id": 481226580,
+					"id_str": "481226580",
+					"indices": [
+						51,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tiOGT7kigm",
+					"expanded_url": "https://twitter.com/JaniceWyattRoss/status/1243179525133012998",
+					"display_url": "twitter.com/JaniceWyattRos…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3228,
+			"friends_count": 1548,
+			"listed_count": 257,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1243179525133013000,
+		"quoted_status_id_str": "1243179525133012998",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tiOGT7kigm",
+			"expanded": "https://twitter.com/JaniceWyattRoss/status/1243179525133012998",
+			"display": "twitter.com/JaniceWyattRos…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 26 14:14:30 +0000 2020",
+			"id": 1243179525133013000,
+			"id_str": "1243179525133012998",
+			"full_text": "Do you remember your first grade teacher’s name? \n\nMy teacher was Nancy Tolleson.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				81
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1675890222,
+				"id_str": "1675890222",
+				"name": "Dr. Janice Wyatt-Ross",
+				"screen_name": "JaniceWyattRoss",
+				"location": "Kentucky, USA",
+				"description": "Real/AR born/Professional Educator/Daughter/Wife/Mother/Manager/Director/#kyxpress #SocialJustice #Advocate /A Teacher's Teacher #equity #KyEdCo #IAmSuccessLex",
+				"url": "https://t.co/NgwuxUfxb2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NgwuxUfxb2",
+								"expanded_url": "https://drjanicewyatt-ross.weebly.com/",
+								"display_url": "drjanicewyatt-ross.weebly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2670,
+				"friends_count": 4913,
+				"listed_count": 14,
+				"created_at": "Fri Aug 16 14:54:49 +0000 2013",
+				"favourites_count": 8553,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5702,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1177923206684000256/Zj6IzmGf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1177923206684000256/Zj6IzmGf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1675890222/1565969107",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 102,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mrs. Cozens, at the International School of Basel (@ISBasel) , 1983-84 school year https://t.co/tiOGT7kigm"
+	},
+	{
+		"created_at": "Fri Mar 27 00:53:22 +0000 2020",
+		"id": 1243340301130965000,
+		"id_str": "1243340301130964993",
+		"full_text": "@melissalstager We did all right today!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melissalstager",
+					"name": "Melissa Stager",
+					"id": 1415476850,
+					"id_str": "1415476850",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1243340090480484400,
+		"in_reply_to_status_id_str": "1243340090480484358",
+		"in_reply_to_user_id": 1415476850,
+		"in_reply_to_user_id_str": "1415476850",
+		"in_reply_to_screen_name": "melissalstager",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3228,
+			"friends_count": 1548,
+			"listed_count": 257,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melissalstager We did all right today!"
+	},
+	{
+		"created_at": "Fri Mar 27 00:50:31 +0000 2020",
+		"id": 1243339584219549700,
+		"id_str": "1243339584219549701",
+		"full_text": "Found out the answer today: online video interviews w/ @dadamltps @YPanasowich @FaykimL @cjwilliamsjr .  Definitely required more stringent pre-planned structure than we might have in f2f interviews, but I think it worked well! https://t.co/O4eK2YnOBe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						55,
+						65
+					]
+				},
+				{
+					"screen_name": "YPanasowich",
+					"name": "Yvette Panasowich",
+					"id": 260752291,
+					"id_str": "260752291",
+					"indices": [
+						66,
+						78
+					]
+				},
+				{
+					"screen_name": "FaykimL",
+					"name": "Fay Kim-Lopez",
+					"id": 1013578285773705200,
+					"id_str": "1013578285773705216",
+					"indices": [
+						79,
+						87
+					]
+				},
+				{
+					"screen_name": "cjwilliamsjr",
+					"name": "Cliff Williams",
+					"id": 465193444,
+					"id_str": "465193444",
+					"indices": [
+						88,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/O4eK2YnOBe",
+					"expanded_url": "https://twitter.com/_drdamian/status/1239361921704497154",
+					"display_url": "twitter.com/_drdamian/stat…",
+					"indices": [
+						228,
+						251
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3228,
+			"friends_count": 1548,
+			"listed_count": 257,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32688,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239361921704497200,
+		"quoted_status_id_str": "1239361921704497154",
+		"quoted_status_permalink": {
+			"url": "https://t.co/O4eK2YnOBe",
+			"expanded": "https://twitter.com/_drdamian/status/1239361921704497154",
+			"display": "twitter.com/_drdamian/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 16 01:24:43 +0000 2020",
+			"id": 1239361921704497200,
+			"id_str": "1239361921704497154",
+			"full_text": "Apropos of nothing, but we're about to enter prime hiring season in K-12 education... I wonder what the impact of social distancing will be on the advertising/interview process, especially as more and more districts move to remote instruction for the time being.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				262
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7887852,
+				"id_str": "7887852",
+				"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+				"screen_name": "_drdamian",
+				"location": "Perkasie, PA USA",
+				"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+				"url": "https://t.co/0mfonM3zAp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0mfonM3zAp",
+								"expanded_url": "http://drdamian.org",
+								"display_url": "drdamian.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3228,
+				"friends_count": 1548,
+				"listed_count": 257,
+				"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+				"favourites_count": 2259,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 32688,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+				"profile_link_color": "000080",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Found out the answer today: online video interviews w/ @dadamltps @YPanasowich @FaykimL @cjwilliamsjr .  Definitely required more stringent pre-planned structure than we might have in f2f interviews, but I think it worked well! https://t.co/O4eK2YnOBe"
+	},
+	{
 		"created_at": "Wed Mar 25 23:04:39 +0000 2020",
 		"id": 1242950551484149800,
 		"id_str": "1242950551484149765",
