@@ -1,6 +1,764 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 28 23:30:30 +0000 2020",
+		"id": 1244044220664512500,
+		"id_str": "1244044220664512514",
+		"full_text": "LHS admin weekly message, 3/27/20: https://t.co/BRdgP6XoWu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BRdgP6XoWu",
+					"expanded_url": "https://drive.google.com/file/d/1EJJmz9g0YGbHOvgf9HJgLFAKgUnOWN8c/view?fbclid=IwAR1X6gVfk9uLCizb398kdvz-MFioBnM4l8IJUAvRuNydkz8bErKx9tE2d3U",
+					"display_url": "drive.google.com/file/d/1EJJmz9…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3228,
+			"friends_count": 1548,
+			"listed_count": 256,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LHS admin weekly message, 3/27/20: https://t.co/BRdgP6XoWu"
+	},
+	{
+		"created_at": "Sat Mar 28 18:15:11 +0000 2020",
+		"id": 1242482520257630200,
+		"id_str": "1243964868430114817",
+		"full_text": "My amazing team at @metronyu has been able to quickly get our site up with guidance on culturally responsive-sustaining remote education. Please find the site here.  https://t.co/mpHPVfnJGw. We’ll continue to update the site with resources for students, families, and educators.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "metronyu",
+					"name": "NYU Metro Center",
+					"id": 2367512317,
+					"id_str": "2367512317",
+					"indices": [
+						19,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mpHPVfnJGw",
+					"expanded_url": "http://bit.ly/remoteCRSE",
+					"display_url": "bit.ly/remoteCRSE",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 230538921,
+			"id_str": "230538921",
+			"name": "David E. Kirkland",
+			"screen_name": "davidekirkland",
+			"location": "New York, NY",
+			"description": "executive director, nyu metro center | professor | intersectional equity advocate | he/him/his | Follow me at: https://t.co/yh4laoRlX4.",
+			"url": "https://t.co/DZdluWQbIq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DZdluWQbIq",
+							"expanded_url": "http://steinhardt.nyu.edu/faculty_bios/view/David_Kirkland",
+							"display_url": "steinhardt.nyu.edu/faculty_bios/v…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/yh4laoRlX4",
+							"expanded_url": "http://davidekirkland.wordpress.com",
+							"display_url": "davidekirkland.wordpress.com",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8447,
+			"friends_count": 371,
+			"listed_count": 112,
+			"created_at": "Sat Dec 25 22:27:06 +0000 2010",
+			"favourites_count": 23746,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152416511916695553/T5Uggg8G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152416511916695553/T5Uggg8G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/230538921/1426649020",
+			"profile_link_color": "0A21A3",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01a9a39529b27f36",
+			"url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+			"place_type": "city",
+			"name": "Manhattan",
+			"full_name": "Manhattan, NY",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.026675,
+							40.683935
+						],
+						[
+							-73.910408,
+							40.683935
+						],
+						[
+							-73.910408,
+							40.877483
+						],
+						[
+							-74.026675,
+							40.877483
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 193,
+		"favorite_count": 346,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My amazing team at @metronyu has been able to quickly get our site up with guidance on culturally responsive-sustaining remote education. Please find the site here.  https://t.co/mpHPVfnJGw. We’ll continue to update the site with resources for students, families, and educators."
+	},
+	{
+		"created_at": "Sat Mar 28 14:30:22 +0000 2020",
+		"id": 1243908291333427200,
+		"id_str": "1243908291333427202",
+		"full_text": "And I'm grateful for people in my life who help me to realize when I'm crossing the line when I don't realize it on my own.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1243908084143206400,
+		"in_reply_to_status_id_str": "1243908084143206403",
+		"in_reply_to_user_id": 7887852,
+		"in_reply_to_user_id_str": "7887852",
+		"in_reply_to_screen_name": "_drdamian",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3228,
+			"friends_count": 1548,
+			"listed_count": 256,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "And I'm grateful for people in my life who help me to realize when I'm crossing the line when I don't realize it on my own."
+	},
+	{
+		"created_at": "Sat Mar 28 14:29:32 +0000 2020",
+		"id": 1243908084143206400,
+		"id_str": "1243908084143206403",
+		"full_text": "Yes, this.  There's a line between staying informed and becoming overwhelmed.  When I find myself crossing it, I intentionally step away. https://t.co/notmSwmXKq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/notmSwmXKq",
+					"expanded_url": "https://twitter.com/allontheboard/status/1243840297852964864",
+					"display_url": "twitter.com/allontheboard/…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3228,
+			"friends_count": 1548,
+			"listed_count": 256,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2266,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1243840297852964900,
+		"quoted_status_id_str": "1243840297852964864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/notmSwmXKq",
+			"expanded": "https://twitter.com/allontheboard/status/1243840297852964864",
+			"display": "twitter.com/allontheboard/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 28 10:00:11 +0000 2020",
+			"id": 1243840297852964900,
+			"id_str": "1243840297852964864",
+			"full_text": "Isolation Observations: Number 1. Take a break from looking at the news and focus on taking care of yourself. @allontheboard \n\n#MentalHealth #Health #StayAtHomeAndStaySafe #IsolationLife #CoronaLockdown #SocialDistancing #Covid_19 #SaturdayThoughts https://t.co/Ywflq10fM7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MentalHealth",
+						"indices": [
+							127,
+							140
+						]
+					},
+					{
+						"text": "Health",
+						"indices": [
+							141,
+							148
+						]
+					},
+					{
+						"text": "StayAtHomeAndStaySafe",
+						"indices": [
+							149,
+							171
+						]
+					},
+					{
+						"text": "IsolationLife",
+						"indices": [
+							172,
+							186
+						]
+					},
+					{
+						"text": "CoronaLockdown",
+						"indices": [
+							187,
+							202
+						]
+					},
+					{
+						"text": "SocialDistancing",
+						"indices": [
+							203,
+							220
+						]
+					},
+					{
+						"text": "Covid_19",
+						"indices": [
+							221,
+							230
+						]
+					},
+					{
+						"text": "SaturdayThoughts",
+						"indices": [
+							231,
+							248
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "allontheboard",
+						"name": "All on the board",
+						"id": 854241227503530000,
+						"id_str": "854241227503529985",
+						"indices": [
+							110,
+							124
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1243840292568150000,
+						"id_str": "1243840292568150018",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/EUMCJ-vXsAIMCpi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUMCJ-vXsAIMCpi.jpg",
+						"url": "https://t.co/Ywflq10fM7",
+						"display_url": "pic.twitter.com/Ywflq10fM7",
+						"expanded_url": "https://twitter.com/allontheboard/status/1243840297852964864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1243840292568150000,
+						"id_str": "1243840292568150018",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/EUMCJ-vXsAIMCpi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUMCJ-vXsAIMCpi.jpg",
+						"url": "https://t.co/Ywflq10fM7",
+						"display_url": "pic.twitter.com/Ywflq10fM7",
+						"expanded_url": "https://twitter.com/allontheboard/status/1243840297852964864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 854241227503530000,
+				"id_str": "854241227503529985",
+				"name": "All on the board",
+				"screen_name": "allontheboard",
+				"location": "London, England",
+				"description": "Just a board with things to say. Content is our original work. © Copyright @allontheboard Find us on YouTube  https://t.co/gbDzRY1RlM",
+				"url": "https://t.co/zAtqgS87jo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zAtqgS87jo",
+								"expanded_url": "https://www.facebook.com/AllontheBoard/",
+								"display_url": "facebook.com/AllontheBoard/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gbDzRY1RlM",
+								"expanded_url": "https://youtu.be/mZgJ-w6XRHo",
+								"display_url": "youtu.be/mZgJ-w6XRHo",
+								"indices": [
+									110,
+									133
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 58733,
+				"friends_count": 30,
+				"listed_count": 147,
+				"created_at": "Tue Apr 18 07:52:34 +0000 2017",
+				"favourites_count": 21952,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3249,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/899236436985118724/cULDazqW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/899236436985118724/cULDazqW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/854241227503529985/1533208989",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "5d838f7a011f4a2d",
+				"url": "https://api.twitter.com/1.1/geo/id/5d838f7a011f4a2d.json",
+				"place_type": "admin",
+				"name": "London",
+				"full_name": "London, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.510364798739281,
+								51.2867019756122
+							],
+							[
+								0.334043461659515,
+								51.2867019756122
+							],
+							[
+								0.334043461659515,
+								51.6918240878432
+							],
+							[
+								-0.510364798739281,
+								51.6918240878432
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 305,
+			"favorite_count": 705,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes, this.  There's a line between staying informed and becoming overwhelmed.  When I find myself crossing it, I intentionally step away. https://t.co/notmSwmXKq"
+	},
+	{
 		"created_at": "Fri Mar 27 23:40:30 +0000 2020",
 		"id": 1243684349733732400,
 		"id_str": "1243684349733732352",
