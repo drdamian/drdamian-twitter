@@ -1,6 +1,513 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 31 23:11:30 +0000 2020",
+		"id": 1245126604214370300,
+		"id_str": "1245126604214370305",
+		"full_text": "@SchleiderJustin @msafischer @JayBilly2 @MsHartLIS @KBurke4242 Fugees in the background?  I didn't think to add music to mine.",
+		"truncated": false,
+		"display_text_range": [
+			63,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SchleiderJustin",
+					"name": "Justin Schleider ABC, BBD",
+					"id": 2171504722,
+					"id_str": "2171504722",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "msafischer",
+					"name": "Alyson Fischer",
+					"id": 720423019,
+					"id_str": "720423019",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "JayBilly2",
+					"name": "Jay Billy",
+					"id": 327326387,
+					"id_str": "327326387",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"screen_name": "MsHartLIS",
+					"name": "Ms. Hart",
+					"id": 2585793493,
+					"id_str": "2585793493",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "KBurke4242",
+					"name": "Kristin S. Burke",
+					"id": 919282866,
+					"id_str": "919282866",
+					"indices": [
+						51,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1245126160310243300,
+		"in_reply_to_status_id_str": "1245126160310243329",
+		"in_reply_to_user_id": 2171504722,
+		"in_reply_to_user_id_str": "2171504722",
+		"in_reply_to_screen_name": "SchleiderJustin",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3228,
+			"friends_count": 1548,
+			"listed_count": 256,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SchleiderJustin @msafischer @JayBilly2 @MsHartLIS @KBurke4242 Fugees in the background?  I didn't think to add music to mine."
+	},
+	{
+		"created_at": "Tue Mar 31 21:19:34 +0000 2020",
+		"id": 1245098436627779600,
+		"id_str": "1245098436627779593",
+		"full_text": "😬 https://t.co/GknagC2xCx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GknagC2xCx",
+					"expanded_url": "https://twitter.com/daniburgz/status/1244642287168049152",
+					"display_url": "twitter.com/daniburgz/stat…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3228,
+			"friends_count": 1548,
+			"listed_count": 256,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1244642287168049200,
+		"quoted_status_id_str": "1244642287168049152",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GknagC2xCx",
+			"expanded": "https://twitter.com/daniburgz/status/1244642287168049152",
+			"display": "twitter.com/daniburgz/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 30 15:07:00 +0000 2020",
+			"id": 1244642287168049200,
+			"id_str": "1244642287168049152",
+			"full_text": "Not muting your mic is the new reply all",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				40
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 596509048,
+				"id_str": "596509048",
+				"name": "Dani Burger",
+				"screen_name": "daniburgz",
+				"location": "London, England",
+				"description": "All things markets and investing for @bloombergtv. Future sled dog racer. Hoos. dburger7@bloomberg.net",
+				"url": "https://t.co/xW5xutS4ZA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xW5xutS4ZA",
+								"expanded_url": "http://www.bloomberg.com/authors/ASABQgWY_A0/danielle-burger",
+								"display_url": "bloomberg.com/authors/ASABQg…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9130,
+				"friends_count": 886,
+				"listed_count": 241,
+				"created_at": "Fri Jun 01 14:25:09 +0000 2012",
+				"favourites_count": 2047,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3814,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DEDADE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/872459067192741889/WafJOxQ6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/872459067192741889/WafJOxQ6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/596509048/1579767066",
+				"profile_link_color": "58A9F0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 27539,
+			"favorite_count": 189546,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😬 https://t.co/GknagC2xCx"
+	},
+	{
+		"created_at": "Tue Mar 31 20:23:25 +0000 2020",
+		"id": 1245084305774325800,
+		"id_str": "1245084305774325766",
+		"full_text": "@MrB_and_MrsA @MissRelloLIS @MRBOGGSLIS @ShropshireLIS Way to represent @LISShines! #LawrenceStrong",
+		"truncated": false,
+		"display_text_range": [
+			55,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LawrenceStrong",
+					"indices": [
+						84,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrB_and_MrsA",
+					"name": "MrB&MrsA'sClass",
+					"id": 2548157430,
+					"id_str": "2548157430",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "MissRelloLIS",
+					"name": "Sharin Rello",
+					"id": 2586002424,
+					"id_str": "2586002424",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "MRBOGGSLIS",
+					"name": "David Boggs",
+					"id": 2832369507,
+					"id_str": "2832369507",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "ShropshireLIS",
+					"name": "ShropshireLIS",
+					"id": 2751212099,
+					"id_str": "2751212099",
+					"indices": [
+						40,
+						54
+					]
+				},
+				{
+					"screen_name": "LISShines",
+					"name": "LIS Shines",
+					"id": 1029050872075046900,
+					"id_str": "1029050872075046913",
+					"indices": [
+						72,
+						82
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1245066958699204600,
+		"in_reply_to_status_id_str": "1245066958699204616",
+		"in_reply_to_user_id": 2548157430,
+		"in_reply_to_user_id_str": "2548157430",
+		"in_reply_to_screen_name": "MrB_and_MrsA",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3228,
+			"friends_count": 1548,
+			"listed_count": 256,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MrB_and_MrsA @MissRelloLIS @MRBOGGSLIS @ShropshireLIS Way to represent @LISShines! #LawrenceStrong"
+	},
+	{
 		"created_at": "Tue Mar 31 00:25:50 +0000 2020",
 		"id": 1244782921413730300,
 		"id_str": "1244782921413730304",
