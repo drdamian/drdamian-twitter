@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 22:45:36 +0000 2020",
+		"id": 1246569639838130200,
+		"id_str": "1246569639838130177",
+		"full_text": "New blog post (with corrected link): https://t.co/ptf4gX5SsY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ptf4gX5SsY",
+					"expanded_url": "https://blog.drdamian.org/2020/04/03/fraying-at-the-edges-btp/",
+					"display_url": "blog.drdamian.org/2020/04/03/fra…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA USA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3229,
+			"friends_count": 1549,
+			"listed_count": 255,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183538790348021761/5oScTqFU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New blog post (with corrected link): https://t.co/ptf4gX5SsY"
+	},
+	{
 		"created_at": "Sat Apr 04 00:11:18 +0000 2020",
 		"id": 1246228817766748200,
 		"id_str": "1246228817766748167",
@@ -206,7 +312,7 @@ Grailbird.data.tweets_2020_04 =
 				},
 				{
 					"screen_name": "Principal_H",
-					"name": "𝐂𝐡𝐫𝐢𝐬𝐭𝐨𝐩𝐡𝐞𝐫 𝐇𝐚𝐫𝐫𝐢𝐬 🎸🏴‍☠️🧩",
+					"name": "𝐂𝐡𝐫𝐢𝐬𝐭𝐨𝐩𝐡𝐞𝐫 𝐇𝐚𝐫𝐫𝐢𝐬 🎸🏴☠️🧩",
 					"id": 2733642166,
 					"id_str": "2733642166",
 					"indices": [
@@ -893,7 +999,7 @@ Grailbird.data.tweets_2020_04 =
 				},
 				{
 					"screen_name": "Principal_H",
-					"name": "𝐂𝐡𝐫𝐢𝐬𝐭𝐨𝐩𝐡𝐞𝐫 𝐇𝐚𝐫𝐫𝐢𝐬 🎸🏴‍☠️🧩",
+					"name": "𝐂𝐡𝐫𝐢𝐬𝐭𝐨𝐩𝐡𝐞𝐫 𝐇𝐚𝐫𝐫𝐢𝐬 🎸🏴☠️🧩",
 					"id": 2733642166,
 					"id_str": "2733642166",
 					"indices": [
