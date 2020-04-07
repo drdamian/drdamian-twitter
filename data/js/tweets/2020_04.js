@@ -1,6 +1,854 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 00:28:14 +0000 2020",
+		"id": 1247320243971797000,
+		"id_str": "1247320243971796995",
+		"full_text": "@DrTimony My daily log was broken up into 15 minute segments.  I didn't even get the dignity of working on a spreadsheet.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrTimony",
+					"name": "David D. Timony, PhD",
+					"id": 118111651,
+					"id_str": "118111651",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1247315249553903600,
+		"in_reply_to_status_id_str": "1247315249553903618",
+		"in_reply_to_user_id": 118111651,
+		"in_reply_to_user_id_str": "118111651",
+		"in_reply_to_screen_name": "DrTimony",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "NJ ➡️ PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 1548,
+			"listed_count": 255,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrTimony My daily log was broken up into 15 minute segments.  I didn't even get the dignity of working on a spreadsheet."
+	},
+	{
+		"created_at": "Tue Apr 07 00:01:13 +0000 2020",
+		"id": 1247313443071430700,
+		"id_str": "1247313443071430656",
+		"full_text": "@DrTimony Not now, but I once worked for a district that made me do this daily.  Pen and paper, too.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrTimony",
+					"name": "David D. Timony, PhD",
+					"id": 118111651,
+					"id_str": "118111651",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1247307568491438000,
+		"in_reply_to_status_id_str": "1247307568491438082",
+		"in_reply_to_user_id": 118111651,
+		"in_reply_to_user_id_str": "118111651",
+		"in_reply_to_screen_name": "DrTimony",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "NJ ➡️ PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 1548,
+			"listed_count": 255,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrTimony Not now, but I once worked for a district that made me do this daily.  Pen and paper, too."
+	},
+	{
+		"created_at": "Mon Apr 06 23:08:03 +0000 2020",
+		"id": 1247300061500973000,
+		"id_str": "1247300061500973068",
+		"full_text": "Sorry I couldn't find a tacky jacket to wear for the picture; maybe next year!  #LTPS #LawrenceStrong https://t.co/Pps63mtLMF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "LawrenceStrong",
+					"indices": [
+						86,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Pps63mtLMF",
+					"expanded_url": "https://twitter.com/dadamltps/status/1247289928272293889",
+					"display_url": "twitter.com/dadamltps/stat…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "NJ ➡️ PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 1548,
+			"listed_count": 255,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247289928272294000,
+		"quoted_status_id_str": "1247289928272293889",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Pps63mtLMF",
+			"expanded": "https://twitter.com/dadamltps/status/1247289928272293889",
+			"display": "twitter.com/dadamltps/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 06 22:27:47 +0000 2020",
+			"id": 1247289928272294000,
+			"id_str": "1247289928272293889",
+			"full_text": "I am proud to work along side the best team of school leaders @CardinalsLHS. Congratulations to @FaykimL @_drdamian @cjwilliamsjr on celebrating Assistant Principals' week while we are on spring break.  Thanks for all that you do everyday for the LHS community! #LawrenceStrong! https://t.co/Ikr1MmNHdH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LawrenceStrong",
+						"indices": [
+							262,
+							277
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CardinalsLHS",
+						"name": "Lawrence High School",
+						"id": 832085833,
+						"id_str": "832085833",
+						"indices": [
+							62,
+							75
+						]
+					},
+					{
+						"screen_name": "FaykimL",
+						"name": "Fay Kim-Lopez",
+						"id": 1013578285773705200,
+						"id_str": "1013578285773705216",
+						"indices": [
+							96,
+							104
+						]
+					},
+					{
+						"screen_name": "_drdamian",
+						"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+						"id": 7887852,
+						"id_str": "7887852",
+						"indices": [
+							105,
+							115
+						]
+					},
+					{
+						"screen_name": "cjwilliamsjr",
+						"name": "Cliff Williams",
+						"id": 465193444,
+						"id_str": "465193444",
+						"indices": [
+							116,
+							129
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1247289922320584700,
+						"id_str": "1247289922320584706",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EU9Dk2_X0AIdo3Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU9Dk2_X0AIdo3Q.jpg",
+						"url": "https://t.co/Ikr1MmNHdH",
+						"display_url": "pic.twitter.com/Ikr1MmNHdH",
+						"expanded_url": "https://twitter.com/dadamltps/status/1247289928272293889/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 758,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 503,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 758,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1247289922320584700,
+						"id_str": "1247289922320584706",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EU9Dk2_X0AIdo3Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU9Dk2_X0AIdo3Q.jpg",
+						"url": "https://t.co/Ikr1MmNHdH",
+						"display_url": "pic.twitter.com/Ikr1MmNHdH",
+						"expanded_url": "https://twitter.com/dadamltps/status/1247289928272293889/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 758,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 503,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 758,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 260753316,
+				"id_str": "260753316",
+				"name": "David Adam",
+				"screen_name": "dadamltps",
+				"location": "Lawrence, NJ",
+				"description": "Principal of Lawrence High School",
+				"url": "https://t.co/KETOW12XgE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KETOW12XgE",
+								"expanded_url": "http://www.ltps.org",
+								"display_url": "ltps.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 964,
+				"friends_count": 146,
+				"listed_count": 42,
+				"created_at": "Fri Mar 04 14:40:19 +0000 2011",
+				"favourites_count": 11479,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4364,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/260753316/1477665508",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sorry I couldn't find a tacky jacket to wear for the picture; maybe next year!  #LTPS #LawrenceStrong https://t.co/Pps63mtLMF"
+	},
+	{
+		"created_at": "Mon Apr 06 22:54:09 +0000 2020",
+		"id": 1247296563984191500,
+		"id_str": "1247296563984191490",
+		"full_text": "That's gonna be a 1-5-9 for me, but if pressed I would go 1-1-1. https://t.co/K60o0YNrLI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K60o0YNrLI",
+					"expanded_url": "https://twitter.com/NBCSPhilly/status/1247257080718909451",
+					"display_url": "twitter.com/NBCSPhilly/sta…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "NJ ➡️ PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 1548,
+			"listed_count": 255,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247257080718909400,
+		"quoted_status_id_str": "1247257080718909451",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K60o0YNrLI",
+			"expanded": "https://twitter.com/NBCSPhilly/status/1247257080718909451",
+			"display": "twitter.com/NBCSPhilly/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 06 20:17:15 +0000 2020",
+			"id": 1247257080718909400,
+			"id_str": "1247257080718909451",
+			"full_text": "You can only pick three... https://t.co/9z4l1K0Tye",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				26
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1247256911055130600,
+						"id_str": "1247256911055130628",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/EU8ljWcXkAQK5cC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU8ljWcXkAQK5cC.jpg",
+						"url": "https://t.co/9z4l1K0Tye",
+						"display_url": "pic.twitter.com/9z4l1K0Tye",
+						"expanded_url": "https://twitter.com/NBCSPhilly/status/1247257080718909451/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1247256911055130600,
+						"id_str": "1247256911055130628",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/media/EU8ljWcXkAQK5cC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EU8ljWcXkAQK5cC.jpg",
+						"url": "https://t.co/9z4l1K0Tye",
+						"display_url": "pic.twitter.com/9z4l1K0Tye",
+						"expanded_url": "https://twitter.com/NBCSPhilly/status/1247257080718909451/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17799205,
+				"id_str": "17799205",
+				"name": "NBC Sports Philadelphia",
+				"screen_name": "NBCSPhilly",
+				"location": "Philadelphia, PA",
+				"description": "Your source for news on @Eagles, @Phillies, @NHLFlyers, @Sixers, @Fusion and @PhilaUnion. | #AuthenticFan",
+				"url": "https://t.co/X13C9o8Tn6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/X13C9o8Tn6",
+								"expanded_url": "http://www.NBCSportsPhiladelphia.com",
+								"display_url": "NBCSportsPhiladelphia.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 360157,
+				"friends_count": 422,
+				"listed_count": 2200,
+				"created_at": "Tue Dec 02 04:12:00 +0000 2008",
+				"favourites_count": 8754,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 127776,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FBFBFE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/929703795562606593/rcRs1pMs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/929703795562606593/rcRs1pMs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17799205/1539699487",
+				"profile_link_color": "0C0DE9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 275,
+			"favorite_count": 1751,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "That's gonna be a 1-5-9 for me, but if pressed I would go 1-1-1. https://t.co/K60o0YNrLI"
+	},
+	{
 		"created_at": "Sun Apr 05 12:27:22 +0000 2020",
 		"id": 1246776442626678800,
 		"id_str": "1246776442626678784",
