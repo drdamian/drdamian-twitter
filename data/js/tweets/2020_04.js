@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 19:43:13 +0000 2020",
+		"id": 1247610904386158600,
+		"id_str": "1247610904386158594",
+		"full_text": "@SchleiderJustin Yup, saw it.  Not sure exactly what it means for us yet but further guidance specifically for schools should be forthcoming soon.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SchleiderJustin",
+					"name": "Justin Schleider ABC, BBD",
+					"id": 2171504722,
+					"id_str": "2171504722",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247609762734276600,
+		"in_reply_to_status_id_str": "1247609762734276615",
+		"in_reply_to_user_id": 2171504722,
+		"in_reply_to_user_id_str": "2171504722",
+		"in_reply_to_screen_name": "SchleiderJustin",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "NJ ➡️ PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3231,
+			"friends_count": 1547,
+			"listed_count": 255,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SchleiderJustin Yup, saw it.  Not sure exactly what it means for us yet but further guidance specifically for schools should be forthcoming soon."
+	},
+	{
+		"created_at": "Tue Apr 07 19:35:02 +0000 2020",
+		"id": 1247608845834293200,
+		"id_str": "1247608845834293254",
+		"full_text": "@SchleiderJustin Your guess is as good as mine.  Not a fan of scrapple.  Once had it served to me unsolicited by a well-meaning B&amp;B owner in Baltimore. 🤮",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SchleiderJustin",
+					"name": "Justin Schleider ABC, BBD",
+					"id": 2171504722,
+					"id_str": "2171504722",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247607005268848600,
+		"in_reply_to_status_id_str": "1247607005268848643",
+		"in_reply_to_user_id": 2171504722,
+		"in_reply_to_user_id_str": "2171504722",
+		"in_reply_to_screen_name": "SchleiderJustin",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "NJ ➡️ PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad ~ Husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3231,
+			"friends_count": 1547,
+			"listed_count": 255,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SchleiderJustin Your guess is as good as mine.  Not a fan of scrapple.  Once had it served to me unsolicited by a well-meaning B&amp;B owner in Baltimore. 🤮"
+	},
+	{
 		"created_at": "Tue Apr 07 00:28:14 +0000 2020",
 		"id": 1247320243971797000,
 		"id_str": "1247320243971796995",
