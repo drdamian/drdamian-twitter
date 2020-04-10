@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 10 01:15:11 +0000 2020",
+		"id": 1248419220125134800,
+		"id_str": "1248419220125134849",
+		"full_text": "cc @dadamltps @cjwilliamsjr @FaykimL https://t.co/XnKUsIbHoR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "cjwilliamsjr",
+					"name": "Cliff Williams",
+					"id": 465193444,
+					"id_str": "465193444",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "FaykimL",
+					"name": "Fay Kim-Lopez",
+					"id": 1013578285773705200,
+					"id_str": "1013578285773705216",
+					"indices": [
+						28,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XnKUsIbHoR",
+					"expanded_url": "https://twitter.com/chadceverett/status/1247551036597899264",
+					"display_url": "twitter.com/chadceverett/s…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "NJ ➡️ PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 1546,
+			"listed_count": 255,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32737,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1247551036597899300,
+		"quoted_status_id_str": "1247551036597899264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XnKUsIbHoR",
+			"expanded": "https://twitter.com/chadceverett/status/1247551036597899264",
+			"display": "twitter.com/chadceverett/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 07 15:45:20 +0000 2020",
+			"id": 1247551036597899300,
+			"id_str": "1247551036597899264",
+			"full_text": "Training for when they tell me I can go back to work. https://t.co/VW1hxJfu66",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				53
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1247550928464601000,
+						"id_str": "1247550928464601090",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247550928464601090/pu/img/QPiVGTcppWuXxh7W.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247550928464601090/pu/img/QPiVGTcppWuXxh7W.jpg",
+						"url": "https://t.co/VW1hxJfu66",
+						"display_url": "pic.twitter.com/VW1hxJfu66",
+						"expanded_url": "https://twitter.com/chadceverett/status/1247551036597899264/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1247550928464601000,
+						"id_str": "1247550928464601090",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247550928464601090/pu/img/QPiVGTcppWuXxh7W.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247550928464601090/pu/img/QPiVGTcppWuXxh7W.jpg",
+						"url": "https://t.co/VW1hxJfu66",
+						"display_url": "pic.twitter.com/VW1hxJfu66",
+						"expanded_url": "https://twitter.com/chadceverett/status/1247551036597899264/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 29897,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1247550928464601090/pu/vid/1280x720/jS-QqkBwdoKjvBu_.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1247550928464601090/pu/vid/640x360/UjvklKoSrPNkawx_.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1247550928464601090/pu/vid/480x270/LtPefz9FKuTYISqb.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1247550928464601090/pu/pl/HMUWscwVCQXPvRxF.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 596949440,
+				"id_str": "596949440",
+				"name": "Chad Everett",
+				"screen_name": "chadceverett",
+				"location": "",
+				"description": "Educator. Coach. Living and learning in North MS. Literacy advocate. Co-founder of #MSedchat. Soli Deo Gloria",
+				"url": "https://t.co/mfIHf2CQ0r",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mfIHf2CQ0r",
+								"expanded_url": "http://www.ImagineLit.com",
+								"display_url": "ImagineLit.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7984,
+				"friends_count": 1494,
+				"listed_count": 73,
+				"created_at": "Sat Jun 02 00:59:13 +0000 2012",
+				"favourites_count": 3086,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4079,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1140349913605267457/dX3fYnIG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1140349913605267457/dX3fYnIG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/596949440/1479076519",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4942,
+			"favorite_count": 23792,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "cc @dadamltps @cjwilliamsjr @FaykimL https://t.co/XnKUsIbHoR"
+	},
+	{
 		"created_at": "Thu Apr 09 18:34:30 +0000 2020",
 		"id": 1248318384418193400,
 		"id_str": "1248318384418193408",
