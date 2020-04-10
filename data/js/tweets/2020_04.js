@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 09 18:34:30 +0000 2020",
+		"id": 1248318384418193400,
+		"id_str": "1248318384418193408",
+		"full_text": "@SchleiderJustin PA, NJ, NY, and CT have been in close communication and taking similar steps.  I hear you, but I wouldn't be surprised to see similar announcements in coming days from those states.  Nothing official yet though...",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SchleiderJustin",
+					"name": "Justin Schleider ABC, BBD",
+					"id": 2171504722,
+					"id_str": "2171504722",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1248263476872720400,
+		"in_reply_to_status_id_str": "1248263476872720390",
+		"in_reply_to_user_id": 2171504722,
+		"in_reply_to_user_id_str": "2171504722",
+		"in_reply_to_screen_name": "SchleiderJustin",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "NJ ➡️ PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 1546,
+			"listed_count": 255,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SchleiderJustin PA, NJ, NY, and CT have been in close communication and taking similar steps.  I hear you, but I wouldn't be surprised to see similar announcements in coming days from those states.  Nothing official yet though..."
+	},
+	{
+		"created_at": "Thu Apr 09 18:06:24 +0000 2020",
+		"id": 1248311316114219000,
+		"id_str": "1248311316114219009",
+		"full_text": "aaaaaaaaaand now the power's out. 😑",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "NJ ➡️ PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 1546,
+			"listed_count": 255,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "aaaaaaaaaand now the power's out. 😑"
+	},
+	{
+		"created_at": "Thu Apr 09 17:09:46 +0000 2020",
+		"id": 1248297063990902800,
+		"id_str": "1248297063990902786",
+		"full_text": "25% done with Unorthodox, by Deborah Feldman https://t.co/UdBN6LfnyA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UdBN6LfnyA",
+					"expanded_url": "https://goodreads.com/user_status/show/276856748",
+					"display_url": "goodreads.com/user_status/sh…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.goodreads.com\" rel=\"nofollow\">Goodreads</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "NJ ➡️ PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 1546,
+			"listed_count": 255,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32736,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "25% done with Unorthodox, by Deborah Feldman https://t.co/UdBN6LfnyA"
+	},
+	{
 		"created_at": "Wed Apr 08 17:26:01 +0000 2020",
 		"id": 1247938765294796800,
 		"id_str": "1247938765294796800",
