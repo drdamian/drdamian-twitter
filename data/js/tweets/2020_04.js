@@ -1,6 +1,152 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 11 22:58:36 +0000 2020",
+		"id": 1249109626424938500,
+		"id_str": "1249109626424938497",
+		"full_text": "@MrsCasieri @MissRelloLIS @msafischer @HootietheOwl @jheller2012 \"Let's have another Zoom meeting\" 😂",
+		"truncated": false,
+		"display_text_range": [
+			65,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MrsCasieri",
+					"name": "Mrs. Casieri",
+					"id": 830254922,
+					"id_str": "830254922",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "MissRelloLIS",
+					"name": "Sharin Rello",
+					"id": 2586002424,
+					"id_str": "2586002424",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "msafischer",
+					"name": "Alyson Fischer",
+					"id": 720423019,
+					"id_str": "720423019",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "HootietheOwl",
+					"name": "Hootie the Owl",
+					"id": 1244012412677881900,
+					"id_str": "1244012412677881856",
+					"indices": [
+						38,
+						51
+					]
+				},
+				{
+					"screen_name": "jheller2012",
+					"name": "jheller",
+					"id": 1540814376,
+					"id_str": "1540814376",
+					"indices": [
+						52,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1249063319287337000,
+		"in_reply_to_status_id_str": "1249063319287336963",
+		"in_reply_to_user_id": 830254922,
+		"in_reply_to_user_id_str": "830254922",
+		"in_reply_to_screen_name": "MrsCasieri",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "NJ ➡️ PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 1545,
+			"listed_count": 254,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MrsCasieri @MissRelloLIS @msafischer @HootietheOwl @jheller2012 \"Let's have another Zoom meeting\" 😂"
+	},
+	{
 		"created_at": "Fri Apr 10 16:21:22 +0000 2020",
 		"id": 1248647270477844500,
 		"id_str": "1248647270477844480",
