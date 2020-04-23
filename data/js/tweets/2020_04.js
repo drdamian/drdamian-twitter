@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 23 00:01:40 +0000 2020",
+		"id": 1253111760317558800,
+		"id_str": "1253111760317558784",
+		"full_text": "Way to stay connected - distancing, not isolation!  Hang in there Cardinals; we miss you! #LTPS https://t.co/vIFOyQrOaE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						90,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vIFOyQrOaE",
+					"expanded_url": "https://twitter.com/john_tees/status/1253111259781894150",
+					"display_url": "twitter.com/john_tees/stat…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "More PA than NJ these days ",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3223,
+			"friends_count": 1541,
+			"listed_count": 253,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32751,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1253111259781894100,
+		"quoted_status_id_str": "1253111259781894150",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vIFOyQrOaE",
+			"expanded": "https://twitter.com/john_tees/status/1253111259781894150",
+			"display": "twitter.com/john_tees/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 22 23:59:40 +0000 2020",
+			"id": 1253111259781894100,
+			"id_str": "1253111259781894150",
+			"full_text": "@CardinalsLHS DECA currently hosting a DECA TRIVIA night with a special guest @DECAJeff! Great to see everyone!! @LTPS1 #stayingconnected @dadamltps @_drdamian https://t.co/1dM5LBDY8Q",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "stayingconnected",
+						"indices": [
+							120,
+							137
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CardinalsLHS",
+						"name": "Lawrence High School",
+						"id": 832085833,
+						"id_str": "832085833",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "DECAJeff",
+						"name": "Dr. Jeff Victor",
+						"id": 2404969712,
+						"id_str": "2404969712",
+						"indices": [
+							78,
+							87
+						]
+					},
+					{
+						"screen_name": "LTPS1",
+						"name": "Lawrence Twp Schools",
+						"id": 2178717536,
+						"id_str": "2178717536",
+						"indices": [
+							113,
+							119
+						]
+					},
+					{
+						"screen_name": "dadamltps",
+						"name": "David Adam",
+						"id": 260753316,
+						"id_str": "260753316",
+						"indices": [
+							138,
+							148
+						]
+					},
+					{
+						"screen_name": "_drdamian",
+						"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+						"id": 7887852,
+						"id_str": "7887852",
+						"indices": [
+							149,
+							159
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1253111035176857600,
+						"id_str": "1253111035176857603",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/EWPx2OPWsAMl680.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWPx2OPWsAMl680.jpg",
+						"url": "https://t.co/1dM5LBDY8Q",
+						"display_url": "pic.twitter.com/1dM5LBDY8Q",
+						"expanded_url": "https://twitter.com/john_tees/status/1253111259781894150/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1253111035176857600,
+						"id_str": "1253111035176857603",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/EWPx2OPWsAMl680.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWPx2OPWsAMl680.jpg",
+						"url": "https://t.co/1dM5LBDY8Q",
+						"display_url": "pic.twitter.com/1dM5LBDY8Q",
+						"expanded_url": "https://twitter.com/john_tees/status/1253111259781894150/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1253111035495616500,
+						"id_str": "1253111035495616512",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/media/EWPx2PbWkAAlGE8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWPx2PbWkAAlGE8.jpg",
+						"url": "https://t.co/1dM5LBDY8Q",
+						"display_url": "pic.twitter.com/1dM5LBDY8Q",
+						"expanded_url": "https://twitter.com/john_tees/status/1253111259781894150/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 832085833,
+			"in_reply_to_user_id_str": "832085833",
+			"in_reply_to_screen_name": "CardinalsLHS",
+			"user": {
+				"id": 801118345,
+				"id_str": "801118345",
+				"name": "John Tees",
+				"screen_name": "john_tees",
+				"location": "",
+				"description": "High School Business Educator and Co-DECA Advisor in Lawrenceville, NJ. Solely my comments.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 122,
+				"friends_count": 120,
+				"listed_count": 0,
+				"created_at": "Mon Sep 03 20:03:32 +0000 2012",
+				"favourites_count": 290,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 149,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1103658353404850176/Asky8PI__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103658353404850176/Asky8PI__normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Way to stay connected - distancing, not isolation!  Hang in there Cardinals; we miss you! #LTPS https://t.co/vIFOyQrOaE"
+	},
+	{
 		"created_at": "Mon Apr 20 23:05:17 +0000 2020",
 		"id": 1252372797805887500,
 		"id_str": "1252372797805887495",
