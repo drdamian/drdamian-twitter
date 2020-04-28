@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 27 23:08:20 +0000 2020",
+		"id": 1254910280544522200,
+		"id_str": "1254910280544522242",
+		"full_text": "@schoolsyke @karioyen @E_Rossen @ckoch58 @edwschpsyk @amandavande1 @kmv79 @burnsmk1 @DrMPaff @rfarmer27 @DrMonicaOganes @JamiBunger @ONPsych @Psychol Aw man, would love to help but I'm no longer a psychologist.  Moved into administration about 6 years ago.",
+		"truncated": false,
+		"display_text_range": [
+			150,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "schoolsyke",
+					"name": "Kyle Carlin",
+					"id": 1362728858,
+					"id_str": "1362728858",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "karioyen",
+					"name": "Dr. Kari Oyen",
+					"id": 578569070,
+					"id_str": "578569070",
+					"indices": [
+						12,
+						21
+					]
+				},
+				{
+					"screen_name": "E_Rossen",
+					"name": "Eric Rossen, PhD",
+					"id": 962439283,
+					"id_str": "962439283",
+					"indices": [
+						22,
+						31
+					]
+				},
+				{
+					"screen_name": "ckoch58",
+					"name": "Christina Koch",
+					"id": 3177566699,
+					"id_str": "3177566699",
+					"indices": [
+						32,
+						40
+					]
+				},
+				{
+					"screen_name": "edwschpsyk",
+					"name": "Erika Wood, PsyD, NCSP",
+					"id": 706435604,
+					"id_str": "706435604",
+					"indices": [
+						41,
+						52
+					]
+				},
+				{
+					"screen_name": "amandavande1",
+					"name": "Amanda VanDerHeyden",
+					"id": 3460404148,
+					"id_str": "3460404148",
+					"indices": [
+						53,
+						66
+					]
+				},
+				{
+					"screen_name": "kmv79",
+					"name": "Kelly Vaillancourt",
+					"id": 7663902,
+					"id_str": "7663902",
+					"indices": [
+						67,
+						73
+					]
+				},
+				{
+					"screen_name": "burnsmk1",
+					"name": "Matthew Burns",
+					"id": 2802485498,
+					"id_str": "2802485498",
+					"indices": [
+						74,
+						83
+					]
+				},
+				{
+					"screen_name": "DrMPaff",
+					"name": "Dr. Michael Paff",
+					"id": 774013497680298000,
+					"id_str": "774013497680297985",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"screen_name": "rfarmer27",
+					"name": "Ryan Farmer",
+					"id": 260299080,
+					"id_str": "260299080",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"screen_name": "DrMonicaOganes",
+					"name": "Monica Oganes, Ph.D.",
+					"id": 536773738,
+					"id_str": "536773738",
+					"indices": [
+						104,
+						119
+					]
+				},
+				{
+					"screen_name": "JamiBunger",
+					"name": "Jami Bunger",
+					"id": 3028030243,
+					"id_str": "3028030243",
+					"indices": [
+						120,
+						131
+					]
+				},
+				{
+					"screen_name": "ONPsych",
+					"name": "ONPsychologicalAssn",
+					"id": 2209574694,
+					"id_str": "2209574694",
+					"indices": [
+						132,
+						140
+					]
+				},
+				{
+					"screen_name": "Psychol",
+					"name": "Jeremy McCrate",
+					"id": 14923271,
+					"id_str": "14923271",
+					"indices": [
+						141,
+						149
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1254600358501986300,
+		"in_reply_to_status_id_str": "1254600358501986305",
+		"in_reply_to_user_id": 1362728858,
+		"in_reply_to_user_id_str": "1362728858",
+		"in_reply_to_screen_name": "schoolsyke",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "More PA than NJ these days ",
+			"description": "Asst. Principal, @CardinalsLHS ~ Adjunct, @DelVal ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3228,
+			"friends_count": 1546,
+			"listed_count": 253,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@schoolsyke @karioyen @E_Rossen @ckoch58 @edwschpsyk @amandavande1 @kmv79 @burnsmk1 @DrMPaff @rfarmer27 @DrMonicaOganes @JamiBunger @ONPsych @Psychol Aw man, would love to help but I'm no longer a psychologist.  Moved into administration about 6 years ago."
+	},
+	{
 		"created_at": "Thu Apr 23 22:53:41 +0000 2020",
 		"id": 1253457040439218200,
 		"id_str": "1253457040439218178",
