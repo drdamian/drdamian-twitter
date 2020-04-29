@@ -1,6 +1,366 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 28 23:06:57 +0000 2020",
+		"id": 1255115740455342000,
+		"id_str": "1255272321364959233",
+		"full_text": "@dadamltps @NJDECA @_drdamian @cjwilliamsjr @FaykimL @CardCrazies @DECAJeff https://t.co/gGvmXyLAvD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "NJDECA",
+					"name": "New Jersey DECA",
+					"id": 568910569,
+					"id_str": "568910569",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca is (literally) in the house 🏠",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"screen_name": "cjwilliamsjr",
+					"name": "Cliff Williams",
+					"id": 465193444,
+					"id_str": "465193444",
+					"indices": [
+						30,
+						43
+					]
+				},
+				{
+					"screen_name": "FaykimL",
+					"name": "Fay Kim-Lopez",
+					"id": 1013578285773705200,
+					"id_str": "1013578285773705216",
+					"indices": [
+						44,
+						52
+					]
+				},
+				{
+					"screen_name": "CardCrazies",
+					"name": "Cardinal Crazies",
+					"id": 1936224398,
+					"id_str": "1936224398",
+					"indices": [
+						53,
+						65
+					]
+				},
+				{
+					"screen_name": "DECAJeff",
+					"name": "Dr. Jeff Victor",
+					"id": 2404969712,
+					"id_str": "2404969712",
+					"indices": [
+						66,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gGvmXyLAvD",
+					"expanded_url": "https://twitter.com/john_tees/status/1255114940760895495",
+					"display_url": "twitter.com/john_tees/stat…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 260753316,
+		"in_reply_to_user_id_str": "260753316",
+		"in_reply_to_screen_name": "dadamltps",
+		"user": {
+			"id": 4901883603,
+			"id_str": "4901883603",
+			"name": "Diane Schneck",
+			"screen_name": "SchneckDiane",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 121,
+			"friends_count": 33,
+			"listed_count": 0,
+			"created_at": "Fri Feb 12 17:26:36 +0000 2016",
+			"favourites_count": 785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1255114940760895500,
+		"quoted_status_id_str": "1255114940760895495",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gGvmXyLAvD",
+			"expanded": "https://twitter.com/john_tees/status/1255114940760895495",
+			"display": "twitter.com/john_tees/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 28 12:41:35 +0000 2020",
+			"id": 1255114940760895500,
+			"id_str": "1255114940760895495",
+			"full_text": "Today 33 @CardinalsLHS DECA students would be on a flight for ICDC. Although we cannot physically be there, @SchneckDiane and I are very proud of all of your accomplishments! You continue to amaze us every year, breaking LHS records! Your hard work does not go unnoticed! @LTPS1 https://t.co/t8m7ODVUBV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CardinalsLHS",
+						"name": "Lawrence High School",
+						"id": 832085833,
+						"id_str": "832085833",
+						"indices": [
+							9,
+							22
+						]
+					},
+					{
+						"screen_name": "SchneckDiane",
+						"name": "Diane Schneck",
+						"id": 4901883603,
+						"id_str": "4901883603",
+						"indices": [
+							108,
+							121
+						]
+					},
+					{
+						"screen_name": "LTPS1",
+						"name": "Lawrence Twp Schools",
+						"id": 2178717536,
+						"id_str": "2178717536",
+						"indices": [
+							272,
+							278
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1255114935518015500,
+						"id_str": "1255114935518015488",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EWsQYkvWsAApMdH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWsQYkvWsAApMdH.jpg",
+						"url": "https://t.co/t8m7ODVUBV",
+						"display_url": "pic.twitter.com/t8m7ODVUBV",
+						"expanded_url": "https://twitter.com/john_tees/status/1255114940760895495/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1255114935518015500,
+						"id_str": "1255114935518015488",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EWsQYkvWsAApMdH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EWsQYkvWsAApMdH.jpg",
+						"url": "https://t.co/t8m7ODVUBV",
+						"display_url": "pic.twitter.com/t8m7ODVUBV",
+						"expanded_url": "https://twitter.com/john_tees/status/1255114940760895495/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 801118345,
+				"id_str": "801118345",
+				"name": "John Tees",
+				"screen_name": "john_tees",
+				"location": "",
+				"description": "High School Business Educator and Co-DECA Advisor in Lawrenceville, NJ. Solely my comments.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 122,
+				"friends_count": 120,
+				"listed_count": 0,
+				"created_at": "Mon Sep 03 20:03:32 +0000 2012",
+				"favourites_count": 291,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 151,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1103658353404850176/Asky8PI__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103658353404850176/Asky8PI__normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@dadamltps @NJDECA @_drdamian @cjwilliamsjr @FaykimL @CardCrazies @DECAJeff https://t.co/gGvmXyLAvD"
+	},
+	{
 		"created_at": "Mon Apr 27 23:08:20 +0000 2020",
 		"id": 1254910280544522200,
 		"id_str": "1254910280544522242",
