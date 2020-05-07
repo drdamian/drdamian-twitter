@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 23:54:12 +0000 2020",
+		"id": 1258182958437011500,
+		"id_str": "1258183315481387008",
+		"full_text": "This was written for @PrincipalToohey @MissRelloLIS @msafischer \n\nThank you so much!\n\nhttps://t.co/6rSbXv6JN2\n\n@azuck1 @JayBilly2 @mhayes611 @KBurke4242 @LTPSSupt_Kasun",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PrincipalToohey",
+					"name": "Tom Toohey, Ed.D.",
+					"id": 2853448227,
+					"id_str": "2853448227",
+					"indices": [
+						21,
+						37
+					]
+				},
+				{
+					"screen_name": "MissRelloLIS",
+					"name": "Sharin Rello",
+					"id": 2586002424,
+					"id_str": "2586002424",
+					"indices": [
+						38,
+						51
+					]
+				},
+				{
+					"screen_name": "msafischer",
+					"name": "Alyson Fischer",
+					"id": 720423019,
+					"id_str": "720423019",
+					"indices": [
+						52,
+						63
+					]
+				},
+				{
+					"screen_name": "azuck1",
+					"name": "Andrew Zuckerman",
+					"id": 40480591,
+					"id_str": "40480591",
+					"indices": [
+						111,
+						118
+					]
+				},
+				{
+					"screen_name": "JayBilly2",
+					"name": "Jay Billy",
+					"id": 327326387,
+					"id_str": "327326387",
+					"indices": [
+						119,
+						129
+					]
+				},
+				{
+					"screen_name": "mhayes611",
+					"name": "Maureen Hayes",
+					"id": 47032216,
+					"id_str": "47032216",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"screen_name": "KBurke4242",
+					"name": "Kristin S. Burke",
+					"id": 919282866,
+					"id_str": "919282866",
+					"indices": [
+						141,
+						152
+					]
+				},
+				{
+					"screen_name": "LTPSSupt_Kasun",
+					"name": "Ross Kasun",
+					"id": 2314074014,
+					"id_str": "2314074014",
+					"indices": [
+						153,
+						168
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6rSbXv6JN2",
+					"expanded_url": "https://slowchatpe.com/2020/05/06/the-feeling-of-being-appreciated/",
+					"display_url": "slowchatpe.com/2020/05/06/the…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2171504722,
+			"id_str": "2171504722",
+			"name": "Justin Schleider ABC, BBD",
+			"screen_name": "SchleiderJustin",
+			"location": "New Jersey, USA",
+			"description": "Imperfect person. Teacher. Draws lines in the sand. Constantly Questioning. He/Him. Comparison is the thief of joy.",
+			"url": "https://t.co/xzcKnEci5U",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xzcKnEci5U",
+							"expanded_url": "http://www.slowchatpe.com",
+							"display_url": "slowchatpe.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8449,
+			"friends_count": 1520,
+			"listed_count": 724,
+			"created_at": "Thu Nov 07 00:36:41 +0000 2013",
+			"favourites_count": 155869,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 141865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "3B94D9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045275971878887424/kXfelPZ4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045275971878887424/kXfelPZ4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2171504722/1478827928",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This was written for @PrincipalToohey @MissRelloLIS @msafischer \n\nThank you so much!\n\nhttps://t.co/6rSbXv6JN2\n\n@azuck1 @JayBilly2 @mhayes611 @KBurke4242 @LTPSSupt_Kasun"
+	},
+	{
 		"created_at": "Tue May 05 22:32:49 +0000 2020",
 		"id": 1257800445168357400,
 		"id_str": "1257800445168357376",
