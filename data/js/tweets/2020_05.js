@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 07 02:32:23 +0000 2020",
+		"id": 1257752955060617200,
+		"id_str": "1258223121699659778",
+		"full_text": "TCNJ joins an initiative inviting residents studying out of state to come home. Read more ➡️ https://t.co/hSxEbrQ9Jj\n\nApply by July 1 ➡️ https://t.co/1Sghfy83iI\n\n#NJComeHome #TCNJ 🦁 https://t.co/8erVhEV2gV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NJComeHome",
+					"indices": [
+						162,
+						173
+					]
+				},
+				{
+					"text": "TCNJ",
+					"indices": [
+						174,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hSxEbrQ9Jj",
+					"expanded_url": "http://bit.ly/3fnj6vM",
+					"display_url": "bit.ly/3fnj6vM",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/1Sghfy83iI",
+					"expanded_url": "http://jointhepride.tcnj.edu/njcomehome/",
+					"display_url": "jointhepride.tcnj.edu/njcomehome/",
+					"indices": [
+						137,
+						160
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257752858906235000,
+					"id_str": "1257752858906234886",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EXRvj7JWkAYdeiQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXRvj7JWkAYdeiQ.jpg",
+					"url": "https://t.co/8erVhEV2gV",
+					"display_url": "pic.twitter.com/8erVhEV2gV",
+					"expanded_url": "https://twitter.com/TCNJ/status/1257752955060617221/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257752858906235000,
+					"id_str": "1257752858906234886",
+					"indices": [
+						182,
+						205
+					],
+					"media_url": "http://pbs.twimg.com/media/EXRvj7JWkAYdeiQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXRvj7JWkAYdeiQ.jpg",
+					"url": "https://t.co/8erVhEV2gV",
+					"display_url": "pic.twitter.com/8erVhEV2gV",
+					"expanded_url": "https://twitter.com/TCNJ/status/1257752955060617221/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28409399,
+			"id_str": "28409399",
+			"name": "TCNJ",
+			"screen_name": "TCNJ",
+			"location": "Ewing, NJ",
+			"description": "TCNJ is an exemplar of the best in public higher education, and is consistently acknowledged as one of the nation's top comprehensive colleges.",
+			"url": "http://t.co/FsyiwgaLEF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/FsyiwgaLEF",
+							"expanded_url": "http://www.tcnj.edu",
+							"display_url": "tcnj.edu",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11030,
+			"friends_count": 279,
+			"listed_count": 162,
+			"created_at": "Thu Apr 02 20:12:26 +0000 2009",
+			"favourites_count": 4662,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4118,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "293F6F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/962059385018097664/iWR98ZoH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/962059385018097664/iWR98ZoH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28409399/1524665411",
+			"profile_link_color": "A67A00",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FAFAD2",
+			"profile_text_color": "293F6F",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TCNJ joins an initiative inviting residents studying out of state to come home. Read more ➡️ https://t.co/hSxEbrQ9Jj\n\nApply by July 1 ➡️ https://t.co/1Sghfy83iI\n\n#NJComeHome #TCNJ 🦁 https://t.co/8erVhEV2gV"
+	},
+	{
 		"created_at": "Wed May 06 23:54:12 +0000 2020",
 		"id": 1258182958437011500,
 		"id_str": "1258183315481387008",
