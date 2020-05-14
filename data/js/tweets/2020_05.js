@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 14 00:16:34 +0000 2020",
+		"id": 1260725659179024400,
+		"id_str": "1260725659179024384",
+		"full_text": "99% certain I saw Lou Diamond Phillips sign an autograph outside a McDonald's in NYC about ten years ago https://t.co/eor3M7NHPN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eor3M7NHPN",
+					"expanded_url": "https://twitter.com/MavenofHonor/status/1260626632395685889",
+					"display_url": "twitter.com/MavenofHonor/s…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is literally in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "More PA than NJ these days ",
+			"description": "Asst. Principal, @CardinalsLHS ~ Dad & husband ~ TCNJ/Rider/WilmU ~  #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3227,
+			"friends_count": 1547,
+			"listed_count": 249,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1260626632395686000,
+		"quoted_status_id_str": "1260626632395685889",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eor3M7NHPN",
+			"expanded": "https://twitter.com/MavenofHonor/status/1260626632395685889",
+			"display": "twitter.com/MavenofHonor/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 13 17:43:05 +0000 2020",
+			"id": 1260626632395686000,
+			"id_str": "1260626632395685889",
+			"full_text": "Now, more than ever, we should share our most mundane celebrity encounters. For example, in 2002 I saw Diane Keaton in the Gap",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				126
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1140171127,
+				"id_str": "1140171127",
+				"name": "Mave (home version)",
+				"screen_name": "MavenofHonor",
+				"location": "",
+				"description": "not controlling the seas with my mind",
+				"url": "https://t.co/jFWgtOVF03",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jFWgtOVF03",
+								"expanded_url": "https://www.twitter.com/search?q=from%3AMavenofHonor+exclude%3Areplies",
+								"display_url": "twitter.com/search?q=from%…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11453,
+				"friends_count": 488,
+				"listed_count": 223,
+				"created_at": "Fri Feb 01 16:41:18 +0000 2013",
+				"favourites_count": 165393,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13729,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E4E87E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1190264807431294976/q0jqLkLU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190264807431294976/q0jqLkLU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1140171127/1574090503",
+				"profile_link_color": "135B87",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 240,
+			"favorite_count": 5600,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "99% certain I saw Lou Diamond Phillips sign an autograph outside a McDonald's in NYC about ten years ago https://t.co/eor3M7NHPN"
+	},
+	{
 		"created_at": "Sun May 10 03:36:08 +0000 2020",
 		"id": 1259326327825608700,
 		"id_str": "1259326327825608711",
