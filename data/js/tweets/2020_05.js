@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 19 20:10:29 +0000 2020",
+		"id": 1262834210764718000,
+		"id_str": "1262838053716086786",
+		"full_text": "Students applying to TCNJ won’t have to submit SAT or ACT scores  https://t.co/3VpTOOn6vB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3VpTOOn6vB",
+					"expanded_url": "https://www.nj.com/education/2020/05/students-applying-to-tcnj-wont-have-to-submit-sat-or-act-scores.html",
+					"display_url": "nj.com/education/2020…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 153925839,
+			"id_str": "153925839",
+			"name": "Glenn Robbins",
+			"screen_name": "Glennr1809",
+			"location": "NJ",
+			"description": "Superintendent of @Brigschools Husband&Father. @AASA National Governing Board Member @NASSP National Digital Principal of the Year. @SETDA Student Voice Award.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20603,
+			"friends_count": 13571,
+			"listed_count": 718,
+			"created_at": "Wed Jun 09 22:46:05 +0000 2010",
+			"favourites_count": 60909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56825,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1229766475344424962/IHXSwytt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1229766475344424962/IHXSwytt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/153925839/1534292414",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Students applying to TCNJ won’t have to submit SAT or ACT scores  https://t.co/3VpTOOn6vB"
+	},
+	{
 		"created_at": "Mon May 18 20:45:02 +0000 2020",
 		"id": 1262484361577889800,
 		"id_str": "1262484361577889799",
