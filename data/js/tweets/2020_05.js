@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 25 14:56:26 +0000 2020",
+		"id": 1264933347559694300,
+		"id_str": "1264933347559694338",
+		"full_text": "Does Young Frankenstein count? https://t.co/z2CQua0BAD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z2CQua0BAD",
+					"expanded_url": "https://twitter.com/Arts_Channel/status/1264359388824973315",
+					"display_url": "twitter.com/Arts_Channel/s…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is literally in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "More PA than NJ these days ",
+			"description": "Asst. Principal, @CardinalsLHS ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3227,
+			"friends_count": 1550,
+			"listed_count": 249,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1264359388824973300,
+		"quoted_status_id_str": "1264359388824973315",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z2CQua0BAD",
+			"expanded": "https://twitter.com/Arts_Channel/status/1264359388824973315",
+			"display": "twitter.com/Arts_Channel/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 24 00:55:43 +0000 2020",
+			"id": 1264359388824973300,
+			"id_str": "1264359388824973315",
+			"full_text": "What black and white film have you seen the most times?\n\nI guess, for me, it would be Casablanca.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4795927687,
+				"id_str": "4795927687",
+				"name": "Cinephile",
+				"screen_name": "Arts_Channel",
+				"location": "",
+				"description": "Love movies, music, good TV and my guilty pleasures.  I've written many movies in my head.  Getting them on paper and on screen is a big problem.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 600,
+				"friends_count": 200,
+				"listed_count": 3,
+				"created_at": "Fri Jan 22 00:34:57 +0000 2016",
+				"favourites_count": 730,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1506,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/690375378779639809/1nklja-Y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/690375378779639809/1nklja-Y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4795927687/1453669238",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 284,
+			"favorite_count": 5518,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Does Young Frankenstein count? https://t.co/z2CQua0BAD"
+	},
+	{
 		"created_at": "Sun May 24 23:08:06 +0000 2020",
 		"id": 1264694692081516500,
 		"id_str": "1264694692081516545",
