@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 29 14:28:31 +0000 2020",
+		"id": 1266375874615472000,
+		"id_str": "1266375874615472131",
+		"full_text": "@AdiMadden @NJAMLE @AMLE @E_Sheninger @EdcampNJ @TheBradCurrie @PrincipalKafele @AJBianco @ASCD We use Genesis. It's a NJ-based company.  I don't make the master schedule so I can't speak to that part of it but we moved to Genesis from Powerschool.",
+		"truncated": false,
+		"display_text_range": [
+			96,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdiMadden",
+					"name": "Adi Madden",
+					"id": 477396949,
+					"id_str": "477396949",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "NJAMLE",
+					"name": "NJAMLE",
+					"id": 1688320788,
+					"id_str": "1688320788",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"screen_name": "AMLE",
+					"name": "AMLE",
+					"id": 309214242,
+					"id_str": "309214242",
+					"indices": [
+						19,
+						24
+					]
+				},
+				{
+					"screen_name": "E_Sheninger",
+					"name": "Eric Sheninger",
+					"id": 22487278,
+					"id_str": "22487278",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "EdcampNJ",
+					"name": "EdCampNJ",
+					"id": 562362141,
+					"id_str": "562362141",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"screen_name": "TheBradCurrie",
+					"name": "Brad Currie",
+					"id": 261311337,
+					"id_str": "261311337",
+					"indices": [
+						48,
+						62
+					]
+				},
+				{
+					"screen_name": "PrincipalKafele",
+					"name": "Principal Kafele (Baruti K. Kafele)",
+					"id": 58324184,
+					"id_str": "58324184",
+					"indices": [
+						63,
+						79
+					]
+				},
+				{
+					"screen_name": "AJBianco",
+					"name": "AJ Bianco",
+					"id": 28366691,
+					"id_str": "28366691",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"screen_name": "ASCD",
+					"name": "ASCD",
+					"id": 15743206,
+					"id_str": "15743206",
+					"indices": [
+						90,
+						95
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1266169808208494600,
+		"in_reply_to_status_id_str": "1266169808208494594",
+		"in_reply_to_user_id": 477396949,
+		"in_reply_to_user_id_str": "477396949",
+		"in_reply_to_screen_name": "AdiMadden",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is literally in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "More PA than NJ these days ",
+			"description": "Asst. Principal, @CardinalsLHS ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224,
+			"friends_count": 1552,
+			"listed_count": 249,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AdiMadden @NJAMLE @AMLE @E_Sheninger @EdcampNJ @TheBradCurrie @PrincipalKafele @AJBianco @ASCD We use Genesis. It's a NJ-based company.  I don't make the master schedule so I can't speak to that part of it but we moved to Genesis from Powerschool."
+	},
+	{
+		"created_at": "Fri May 29 01:57:45 +0000 2020",
+		"id": 1266186938622578700,
+		"id_str": "1266186938622578690",
+		"full_text": "@thereadingzone https://t.co/7FmqvlryVb",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thereadingzone",
+					"name": "Sarah Mulhern Gross",
+					"id": 16102033,
+					"id_str": "16102033",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1266186914891169800,
+					"id_str": "1266186914891169793",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EZJmSmFWAAEkZH7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EZJmSmFWAAEkZH7.jpg",
+					"url": "https://t.co/7FmqvlryVb",
+					"display_url": "pic.twitter.com/7FmqvlryVb",
+					"expanded_url": "https://twitter.com/_drdamian/status/1266186938622578690/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1266186914891169800,
+					"id_str": "1266186914891169793",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EZJmSmFWAAEkZH7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EZJmSmFWAAEkZH7.jpg",
+					"url": "https://t.co/7FmqvlryVb",
+					"display_url": "pic.twitter.com/7FmqvlryVb",
+					"expanded_url": "https://twitter.com/_drdamian/status/1266186938622578690/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 160,
+							"h": 160,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EZJmSmFWAAEkZH7.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1266055157235753000,
+		"in_reply_to_status_id_str": "1266055157235752967",
+		"in_reply_to_user_id": 16102033,
+		"in_reply_to_user_id_str": "16102033",
+		"in_reply_to_screen_name": "thereadingzone",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is literally in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "More PA than NJ these days ",
+			"description": "Asst. Principal, @CardinalsLHS ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224,
+			"friends_count": 1552,
+			"listed_count": 249,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@thereadingzone https://t.co/7FmqvlryVb"
+	},
+	{
+		"created_at": "Fri May 29 01:41:47 +0000 2020",
+		"id": 1266182920659701800,
+		"id_str": "1266182920659701768",
+		"full_text": "Shoot, it's like 2 blocks from the Planet Smoothie?  I might get there sooner than I thought.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1266181833118670800,
+		"in_reply_to_status_id_str": "1266181833118670866",
+		"in_reply_to_user_id": 7887852,
+		"in_reply_to_user_id_str": "7887852",
+		"in_reply_to_screen_name": "_drdamian",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is literally in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "More PA than NJ these days ",
+			"description": "Asst. Principal, @CardinalsLHS ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3224,
+			"friends_count": 1552,
+			"listed_count": 249,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Shoot, it's like 2 blocks from the Planet Smoothie?  I might get there sooner than I thought."
+	},
+	{
 		"created_at": "Fri May 29 01:14:34 +0000 2020",
 		"id": 1266172606362849300,
 		"id_str": "1266176070925107200",
