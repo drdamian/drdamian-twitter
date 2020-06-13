@@ -1,6 +1,456 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 12 23:45:48 +0000 2020",
+		"id": 1271589550977159200,
+		"id_str": "1271589550977159177",
+		"full_text": "@SchleiderJustin @MoniseLSeward @ilove_vonnie Same\n.\n.\n.\n.\n.\nUnless I'm still hungry",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SchleiderJustin",
+					"name": "Justin Schleider ABC, BBD",
+					"id": 2171504722,
+					"id_str": "2171504722",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "MoniseLSeward",
+					"name": "Monise L. Seward",
+					"id": 23905899,
+					"id_str": "23905899",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "ilove_vonnie",
+					"name": "Frieda Claxton",
+					"id": 22980986,
+					"id_str": "22980986",
+					"indices": [
+						32,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1271586716713967600,
+		"in_reply_to_status_id_str": "1271586716713967616",
+		"in_reply_to_user_id": 2171504722,
+		"in_reply_to_user_id_str": "2171504722",
+		"in_reply_to_screen_name": "SchleiderJustin",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is literally in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "More PA than NJ these days ",
+			"description": "Asst. Principal, @CardinalsLHS ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3221,
+			"friends_count": 1553,
+			"listed_count": 249,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SchleiderJustin @MoniseLSeward @ilove_vonnie Same\n.\n.\n.\n.\n.\nUnless I'm still hungry"
+	},
+	{
+		"created_at": "Fri Jun 12 20:30:49 +0000 2020",
+		"id": 1271540479813914600,
+		"id_str": "1271540479813914625",
+		"full_text": "Source for info in my previous RT https://t.co/d6Q1xNJQtf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d6Q1xNJQtf",
+					"expanded_url": "https://twitter.com/eveewing/status/1271538274306269184",
+					"display_url": "twitter.com/eveewing/statu…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is literally in the house 🏠",
+			"screen_name": "_drdamian",
+			"location": "More PA than NJ these days ",
+			"description": "Asst. Principal, @CardinalsLHS ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3221,
+			"friends_count": 1553,
+			"listed_count": 249,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1271538274306269200,
+		"quoted_status_id_str": "1271538274306269184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/d6Q1xNJQtf",
+			"expanded": "https://twitter.com/eveewing/status/1271538274306269184",
+			"display": "twitter.com/eveewing/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 12 20:22:03 +0000 2020",
+			"id": 1271538274306269200,
+			"id_str": "1271538274306269184",
+			"full_text": "thanks to @alexanderchee I just read this paper: \n\n\"Racism, whiteness, and burnout in antiracism movements: How white racial justice activists elevate burnout in racial justice activists of color in the United States\"\n\nhttps://t.co/ZdMZBvEOZa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				242
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "alexanderchee",
+						"name": "Alexander Chee",
+						"id": 15245653,
+						"id_str": "15245653",
+						"indices": [
+							10,
+							24
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ZdMZBvEOZa",
+						"expanded_url": "http://edchange.org/publications/White-Activists-Causing-Burnout-Racial-Justice-Activists-Gorski-Erakat.pdf",
+						"display_url": "edchange.org/publications/W…",
+						"indices": [
+							219,
+							242
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19166519,
+				"id_str": "19166519",
+				"name": "wikipedia brown wants a refund on the police plz",
+				"screen_name": "eveewing",
+				"location": "chi city / shikaakwa",
+				"description": "writer+prof. #ElectricArches & #GhostsInTheSchoolyard & @Marvel & #1919poems. black girl from outer space. mgmt: @BeotisCreative. avi by hebru. she/her. 🚫DMs.",
+				"url": "https://t.co/fneGpDUVuE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fneGpDUVuE",
+								"expanded_url": "http://eveewing.com",
+								"display_url": "eveewing.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 229301,
+				"friends_count": 4344,
+				"listed_count": 1906,
+				"created_at": "Mon Jan 19 01:55:15 +0000 2009",
+				"favourites_count": 154593,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 104559,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1019490069512503296/Tc0EdLrs_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019490069512503296/Tc0EdLrs_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19166519/1572930617",
+				"profile_link_color": "A61954",
+				"profile_sidebar_border_color": "E7E2B7",
+				"profile_sidebar_fill_color": "F7D2D2",
+				"profile_text_color": "A1350A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 234,
+			"favorite_count": 641,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Source for info in my previous RT https://t.co/d6Q1xNJQtf"
+	},
+	{
+		"created_at": "Fri Jun 12 20:26:10 +0000 2020",
+		"id": 1271538275279347700,
+		"id_str": "1271539311821848578",
+		"full_text": "PoC activists IDed 5 attitudes/behaviors from White activists that hastened burnout:\n \n1) harboring racist views\n2) undermining or invalidating the racial justice work of PoC\n3) being unwilling to take action when needed\n4) white fragility\n5) taking credit for others' work/ideas",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1271538274306269200,
+		"in_reply_to_status_id_str": "1271538274306269184",
+		"in_reply_to_user_id": 19166519,
+		"in_reply_to_user_id_str": "19166519",
+		"in_reply_to_screen_name": "eveewing",
+		"user": {
+			"id": 19166519,
+			"id_str": "19166519",
+			"name": "wikipedia brown wants a refund on the police plz",
+			"screen_name": "eveewing",
+			"location": "chi city / shikaakwa",
+			"description": "writer+prof. #ElectricArches & #GhostsInTheSchoolyard & @Marvel & #1919poems. black girl from outer space. mgmt: @BeotisCreative. avi by hebru. she/her. 🚫DMs.",
+			"url": "https://t.co/fneGpDUVuE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fneGpDUVuE",
+							"expanded_url": "http://eveewing.com",
+							"display_url": "eveewing.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 229301,
+			"friends_count": 4344,
+			"listed_count": 1906,
+			"created_at": "Mon Jan 19 01:55:15 +0000 2009",
+			"favourites_count": 154593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 104559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019490069512503296/Tc0EdLrs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019490069512503296/Tc0EdLrs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19166519/1572930617",
+			"profile_link_color": "A61954",
+			"profile_sidebar_border_color": "E7E2B7",
+			"profile_sidebar_fill_color": "F7D2D2",
+			"profile_text_color": "A1350A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 134,
+		"favorite_count": 356,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "PoC activists IDed 5 attitudes/behaviors from White activists that hastened burnout:\n \n1) harboring racist views\n2) undermining or invalidating the racial justice work of PoC\n3) being unwilling to take action when needed\n4) white fragility\n5) taking credit for others' work/ideas"
+	},
+	{
 		"created_at": "Wed Jun 10 23:46:50 +0000 2020",
 		"id": 1270865033350779000,
 		"id_str": "1270865033350778880",
