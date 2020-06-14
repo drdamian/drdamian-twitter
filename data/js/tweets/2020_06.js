@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 13 19:37:46 +0000 2020",
+		"id": 1271873259764617200,
+		"id_str": "1271889518229098502",
+		"full_text": "Where Are All the Black Teachers? - Educational Leadership https://t.co/BstSZhnHQ7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BstSZhnHQ7",
+					"expanded_url": "http://www.ascd.org/publications/educational-leadership/oct19/vol77/num02/Where-Are-All-the-Black-Teachers%C2%A2.aspx",
+					"display_url": "ascd.org/publications/e…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2602023644,
+			"id_str": "2602023644",
+			"name": "Matthew R. Kay",
+			"screen_name": "MattRKay",
+			"location": "Philadelphia",
+			"description": "Educator, Author of Not Light, but Fire, Columnist for Educational Leadership Magazine, Executive Director of the Philly Slam League, Varsity 🏀 & 🏈 coach.",
+			"url": "https://t.co/NKXFzlW12q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NKXFzlW12q",
+							"expanded_url": "http://www.notlight.com",
+							"display_url": "notlight.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4514,
+			"friends_count": 940,
+			"listed_count": 47,
+			"created_at": "Thu Jul 03 17:50:21 +0000 2014",
+			"favourites_count": 4782,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054150770315137024/FyJfyEa5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054150770315137024/FyJfyEa5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2602023644/1534016831",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Where Are All the Black Teachers? - Educational Leadership https://t.co/BstSZhnHQ7"
+	},
+	{
 		"created_at": "Fri Jun 12 23:45:48 +0000 2020",
 		"id": 1271589550977159200,
 		"id_str": "1271589550977159177",
