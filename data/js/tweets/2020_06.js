@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 16 22:33:28 +0000 2020",
+		"id": 1273006295747047400,
+		"id_str": "1273020897767706627",
+		"full_text": "Love it when Larry visits! And, we have some dedicated ADs! Such good sports! @CardinalsLHS @cjwilliamsjr @FaykimL @_drdamian https://t.co/xQlYly17Ae",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						78,
+						91
+					]
+				},
+				{
+					"screen_name": "cjwilliamsjr",
+					"name": "Cliff Williams",
+					"id": 465193444,
+					"id_str": "465193444",
+					"indices": [
+						92,
+						105
+					]
+				},
+				{
+					"screen_name": "FaykimL",
+					"name": "Fay Kim-Lopez",
+					"id": 1013578285773705200,
+					"id_str": "1013578285773705216",
+					"indices": [
+						106,
+						114
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						115,
+						125
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1273006286603419600,
+					"id_str": "1273006286603419648",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EaqgeRXWAAA1xcG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaqgeRXWAAA1xcG.jpg",
+					"url": "https://t.co/xQlYly17Ae",
+					"display_url": "pic.twitter.com/xQlYly17Ae",
+					"expanded_url": "https://twitter.com/Kition2/status/1273006295747047425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273006286603419600,
+					"id_str": "1273006286603419648",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/EaqgeRXWAAA1xcG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaqgeRXWAAA1xcG.jpg",
+					"url": "https://t.co/xQlYly17Ae",
+					"display_url": "pic.twitter.com/xQlYly17Ae",
+					"expanded_url": "https://twitter.com/Kition2/status/1273006295747047425/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 331,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 584,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 996,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1548691610,
+			"id_str": "1548691610",
+			"name": "Ms. Tziarri",
+			"screen_name": "Kition2",
+			"location": "",
+			"description": "High school language arts teacher and book lover, looking for education and literary resources.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 185,
+			"friends_count": 311,
+			"listed_count": 3,
+			"created_at": "Wed Jun 26 17:22:28 +0000 2013",
+			"favourites_count": 1189,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 439,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624307821950021633/Uj1okf7A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624307821950021633/Uj1okf7A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1548691610/1572121388",
+			"profile_link_color": "00B300",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love it when Larry visits! And, we have some dedicated ADs! Such good sports! @CardinalsLHS @cjwilliamsjr @FaykimL @_drdamian https://t.co/xQlYly17Ae"
+	},
+	{
 		"created_at": "Mon Jun 15 01:11:40 +0000 2020",
 		"id": 1272335933715644400,
 		"id_str": "1272335933715644417",
