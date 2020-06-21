@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 20 12:53:58 +0000 2020",
+		"id": 1274323929746866200,
+		"id_str": "1274324615628718080",
+		"full_text": "Presenting, the Class of 2020! Thank you @CardinalsLHS @ProjectGradLHS @dadamltps @FaykimL @_drdamian @cjwilliamsjr for everything you've done to make it special for them! #Classof2020 https://t.co/mVgbT2GpRX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Classof2020",
+					"indices": [
+						172,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						41,
+						54
+					]
+				},
+				{
+					"screen_name": "ProjectGradLHS",
+					"name": "LHS Project Grad",
+					"id": 2827554802,
+					"id_str": "2827554802",
+					"indices": [
+						55,
+						70
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"screen_name": "FaykimL",
+					"name": "Fay Kim-Lopez",
+					"id": 1013578285773705200,
+					"id_str": "1013578285773705216",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"screen_name": "cjwilliamsjr",
+					"name": "Cliff Williams",
+					"id": 465193444,
+					"id_str": "465193444",
+					"indices": [
+						102,
+						115
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274323925766418400,
+					"id_str": "1274323925766418432",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea9O29wWsAA5aSn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea9O29wWsAA5aSn.jpg",
+					"url": "https://t.co/mVgbT2GpRX",
+					"display_url": "pic.twitter.com/mVgbT2GpRX",
+					"expanded_url": "https://twitter.com/Kition2/status/1274323929746866177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274323925766418400,
+					"id_str": "1274323925766418432",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea9O29wWsAA5aSn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea9O29wWsAA5aSn.jpg",
+					"url": "https://t.co/mVgbT2GpRX",
+					"display_url": "pic.twitter.com/mVgbT2GpRX",
+					"expanded_url": "https://twitter.com/Kition2/status/1274323929746866177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1548691610,
+			"id_str": "1548691610",
+			"name": "Ms. Tziarri",
+			"screen_name": "Kition2",
+			"location": "",
+			"description": "High school language arts teacher and book lover, looking for education and literary resources.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 311,
+			"listed_count": 3,
+			"created_at": "Wed Jun 26 17:22:28 +0000 2013",
+			"favourites_count": 1195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/624307821950021633/Uj1okf7A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/624307821950021633/Uj1okf7A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1548691610/1572121388",
+			"profile_link_color": "00B300",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00f5304d2468b261",
+			"url": "https://api.twitter.com/1.1/geo/id/00f5304d2468b261.json",
+			"place_type": "city",
+			"name": "Lawrenceville",
+			"full_name": "Lawrenceville, NJ",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-74.787211,
+							40.2858874
+						],
+						[
+							-74.712204,
+							40.2858874
+						],
+						[
+							-74.712204,
+							40.3256053
+						],
+						[
+							-74.787211,
+							40.3256053
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Presenting, the Class of 2020! Thank you @CardinalsLHS @ProjectGradLHS @dadamltps @FaykimL @_drdamian @cjwilliamsjr for everything you've done to make it special for them! #Classof2020 https://t.co/mVgbT2GpRX"
+	},
+	{
 		"created_at": "Wed Jun 17 22:08:18 +0000 2020",
 		"id": 1273376951688925200,
 		"id_str": "1273376951688925184",
