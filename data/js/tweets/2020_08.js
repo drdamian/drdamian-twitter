@@ -1,6 +1,469 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 14 20:07:31 +0000 2020",
+		"id": 1294365052930265000,
+		"id_str": "1294365052930265099",
+		"full_text": "Great advice here for structuring online learning! https://t.co/B0r8Pjx2eC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B0r8Pjx2eC",
+					"expanded_url": "https://twitter.com/tracyrenee70/status/1294359695436599296",
+					"display_url": "twitter.com/tracyrenee70/s…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is still wearing his mask",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3208,
+			"friends_count": 1561,
+			"listed_count": 248,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1294359695436599300,
+		"quoted_status_id_str": "1294359695436599296",
+		"quoted_status_permalink": {
+			"url": "https://t.co/B0r8Pjx2eC",
+			"expanded": "https://twitter.com/tracyrenee70/status/1294359695436599296",
+			"display": "twitter.com/tracyrenee70/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 14 19:46:14 +0000 2020",
+			"id": 1294359695436599300,
+			"id_str": "1294359695436599296",
+			"full_text": "I wrote “Rules Gone Wild” because adults are trying my patience as usual as we move into online instruction...https://t.co/NxDAwHqXU7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NxDAwHqXU7",
+						"expanded_url": "https://link.medium.com/x49s3g04W8",
+						"display_url": "link.medium.com/x49s3g04W8",
+						"indices": [
+							110,
+							133
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 53742411,
+				"id_str": "53742411",
+				"name": "Tracy Edwards, Ed.D.",
+				"screen_name": "tracyrenee70",
+				"location": "Las Vegas & Chitown",
+				"description": "Teaching, Learning, Leading. @TeachPlusNV Policy Fellow. Board member @UNCFLasVegas. Leadership Team @CodeswitchLV. 1st Gen College Grad turned Dr. she/her/hers",
+				"url": "https://t.co/NAlDtgKmXw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NAlDtgKmXw",
+								"expanded_url": "https://dredwardseducator.com/about/",
+								"display_url": "dredwardseducator.com/about/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8933,
+				"friends_count": 3992,
+				"listed_count": 187,
+				"created_at": "Sat Jul 04 19:33:07 +0000 2009",
+				"favourites_count": 27549,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 14906,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1252599339723055105/P497KRk__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252599339723055105/P497KRk__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/53742411/1573740835",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "d374fb61a20fb74f",
+				"url": "https://api.twitter.com/1.1/geo/id/d374fb61a20fb74f.json",
+				"place_type": "admin",
+				"name": "Nevada",
+				"full_name": "Nevada, USA",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-120.00574,
+								35.002086
+							],
+							[
+								-114.039649,
+								35.002086
+							],
+							[
+								-114.039649,
+								42.002208
+							],
+							[
+								-120.00574,
+								42.002208
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great advice here for structuring online learning! https://t.co/B0r8Pjx2eC"
+	},
+	{
+		"created_at": "Fri Aug 14 15:20:44 +0000 2020",
+		"id": 1294292879893041200,
+		"id_str": "1294292879893041152",
+		"full_text": "@JenAnsbach Although I did read somewhere once - and it resonated with me - that in addition to criticizing the celebrity, let's also examine the system in which educators exist that necessitates/fosters the phenomenon.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JenAnsbach",
+					"name": "Jennifer Ansbach",
+					"id": 30316960,
+					"id_str": "30316960",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1294292583779373000,
+		"in_reply_to_status_id_str": "1294292583779373057",
+		"in_reply_to_user_id": 7887852,
+		"in_reply_to_user_id_str": "7887852",
+		"in_reply_to_screen_name": "_drdamian",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is still wearing his mask",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3208,
+			"friends_count": 1561,
+			"listed_count": 248,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JenAnsbach Although I did read somewhere once - and it resonated with me - that in addition to criticizing the celebrity, let's also examine the system in which educators exist that necessitates/fosters the phenomenon."
+	},
+	{
+		"created_at": "Fri Aug 14 15:19:33 +0000 2020",
+		"id": 1294292583779373000,
+		"id_str": "1294292583779373057",
+		"full_text": "@JenAnsbach The rise of the edupreneur/edulebrity has been one of the worst outcomes of what used to be a pretty cool online community, imho.  In retrospect, I guess it was always bound to happen, but disconcerting nonetheless. Not sure what's worse - the celebrities or the fanbase.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JenAnsbach",
+					"name": "Jennifer Ansbach",
+					"id": 30316960,
+					"id_str": "30316960",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1294291697044791300,
+		"in_reply_to_status_id_str": "1294291697044791296",
+		"in_reply_to_user_id": 30316960,
+		"in_reply_to_user_id_str": "30316960",
+		"in_reply_to_screen_name": "JenAnsbach",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is still wearing his mask",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3208,
+			"friends_count": 1561,
+			"listed_count": 248,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JenAnsbach The rise of the edupreneur/edulebrity has been one of the worst outcomes of what used to be a pretty cool online community, imho.  In retrospect, I guess it was always bound to happen, but disconcerting nonetheless. Not sure what's worse - the celebrities or the fanbase."
+	},
+	{
 		"created_at": "Thu Aug 13 04:09:15 +0000 2020",
 		"id": 1293761511266103300,
 		"id_str": "1293761511266103298",
