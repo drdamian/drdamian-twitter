@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 18:57:16 +0000 2020",
+		"id": 1307030595541905400,
+		"id_str": "1307030950417702913",
+		"full_text": "Hello @CardinalsLHS! We are busy getting all of your resources and textbooks ready for pick up next week. Please see the attached schedule.  Thanks so much to @LHSMediaCenter @YPanasowich @DrMPancoast @_drdamian for all of your help in getting this together for all of us! #LTPS https://t.co/UfrDqrcPaj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						273,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						6,
+						19
+					]
+				},
+				{
+					"screen_name": "LHSMediaCenter",
+					"name": "Ewa Dziedzic-Elliott",
+					"id": 796644332,
+					"id_str": "796644332",
+					"indices": [
+						159,
+						174
+					]
+				},
+				{
+					"screen_name": "YPanasowich",
+					"name": "Yvette Panasowich",
+					"id": 260752291,
+					"id_str": "260752291",
+					"indices": [
+						175,
+						187
+					]
+				},
+				{
+					"screen_name": "DrMPancoast",
+					"name": "Mary Pancoast",
+					"id": 4048694559,
+					"id_str": "4048694559",
+					"indices": [
+						188,
+						200
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca is still wearing his mask",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						201,
+						211
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1307029953838551000,
+					"id_str": "1307029953838551042",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EiOA0W1XkAIZSxg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiOA0W1XkAIZSxg.jpg",
+					"url": "https://t.co/UfrDqrcPaj",
+					"display_url": "pic.twitter.com/UfrDqrcPaj",
+					"expanded_url": "https://twitter.com/dadamltps/status/1307030595541905415/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1081,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1798,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1307029953838551000,
+					"id_str": "1307029953838551042",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EiOA0W1XkAIZSxg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiOA0W1XkAIZSxg.jpg",
+					"url": "https://t.co/UfrDqrcPaj",
+					"display_url": "pic.twitter.com/UfrDqrcPaj",
+					"expanded_url": "https://twitter.com/dadamltps/status/1307030595541905415/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1081,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1620,
+							"h": 1798,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 613,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307030003226472400,
+					"id_str": "1307030003226472450",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EiOA3O0XcAIrze6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiOA3O0XcAIrze6.jpg",
+					"url": "https://t.co/UfrDqrcPaj",
+					"display_url": "pic.twitter.com/UfrDqrcPaj",
+					"expanded_url": "https://twitter.com/dadamltps/status/1307030595541905415/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307030025661800400,
+					"id_str": "1307030025661800449",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EiOA4iZXYAENmz4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiOA4iZXYAENmz4.jpg",
+					"url": "https://t.co/UfrDqrcPaj",
+					"display_url": "pic.twitter.com/UfrDqrcPaj",
+					"expanded_url": "https://twitter.com/dadamltps/status/1307030595541905415/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1307030042027925500,
+					"id_str": "1307030042027925504",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EiOA5fXWoAAjksa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EiOA5fXWoAAjksa.jpg",
+					"url": "https://t.co/UfrDqrcPaj",
+					"display_url": "pic.twitter.com/UfrDqrcPaj",
+					"expanded_url": "https://twitter.com/dadamltps/status/1307030595541905415/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 260753316,
+			"id_str": "260753316",
+			"name": "David Adam",
+			"screen_name": "dadamltps",
+			"location": "Lawrence, NJ",
+			"description": "Principal of Lawrence High School",
+			"url": "https://t.co/KETOW12XgE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KETOW12XgE",
+							"expanded_url": "http://www.ltps.org",
+							"display_url": "ltps.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 968,
+			"friends_count": 147,
+			"listed_count": 41,
+			"created_at": "Fri Mar 04 14:40:19 +0000 2011",
+			"favourites_count": 12896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/260753316/1477665508",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hello @CardinalsLHS! We are busy getting all of your resources and textbooks ready for pick up next week. Please see the attached schedule.  Thanks so much to @LHSMediaCenter @YPanasowich @DrMPancoast @_drdamian for all of your help in getting this together for all of us! #LTPS https://t.co/UfrDqrcPaj"
+	},
+	{
 		"created_at": "Wed Sep 16 13:01:09 +0000 2020",
 		"id": 1306216555911446500,
 		"id_str": "1306216555911446528",
