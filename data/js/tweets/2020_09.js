@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 20 19:54:07 +0000 2020",
+		"id": 1307770030650790000,
+		"id_str": "1307770030650789889",
+		"full_text": "🤬 https://t.co/QVai538lqZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QVai538lqZ",
+					"expanded_url": "https://twitter.com/GraigSalerno/status/1307767637053636608",
+					"display_url": "twitter.com/GraigSalerno/s…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is still wearing his mask",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3204,
+			"friends_count": 1563,
+			"listed_count": 246,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247260112194068480/gU5RRhS8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1307767637053636600,
+		"quoted_status_id_str": "1307767637053636608",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QVai538lqZ",
+			"expanded": "https://twitter.com/GraigSalerno/status/1307767637053636608",
+			"display": "twitter.com/GraigSalerno/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 20 19:44:36 +0000 2020",
+			"id": 1307767637053636600,
+			"id_str": "1307767637053636608",
+			"full_text": "The 2020 Eagles are if 2020 was the Eagles.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 234565044,
+				"id_str": "234565044",
+				"name": "Dr. Graig",
+				"screen_name": "GraigSalerno",
+				"location": "",
+				"description": "Comedian/Radio Personality/Producer/Comedy Writer/Former Condo Owner 🦅",
+				"url": "https://t.co/BMYBb5Fglc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BMYBb5Fglc",
+								"expanded_url": "https://graigsalerno.wixsite.com/mysite",
+								"display_url": "graigsalerno.wixsite.com/mysite",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4339,
+				"friends_count": 455,
+				"listed_count": 19,
+				"created_at": "Wed Jan 05 23:55:08 +0000 2011",
+				"favourites_count": 8908,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6696,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EAEFF2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/837338897600282624/PJpKwy-H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/837338897600282624/PJpKwy-H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/234565044/1353177360",
+				"profile_link_color": "304747",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "BCBEF5",
+				"profile_text_color": "050305",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🤬 https://t.co/QVai538lqZ"
+	},
+	{
 		"created_at": "Sat Sep 19 15:41:13 +0000 2020",
 		"id": 1307343999309578200,
 		"id_str": "1307343999309578242",
