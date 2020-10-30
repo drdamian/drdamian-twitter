@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 29 21:54:18 +0000 2020",
+		"id": 1321933405588783000,
+		"id_str": "1321933405588783108",
+		"full_text": "This year Halloween fell on a weekend /\nMe and Geto Boys went trick or treating https://t.co/Dh6rJu6Y0Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dh6rJu6Y0Z",
+					"expanded_url": "https://twitter.com/UTexasPress/status/1321887022324183040",
+					"display_url": "twitter.com/UTexasPress/st…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Scary-exca 🎃👻",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3205,
+			"friends_count": 1560,
+			"listed_count": 247,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2376,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1321887022324183000,
+		"quoted_status_id_str": "1321887022324183040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Dh6rJu6Y0Z",
+			"expanded": "https://twitter.com/UTexasPress/status/1321887022324183040",
+			"display": "twitter.com/UTexasPress/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 29 18:50:00 +0000 2020",
+			"id": 1321887022324183000,
+			"id_str": "1321887022324183040",
+			"full_text": ".@CharlesLHughes2 on Bushwick Bill and Chucky for Halloween! 🔪\n\n#WhyBushwickBillMatters → https://t.co/r09Irn5WQh https://t.co/e6lRajEBJf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WhyBushwickBillMatters",
+						"indices": [
+							64,
+							87
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CharlesLHughes2",
+						"name": "Charles Hughes",
+						"id": 2537716524,
+						"id_str": "2537716524",
+						"indices": [
+							1,
+							17
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/r09Irn5WQh",
+						"expanded_url": "http://bit.ly/BushwickBillMatters",
+						"display_url": "bit.ly/BushwickBillMa…",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1321838696698708000,
+						"id_str": "1321838696698707973",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/Elg4CFCXgAEsCFy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Elg4CFCXgAEsCFy.jpg",
+						"url": "https://t.co/e6lRajEBJf",
+						"display_url": "pic.twitter.com/e6lRajEBJf",
+						"expanded_url": "https://twitter.com/UTexasPress/status/1321887022324183040/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1321838696698708000,
+						"id_str": "1321838696698707973",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/Elg4CFCXgAEsCFy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Elg4CFCXgAEsCFy.jpg",
+						"url": "https://t.co/e6lRajEBJf",
+						"display_url": "pic.twitter.com/e6lRajEBJf",
+						"expanded_url": "https://twitter.com/UTexasPress/status/1321887022324183040/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 209976,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1321838696698707973/pl/bWEReoi7GBIWwWkl.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1321838696698707973/vid/480x480/J0AXKHESXKsr5ur3.mp4?tag=13"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1321838696698707973/vid/320x320/JU21yCaqMxIkhbu6.mp4?tag=13"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1321838696698707973/vid/720x720/zPhI_F6NmKwir7B4.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "http://bit.ly/BushwickBillMatters"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 89007245,
+				"id_str": "89007245",
+				"name": "Univ of Texas Press",
+				"screen_name": "UTexasPress",
+				"location": "Austin, TX",
+				"description": "Publisher of international scope serving UT Austin, the people of Texas, and knowledge seekers around the globe through books, journals, and digital media",
+				"url": "http://t.co/L5sw2wLrZD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/L5sw2wLrZD",
+								"expanded_url": "http://www.utpress.utexas.edu",
+								"display_url": "utpress.utexas.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9469,
+				"friends_count": 5630,
+				"listed_count": 402,
+				"created_at": "Tue Nov 10 19:57:36 +0000 2009",
+				"favourites_count": 13504,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16314,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E3E3E3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/966426540874416128/92GYl-67_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/966426540874416128/92GYl-67_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/89007245/1589235057",
+				"profile_link_color": "AE0001",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CCCCCC",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This year Halloween fell on a weekend /\nMe and Geto Boys went trick or treating https://t.co/Dh6rJu6Y0Z"
+	},
+	{
 		"created_at": "Sun Oct 25 17:22:41 +0000 2020",
 		"id": 1320415498698412000,
 		"id_str": "1320415498698412032",
