@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 27 22:47:45 +0000 2020",
+		"id": 1332131108335521800,
+		"id_str": "1332456103964241921",
+		"full_text": "The holidays can be hard on mental health – and even more so during this pandemic. If you're feeling down and need to talk:\n\n💕Crisis Text Line: Text “NJ” to 741741\n💕Family Helpline: 1-800-843-5437\n💕Domestic Violence Hotline: 1-800-572-7233\n💕Mental Health Hotline: 866-202-4357 https://t.co/JrlWL1LO0t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1332131105181495300,
+					"id_str": "1332131105181495298",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EnyuLqaXcAIv2Up.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnyuLqaXcAIv2Up.jpg",
+					"url": "https://t.co/JrlWL1LO0t",
+					"display_url": "pic.twitter.com/JrlWL1LO0t",
+					"expanded_url": "https://twitter.com/GovMurphy/status/1332131108335521799/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1332131105181495300,
+					"id_str": "1332131105181495298",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EnyuLqaXcAIv2Up.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnyuLqaXcAIv2Up.jpg",
+					"url": "https://t.co/JrlWL1LO0t",
+					"display_url": "pic.twitter.com/JrlWL1LO0t",
+					"expanded_url": "https://twitter.com/GovMurphy/status/1332131108335521799/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 948946378939609100,
+			"id_str": "948946378939609089",
+			"name": "Governor Phil Murphy",
+			"screen_name": "GovMurphy",
+			"location": "New Jersey, USA",
+			"description": "56th Governor of the great State of New Jersey. Proud husband of @FirstLadyNJ and father of 4 humans and 2 dogs. Proud to lead @NJGov alongside @LtGovOliver.",
+			"url": "https://t.co/bB3uxx4f5p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bB3uxx4f5p",
+							"expanded_url": "http://NJ.Gov",
+							"display_url": "NJ.Gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 364022,
+			"friends_count": 172,
+			"listed_count": 1116,
+			"created_at": "Thu Jan 04 15:57:02 +0000 2018",
+			"favourites_count": 209,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11610,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280892358830313472/PivuaWxp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280892358830313472/PivuaWxp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/948946378939609089/1592236668",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 516,
+		"favorite_count": 1299,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The holidays can be hard on mental health – and even more so during this pandemic. If you're feeling down and need to talk:\n\n💕Crisis Text Line: Text “NJ” to 741741\n💕Family Helpline: 1-800-843-5437\n💕Domestic Violence Hotline: 1-800-572-7233\n💕Mental Health Hotline: 866-202-4357 https://t.co/JrlWL1LO0t"
+	},
+	{
 		"created_at": "Thu Nov 26 13:06:13 +0000 2020",
 		"id": 1331947368997130200,
 		"id_str": "1331947368997130240",
