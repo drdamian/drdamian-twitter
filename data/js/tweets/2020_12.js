@@ -1,6 +1,652 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 05 22:34:55 +0000 2020",
+		"id": 1335351977526562800,
+		"id_str": "1335351977526562820",
+		"full_text": "👀 https://t.co/zZ7PEtFTra",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zZ7PEtFTra",
+					"expanded_url": "https://twitter.com/_DionneWarwick/status/1335345102512771072",
+					"display_url": "twitter.com/_DionneWarwick…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is still wearing his mask 😷",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3195,
+			"friends_count": 1559,
+			"listed_count": 247,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1335345102512771000,
+		"quoted_status_id_str": "1335345102512771072",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zZ7PEtFTra",
+			"expanded": "https://twitter.com/_DionneWarwick/status/1335345102512771072",
+			"display": "twitter.com/_DionneWarwick…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 05 22:07:36 +0000 2020",
+			"id": 1335345102512771000,
+			"id_str": "1335345102512771072",
+			"full_text": "Hi, @chancetherapper. If you are very obviously a rapper why did you put it in your stage name? I cannot stop thinking about this.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				130
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "chancetherapper",
+						"name": "Chance The Rapper",
+						"id": 181572333,
+						"id_str": "181572333",
+						"indices": [
+							4,
+							20
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 874896877,
+				"id_str": "874896877",
+				"name": "Dionne Warwick",
+				"screen_name": "_DionneWarwick",
+				"location": "",
+				"description": "🥳I’m turning 80! All I want for my birthday is a donation to Hunger: Not Impossible to help feed families in need.👇🏽",
+				"url": "https://t.co/9lmp3EwnlF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9lmp3EwnlF",
+								"expanded_url": "https://bit.ly/2IMJvHS",
+								"display_url": "bit.ly/2IMJvHS",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 68189,
+				"friends_count": 4839,
+				"listed_count": 349,
+				"created_at": "Fri Oct 12 03:58:27 +0000 2012",
+				"favourites_count": 1062,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2735,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "452D03",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1182494346114813954/GRD8YwiZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182494346114813954/GRD8YwiZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/874896877/1583528455",
+				"profile_link_color": "113CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5923,
+			"favorite_count": 51024,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👀 https://t.co/zZ7PEtFTra"
+	},
+	{
+		"created_at": "Sat Dec 05 20:51:56 +0000 2020",
+		"id": 1335326060116914200,
+		"id_str": "1335326060116914176",
+		"full_text": "https://t.co/zLTfhmFO1b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zLTfhmFO1b",
+					"expanded_url": "https://www.mixcloud.com/live/DJJazzyJeff/",
+					"display_url": "mixcloud.com/live/DJJazzyJe…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is still wearing his mask 😷",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3195,
+			"friends_count": 1559,
+			"listed_count": 247,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/zLTfhmFO1b"
+	},
+	{
+		"created_at": "Sat Dec 05 20:35:02 +0000 2020",
+		"id": 1335321808447434800,
+		"id_str": "1335321808447434754",
+		"full_text": "I have supervised FCS at LHS since 2014; just emailed Mary.  Looking forward to seeing what comes of this! https://t.co/BcR8j5Nosn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BcR8j5Nosn",
+					"expanded_url": "https://twitter.com/MrsMCEDU/status/1335210826957991936",
+					"display_url": "twitter.com/MrsMCEDU/statu…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is still wearing his mask 😷",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3195,
+			"friends_count": 1559,
+			"listed_count": 247,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1335210826957992000,
+		"quoted_status_id_str": "1335210826957991936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BcR8j5Nosn",
+			"expanded": "https://twitter.com/MrsMCEDU/status/1335210826957991936",
+			"display": "twitter.com/MrsMCEDU/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 05 13:14:02 +0000 2020",
+			"id": 1335210826957992000,
+			"id_str": "1335210826957991936",
+			"full_text": "FYI @NJPSA members: please consider joining either of these committees! I’m looking forward to connecting with more Gifted and Talented supervisors! @NJAGCGifted  #njed @NewJerseyDOE https://t.co/6inbgcge4I",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "njed",
+						"indices": [
+							163,
+							168
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NJPSA",
+						"name": "NJPSA",
+						"id": 148854951,
+						"id_str": "148854951",
+						"indices": [
+							4,
+							10
+						]
+					},
+					{
+						"screen_name": "NJAGCGifted",
+						"name": "NJAGC",
+						"id": 2227570898,
+						"id_str": "2227570898",
+						"indices": [
+							149,
+							161
+						]
+					},
+					{
+						"screen_name": "NewJerseyDOE",
+						"name": "New Jersey Department of Education",
+						"id": 958079839969448000,
+						"id_str": "958079839969447937",
+						"indices": [
+							169,
+							182
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1335210824105914400,
+						"id_str": "1335210824105914374",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/EoefK5cW8AYyxog.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoefK5cW8AYyxog.jpg",
+						"url": "https://t.co/6inbgcge4I",
+						"display_url": "pic.twitter.com/6inbgcge4I",
+						"expanded_url": "https://twitter.com/MrsMCEDU/status/1335210826957991936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 828,
+								"h": 449,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 369,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 449,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1335210824105914400,
+						"id_str": "1335210824105914374",
+						"indices": [
+							183,
+							206
+						],
+						"media_url": "http://pbs.twimg.com/media/EoefK5cW8AYyxog.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoefK5cW8AYyxog.jpg",
+						"url": "https://t.co/6inbgcge4I",
+						"display_url": "pic.twitter.com/6inbgcge4I",
+						"expanded_url": "https://twitter.com/MrsMCEDU/status/1335210826957991936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 828,
+								"h": 449,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 369,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 828,
+								"h": 449,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1045362149504233500,
+				"id_str": "1045362149504233472",
+				"name": "Maria MC",
+				"screen_name": "MrsMCEDU",
+				"location": "New Jersey, USA",
+				"description": "Supervisor of Curriculum and Instruction. Former ESL and G&T teacher. https://t.co/VjMczHUIbP",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/VjMczHUIbP",
+								"expanded_url": "http://eslathome.edublogs.org",
+								"display_url": "eslathome.edublogs.org",
+								"indices": [
+									70,
+									93
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 898,
+				"friends_count": 864,
+				"listed_count": 4,
+				"created_at": "Thu Sep 27 17:18:53 +0000 2018",
+				"favourites_count": 2867,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1211,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1247944064554553345/uUitfthz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247944064554553345/uUitfthz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1045362149504233472/1587152046",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have supervised FCS at LHS since 2014; just emailed Mary.  Looking forward to seeing what comes of this! https://t.co/BcR8j5Nosn"
+	},
+	{
 		"created_at": "Fri Dec 04 14:45:00 +0000 2020",
 		"id": 1334871329263202300,
 		"id_str": "1334871329263202307",
