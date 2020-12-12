@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 14:42:59 +0000 2020",
+		"id": 1337407536841027600,
+		"id_str": "1337407536841027584",
+		"full_text": "#LTPS https://t.co/I6K94WsJGO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			5
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I6K94WsJGO",
+					"expanded_url": "https://twitter.com/CardinalsLHS/status/1337406777042882560",
+					"display_url": "twitter.com/CardinalsLHS/s…",
+					"indices": [
+						6,
+						29
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is still wearing his mask 😷",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3190,
+			"friends_count": 1558,
+			"listed_count": 246,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2393,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1337406777042882600,
+		"quoted_status_id_str": "1337406777042882560",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I6K94WsJGO",
+			"expanded": "https://twitter.com/CardinalsLHS/status/1337406777042882560",
+			"display": "twitter.com/CardinalsLHS/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 11 14:39:58 +0000 2020",
+			"id": 1337406777042882600,
+			"id_str": "1337406777042882560",
+			"full_text": "Congratulations to Kaylee Lekki Jones, LHS's 2021 ESP of the year! She works tirelessly to support our Ss! #LawrenceStrong #ESPoftheyear  @dadamltps https://t.co/m0oPGLbVjI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				148
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LawrenceStrong",
+						"indices": [
+							107,
+							122
+						]
+					},
+					{
+						"text": "ESPoftheyear",
+						"indices": [
+							123,
+							136
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dadamltps",
+						"name": "David Adam",
+						"id": 260753316,
+						"id_str": "260753316",
+						"indices": [
+							138,
+							148
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1337406775298035700,
+						"id_str": "1337406775298035712",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/Eo9sYFHXEAAZ8EN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eo9sYFHXEAAZ8EN.jpg",
+						"url": "https://t.co/m0oPGLbVjI",
+						"display_url": "pic.twitter.com/m0oPGLbVjI",
+						"expanded_url": "https://twitter.com/CardinalsLHS/status/1337406777042882560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 434,
+								"h": 479,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 434,
+								"h": 479,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 434,
+								"h": 479,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1337406775298035700,
+						"id_str": "1337406775298035712",
+						"indices": [
+							149,
+							172
+						],
+						"media_url": "http://pbs.twimg.com/media/Eo9sYFHXEAAZ8EN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eo9sYFHXEAAZ8EN.jpg",
+						"url": "https://t.co/m0oPGLbVjI",
+						"display_url": "pic.twitter.com/m0oPGLbVjI",
+						"expanded_url": "https://twitter.com/CardinalsLHS/status/1337406777042882560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 434,
+								"h": 479,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 434,
+								"h": 479,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 434,
+								"h": 479,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 832085833,
+				"id_str": "832085833",
+				"name": "Lawrence High School",
+				"screen_name": "CardinalsLHS",
+				"location": "Lawrenceville, NJ",
+				"description": "2014 NJ State School of Character. Home of the Cardinals. Principal: Dave Adam and Assistant Principals: Damian Bariexca, Fay Kim Lopez and Clifford Williams",
+				"url": "https://t.co/lgrxKNnvRA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lgrxKNnvRA",
+								"expanded_url": "http://www.ltps.org/HighSchool.cfm",
+								"display_url": "ltps.org/HighSchool.cfm",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1253,
+				"friends_count": 133,
+				"listed_count": 18,
+				"created_at": "Tue Sep 18 23:20:52 +0000 2012",
+				"favourites_count": 1445,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1457,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/776179866374995968/CI6XfSYH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/776179866374995968/CI6XfSYH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/832085833/1391362624",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#LTPS https://t.co/I6K94WsJGO"
+	},
+	{
 		"created_at": "Wed Dec 09 01:18:38 +0000 2020",
 		"id": 1336480342337876000,
 		"id_str": "1336480342337875968",
