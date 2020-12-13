@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 12 23:06:44 +0000 2020",
+		"id": 1337896698748788700,
+		"id_str": "1337896698748788738",
+		"full_text": "👇 https://t.co/lBc2kYxteW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			1
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lBc2kYxteW",
+					"expanded_url": "https://twitter.com/indyfromspace/status/1337857800576364555",
+					"display_url": "twitter.com/indyfromspace/…",
+					"indices": [
+						2,
+						25
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is still wearing his mask 😷",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ Dad & husband ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3186,
+			"friends_count": 1557,
+			"listed_count": 0,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2393,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1337857800576364500,
+		"quoted_status_id_str": "1337857800576364555",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lBc2kYxteW",
+			"expanded": "https://twitter.com/indyfromspace/status/1337857800576364555",
+			"display": "twitter.com/indyfromspace/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 12 20:32:10 +0000 2020",
+			"id": 1337857800576364500,
+			"id_str": "1337857800576364555",
+			"full_text": "To all women who are PhDs: In solidarity with Dr. Jill Biden and to stand in solidarity against that sexist trash op-ed about her in the WSJ, please consider adding “Dr” to your twitter name to show how many of us there are. We deserve respect. You earned your PhD. #mytitleisdr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "mytitleisdr",
+						"indices": [
+							266,
+							278
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 330105456,
+				"id_str": "330105456",
+				"name": "Dr. Sarah Parcak",
+				"screen_name": "indyfromspace",
+				"location": "400 miles up, lookin' down",
+				"description": "ARCHAEOLOGY FROM SPACE @Global_Xplorer, Professor, Egyptologist, mom, 2020 Guggenheim Fellow, award-winning author, speaking requests @tuesdayagency she/her",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 70807,
+				"friends_count": 1811,
+				"listed_count": 702,
+				"created_at": "Wed Jul 06 03:22:39 +0000 2011",
+				"favourites_count": 8146,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 43640,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1295900654133751815/0OEVsFlo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295900654133751815/0OEVsFlo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/330105456/1488306704",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 913,
+			"favorite_count": 5744,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👇 https://t.co/lBc2kYxteW"
+	},
+	{
 		"created_at": "Fri Dec 11 14:42:59 +0000 2020",
 		"id": 1337407536841027600,
 		"id_str": "1337407536841027584",
