@@ -1,6 +1,603 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 19 00:49:14 +0000 2020",
+		"id": 1340096821759238100,
+		"id_str": "1340096821759238144",
+		"full_text": "Quote with four albums that came out when you were 14. https://t.co/bjpQR5Wtd4 https://t.co/Sbz2qG72Sf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bjpQR5Wtd4",
+					"expanded_url": "https://twitter.com/DrTimony/status/1340093290373386242",
+					"display_url": "twitter.com/DrTimony/statu…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1340096815480393700,
+					"id_str": "1340096815480393728",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Epj69BtXUAAjC6E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epj69BtXUAAjC6E.jpg",
+					"url": "https://t.co/Sbz2qG72Sf",
+					"display_url": "pic.twitter.com/Sbz2qG72Sf",
+					"expanded_url": "https://twitter.com/_drdamian/status/1340096821759238144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340096815480393700,
+					"id_str": "1340096815480393728",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Epj69BtXUAAjC6E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epj69BtXUAAjC6E.jpg",
+					"url": "https://t.co/Sbz2qG72Sf",
+					"display_url": "pic.twitter.com/Sbz2qG72Sf",
+					"expanded_url": "https://twitter.com/_drdamian/status/1340096821759238144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1340096817254588400,
+					"id_str": "1340096817254588418",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Epj69IUXYAIptus.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epj69IUXYAIptus.jpg",
+					"url": "https://t.co/Sbz2qG72Sf",
+					"display_url": "pic.twitter.com/Sbz2qG72Sf",
+					"expanded_url": "https://twitter.com/_drdamian/status/1340096821759238144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1340096818634498000,
+					"id_str": "1340096818634498051",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Epj69NdXIAMTXzl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epj69NdXIAMTXzl.jpg",
+					"url": "https://t.co/Sbz2qG72Sf",
+					"display_url": "pic.twitter.com/Sbz2qG72Sf",
+					"expanded_url": "https://twitter.com/_drdamian/status/1340096821759238144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1340096819968299000,
+					"id_str": "1340096819968299008",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/Epj69SbXUAAUKa0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epj69SbXUAAUKa0.jpg",
+					"url": "https://t.co/Sbz2qG72Sf",
+					"display_url": "pic.twitter.com/Sbz2qG72Sf",
+					"expanded_url": "https://twitter.com/_drdamian/status/1340096821759238144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is still wearing his mask 😷",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3185,
+			"friends_count": 1558,
+			"listed_count": 246,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1340093290373386200,
+		"quoted_status_id_str": "1340093290373386242",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bjpQR5Wtd4",
+			"expanded": "https://twitter.com/DrTimony/status/1340093290373386242",
+			"display": "twitter.com/DrTimony/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 19 00:35:12 +0000 2020",
+			"id": 1340093290373386200,
+			"id_str": "1340093290373386242",
+			"full_text": "Quote with four albums that came out when you were 14. https://t.co/J2W31HrYVR https://t.co/HJEqEFiw7Z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				78
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/J2W31HrYVR",
+						"expanded_url": "https://twitter.com/rosy_burke/status/1340091842218631168",
+						"display_url": "twitter.com/rosy_burke/sta…",
+						"indices": [
+							55,
+							78
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1340093283796742100,
+						"id_str": "1340093283796742144",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/Epj3vdKXcAAprQc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Epj3vdKXcAAprQc.jpg",
+						"url": "https://t.co/HJEqEFiw7Z",
+						"display_url": "pic.twitter.com/HJEqEFiw7Z",
+						"expanded_url": "https://twitter.com/DrTimony/status/1340093290373386242/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 220,
+								"h": 218,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 220,
+								"h": 218,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 220,
+								"h": 218,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1340093283796742100,
+						"id_str": "1340093283796742144",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/Epj3vdKXcAAprQc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Epj3vdKXcAAprQc.jpg",
+						"url": "https://t.co/HJEqEFiw7Z",
+						"display_url": "pic.twitter.com/HJEqEFiw7Z",
+						"expanded_url": "https://twitter.com/DrTimony/status/1340093290373386242/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 220,
+								"h": 218,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 220,
+								"h": 218,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 220,
+								"h": 218,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1340093285323460600,
+						"id_str": "1340093285323460609",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/Epj3vi2XUAExitp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Epj3vi2XUAExitp.jpg",
+						"url": "https://t.co/HJEqEFiw7Z",
+						"display_url": "pic.twitter.com/HJEqEFiw7Z",
+						"expanded_url": "https://twitter.com/DrTimony/status/1340093290373386242/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 220,
+								"h": 218,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 220,
+								"h": 218,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 220,
+								"h": 218,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1340093286850113500,
+						"id_str": "1340093286850113540",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/Epj3voiWMAQxVqg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Epj3voiWMAQxVqg.jpg",
+						"url": "https://t.co/HJEqEFiw7Z",
+						"display_url": "pic.twitter.com/HJEqEFiw7Z",
+						"expanded_url": "https://twitter.com/DrTimony/status/1340093290373386242/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 220,
+								"h": 220,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 220,
+								"h": 220,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 220,
+								"h": 220,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1340093288909561900,
+						"id_str": "1340093288909561859",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/Epj3vwNW4AMhXmb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Epj3vwNW4AMhXmb.jpg",
+						"url": "https://t.co/HJEqEFiw7Z",
+						"display_url": "pic.twitter.com/HJEqEFiw7Z",
+						"expanded_url": "https://twitter.com/DrTimony/status/1340093290373386242/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 220,
+								"h": 218,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 220,
+								"h": 218,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 220,
+								"h": 218,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118111651,
+				"id_str": "118111651",
+				"name": "David D. Timony, PhD",
+				"screen_name": "DrTimony",
+				"location": "Philadelphia",
+				"description": "Expertise | Memory | Panic | Chair of Ed @DelVal | Gaelgeoir | Faixa Roxa | Views are mine alone, clearly | \n#DeathXAmbition #DieTryingorDontDieAtAll",
+				"url": "https://t.co/L7fIXKVn5g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L7fIXKVn5g",
+								"expanded_url": "https://www.delval.edu/academics/faculty-directory/david-d-timony",
+								"display_url": "delval.edu/academics/facu…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3161,
+				"friends_count": 1079,
+				"listed_count": 255,
+				"created_at": "Sat Feb 27 16:50:41 +0000 2010",
+				"favourites_count": 3866,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 45118,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "140F10",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1205647969321705474/zuAE-thb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205647969321705474/zuAE-thb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118111651/1510363105",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1340091842218631200,
+			"quoted_status_id_str": "1340091842218631168",
+			"quoted_status_permalink": {
+				"url": "https://t.co/J2W31HrYVR",
+				"expanded": "https://twitter.com/rosy_burke/status/1340091842218631168",
+				"display": "twitter.com/rosy_burke/sta…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Quote with four albums that came out when you were 14. https://t.co/bjpQR5Wtd4 https://t.co/Sbz2qG72Sf"
+	},
+	{
 		"created_at": "Wed Dec 16 13:04:55 +0000 2020",
 		"id": 1339194796930379800,
 		"id_str": "1339194796930379776",
