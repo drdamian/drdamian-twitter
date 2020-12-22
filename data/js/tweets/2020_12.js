@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 00:02:23 +0000 2020",
+		"id": 1341143260409041000,
+		"id_str": "1341172192927768582",
+		"full_text": "Kindness matters. \nBut kindness does not = justice. \n\nCivility counts.\nBut calling for civility is not the humane response to injustice. \nJustice is. \n\nLove is essential.\nBut love is not a passive, weeping bystander. \n\nLove puts in work.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54617733,
+			"id_str": "54617733",
+			"name": "Be A King",
+			"screen_name": "BerniceKing",
+			"location": "Atlanta, GA",
+			"description": "CEO of Martin Luther King Jr. Center for Nonviolent Social Change (@TheKingCenter) • Connector • Communicator • Community Builder • Child of Global Leaders",
+			"url": "https://t.co/QI2LaNL971",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QI2LaNL971",
+							"expanded_url": "https://thekingcenter.org",
+							"display_url": "thekingcenter.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 564455,
+			"friends_count": 579,
+			"listed_count": 1961,
+			"created_at": "Tue Jul 07 17:30:48 +0000 2009",
+			"favourites_count": 26912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17567,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1293205511060553736/z9eAOJK-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1293205511060553736/z9eAOJK-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54617733/1588367210",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 590,
+		"favorite_count": 2124,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Kindness matters. \nBut kindness does not = justice. \n\nCivility counts.\nBut calling for civility is not the humane response to injustice. \nJustice is. \n\nLove is essential.\nBut love is not a passive, weeping bystander. \n\nLove puts in work."
+	},
+	{
 		"created_at": "Sun Dec 20 18:22:49 +0000 2020",
 		"id": 1340724352367681500,
 		"id_str": "1340724352367681536",
