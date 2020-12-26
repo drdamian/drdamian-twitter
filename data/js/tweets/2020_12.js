@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 14:32:00 +0000 2020",
+		"id": 1342478204599210000,
+		"id_str": "1342478204599209986",
+		"full_text": "And to all a good night. https://t.co/OP6nUoLiy8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OP6nUoLiy8",
+					"expanded_url": "https://twitter.com/TIDAL/status/1342334258157912067",
+					"display_url": "twitter.com/TIDAL/status/1…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is still wearing his mask 😷⛄",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3187,
+			"friends_count": 1558,
+			"listed_count": 246,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1342334258157912000,
+		"quoted_status_id_str": "1342334258157912067",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OP6nUoLiy8",
+			"expanded": "https://twitter.com/TIDAL/status/1342334258157912067",
+			"display": "twitter.com/TIDAL/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 25 05:00:01 +0000 2020",
+			"id": 1342334258157912000,
+			"id_str": "1342334258157912067",
+			"full_text": "NEW on TIDAL: @metallica’s entire catalogue in Master Quality.\n\n▶️ https://t.co/ITtdzvx1yD https://t.co/HOFVrwnXRP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Metallica",
+						"name": "Metallica",
+						"id": 238475531,
+						"id_str": "238475531",
+						"indices": [
+							14,
+							24
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ITtdzvx1yD",
+						"expanded_url": "http://tidal.link/metallica",
+						"display_url": "tidal.link/metallica",
+						"indices": [
+							67,
+							90
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1342293898778075100,
+						"id_str": "1342293898778075136",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/EqDJlUkWMAMtOxs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqDJlUkWMAMtOxs.jpg",
+						"url": "https://t.co/HOFVrwnXRP",
+						"display_url": "pic.twitter.com/HOFVrwnXRP",
+						"expanded_url": "https://twitter.com/TIDAL/status/1342334258157912067/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1342293898778075100,
+						"id_str": "1342293898778075136",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/EqDJlUkWMAMtOxs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EqDJlUkWMAMtOxs.jpg",
+						"url": "https://t.co/HOFVrwnXRP",
+						"display_url": "pic.twitter.com/HOFVrwnXRP",
+						"expanded_url": "https://twitter.com/TIDAL/status/1342334258157912067/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 720,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								5
+							],
+							"duration_millis": 15000,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1342293898778075136/vid/360x450/BJffp6NeaW4UciMT.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1342293898778075136/pl/udV6h1MooFP1TMAm.m3u8?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1342293898778075136/vid/720x900/OznUxmoBAD-c-ksb.mp4?tag=13"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1342293898778075136/vid/320x400/ca8HcdIr7Xr8dvLG.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2679055230,
+				"id_str": "2679055230",
+				"name": "TIDAL",
+				"screen_name": "TIDAL",
+				"location": "",
+				"description": "Unlimited music and videos, ad-free. Play your favorite songs & discover new artists in the highest quality audio available. Need support? Tweet @TIDALSupport",
+				"url": "https://t.co/NIGaOhpuzo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NIGaOhpuzo",
+								"expanded_url": "http://TIDAL.com",
+								"display_url": "TIDAL.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 321899,
+				"friends_count": 933,
+				"listed_count": 1407,
+				"created_at": "Fri Jul 25 08:37:11 +0000 2014",
+				"favourites_count": 26460,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 49540,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880802261596766209/Ggmq2YW0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880802261596766209/Ggmq2YW0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2679055230/1606838036",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 157,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And to all a good night. https://t.co/OP6nUoLiy8"
+	},
+	{
 		"created_at": "Wed Dec 23 19:19:35 +0000 2020",
 		"id": 1341825800446881800,
 		"id_str": "1341825800446881793",
