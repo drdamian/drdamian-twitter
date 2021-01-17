@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 16 22:46:03 +0000 2021",
+		"id": 1350575068561236000,
+		"id_str": "1350575068561235969",
+		"full_text": "@SukhiVG @SchleiderJustin Too soon!",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SukhiVG",
+					"name": "Sukhi VG",
+					"id": 1712753586,
+					"id_str": "1712753586",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "SchleiderJustin",
+					"name": "Justin Schleider ABC, BBD (Not So Slim Shady)",
+					"id": 2171504722,
+					"id_str": "2171504722",
+					"indices": [
+						9,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1350574067917664300,
+		"in_reply_to_status_id_str": "1350574067917664262",
+		"in_reply_to_user_id": 1712753586,
+		"in_reply_to_user_id_str": "1712753586",
+		"in_reply_to_screen_name": "SukhiVG",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is still wearing his mask 😷",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3177,
+			"friends_count": 1554,
+			"listed_count": 245,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SukhiVG @SchleiderJustin Too soon!"
+	},
+	{
+		"created_at": "Sat Jan 16 19:29:08 +0000 2021",
+		"id": 1350525514474270700,
+		"id_str": "1350525514474270720",
+		"full_text": "@SchleiderJustin @SukhiVG Caldor, Two Guys, Jamesway, Bradlees",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SchleiderJustin",
+					"name": "Justin Schleider ABC, BBD (Not So Slim Shady)",
+					"id": 2171504722,
+					"id_str": "2171504722",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "SukhiVG",
+					"name": "Sukhi VG",
+					"id": 1712753586,
+					"id_str": "1712753586",
+					"indices": [
+						17,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1350512973035548700,
+		"in_reply_to_status_id_str": "1350512973035548672",
+		"in_reply_to_user_id": 2171504722,
+		"in_reply_to_user_id_str": "2171504722",
+		"in_reply_to_screen_name": "SchleiderJustin",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is still wearing his mask 😷",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3177,
+			"friends_count": 1554,
+			"listed_count": 245,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SchleiderJustin @SukhiVG Caldor, Two Guys, Jamesway, Bradlees"
+	},
+	{
 		"created_at": "Fri Jan 15 19:55:00 +0000 2021",
 		"id": 1350167481869095000,
 		"id_str": "1350169634377490432",
