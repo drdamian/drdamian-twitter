@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 31 23:11:11 +0000 2021",
+		"id": 1356016357716996000,
+		"id_str": "1356017209697513474",
+		"full_text": "Hello @CardinalsLHS ... due to the inclement weather, we will be on a remote learning schedule on Monday 2/1 &amp; Tuesday 2/2. Classes start at 8:40 am. There will be no sports afterschool for both days. Be safe and stay well! https://t.co/GfbxNXm2BX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						6,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1356016250196004900,
+					"id_str": "1356016250196004864",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EtGJmFaXEAA93oS.png",
+					"media_url_https": "https://pbs.twimg.com/media/EtGJmFaXEAA93oS.png",
+					"url": "https://t.co/GfbxNXm2BX",
+					"display_url": "pic.twitter.com/GfbxNXm2BX",
+					"expanded_url": "https://twitter.com/dadamltps/status/1356016357716996098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 992,
+							"h": 651,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 446,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 992,
+							"h": 651,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1356016250196004900,
+					"id_str": "1356016250196004864",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EtGJmFaXEAA93oS.png",
+					"media_url_https": "https://pbs.twimg.com/media/EtGJmFaXEAA93oS.png",
+					"url": "https://t.co/GfbxNXm2BX",
+					"display_url": "pic.twitter.com/GfbxNXm2BX",
+					"expanded_url": "https://twitter.com/dadamltps/status/1356016357716996098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 992,
+							"h": 651,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 446,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 992,
+							"h": 651,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 260753316,
+			"id_str": "260753316",
+			"name": "David Adam",
+			"screen_name": "dadamltps",
+			"location": "Lawrence, NJ",
+			"description": "Principal of Lawrence High School",
+			"url": "https://t.co/KETOW12XgE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KETOW12XgE",
+							"expanded_url": "http://www.ltps.org",
+							"display_url": "ltps.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 975,
+			"friends_count": 153,
+			"listed_count": 42,
+			"created_at": "Fri Mar 04 14:40:19 +0000 2011",
+			"favourites_count": 13910,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/260753316/1477665508",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hello @CardinalsLHS ... due to the inclement weather, we will be on a remote learning schedule on Monday 2/1 &amp; Tuesday 2/2. Classes start at 8:40 am. There will be no sports afterschool for both days. Be safe and stay well! https://t.co/GfbxNXm2BX"
+	},
+	{
 		"created_at": "Mon Jan 25 02:34:26 +0000 2021",
 		"id": 1353531645412991000,
 		"id_str": "1353531645412990981",
