@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Thu Feb 18 18:43:57 +0000 2021",
+		"id": 1362417384011743200,
+		"id_str": "1362472942077157382",
+		"full_text": "Despite the snowy weather... the @CardinalsLHS Rising 9th Grade Open House is still on for tonight at 7:00 pm. Looking forward to seeing you then! https://t.co/nFQDz2ZfW8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						33,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1362417310309503000,
+					"id_str": "1362417310309502978",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EuhHU0jXUAI-x3K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuhHU0jXUAI-x3K.jpg",
+					"url": "https://t.co/nFQDz2ZfW8",
+					"display_url": "pic.twitter.com/nFQDz2ZfW8",
+					"expanded_url": "https://twitter.com/dadamltps/status/1362417384011743233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1204,
+							"h": 1505,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1362417310309503000,
+					"id_str": "1362417310309502978",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/EuhHU0jXUAI-x3K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EuhHU0jXUAI-x3K.jpg",
+					"url": "https://t.co/nFQDz2ZfW8",
+					"display_url": "pic.twitter.com/nFQDz2ZfW8",
+					"expanded_url": "https://twitter.com/dadamltps/status/1362417384011743233/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1204,
+							"h": 1505,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 260753316,
+			"id_str": "260753316",
+			"name": "David Adam",
+			"screen_name": "dadamltps",
+			"location": "Lawrence, NJ",
+			"description": "Principal of Lawrence High School",
+			"url": "https://t.co/KETOW12XgE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KETOW12XgE",
+							"expanded_url": "http://www.ltps.org",
+							"display_url": "ltps.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 975,
+			"friends_count": 154,
+			"listed_count": 42,
+			"created_at": "Fri Mar 04 14:40:19 +0000 2011",
+			"favourites_count": 14072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/260753316/1477665508",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Despite the snowy weather... the @CardinalsLHS Rising 9th Grade Open House is still on for tonight at 7:00 pm. Looking forward to seeing you then! https://t.co/nFQDz2ZfW8"
+	},
+	{
 		"created_at": "Thu Feb 18 01:09:47 +0000 2021",
 		"id": 1362207653724901400,
 		"id_str": "1362207653724901377",
