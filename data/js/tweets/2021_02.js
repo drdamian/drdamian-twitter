@@ -1,6 +1,530 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 23 00:09:30 +0000 2021",
+		"id": 1364004419860365300,
+		"id_str": "1364004419860365317",
+		"full_text": "@Nixie @ThatKevinSmith Glad to be of service!",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nixie",
+					"name": "Loud & Aggressive",
+					"id": 1953911,
+					"id_str": "1953911",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "ThatKevinSmith",
+					"name": "KevinSmith",
+					"id": 14681605,
+					"id_str": "14681605",
+					"indices": [
+						7,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1363548599645311000,
+		"in_reply_to_status_id_str": "1363548599645310977",
+		"in_reply_to_user_id": 1953911,
+		"in_reply_to_user_id_str": "1953911",
+		"in_reply_to_screen_name": "Nixie",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is wearing his masks 😷😷",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3172,
+			"friends_count": 1557,
+			"listed_count": 245,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Nixie @ThatKevinSmith Glad to be of service!"
+	},
+	{
+		"created_at": "Mon Feb 22 22:53:53 +0000 2021",
+		"id": 1363985393067167700,
+		"id_str": "1363985393067167747",
+		"full_text": "Congratulations @MsAEsposito!  #LTPS @lanacmnj @dadamltps @FaykimL @cjwilliamsjr @CardinalsLHS #DECA #NJDECA https://t.co/L4oU4rrcwr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						31,
+						36
+					]
+				},
+				{
+					"text": "DECA",
+					"indices": [
+						95,
+						100
+					]
+				},
+				{
+					"text": "NJDECA",
+					"indices": [
+						101,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MsAEsposito",
+					"name": "Alexis Esposito",
+					"id": 808453181181136900,
+					"id_str": "808453181181136896",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "lanacmnj",
+					"name": "Lana Mueller",
+					"id": 87242842,
+					"id_str": "87242842",
+					"indices": [
+						37,
+						46
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"screen_name": "FaykimL",
+					"name": "Fay Kim-Lopez",
+					"id": 1013578285773705200,
+					"id_str": "1013578285773705216",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"screen_name": "cjwilliamsjr",
+					"name": "Cliff Williams",
+					"id": 465193444,
+					"id_str": "465193444",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						81,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/L4oU4rrcwr",
+					"expanded_url": "https://twitter.com/NewJerseyDOE/status/1363881136510935048",
+					"display_url": "twitter.com/NewJerseyDOE/s…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is wearing his masks 😷😷",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3172,
+			"friends_count": 1557,
+			"listed_count": 245,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1363881136510935000,
+		"quoted_status_id_str": "1363881136510935048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/L4oU4rrcwr",
+			"expanded": "https://twitter.com/NewJerseyDOE/status/1363881136510935048",
+			"display": "twitter.com/NewJerseyDOE/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 22 15:59:37 +0000 2021",
+			"id": 1363881136510935000,
+			"id_str": "1363881136510935048",
+			"full_text": "Check this out! Alexis Esposito is an educator at Lawrence High School and in this video, she dives into some of her favorite aspects of being an instructor of Career and Technical Education. #28DaysOfCTE https://t.co/NTaLzNSfPi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				204
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "28DaysOfCTE",
+						"indices": [
+							192,
+							204
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1363880849415037000,
+						"id_str": "1363880849415036930",
+						"indices": [
+							205,
+							228
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1363880849415036930/pu/img/KmAzorIWQSZk9EdJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1363880849415036930/pu/img/KmAzorIWQSZk9EdJ.jpg",
+						"url": "https://t.co/NTaLzNSfPi",
+						"display_url": "pic.twitter.com/NTaLzNSfPi",
+						"expanded_url": "https://twitter.com/NewJerseyDOE/status/1363881136510935048/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1363880849415037000,
+						"id_str": "1363880849415036930",
+						"indices": [
+							205,
+							228
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1363880849415036930/pu/img/KmAzorIWQSZk9EdJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1363880849415036930/pu/img/KmAzorIWQSZk9EdJ.jpg",
+						"url": "https://t.co/NTaLzNSfPi",
+						"display_url": "pic.twitter.com/NTaLzNSfPi",
+						"expanded_url": "https://twitter.com/NewJerseyDOE/status/1363881136510935048/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 54600,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1363880849415036930/pu/vid/720x720/RdYIJoYQBBh7NVDt.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1363880849415036930/pu/vid/480x480/VirNUUAEv60_IUvH.mp4?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1363880849415036930/pu/vid/320x320/12v0RaOriTmOWAGu.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1363880849415036930/pu/pl/-AD-F4hYx2fmx24o.m3u8?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 958079839969448000,
+				"id_str": "958079839969447937",
+				"name": "New Jersey Department of Education",
+				"screen_name": "NewJerseyDOE",
+				"location": "New Jersey, USA",
+				"description": "Official Twitter account for the New Jersey Department of Education. Retweets/Likes are not endorsements.",
+				"url": "https://t.co/KdGTC6y1iz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KdGTC6y1iz",
+								"expanded_url": "http://www.state.nj.us/education/",
+								"display_url": "state.nj.us/education/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23850,
+				"friends_count": 1738,
+				"listed_count": 130,
+				"created_at": "Mon Jan 29 20:50:08 +0000 2018",
+				"favourites_count": 3503,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2935,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/958082426059685888/iDvNjhO2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/958082426059685888/iDvNjhO2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/958079839969447937/1518451923",
+				"profile_link_color": "003399",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 23,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations @MsAEsposito!  #LTPS @lanacmnj @dadamltps @FaykimL @cjwilliamsjr @CardinalsLHS #DECA #NJDECA https://t.co/L4oU4rrcwr"
+	},
+	{
 		"created_at": "Sun Feb 21 15:46:30 +0000 2021",
 		"id": 1363515448965402600,
 		"id_str": "1363515448965402630",
