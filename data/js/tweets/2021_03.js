@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 04 15:01:55 +0000 2021",
+		"id": 1367483739060777000,
+		"id_str": "1367490496109678600",
+		"full_text": "Six qualities that make good #mentors for #teens https://t.co/jbzFW4U2Bm #psychology #research https://t.co/OUZuBj8dOs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "mentors",
+					"indices": [
+						29,
+						37
+					]
+				},
+				{
+					"text": "teens",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "psychology",
+					"indices": [
+						73,
+						84
+					]
+				},
+				{
+					"text": "research",
+					"indices": [
+						85,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jbzFW4U2Bm",
+					"expanded_url": "http://ow.ly/5TfB30ryXOo",
+					"display_url": "ow.ly/5TfB30ryXOo",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1367483737378799600,
+					"id_str": "1367483737378799621",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EvpHNsKWQAU6Wj_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvpHNsKWQAU6Wj_.jpg",
+					"url": "https://t.co/OUZuBj8dOs",
+					"display_url": "pic.twitter.com/OUZuBj8dOs",
+					"expanded_url": "https://twitter.com/DrPriceMitchell/status/1367483739060776960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1528,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1367483737378799600,
+					"id_str": "1367483737378799621",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/EvpHNsKWQAU6Wj_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EvpHNsKWQAU6Wj_.jpg",
+					"url": "https://t.co/OUZuBj8dOs",
+					"display_url": "pic.twitter.com/OUZuBj8dOs",
+					"expanded_url": "https://twitter.com/DrPriceMitchell/status/1367483739060776960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1528,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22729725,
+			"id_str": "22729725",
+			"name": "Dr. Price-Mitchell",
+			"screen_name": "DrPriceMitchell",
+			"location": "Seattle, WA",
+			"description": "Psychologist, researcher, author, speaker. Advocating for #children, #teens, #K12 #edu at @RootsOfAction @PsychToday and @Edutopia",
+			"url": "http://t.co/T541sT90bD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/T541sT90bD",
+							"expanded_url": "http://www.mpricemitchell.com",
+							"display_url": "mpricemitchell.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20135,
+			"friends_count": 4772,
+			"listed_count": 1132,
+			"created_at": "Wed Mar 04 03:54:05 +0000 2009",
+			"favourites_count": 8259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 39466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AEBFEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/916411266897387520/kBi9UpIU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/916411266897387520/kBi9UpIU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22729725/1426478936",
+			"profile_link_color": "D12C2C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "0084B4",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Six qualities that make good #mentors for #teens https://t.co/jbzFW4U2Bm #psychology #research https://t.co/OUZuBj8dOs"
+	},
+	{
 		"created_at": "Wed Mar 03 02:27:28 +0000 2021",
 		"id": 1366938245720903700,
 		"id_str": "1366938245720903688",
