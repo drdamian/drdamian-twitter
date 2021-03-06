@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Fri Mar 05 20:09:49 +0000 2021",
+		"id": 1367930367039127600,
+		"id_str": "1367930367039127565",
+		"full_text": "It's been a... week, but it's ending with me finalizing my application for my Standard Principal cert after completing the state-mandated 2-year mentoring program and presenting my capstone action research project, https://t.co/KyAF8nQhn8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1367930356058497000,
+					"id_str": "1367930356058497026",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EvvdaUZXIAI_DJ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EvvdaUZXIAI_DJ1.jpg",
+					"url": "https://t.co/KyAF8nQhn8",
+					"display_url": "pic.twitter.com/KyAF8nQhn8",
+					"expanded_url": "https://twitter.com/_drdamian/status/1367930367039127565/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 256,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 256,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1367930356058497000,
+					"id_str": "1367930356058497026",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EvvdaUZXIAI_DJ1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EvvdaUZXIAI_DJ1.jpg",
+					"url": "https://t.co/KyAF8nQhn8",
+					"display_url": "pic.twitter.com/KyAF8nQhn8",
+					"expanded_url": "https://twitter.com/_drdamian/status/1367930367039127565/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 256,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 256,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							15,
+							8
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EvvdaUZXIAI_DJ1.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is 1 down, 1 to go 💉",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/0mfonM3zAp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0mfonM3zAp",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3174,
+			"friends_count": 1558,
+			"listed_count": 245,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's been a... week, but it's ending with me finalizing my application for my Standard Principal cert after completing the state-mandated 2-year mentoring program and presenting my capstone action research project, https://t.co/KyAF8nQhn8"
+	},
+	{
 		"created_at": "Thu Mar 04 15:01:55 +0000 2021",
 		"id": 1367483739060777000,
 		"id_str": "1367490496109678600",
