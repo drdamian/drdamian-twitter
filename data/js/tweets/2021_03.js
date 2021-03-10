@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Tue Mar 09 20:25:42 +0000 2021",
+		"id": 1369383081421987800,
+		"id_str": "1369383918932271106",
+		"full_text": "Thanks so much to our friends at @LTEFNJ for your continued support of our Ts &amp; Ss through your financial generosity! We are always so appreciative of your efforts! Way to go @CardinalsLHS !!! @YPanasowich @_drdamian @AmyAmiet @azuck1 https://t.co/6AFJoCdYjM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTEFNJ",
+					"name": "LTEFNJ",
+					"id": 1402156748,
+					"id_str": "1402156748",
+					"indices": [
+						33,
+						40
+					]
+				},
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						179,
+						192
+					]
+				},
+				{
+					"screen_name": "YPanasowich",
+					"name": "Yvette Panasowich",
+					"id": 260752291,
+					"id_str": "260752291",
+					"indices": [
+						197,
+						209
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca is 1 down, 1 to go 💉",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						210,
+						220
+					]
+				},
+				{
+					"screen_name": "AmyAmiet",
+					"name": "Amy Amiet",
+					"id": 514809785,
+					"id_str": "514809785",
+					"indices": [
+						221,
+						230
+					]
+				},
+				{
+					"screen_name": "azuck1",
+					"name": "Andrew Zuckerman",
+					"id": 40480591,
+					"id_str": "40480591",
+					"indices": [
+						231,
+						238
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1369382920260030500,
+					"id_str": "1369382920260030467",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/EwEGgruWEAMmsfK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwEGgruWEAMmsfK.jpg",
+					"url": "https://t.co/6AFJoCdYjM",
+					"display_url": "pic.twitter.com/6AFJoCdYjM",
+					"expanded_url": "https://twitter.com/dadamltps/status/1369383081421987854/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1984,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 659,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1163,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1369382920260030500,
+					"id_str": "1369382920260030467",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/EwEGgruWEAMmsfK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwEGgruWEAMmsfK.jpg",
+					"url": "https://t.co/6AFJoCdYjM",
+					"display_url": "pic.twitter.com/6AFJoCdYjM",
+					"expanded_url": "https://twitter.com/dadamltps/status/1369383081421987854/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1984,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 659,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1163,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1369382994453135400,
+					"id_str": "1369382994453135361",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/EwEGlAHXAAEgyRQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwEGlAHXAAEgyRQ.jpg",
+					"url": "https://t.co/6AFJoCdYjM",
+					"display_url": "pic.twitter.com/6AFJoCdYjM",
+					"expanded_url": "https://twitter.com/dadamltps/status/1369383081421987854/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 516,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1554,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 911,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1369383029320392700,
+					"id_str": "1369383029320392710",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/EwEGnCAXIAYyFbB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EwEGnCAXIAYyFbB.jpg",
+					"url": "https://t.co/6AFJoCdYjM",
+					"display_url": "pic.twitter.com/6AFJoCdYjM",
+					"expanded_url": "https://twitter.com/dadamltps/status/1369383081421987854/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1882,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 625,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1103,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 260753316,
+			"id_str": "260753316",
+			"name": "David Adam",
+			"screen_name": "dadamltps",
+			"location": "Lawrence, NJ",
+			"description": "Principal of Lawrence High School",
+			"url": "https://t.co/KETOW12XgE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KETOW12XgE",
+							"expanded_url": "http://www.ltps.org",
+							"display_url": "ltps.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 978,
+			"friends_count": 157,
+			"listed_count": 42,
+			"created_at": "Fri Mar 04 14:40:19 +0000 2011",
+			"favourites_count": 14200,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/260753316/1477665508",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks so much to our friends at @LTEFNJ for your continued support of our Ts &amp; Ss through your financial generosity! We are always so appreciative of your efforts! Way to go @CardinalsLHS !!! @YPanasowich @_drdamian @AmyAmiet @azuck1 https://t.co/6AFJoCdYjM"
+	},
+	{
 		"created_at": "Mon Mar 08 20:38:26 +0000 2021",
 		"id": 1369023544894587000,
 		"id_str": "1369024736014053381",
