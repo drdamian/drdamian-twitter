@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Mon Mar 15 23:24:26 +0000 2021",
+		"id": 1371596067683278800,
+		"id_str": "1371603225107968001",
+		"full_text": "A Better Breakout Room Experience for Students: Five strategies that help middle and high school students form a community of learners in the virtual classroom. https://t.co/YFNZ9i4TyV via @edutopia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "edutopia",
+					"name": "edutopia",
+					"id": 35415477,
+					"id_str": "35415477",
+					"indices": [
+						189,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YFNZ9i4TyV",
+					"expanded_url": "https://www.edutopia.org/article/better-breakout-room-experience-students",
+					"display_url": "edutopia.org/article/better…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26546403,
+			"id_str": "26546403",
+			"name": "NAESP",
+			"screen_name": "NAESP",
+			"location": "Alexandria, VA",
+			"description": "National Association of Elementary School Principals: Serving all elementary and middle-level principals",
+			"url": "http://t.co/C6hcEE0BQG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/C6hcEE0BQG",
+							"expanded_url": "http://www.naesp.org",
+							"display_url": "naesp.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46696,
+			"friends_count": 3185,
+			"listed_count": 803,
+			"created_at": "Wed Mar 25 17:41:37 +0000 2009",
+			"favourites_count": 10796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/684774324880846849/uCdLfFiS_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/684774324880846849/uCdLfFiS_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26546403/1556025541",
+			"profile_link_color": "0068A9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Better Breakout Room Experience for Students: Five strategies that help middle and high school students form a community of learners in the virtual classroom. https://t.co/YFNZ9i4TyV via @edutopia"
+	},
+	{
 		"created_at": "Sun Mar 14 04:03:26 +0000 2021",
 		"id": 1370948662906470400,
 		"id_str": "1370948662906470401",
