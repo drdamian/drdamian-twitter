@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Wed Mar 31 01:04:21 +0000 2021",
+		"id": 1377064188472930300,
+		"id_str": "1377064188472930309",
+		"full_text": "Thanks so much for organizing this and for inviting me to be a part of it.  What a great experience for your undergrads before their first interview!  Please reach out if you do this again in the future; I am definitely in! https://t.co/WtgYSzdNKW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WtgYSzdNKW",
+					"expanded_url": "https://twitter.com/DrTinaMitchell/status/1377054289244401665",
+					"display_url": "twitter.com/DrTinaMitchell…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca is 2 for 2! 💉💉",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3173,
+			"friends_count": 1558,
+			"listed_count": 245,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2475,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1377054289244401700,
+		"quoted_status_id_str": "1377054289244401665",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WtgYSzdNKW",
+			"expanded": "https://twitter.com/DrTinaMitchell/status/1377054289244401665",
+			"display": "twitter.com/DrTinaMitchell…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 31 00:25:01 +0000 2021",
+			"id": 1377054289244401700,
+			"id_str": "1377054289244401665",
+			"full_text": "Thank you for conducting mock interviews of  @WesleyCollegeDE student teachers! @_drdamian @PrincipalTam @DougTimm34 @NickHoover8100 @AsiaAliHawkins1 @NollSR @JayBilly2 @ProfJPizzo @DoctorESmall @equettajones @rouser_shelley @MuziLearningLab Dominic Banks &amp; Andrea Hamilton",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WesleyCollegeDE",
+						"name": "Wesley College",
+						"id": 140511073,
+						"id_str": "140511073",
+						"indices": [
+							45,
+							61
+						]
+					},
+					{
+						"screen_name": "_drdamian",
+						"name": "Dr. Damian Bariexca is 2 for 2! 💉💉",
+						"id": 7887852,
+						"id_str": "7887852",
+						"indices": [
+							80,
+							90
+						]
+					},
+					{
+						"screen_name": "PrincipalTam",
+						"name": "Victor Tam",
+						"id": 1578486110,
+						"id_str": "1578486110",
+						"indices": [
+							91,
+							104
+						]
+					},
+					{
+						"screen_name": "DougTimm34",
+						"name": "Douglas Timm",
+						"id": 2408098076,
+						"id_str": "2408098076",
+						"indices": [
+							105,
+							116
+						]
+					},
+					{
+						"screen_name": "NickHoover8100",
+						"name": "Nick Hoover",
+						"id": 2705330923,
+						"id_str": "2705330923",
+						"indices": [
+							117,
+							132
+						]
+					},
+					{
+						"screen_name": "AsiaAliHawkins1",
+						"name": "Dr. Asia Ali-Hawkins",
+						"id": 839594472258285600,
+						"id_str": "839594472258285569",
+						"indices": [
+							133,
+							149
+						]
+					},
+					{
+						"screen_name": "NollSR",
+						"name": "shana noll",
+						"id": 1690765622,
+						"id_str": "1690765622",
+						"indices": [
+							150,
+							157
+						]
+					},
+					{
+						"screen_name": "JayBilly2",
+						"name": "Jay Billy",
+						"id": 327326387,
+						"id_str": "327326387",
+						"indices": [
+							158,
+							168
+						]
+					},
+					{
+						"screen_name": "ProfJPizzo",
+						"name": "Joseph Pizzo",
+						"id": 2432601018,
+						"id_str": "2432601018",
+						"indices": [
+							169,
+							180
+						]
+					},
+					{
+						"screen_name": "DoctorESmall",
+						"name": "Ed Small",
+						"id": 1058719649968328700,
+						"id_str": "1058719649968328704",
+						"indices": [
+							181,
+							194
+						]
+					},
+					{
+						"screen_name": "equettajones",
+						"name": "equetta",
+						"id": 3033894202,
+						"id_str": "3033894202",
+						"indices": [
+							195,
+							208
+						]
+					},
+					{
+						"screen_name": "rouser_shelley",
+						"name": "Shelley Rouser",
+						"id": 879792504496848900,
+						"id_str": "879792504496848897",
+						"indices": [
+							209,
+							224
+						]
+					},
+					{
+						"screen_name": "MuziLearningLab",
+						"name": "Jeanne Muzi",
+						"id": 1618799258,
+						"id_str": "1618799258",
+						"indices": [
+							225,
+							241
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 463365213,
+				"id_str": "463365213",
+				"name": "Dr. Tina Mitchell",
+				"screen_name": "DrTinaMitchell",
+				"location": "Lansdale, PA",
+				"description": "Mother/Wife, Teacher of Mathematics, Professor, Teacher Educator, Howard Univ./Univ. of Minn/Univ.of Penn Alum., 🐘Proud Member of ΔΣθ🔺, (She, her, hers)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 557,
+				"friends_count": 651,
+				"listed_count": 17,
+				"created_at": "Sat Jan 14 01:15:42 +0000 2012",
+				"favourites_count": 6670,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2033,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1368342141886472195/bqxugpUx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368342141886472195/bqxugpUx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/463365213/1590804403",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks so much for organizing this and for inviting me to be a part of it.  What a great experience for your undergrads before their first interview!  Please reach out if you do this again in the future; I am definitely in! https://t.co/WtgYSzdNKW"
+	},
+	{
 		"created_at": "Mon Mar 29 22:03:35 +0000 2021",
 		"id": 1376656307764203500,
 		"id_str": "1376656307764203527",
