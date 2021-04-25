@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sat Apr 24 20:02:36 +0000 2021",
+		"id": 1386047946295287800,
+		"id_str": "1386047946295287816",
+		"full_text": "@melissalstager @bartfielda @gjablonski24 @HeatherNgoma @FAmato53 @mtsd_tech @mrjamilmaroun @rkkeducate @CarolynLRoss @AskStacyYoung @WKimmick @ValCarleo I really enjoyed it too. Didn't teach it this year; something had to give.",
+		"truncated": false,
+		"display_text_range": [
+			154,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melissalstager",
+					"name": "Melissa Stager",
+					"id": 1415476850,
+					"id_str": "1415476850",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "bartfielda",
+					"name": "Alexandra Lauri (Bartfield)",
+					"id": 1030578414066049000,
+					"id_str": "1030578414066049024",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "gjablonski24",
+					"name": "Greg Jablonski",
+					"id": 510857421,
+					"id_str": "510857421",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"screen_name": "HeatherNgoma",
+					"name": "Heather Ngoma",
+					"id": 718177651,
+					"id_str": "718177651",
+					"indices": [
+						42,
+						55
+					]
+				},
+				{
+					"screen_name": "FAmato53",
+					"name": "Francesca Amato",
+					"id": 703791488107417600,
+					"id_str": "703791488107417600",
+					"indices": [
+						56,
+						65
+					]
+				},
+				{
+					"screen_name": "mtsd_tech",
+					"name": "Fiona E. Borland",
+					"id": 2260806933,
+					"id_str": "2260806933",
+					"indices": [
+						66,
+						76
+					]
+				},
+				{
+					"screen_name": "mrjamilmaroun",
+					"name": "Jamil Maroun",
+					"id": 3293303471,
+					"id_str": "3293303471",
+					"indices": [
+						77,
+						91
+					]
+				},
+				{
+					"screen_name": "rkkeducate",
+					"name": "Robin",
+					"id": 3215184417,
+					"id_str": "3215184417",
+					"indices": [
+						92,
+						103
+					]
+				},
+				{
+					"screen_name": "CarolynLRoss",
+					"name": "Carolyn Ross",
+					"id": 261794163,
+					"id_str": "261794163",
+					"indices": [
+						104,
+						117
+					]
+				},
+				{
+					"screen_name": "AskStacyYoung",
+					"name": "Stacy Young",
+					"id": 820256248096522200,
+					"id_str": "820256248096522240",
+					"indices": [
+						118,
+						132
+					]
+				},
+				{
+					"screen_name": "WKimmick",
+					"name": "william kimmick",
+					"id": 720912304,
+					"id_str": "720912304",
+					"indices": [
+						133,
+						142
+					]
+				},
+				{
+					"screen_name": "ValCarleo",
+					"name": "Valentina Carleo",
+					"id": 759870746650878000,
+					"id_str": "759870746650877952",
+					"indices": [
+						143,
+						153
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1385984187073716200,
+		"in_reply_to_status_id_str": "1385984187073716226",
+		"in_reply_to_user_id": 1415476850,
+		"in_reply_to_user_id_str": "1415476850",
+		"in_reply_to_screen_name": "melissalstager",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca 💉💉😷",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3171,
+			"friends_count": 1562,
+			"listed_count": 245,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2500,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melissalstager @bartfielda @gjablonski24 @HeatherNgoma @FAmato53 @mtsd_tech @mrjamilmaroun @rkkeducate @CarolynLRoss @AskStacyYoung @WKimmick @ValCarleo I really enjoyed it too. Didn't teach it this year; something had to give."
+	},
+	{
 		"created_at": "Fri Apr 23 02:10:28 +0000 2021",
 		"id": 1385415748328231000,
 		"id_str": "1385415748328230921",
