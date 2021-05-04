@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 03 22:03:03 +0000 2021",
+		"id": 1389337247418290200,
+		"id_str": "1389339750159593472",
+		"full_text": "Congratulating LHS's own Ms. Clarke for @Princeton's recognition of Distinguished Secondary School Teaching. Well deserved! @jpenelopec @dadamltps @ltps1 https://t.co/D056n1z7In",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Princeton",
+					"name": "Princeton University",
+					"id": 5694822,
+					"id_str": "5694822",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "jpenelopec",
+					"name": "Jametta Clarke",
+					"id": 3381150231,
+					"id_str": "3381150231",
+					"indices": [
+						124,
+						135
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam, Ed. D.",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Township Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						147,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/D056n1z7In",
+					"expanded_url": "https://twitter.com/Princeton/status/1389324137680801801",
+					"display_url": "twitter.com/Princeton/stat…",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 832085833,
+			"id_str": "832085833",
+			"name": "Lawrence High School",
+			"screen_name": "CardinalsLHS",
+			"location": "Lawrenceville, NJ",
+			"description": "2014 NJ State School of Character. Home of the Cardinals. Principal: Dave Adam and Assistant Principals: Damian Bariexca, Fay Kim Lopez and Clifford Williams",
+			"url": "https://t.co/lgrxKNnvRA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lgrxKNnvRA",
+							"expanded_url": "http://www.ltps.org/HighSchool.cfm",
+							"display_url": "ltps.org/HighSchool.cfm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1272,
+			"friends_count": 131,
+			"listed_count": 19,
+			"created_at": "Tue Sep 18 23:20:52 +0000 2012",
+			"favourites_count": 1550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/776179866374995968/CI6XfSYH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/776179866374995968/CI6XfSYH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/832085833/1391362624",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1389324137680801800,
+		"quoted_status_id_str": "1389324137680801801",
+		"quoted_status_permalink": {
+			"url": "https://t.co/D056n1z7In",
+			"expanded": "https://twitter.com/Princeton/status/1389324137680801801",
+			"display": "twitter.com/Princeton/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 03 21:01:01 +0000 2021",
+			"id": 1389324137680801800,
+			"id_str": "1389324137680801801",
+			"full_text": "The 2021 recipients of the Princeton Prize for Distinguished Secondary School Teaching are: Mina Armani of José Martí STEM Academy, @jpenelopec of @CardinalsLHS, Christine Lim of @PennsaukenEDU and @AndrewTeheran of @East_Side_High. Congrats! https://t.co/n3IS3uChIM\n\n#Princeton21",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Princeton21",
+						"indices": [
+							268,
+							280
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jpenelopec",
+						"name": "Jametta Clarke",
+						"id": 3381150231,
+						"id_str": "3381150231",
+						"indices": [
+							132,
+							143
+						]
+					},
+					{
+						"screen_name": "CardinalsLHS",
+						"name": "Lawrence High School",
+						"id": 832085833,
+						"id_str": "832085833",
+						"indices": [
+							147,
+							160
+						]
+					},
+					{
+						"screen_name": "PennsaukenEDU",
+						"name": "Pennsauken Schools",
+						"id": 905744614732300300,
+						"id_str": "905744614732300289",
+						"indices": [
+							179,
+							193
+						]
+					},
+					{
+						"screen_name": "AndrewTeheran",
+						"name": "Andrew Teheran",
+						"id": 56787412,
+						"id_str": "56787412",
+						"indices": [
+							198,
+							212
+						]
+					},
+					{
+						"screen_name": "East_Side_High",
+						"name": "East Side High School",
+						"id": 1052970473347326000,
+						"id_str": "1052970473347325953",
+						"indices": [
+							216,
+							231
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/n3IS3uChIM",
+						"expanded_url": "https://bit.ly/33dClmR",
+						"display_url": "bit.ly/33dClmR",
+						"indices": [
+							243,
+							266
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5694822,
+				"id_str": "5694822",
+				"name": "Princeton University",
+				"screen_name": "Princeton",
+				"location": "Princeton, NJ",
+				"description": "The official Twitter account of Princeton University. Use #PrincetonU to join the conversation.",
+				"url": "https://t.co/c3nTglNSOW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/c3nTglNSOW",
+								"expanded_url": "http://www.princeton.edu",
+								"display_url": "princeton.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 433298,
+				"friends_count": 1576,
+				"listed_count": 3720,
+				"created_at": "Tue May 01 21:04:01 +0000 2007",
+				"favourites_count": 12213,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 39838,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "171717",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1323967325750611968/LRqfVSNv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323967325750611968/LRqfVSNv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5694822/1617643232",
+				"profile_link_color": "D86303",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E8E6E3",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulating LHS's own Ms. Clarke for @Princeton's recognition of Distinguished Secondary School Teaching. Well deserved! @jpenelopec @dadamltps @ltps1 https://t.co/D056n1z7In"
+	},
+	{
 		"created_at": "Sat May 01 19:02:15 +0000 2021",
 		"id": 1388558265848565800,
 		"id_str": "1388569472634609667",
