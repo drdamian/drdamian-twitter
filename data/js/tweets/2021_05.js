@@ -1,6 +1,446 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 05 21:37:57 +0000 2021",
+		"id": 1390058209046638600,
+		"id_str": "1390058209046638599",
+		"full_text": "Lawrence High School is hiring a Family &amp; Consumer Sciences teacher!  FT, tenure track: come work with us! https://t.co/mbrlWuL4VX #SayYestoFCS @aafcs @pa_fcs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SayYestoFCS",
+					"indices": [
+						135,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aafcs",
+					"name": "American Association of Family & Consumer Sciences",
+					"id": 68513910,
+					"id_str": "68513910",
+					"indices": [
+						148,
+						154
+					]
+				},
+				{
+					"screen_name": "pa_fcs",
+					"name": "pafcs",
+					"id": 83343174,
+					"id_str": "83343174",
+					"indices": [
+						155,
+						162
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mbrlWuL4VX",
+					"expanded_url": "https://www.applitrack.com/lawrence/OnlineApp/JobPostings/View.asp?AppliTrackJobId=4043",
+					"display_url": "applitrack.com/lawrence/Onlin…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca 💉💉😷",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3168,
+			"friends_count": 1561,
+			"listed_count": 245,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lawrence High School is hiring a Family &amp; Consumer Sciences teacher!  FT, tenure track: come work with us! https://t.co/mbrlWuL4VX #SayYestoFCS @aafcs @pa_fcs"
+	},
+	{
+		"created_at": "Wed May 05 16:51:54 +0000 2021",
+		"id": 1389986223285022700,
+		"id_str": "1389986223285022724",
+		"full_text": "Mrs. Burger.  Ms. Porter.  Mr. (now Dr.) Ruszkowski.  All teachers in Manchester Twp. School District in the 80s and 90s. #ThankATeacherNJ https://t.co/V0W6EyrQ6p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ThankATeacherNJ",
+					"indices": [
+						122,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V0W6EyrQ6p",
+					"expanded_url": "https://twitter.com/NewJerseyDOE/status/1389965932655742976",
+					"display_url": "twitter.com/NewJerseyDOE/s…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca 💉💉😷",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3168,
+			"friends_count": 1561,
+			"listed_count": 245,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1389965932655743000,
+		"quoted_status_id_str": "1389965932655742976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/V0W6EyrQ6p",
+			"expanded": "https://twitter.com/NewJerseyDOE/status/1389965932655742976",
+			"display": "twitter.com/NewJerseyDOE/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 05 15:31:17 +0000 2021",
+			"id": 1389965932655743000,
+			"id_str": "1389965932655742976",
+			"full_text": "Who inspired you to become an educator? #ThankATeacherNJ https://t.co/j08LrD1Iar",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				56
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ThankATeacherNJ",
+						"indices": [
+							40,
+							56
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1389965860626964500,
+						"id_str": "1389965860626964481",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/E0omlfyXIAEeDsw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0omlfyXIAEeDsw.jpg",
+						"url": "https://t.co/j08LrD1Iar",
+						"display_url": "pic.twitter.com/j08LrD1Iar",
+						"expanded_url": "https://twitter.com/NewJerseyDOE/status/1389965932655742976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1389965860626964500,
+						"id_str": "1389965860626964481",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/E0omlfyXIAEeDsw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0omlfyXIAEeDsw.jpg",
+						"url": "https://t.co/j08LrD1Iar",
+						"display_url": "pic.twitter.com/j08LrD1Iar",
+						"expanded_url": "https://twitter.com/NewJerseyDOE/status/1389965932655742976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 958079839969448000,
+				"id_str": "958079839969447937",
+				"name": "New Jersey Department of Education",
+				"screen_name": "NewJerseyDOE",
+				"location": "New Jersey, USA",
+				"description": "Official Twitter account for the New Jersey Department of Education. Retweets/Likes are not endorsements.",
+				"url": "https://t.co/KdGTC6y1iz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KdGTC6y1iz",
+								"expanded_url": "http://www.state.nj.us/education/",
+								"display_url": "state.nj.us/education/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24954,
+				"friends_count": 1735,
+				"listed_count": 137,
+				"created_at": "Mon Jan 29 20:50:08 +0000 2018",
+				"favourites_count": 3677,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3114,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/958082426059685888/iDvNjhO2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/958082426059685888/iDvNjhO2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/958079839969447937/1518451923",
+				"profile_link_color": "003399",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mrs. Burger.  Ms. Porter.  Mr. (now Dr.) Ruszkowski.  All teachers in Manchester Twp. School District in the 80s and 90s. #ThankATeacherNJ https://t.co/V0W6EyrQ6p"
+	},
+	{
 		"created_at": "Tue May 04 12:47:20 +0000 2021",
 		"id": 1389562284683432000,
 		"id_str": "1389562284683431949",
