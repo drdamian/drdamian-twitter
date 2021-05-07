@@ -1,6 +1,580 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 07 01:05:16 +0000 2021",
+		"id": 1390472769985523700,
+		"id_str": "1390472769985523720",
+		"full_text": "World champion!! Congratulations Sia!! #LTPS https://t.co/6wcceH2J8w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						39,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6wcceH2J8w",
+					"expanded_url": "https://twitter.com/john_tees/status/1390465525755564037",
+					"display_url": "twitter.com/john_tees/stat…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca 💉💉😷",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3168,
+			"friends_count": 1561,
+			"listed_count": 245,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1390465525755564000,
+		"quoted_status_id_str": "1390465525755564037",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6wcceH2J8w",
+			"expanded": "https://twitter.com/john_tees/status/1390465525755564037",
+			"display": "twitter.com/john_tees/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 07 00:36:29 +0000 2021",
+			"id": 1390465525755564000,
+			"id_str": "1390465525755564037",
+			"full_text": "Congratulations to Sia Anand on taking 1st place in the WORLD!! #FranchiseBusinessPlan @DECAInc @NJDECA @CardinalsLHS @LTPS1 @_drdamian @dadamltps @MsAEsposito @SchneckDiane #proudadvisors https://t.co/ldHzyOvbyj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				188
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FranchiseBusinessPlan",
+						"indices": [
+							64,
+							86
+						]
+					},
+					{
+						"text": "proudadvisors",
+						"indices": [
+							174,
+							188
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DECAInc",
+						"name": "DECA Inc.",
+						"id": 41192167,
+						"id_str": "41192167",
+						"indices": [
+							87,
+							95
+						]
+					},
+					{
+						"screen_name": "NJDECA",
+						"name": "New Jersey DECA",
+						"id": 568910569,
+						"id_str": "568910569",
+						"indices": [
+							96,
+							103
+						]
+					},
+					{
+						"screen_name": "CardinalsLHS",
+						"name": "Lawrence High School",
+						"id": 832085833,
+						"id_str": "832085833",
+						"indices": [
+							104,
+							117
+						]
+					},
+					{
+						"screen_name": "LTPS1",
+						"name": "Lawrence Township Schools",
+						"id": 2178717536,
+						"id_str": "2178717536",
+						"indices": [
+							118,
+							124
+						]
+					},
+					{
+						"screen_name": "_drdamian",
+						"name": "Dr. Damian Bariexca 💉💉😷",
+						"id": 7887852,
+						"id_str": "7887852",
+						"indices": [
+							125,
+							135
+						]
+					},
+					{
+						"screen_name": "dadamltps",
+						"name": "David Adam, Ed. D.",
+						"id": 260753316,
+						"id_str": "260753316",
+						"indices": [
+							136,
+							146
+						]
+					},
+					{
+						"screen_name": "MsAEsposito",
+						"name": "Alexis Esposito",
+						"id": 808453181181136900,
+						"id_str": "808453181181136896",
+						"indices": [
+							147,
+							159
+						]
+					},
+					{
+						"screen_name": "SchneckDiane",
+						"name": "Diane Schneck",
+						"id": 4901883603,
+						"id_str": "4901883603",
+						"indices": [
+							160,
+							173
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1390465521301303300,
+						"id_str": "1390465521301303300",
+						"indices": [
+							189,
+							212
+						],
+						"media_url": "http://pbs.twimg.com/media/E0vtBk2XsAQ8_vV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0vtBk2XsAQ8_vV.jpg",
+						"url": "https://t.co/ldHzyOvbyj",
+						"display_url": "pic.twitter.com/ldHzyOvbyj",
+						"expanded_url": "https://twitter.com/john_tees/status/1390465525755564037/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1390465521301303300,
+						"id_str": "1390465521301303300",
+						"indices": [
+							189,
+							212
+						],
+						"media_url": "http://pbs.twimg.com/media/E0vtBk2XsAQ8_vV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0vtBk2XsAQ8_vV.jpg",
+						"url": "https://t.co/ldHzyOvbyj",
+						"display_url": "pic.twitter.com/ldHzyOvbyj",
+						"expanded_url": "https://twitter.com/john_tees/status/1390465525755564037/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 801118345,
+				"id_str": "801118345",
+				"name": "John Tees",
+				"screen_name": "john_tees",
+				"location": "",
+				"description": "High School Business Educator and Co-DECA Advisor in Lawrenceville, NJ. Solely my comments.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 132,
+				"friends_count": 131,
+				"listed_count": 1,
+				"created_at": "Mon Sep 03 20:03:32 +0000 2012",
+				"favourites_count": 440,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 229,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1103658353404850176/Asky8PI__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103658353404850176/Asky8PI__normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "World champion!! Congratulations Sia!! #LTPS https://t.co/6wcceH2J8w"
+	},
+	{
+		"created_at": "Thu May 06 22:50:35 +0000 2021",
+		"id": 1389598146448302000,
+		"id_str": "1390438873889652737",
+		"full_text": "At @CardinalsLHS, @jpenelopec is known and celebrated for her ability to connect with others — and to get others connected. Whether it’s in her social studies classes, in the hallways or at her events, Clarke acts as a bridge for her students, the school &amp; the greater community. https://t.co/w5joxioatH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "jpenelopec",
+					"name": "Jametta Clarke",
+					"id": 3381150231,
+					"id_str": "3381150231",
+					"indices": [
+						18,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1389597703932371000,
+					"id_str": "1389597703932370949",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/E0jXv9OWYAUMOqW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0jXv9OWYAUMOqW.jpg",
+					"url": "https://t.co/w5joxioatH",
+					"display_url": "pic.twitter.com/w5joxioatH",
+					"expanded_url": "https://twitter.com/Princeton/status/1389598146448302085/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 838,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 838,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1389597703932371000,
+					"id_str": "1389597703932370949",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/E0jXv9OWYAUMOqW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0jXv9OWYAUMOqW.jpg",
+					"url": "https://t.co/w5joxioatH",
+					"display_url": "pic.twitter.com/w5joxioatH",
+					"expanded_url": "https://twitter.com/Princeton/status/1389598146448302085/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 519,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 838,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 838,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1389598143667376000,
+		"in_reply_to_status_id_str": "1389598143667376138",
+		"in_reply_to_user_id": 5694822,
+		"in_reply_to_user_id_str": "5694822",
+		"in_reply_to_screen_name": "Princeton",
+		"user": {
+			"id": 5694822,
+			"id_str": "5694822",
+			"name": "Princeton University",
+			"screen_name": "Princeton",
+			"location": "Princeton, NJ",
+			"description": "The official Twitter account of Princeton University. Use #PrincetonU to join the conversation.",
+			"url": "https://t.co/c3nTglNSOW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c3nTglNSOW",
+							"expanded_url": "http://www.princeton.edu",
+							"display_url": "princeton.edu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 433445,
+			"friends_count": 1575,
+			"listed_count": 3721,
+			"created_at": "Tue May 01 21:04:01 +0000 2007",
+			"favourites_count": 12262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 39874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "171717",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323967325750611968/LRqfVSNv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323967325750611968/LRqfVSNv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5694822/1617643232",
+			"profile_link_color": "D86303",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E6E3",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At @CardinalsLHS, @jpenelopec is known and celebrated for her ability to connect with others — and to get others connected. Whether it’s in her social studies classes, in the hallways or at her events, Clarke acts as a bridge for her students, the school &amp; the greater community. https://t.co/w5joxioatH"
+	},
+	{
 		"created_at": "Wed May 05 21:37:57 +0000 2021",
 		"id": 1390058209046638600,
 		"id_str": "1390058209046638599",
