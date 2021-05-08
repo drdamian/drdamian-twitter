@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 07 18:35:11 +0000 2021",
+		"id": 1390736990459547600,
+		"id_str": "1390736990459547650",
+		"full_text": "Congratulations @JayBilly2 and @JillVaughn1 for representing Lawrence Twp. Public Schools in this year's edition of Educational Viewpoints! #LTPS #LawrenceStrong https://t.co/Z51vPejeNx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						140,
+						145
+					]
+				},
+				{
+					"text": "LawrenceStrong",
+					"indices": [
+						146,
+						161
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JayBilly2",
+					"name": "Jay Billy",
+					"id": 327326387,
+					"id_str": "327326387",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "JillVaughn1",
+					"name": "Jill Vaughn",
+					"id": 384416736,
+					"id_str": "384416736",
+					"indices": [
+						31,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Z51vPejeNx",
+					"expanded_url": "https://twitter.com/danhigginsnj/status/1390287114512834560",
+					"display_url": "twitter.com/danhigginsnj/s…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca 💉💉😷",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3169,
+			"friends_count": 1561,
+			"listed_count": 245,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2512,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1390287114512834600,
+		"quoted_status_id_str": "1390287114512834560",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z51vPejeNx",
+			"expanded": "https://twitter.com/danhigginsnj/status/1390287114512834560",
+			"display": "twitter.com/danhigginsnj/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 06 12:47:33 +0000 2021",
+			"id": 1390287114512834600,
+			"id_str": "1390287114512834560",
+			"full_text": "One of my favorite projects every year is working on the @NJPSA annual scholarly journal, Educational Viewpoints. Thank you to all of the writers, peer reviewers and our outstanding designer @gdevito1 Enjoy! https://t.co/8KAzN7TkHN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				231
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NJPSA",
+						"name": "NJPSA",
+						"id": 148854951,
+						"id_str": "148854951",
+						"indices": [
+							57,
+							63
+						]
+					},
+					{
+						"screen_name": "gdevito1",
+						"name": "Gina DeVito-Birnie",
+						"id": 47948527,
+						"id_str": "47948527",
+						"indices": [
+							191,
+							200
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8KAzN7TkHN",
+						"expanded_url": "http://online.flipbuilder.com/iqbp/axoh/",
+						"display_url": "online.flipbuilder.com/iqbp/axoh/",
+						"indices": [
+							208,
+							231
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 190674017,
+				"id_str": "190674017",
+				"name": "Dan Higgins",
+				"screen_name": "danhigginsnj",
+				"location": "",
+				"description": "Communications director for NJPSA.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 595,
+				"friends_count": 342,
+				"listed_count": 9,
+				"created_at": "Tue Sep 14 15:15:31 +0000 2010",
+				"favourites_count": 1512,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 894,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1737157265/092311_Higgins_024_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1737157265/092311_Higgins_024_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations @JayBilly2 and @JillVaughn1 for representing Lawrence Twp. Public Schools in this year's edition of Educational Viewpoints! #LTPS #LawrenceStrong https://t.co/Z51vPejeNx"
+	},
+	{
 		"created_at": "Fri May 07 01:05:16 +0000 2021",
 		"id": 1390472769985523700,
 		"id_str": "1390472769985523720",
