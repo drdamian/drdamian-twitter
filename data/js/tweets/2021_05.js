@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 08 21:06:01 +0000 2021",
+		"id": 1391136864610959400,
+		"id_str": "1391137334473764864",
+		"full_text": "Congratulations to the LTPS Fab Five at their hooding ceremony! Drs. Adam, Fischer, Kim-Lopez,  Milavsky, &amp; Williams #winning @dadamltps @FaykimL @cjwilliamsjr @msafischer @LMSNation @LTPS1 @RiderCEHS @RiderUniversity https://t.co/DifOPPC2ln",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "winning",
+					"indices": [
+						121,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam, Ed. D.",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"screen_name": "FaykimL",
+					"name": "Fay Kim-Lopez",
+					"id": 1013578285773705200,
+					"id_str": "1013578285773705216",
+					"indices": [
+						141,
+						149
+					]
+				},
+				{
+					"screen_name": "cjwilliamsjr",
+					"name": "Cliff Williams",
+					"id": 465193444,
+					"id_str": "465193444",
+					"indices": [
+						150,
+						163
+					]
+				},
+				{
+					"screen_name": "msafischer",
+					"name": "Alyson Fischer",
+					"id": 720423019,
+					"id_str": "720423019",
+					"indices": [
+						164,
+						175
+					]
+				},
+				{
+					"screen_name": "LMSNation",
+					"name": "LMS Nation",
+					"id": 309632193,
+					"id_str": "309632193",
+					"indices": [
+						176,
+						186
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Township Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						187,
+						193
+					]
+				},
+				{
+					"screen_name": "RiderCEHS",
+					"name": "Rider College of Education & Human Services",
+					"id": 2364392924,
+					"id_str": "2364392924",
+					"indices": [
+						194,
+						204
+					]
+				},
+				{
+					"screen_name": "RiderUniversity",
+					"name": "Rider University",
+					"id": 530842130,
+					"id_str": "530842130",
+					"indices": [
+						205,
+						221
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1391136858378211300,
+					"id_str": "1391136858378211332",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/E05PmiWWEAQ0ZSE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E05PmiWWEAQ0ZSE.jpg",
+					"url": "https://t.co/DifOPPC2ln",
+					"display_url": "pic.twitter.com/DifOPPC2ln",
+					"expanded_url": "https://twitter.com/CardinalsLHS/status/1391136864610959360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1391136858378211300,
+					"id_str": "1391136858378211332",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/E05PmiWWEAQ0ZSE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E05PmiWWEAQ0ZSE.jpg",
+					"url": "https://t.co/DifOPPC2ln",
+					"display_url": "pic.twitter.com/DifOPPC2ln",
+					"expanded_url": "https://twitter.com/CardinalsLHS/status/1391136864610959360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 832085833,
+			"id_str": "832085833",
+			"name": "Lawrence High School",
+			"screen_name": "CardinalsLHS",
+			"location": "Lawrenceville, NJ",
+			"description": "2014 NJ State School of Character. Home of the Cardinals. Principal: Dave Adam and Assistant Principals: Damian Bariexca, Fay Kim Lopez and Clifford Williams",
+			"url": "https://t.co/lgrxKNnvRA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lgrxKNnvRA",
+							"expanded_url": "http://www.ltps.org/HighSchool.cfm",
+							"display_url": "ltps.org/HighSchool.cfm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1274,
+			"friends_count": 131,
+			"listed_count": 19,
+			"created_at": "Tue Sep 18 23:20:52 +0000 2012",
+			"favourites_count": 1563,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/776179866374995968/CI6XfSYH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/776179866374995968/CI6XfSYH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/832085833/1391362624",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 38,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations to the LTPS Fab Five at their hooding ceremony! Drs. Adam, Fischer, Kim-Lopez,  Milavsky, &amp; Williams #winning @dadamltps @FaykimL @cjwilliamsjr @msafischer @LMSNation @LTPS1 @RiderCEHS @RiderUniversity https://t.co/DifOPPC2ln"
+	},
+	{
 		"created_at": "Fri May 07 18:35:11 +0000 2021",
 		"id": 1390736990459547600,
 		"id_str": "1390736990459547650",
