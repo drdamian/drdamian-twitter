@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 09 19:06:51 +0000 2021",
+		"id": 1391469734231740400,
+		"id_str": "1391469734231740423",
+		"full_text": "As of today, 5/9/21, I am older than both Tom Petty and Jeff Lynne were in this pic (ca. 1988) and am creeping up on George Harrison.  I guess everyone seems 'old' when you're 11. https://t.co/b3VjBYWmlr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b3VjBYWmlr",
+					"expanded_url": "https://twitter.com/MattOswaltVA/status/1391205419289223169",
+					"display_url": "twitter.com/MattOswaltVA/s…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca 💉💉😷",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3169,
+			"friends_count": 1561,
+			"listed_count": 245,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1391205419289223200,
+		"quoted_status_id_str": "1391205419289223169",
+		"quoted_status_permalink": {
+			"url": "https://t.co/b3VjBYWmlr",
+			"expanded": "https://twitter.com/MattOswaltVA/status/1391205419289223169",
+			"display": "twitter.com/MattOswaltVA/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 09 01:36:33 +0000 2021",
+			"id": 1391205419289223200,
+			"id_str": "1391205419289223169",
+			"full_text": "this...is...astonishing. I assumed The Traveling Wilburys were all in their 60's, and Roy Orbison even older.\nI checked then double checked but these ages are totally accurate. I'm gonna go take a long walk in the woods and rethink everything. https://t.co/nTUAyHEiyO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				243
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1391204097617891300,
+						"id_str": "1391204097617891329",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/media/E06MwYCVEAEK-x2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E06MwYCVEAEK-x2.jpg",
+						"url": "https://t.co/nTUAyHEiyO",
+						"display_url": "pic.twitter.com/nTUAyHEiyO",
+						"expanded_url": "https://twitter.com/MattOswaltVA/status/1391205419289223169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 618,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 618,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1391204097617891300,
+						"id_str": "1391204097617891329",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/media/E06MwYCVEAEK-x2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E06MwYCVEAEK-x2.jpg",
+						"url": "https://t.co/nTUAyHEiyO",
+						"display_url": "pic.twitter.com/nTUAyHEiyO",
+						"expanded_url": "https://twitter.com/MattOswaltVA/status/1391205419289223169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 618,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 618,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 249346453,
+				"id_str": "249346453",
+				"name": "Matt Oswalt",
+				"screen_name": "MattOswaltVA",
+				"location": "",
+				"description": "I write comedy, occasionally date your aunt, and take photos of liquor stores which you can purchase on my website.",
+				"url": "https://t.co/4mbY1nuXip",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4mbY1nuXip",
+								"expanded_url": "https://www.mattoswaltphoto.com",
+								"display_url": "mattoswaltphoto.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 359327,
+				"friends_count": 1072,
+				"listed_count": 1590,
+				"created_at": "Tue Feb 08 21:32:12 +0000 2011",
+				"favourites_count": 74888,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 17362,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/722184632288960512/ZUh_hO61_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/722184632288960512/ZUh_hO61_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/249346453/1535948757",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2267,
+			"favorite_count": 22126,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As of today, 5/9/21, I am older than both Tom Petty and Jeff Lynne were in this pic (ca. 1988) and am creeping up on George Harrison.  I guess everyone seems 'old' when you're 11. https://t.co/b3VjBYWmlr"
+	},
+	{
 		"created_at": "Sat May 08 21:06:01 +0000 2021",
 		"id": 1391136864610959400,
 		"id_str": "1391137334473764864",
