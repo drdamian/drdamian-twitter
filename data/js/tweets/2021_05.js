@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 13 01:11:32 +0000 2021",
+		"id": 1392648154328207400,
+		"id_str": "1392648675118264320",
+		"full_text": "Thank you Patrick.  History tells us that when a outside groups push back on a school for talking about race and racism, the school pulls back.  Then we wonder why we make little progress. https://t.co/cD1Y8RbDkX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cD1Y8RbDkX",
+					"expanded_url": "https://twitter.com/patrickmlarkin/status/1392626508737433606",
+					"display_url": "twitter.com/patrickmlarkin…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 135720606,
+			"id_str": "135720606",
+			"name": "Henry Turner (he/him/his)",
+			"screen_name": "turnerhj",
+			"location": "Boston, MA",
+			"description": "Massachusetts HS Principal*2020 @K12DiveNews Principal of the Year *Speaker*Writer*Blogger*  #leadership #equity #antiracism #edtech* https://t.co/arWNBgYFnJ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/arWNBgYFnJ",
+							"expanded_url": "http://henryjturner.com",
+							"display_url": "henryjturner.com",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3957,
+			"friends_count": 3532,
+			"listed_count": 162,
+			"created_at": "Thu Apr 22 02:51:24 +0000 2010",
+			"favourites_count": 3204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384908206200262656/HWVGeVX6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384908206200262656/HWVGeVX6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/135720606/1619372838",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1392626508737433600,
+		"quoted_status_id_str": "1392626508737433606",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cD1Y8RbDkX",
+			"expanded": "https://twitter.com/patrickmlarkin/status/1392626508737433606",
+			"display": "twitter.com/patrickmlarkin…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 12 23:43:28 +0000 2021",
+			"id": 1392626508737433600,
+			"id_str": "1392626508737433606",
+			"full_text": "From @turnerhj’s monthly newsletter on Social Justice Leadership, “Critical Race Theory is being used as a scare tactic to block schools from talking about race and racism...school leaders (need to) reinforce...that we value learning about diversity, equity and inclusion...”",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "turnerhj",
+						"name": "Henry Turner (he/him/his)",
+						"id": 135720606,
+						"id_str": "135720606",
+						"indices": [
+							5,
+							14
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19074827,
+				"id_str": "19074827",
+				"name": "Patrick Larkin",
+				"screen_name": "patrickmlarkin",
+				"location": "North Shore, MA",
+				"description": "Believer, Husband, Father, Educator, #CrossFit Addict, Former @NASSP #DPOY. Passionate about #equity and #education Tweets are my own. He/Him/His",
+				"url": "https://t.co/XxQmeFwhzA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XxQmeFwhzA",
+								"expanded_url": "https://patrickmlarkin.blog/",
+								"display_url": "patrickmlarkin.blog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47183,
+				"friends_count": 26778,
+				"listed_count": 1887,
+				"created_at": "Fri Jan 16 16:53:12 +0000 2009",
+				"favourites_count": 6389,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 46074,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "575C5E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1263581008965898241/mpFpwK4i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263581008965898241/mpFpwK4i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19074827/1403662621",
+				"profile_link_color": "B30030",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you Patrick.  History tells us that when a outside groups push back on a school for talking about race and racism, the school pulls back.  Then we wonder why we make little progress. https://t.co/cD1Y8RbDkX"
+	},
+	{
 		"created_at": "Mon May 10 19:53:15 +0000 2021",
 		"id": 1391843797684871200,
 		"id_str": "1391843797684871171",
