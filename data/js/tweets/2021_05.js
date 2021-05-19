@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 19 00:50:50 +0000 2021",
+		"id": 1394817791413346300,
+		"id_str": "1394817791413346309",
+		"full_text": "I have pretty distinct memories of being &lt;5 and repeating the only words of the song I knew ad nauseum (\"Ouuuur Staaaar Blazerrrrs\"), I'm sure much to my mom's... errr, delight.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1394816958244298800,
+		"in_reply_to_status_id_str": "1394816958244298752",
+		"in_reply_to_user_id": 7887852,
+		"in_reply_to_user_id_str": "7887852",
+		"in_reply_to_screen_name": "_drdamian",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3158,
+			"friends_count": 1559,
+			"listed_count": 245,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I have pretty distinct memories of being &lt;5 and repeating the only words of the song I knew ad nauseum (\"Ouuuur Staaaar Blazerrrrs\"), I'm sure much to my mom's... errr, delight."
+	},
+	{
+		"created_at": "Wed May 19 00:47:31 +0000 2021",
+		"id": 1394816958244298800,
+		"id_str": "1394816958244298752",
+		"full_text": "https://t.co/yzn4bIMHrw https://t.co/6hAxnaxwWU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yzn4bIMHrw",
+					"expanded_url": "https://www.youtube.com/watch?v=QTY1i9F_7Yw",
+					"display_url": "youtube.com/watch?v=QTY1i9…",
+					"indices": [
+						0,
+						23
+					]
+				},
+				{
+					"url": "https://t.co/6hAxnaxwWU",
+					"expanded_url": "https://twitter.com/DrTimony/status/1394803997219987462",
+					"display_url": "twitter.com/DrTimony/statu…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3158,
+			"friends_count": 1559,
+			"listed_count": 245,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33236,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1394803997219987500,
+		"quoted_status_id_str": "1394803997219987462",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6hAxnaxwWU",
+			"expanded": "https://twitter.com/DrTimony/status/1394803997219987462",
+			"display": "twitter.com/DrTimony/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 18 23:56:01 +0000 2021",
+			"id": 1394803997219987500,
+			"id_str": "1394803997219987462",
+			"full_text": "Post an older TV show that today’s kids have probably never heard of.\nhttps://t.co/EDaSyiC0E2 https://t.co/KWZxWXfyzP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EDaSyiC0E2",
+						"expanded_url": "https://youtu.be/RPXgdixz1qE",
+						"display_url": "youtu.be/RPXgdixz1qE",
+						"indices": [
+							70,
+							93
+						]
+					},
+					{
+						"url": "https://t.co/KWZxWXfyzP",
+						"expanded_url": "https://twitter.com/BlackiusMaximus/status/1394748735247339526",
+						"display_url": "twitter.com/BlackiusMaximu…",
+						"indices": [
+							94,
+							117
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118111651,
+				"id_str": "118111651",
+				"name": "David D. Timony, PhD",
+				"screen_name": "DrTimony",
+				"location": "Philadelphia",
+				"description": "Expertise | Memory | Panic | Chair of Ed @DelVal | Gaelgeoir | Faixa Roxa | Views are mine alone, clearly | I help schools for free so get in touch",
+				"url": "https://t.co/L7fIXKVn5g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L7fIXKVn5g",
+								"expanded_url": "https://www.delval.edu/academics/faculty-directory/david-d-timony",
+								"display_url": "delval.edu/academics/facu…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3176,
+				"friends_count": 1142,
+				"listed_count": 255,
+				"created_at": "Sat Feb 27 16:50:41 +0000 2010",
+				"favourites_count": 4353,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 46469,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "140F10",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1205647969321705474/zuAE-thb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205647969321705474/zuAE-thb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118111651/1510363105",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1394748735247339500,
+			"quoted_status_id_str": "1394748735247339526",
+			"quoted_status_permalink": {
+				"url": "https://t.co/KWZxWXfyzP",
+				"expanded": "https://twitter.com/BlackiusMaximus/status/1394748735247339526",
+				"display": "twitter.com/BlackiusMaximu…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/yzn4bIMHrw https://t.co/6hAxnaxwWU"
+	},
+	{
 		"created_at": "Sat May 15 15:45:55 +0000 2021",
 		"id": 1393593495789711400,
 		"id_str": "1393593495789711375",
