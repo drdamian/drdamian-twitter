@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 20 12:20:37 +0000 2021",
+		"id": 1395353472028008400,
+		"id_str": "1395353769555152906",
+		"full_text": "@CardinalsLHS DECA Volleyball tradition continue #underthelights! Thank you @LTPS1  students for playing and special shout out to the #LTPS staff for volunteering. @SchneckDiane @_drdamian @MrsSabG10 @MsAEsposito  @MsPalombo @ms_huber_lhs @NJDECA #community #LawrenceStrong https://t.co/bKEHwpNx4O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "underthelights",
+					"indices": [
+						49,
+						64
+					]
+				},
+				{
+					"text": "LTPS",
+					"indices": [
+						134,
+						139
+					]
+				},
+				{
+					"text": "community",
+					"indices": [
+						247,
+						257
+					]
+				},
+				{
+					"text": "LawrenceStrong",
+					"indices": [
+						258,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Township Public Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						76,
+						82
+					]
+				},
+				{
+					"screen_name": "SchneckDiane",
+					"name": "Diane Schneck",
+					"id": 4901883603,
+					"id_str": "4901883603",
+					"indices": [
+						164,
+						177
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						178,
+						188
+					]
+				},
+				{
+					"screen_name": "MrsSabG10",
+					"name": "Jeana Sabatini-Gilbert",
+					"id": 751514895179391000,
+					"id_str": "751514895179390976",
+					"indices": [
+						189,
+						199
+					]
+				},
+				{
+					"screen_name": "MsAEsposito",
+					"name": "Alexis Esposito",
+					"id": 808453181181136900,
+					"id_str": "808453181181136896",
+					"indices": [
+						200,
+						212
+					]
+				},
+				{
+					"screen_name": "MsPalombo",
+					"name": "Ms. Palombo",
+					"id": 858779476783538200,
+					"id_str": "858779476783538176",
+					"indices": [
+						214,
+						224
+					]
+				},
+				{
+					"screen_name": "ms_huber_lhs",
+					"name": "Ms. Huber",
+					"id": 3439199512,
+					"id_str": "3439199512",
+					"indices": [
+						225,
+						238
+					]
+				},
+				{
+					"screen_name": "NJDECA",
+					"name": "New Jersey DECA",
+					"id": 568910569,
+					"id_str": "568910569",
+					"indices": [
+						239,
+						246
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1395353464268542000,
+					"id_str": "1395353464268541963",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E11KlTXWUAsrDLZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E11KlTXWUAsrDLZ.jpg",
+					"url": "https://t.co/bKEHwpNx4O",
+					"display_url": "pic.twitter.com/bKEHwpNx4O",
+					"expanded_url": "https://twitter.com/john_tees/status/1395353472028008451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 906,
+							"h": 1068,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 906,
+							"h": 1068,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 577,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395353464268542000,
+					"id_str": "1395353464268541963",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E11KlTXWUAsrDLZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E11KlTXWUAsrDLZ.jpg",
+					"url": "https://t.co/bKEHwpNx4O",
+					"display_url": "pic.twitter.com/bKEHwpNx4O",
+					"expanded_url": "https://twitter.com/john_tees/status/1395353472028008451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 906,
+							"h": 1068,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 906,
+							"h": 1068,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 577,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1395353464285405200,
+					"id_str": "1395353464285405190",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E11KlTbXoAYOhcq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E11KlTbXoAYOhcq.jpg",
+					"url": "https://t.co/bKEHwpNx4O",
+					"display_url": "pic.twitter.com/bKEHwpNx4O",
+					"expanded_url": "https://twitter.com/john_tees/status/1395353472028008451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1395353464276930600,
+					"id_str": "1395353464276930563",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E11KlTZWUAMl9TI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E11KlTZWUAMl9TI.jpg",
+					"url": "https://t.co/bKEHwpNx4O",
+					"display_url": "pic.twitter.com/bKEHwpNx4O",
+					"expanded_url": "https://twitter.com/john_tees/status/1395353472028008451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 901,
+							"h": 854,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 901,
+							"h": 854,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1395353464285376500,
+					"id_str": "1395353464285376515",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/E11KlTbXMAM54oa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E11KlTbXMAM54oa.jpg",
+					"url": "https://t.co/bKEHwpNx4O",
+					"display_url": "pic.twitter.com/bKEHwpNx4O",
+					"expanded_url": "https://twitter.com/john_tees/status/1395353472028008451/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 622,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1872,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1097,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 832085833,
+		"in_reply_to_user_id_str": "832085833",
+		"in_reply_to_screen_name": "CardinalsLHS",
+		"user": {
+			"id": 801118345,
+			"id_str": "801118345",
+			"name": "John Tees",
+			"screen_name": "john_tees",
+			"location": "",
+			"description": "High School Business Educator and Co-DECA Advisor in Lawrenceville, NJ. Solely my comments.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 134,
+			"friends_count": 132,
+			"listed_count": 1,
+			"created_at": "Mon Sep 03 20:03:32 +0000 2012",
+			"favourites_count": 450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1103658353404850176/Asky8PI__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103658353404850176/Asky8PI__normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@CardinalsLHS DECA Volleyball tradition continue #underthelights! Thank you @LTPS1  students for playing and special shout out to the #LTPS staff for volunteering. @SchneckDiane @_drdamian @MrsSabG10 @MsAEsposito  @MsPalombo @ms_huber_lhs @NJDECA #community #LawrenceStrong https://t.co/bKEHwpNx4O"
+	},
+	{
 		"created_at": "Wed May 19 00:50:50 +0000 2021",
 		"id": 1394817791413346300,
 		"id_str": "1394817791413346309",
