@@ -1,6 +1,485 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 22 15:14:44 +0000 2021",
+		"id": 1396122362408489000,
+		"id_str": "1396122362408488965",
+		"full_text": "One for the Shakespeare buffs: https://t.co/oXcSLWM3nr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oXcSLWM3nr",
+					"expanded_url": "https://twitter.com/Mrreiff/status/1395797143244394501",
+					"display_url": "twitter.com/Mrreiff/status…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets & blogs ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3154,
+			"friends_count": 1559,
+			"listed_count": 245,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1395797143244394500,
+		"quoted_status_id_str": "1395797143244394501",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oXcSLWM3nr",
+			"expanded": "https://twitter.com/Mrreiff/status/1395797143244394501",
+			"display": "twitter.com/Mrreiff/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 21 17:42:26 +0000 2021",
+			"id": 1395797143244394500,
+			"id_str": "1395797143244394501",
+			"full_text": "Having fun on a Friday with more Midsummer Memes #MSND #Shakespeare #ELA #Humanities #MemesInTheClassroom #NCTE #AppleEduChat https://t.co/N6pcsCFN5X",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				125
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MSND",
+						"indices": [
+							49,
+							54
+						]
+					},
+					{
+						"text": "Shakespeare",
+						"indices": [
+							55,
+							67
+						]
+					},
+					{
+						"text": "ELA",
+						"indices": [
+							68,
+							72
+						]
+					},
+					{
+						"text": "Humanities",
+						"indices": [
+							73,
+							84
+						]
+					},
+					{
+						"text": "MemesInTheClassroom",
+						"indices": [
+							85,
+							105
+						]
+					},
+					{
+						"text": "NCTE",
+						"indices": [
+							106,
+							111
+						]
+					},
+					{
+						"text": "AppleEduChat",
+						"indices": [
+							112,
+							125
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1395797027167035400,
+						"id_str": "1395797027167035393",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/E17eAD7WYAE4FO7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E17eAD7WYAE4FO7.jpg",
+						"url": "https://t.co/N6pcsCFN5X",
+						"display_url": "pic.twitter.com/N6pcsCFN5X",
+						"expanded_url": "https://twitter.com/Mrreiff/status/1395797143244394501/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 559,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 559,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 559,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1395797027167035400,
+						"id_str": "1395797027167035393",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/E17eAD7WYAE4FO7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E17eAD7WYAE4FO7.jpg",
+						"url": "https://t.co/N6pcsCFN5X",
+						"display_url": "pic.twitter.com/N6pcsCFN5X",
+						"expanded_url": "https://twitter.com/Mrreiff/status/1395797143244394501/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 500,
+								"h": 559,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 559,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 559,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1395797027158741000,
+						"id_str": "1395797027158740995",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/E17eAD5X0AM962Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E17eAD5X0AM962Z.jpg",
+						"url": "https://t.co/N6pcsCFN5X",
+						"display_url": "pic.twitter.com/N6pcsCFN5X",
+						"expanded_url": "https://twitter.com/Mrreiff/status/1395797143244394501/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1395797027162894300,
+						"id_str": "1395797027162894338",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/E17eAD6XMAIkSHf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E17eAD6XMAIkSHf.jpg",
+						"url": "https://t.co/N6pcsCFN5X",
+						"display_url": "pic.twitter.com/N6pcsCFN5X",
+						"expanded_url": "https://twitter.com/Mrreiff/status/1395797143244394501/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 600,
+								"h": 446,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 446,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 446,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1395797025015439400,
+						"id_str": "1395797025015439360",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/E17d_76XoAApBQV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E17d_76XoAApBQV.jpg",
+						"url": "https://t.co/N6pcsCFN5X",
+						"display_url": "pic.twitter.com/N6pcsCFN5X",
+						"expanded_url": "https://twitter.com/Mrreiff/status/1395797143244394501/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 672,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 672,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 672,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 314874893,
+				"id_str": "314874893",
+				"name": "Larry Reiff",
+				"screen_name": "Mrreiff",
+				"location": "Long Island, NY",
+				"description": "ELA & Computer Science Educator from LI, Apple Distinguished Educator & Shakespeare Fan. (He/Him)",
+				"url": "https://t.co/rSZBfzEGCb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rSZBfzEGCb",
+								"expanded_url": "https://podcasts.apple.com/us/podcast/larry-reiff-turning-romeo-juliet-into-interactive-experience/i",
+								"display_url": "podcasts.apple.com/us/podcast/lar…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4797,
+				"friends_count": 3432,
+				"listed_count": 287,
+				"created_at": "Fri Jun 10 23:27:04 +0000 2011",
+				"favourites_count": 6807,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12076,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1273402054644506626/COTKm8OO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273402054644506626/COTKm8OO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/314874893/1479818436",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "ada31b3a48d2b797",
+				"url": "https://api.twitter.com/1.1/geo/id/ada31b3a48d2b797.json",
+				"place_type": "city",
+				"name": "East Hills",
+				"full_name": "East Hills, NY",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-73.644162,
+								40.776274
+							],
+							[
+								-73.607214,
+								40.776274
+							],
+							[
+								-73.607214,
+								40.812427
+							],
+							[
+								-73.644162,
+								40.812427
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One for the Shakespeare buffs: https://t.co/oXcSLWM3nr"
+	},
+	{
 		"created_at": "Thu May 20 12:20:37 +0000 2021",
 		"id": 1395353472028008400,
 		"id_str": "1395353769555152906",
