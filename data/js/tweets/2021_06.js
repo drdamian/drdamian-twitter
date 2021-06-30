@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 30 00:19:18 +0000 2021",
+		"id": 1410021207999647700,
+		"id_str": "1410030147210825729",
+		"full_text": "The Arts Education &amp; Social Emotional Learning Framework is designed to illuminate the intersection between arts education and social-emotional learning to allow for the intentional application of appropriate teaching and learning strategies. Impressive! https://t.co/tJTN2goZvL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tJTN2goZvL",
+					"expanded_url": "https://selarts.org",
+					"display_url": "selarts.org",
+					"indices": [
+						259,
+						282
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36910985,
+			"id_str": "36910985",
+			"name": "Jay McTighe",
+			"screen_name": "jaymctighe",
+			"location": "Columbia, MD",
+			"description": "Jay has co-authored 18 books, including Understanding by Design® with Grant Wiggins. He is a regular speaker at international, national, and state conferences.",
+			"url": "http://t.co/jNPfnI5K1M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/jNPfnI5K1M",
+							"expanded_url": "http://jaymctighe.com",
+							"display_url": "jaymctighe.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31670,
+			"friends_count": 159,
+			"listed_count": 339,
+			"created_at": "Fri May 01 08:50:18 +0000 2009",
+			"favourites_count": 627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1893,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/957791626746789889/cO-9ZlMW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/957791626746789889/cO-9ZlMW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36910985/1517190445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Arts Education &amp; Social Emotional Learning Framework is designed to illuminate the intersection between arts education and social-emotional learning to allow for the intentional application of appropriate teaching and learning strategies. Impressive! https://t.co/tJTN2goZvL"
+	},
+	{
 		"created_at": "Sun Jun 27 14:31:26 +0000 2021",
 		"id": 1409157427128320000,
 		"id_str": "1409157427128320005",
