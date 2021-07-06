@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 05 14:48:06 +0000 2021",
+		"id": 1409863981196525600,
+		"id_str": "1412060724566822912",
+		"full_text": "Calling all CS Teachers! Apply to be a part of our inaugural cohort that aids in equipping teachers to create and foster quality, anti-racist, justice-seeking, and inclusive CS classrooms for all students! Application Deadline is 7/19 12pm PST! https://t.co/laSmI4qvDN https://t.co/Svrs1a5sEN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/laSmI4qvDN",
+					"expanded_url": "https://www.surveymonkey.com/r/5NW2F8Z",
+					"display_url": "surveymonkey.com/r/5NW2F8Z",
+					"indices": [
+						245,
+						268
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409863978600308700,
+					"id_str": "1409863978600308741",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/E5DX0ZoXIAUtM2p.png",
+					"media_url_https": "https://pbs.twimg.com/media/E5DX0ZoXIAUtM2p.png",
+					"url": "https://t.co/Svrs1a5sEN",
+					"display_url": "pic.twitter.com/Svrs1a5sEN",
+					"expanded_url": "https://twitter.com/KaporCenter/status/1409863981196525568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 718,
+							"h": 405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 718,
+							"h": 405,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409863978600308700,
+					"id_str": "1409863978600308741",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/E5DX0ZoXIAUtM2p.png",
+					"media_url_https": "https://pbs.twimg.com/media/E5DX0ZoXIAUtM2p.png",
+					"url": "https://t.co/Svrs1a5sEN",
+					"display_url": "pic.twitter.com/Svrs1a5sEN",
+					"expanded_url": "https://twitter.com/KaporCenter/status/1409863981196525568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 718,
+							"h": 405,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 718,
+							"h": 405,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 409371254,
+			"id_str": "409371254",
+			"name": "Kapor Center",
+			"screen_name": "KaporCenter",
+			"location": "Oakland, CA",
+			"description": "Leveling the playing field in tech, making the field more diverse, inclusive & better equipped to address society's challenges & opportunities. #TechDoneRight",
+			"url": "http://t.co/o6X1kTsCLi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/o6X1kTsCLi",
+							"expanded_url": "http://kaporcenter.org",
+							"display_url": "kaporcenter.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36090,
+			"friends_count": 33414,
+			"listed_count": 649,
+			"created_at": "Thu Nov 10 16:59:36 +0000 2011",
+			"favourites_count": 9098,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19294,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3667769128/40f6b5a54e536da38caa0f911844f8bc_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3667769128/40f6b5a54e536da38caa0f911844f8bc_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/409371254/1477171363",
+			"profile_link_color": "00496F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Calling all CS Teachers! Apply to be a part of our inaugural cohort that aids in equipping teachers to create and foster quality, anti-racist, justice-seeking, and inclusive CS classrooms for all students! Application Deadline is 7/19 12pm PST! https://t.co/laSmI4qvDN https://t.co/Svrs1a5sEN"
+	},
+	{
 		"created_at": "Sun Jul 04 16:50:38 +0000 2021",
 		"id": 1411729173752823800,
 		"id_str": "1411729173752823808",
