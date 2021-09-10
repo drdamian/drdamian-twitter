@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 10 00:45:08 +0000 2021",
+		"id": 1436127397787676700,
+		"id_str": "1436128574176702469",
+		"full_text": "Super excited and proud of @lhsgirlssoccer_  for getting an opening day victory against North today!!! Let’s keep working!! No maybes ⚽️💪🏻💗",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lhsgirlssoccer_",
+					"name": "LHS Girls Soccer",
+					"id": 3368076357,
+					"id_str": "3368076357",
+					"indices": [
+						27,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 858779476783538200,
+			"id_str": "858779476783538176",
+			"name": "Ms. Palombo",
+			"screen_name": "MsPalombo",
+			"location": "New Jersey, USA",
+			"description": "LHS English Teacher. ⚽️ coach",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 205,
+			"friends_count": 324,
+			"listed_count": 3,
+			"created_at": "Sun Apr 30 20:25:57 +0000 2017",
+			"favourites_count": 1436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/858780795925782528/Vf-f7TKj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/858780795925782528/Vf-f7TKj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/858779476783538176/1493584357",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Super excited and proud of @lhsgirlssoccer_  for getting an opening day victory against North today!!! Let’s keep working!! No maybes ⚽️💪🏻💗"
+	},
+	{
 		"created_at": "Wed Sep 08 00:38:28 +0000 2021",
 		"id": 1435402118865764400,
 		"id_str": "1435402118865764356",
