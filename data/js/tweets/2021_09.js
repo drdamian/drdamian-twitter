@@ -1,6 +1,715 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 00:50:19 +0000 2021",
+		"id": 1438666593060405200,
+		"id_str": "1438666593060405250",
+		"full_text": "@melissalstager @Glennr1809 @Ville_Sup @usedgov @mcinerney_d @larajean89 @NewJerseyDOE @mtsd_tech @VilleEduTech @denisha_jones @KSukEDUC @DrMBEdmunds https://t.co/7hYlHB75id",
+		"truncated": false,
+		"display_text_range": [
+			149,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melissalstager",
+					"name": "Melissa Stager",
+					"id": 1415476850,
+					"id_str": "1415476850",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "Glennr1809",
+					"name": "Glenn Robbins",
+					"id": 153925839,
+					"id_str": "153925839",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "Ville_Sup",
+					"name": "Dr. Timothy Teehan",
+					"id": 911583691,
+					"id_str": "911583691",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"screen_name": "usedgov",
+					"name": "U.S. Department of Education",
+					"id": 20437286,
+					"id_str": "20437286",
+					"indices": [
+						39,
+						47
+					]
+				},
+				{
+					"screen_name": "mcinerney_d",
+					"name": "Donna McInerney, Ed.D.",
+					"id": 983931494,
+					"id_str": "983931494",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "larajean89",
+					"name": "Lori Howard",
+					"id": 835502660,
+					"id_str": "835502660",
+					"indices": [
+						61,
+						72
+					]
+				},
+				{
+					"screen_name": "NewJerseyDOE",
+					"name": "New Jersey Department of Education",
+					"id": 958079839969448000,
+					"id_str": "958079839969447937",
+					"indices": [
+						73,
+						86
+					]
+				},
+				{
+					"screen_name": "mtsd_tech",
+					"name": "Fiona E. Borland",
+					"id": 2260806933,
+					"id_str": "2260806933",
+					"indices": [
+						87,
+						97
+					]
+				},
+				{
+					"screen_name": "VilleEduTech",
+					"name": "Melissa McEntee",
+					"id": 123895849,
+					"id_str": "123895849",
+					"indices": [
+						98,
+						111
+					]
+				},
+				{
+					"screen_name": "denisha_jones",
+					"name": "Play is Liberation Play is Freedom",
+					"id": 355206827,
+					"id_str": "355206827",
+					"indices": [
+						112,
+						126
+					]
+				},
+				{
+					"screen_name": "KSukEDUC",
+					"name": "Dr. Kathryn Suk",
+					"id": 1328276282,
+					"id_str": "1328276282",
+					"indices": [
+						127,
+						136
+					]
+				},
+				{
+					"screen_name": "DrMBEdmunds",
+					"name": "Dr. Maribeth Edmunds",
+					"id": 1132466214,
+					"id_str": "1132466214",
+					"indices": [
+						137,
+						149
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438666587368829000,
+					"id_str": "1438666587368828933",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E_cro4pXsAUSUXC.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E_cro4pXsAUSUXC.jpg",
+					"url": "https://t.co/7hYlHB75id",
+					"display_url": "pic.twitter.com/7hYlHB75id",
+					"expanded_url": "https://twitter.com/_drdamian/status/1438666593060405250/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 244,
+							"h": 186,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 186,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 186,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438666587368829000,
+					"id_str": "1438666587368828933",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E_cro4pXsAUSUXC.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E_cro4pXsAUSUXC.jpg",
+					"url": "https://t.co/7hYlHB75id",
+					"display_url": "pic.twitter.com/7hYlHB75id",
+					"expanded_url": "https://twitter.com/_drdamian/status/1438666593060405250/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 244,
+							"h": 186,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 186,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 186,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							122,
+							93
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E_cro4pXsAUSUXC.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438664544633737200,
+		"in_reply_to_status_id_str": "1438664544633737216",
+		"in_reply_to_user_id": 1415476850,
+		"in_reply_to_user_id_str": "1415476850",
+		"in_reply_to_screen_name": "melissalstager",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3134,
+			"friends_count": 1565,
+			"listed_count": 243,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@melissalstager @Glennr1809 @Ville_Sup @usedgov @mcinerney_d @larajean89 @NewJerseyDOE @mtsd_tech @VilleEduTech @denisha_jones @KSukEDUC @DrMBEdmunds https://t.co/7hYlHB75id"
+	},
+	{
+		"created_at": "Thu Sep 16 13:40:09 +0000 2021",
+		"id": 1438497939593302000,
+		"id_str": "1438497939593302017",
+		"full_text": "@langelcalderon If I'm being totally honest, Dave's voice isn't what it used to be, but musically it was on point.  Check the setlist! https://t.co/ttk7zzpuYT",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "langelcalderon",
+					"name": "Luis Calderon",
+					"id": 1084480603,
+					"id_str": "1084480603",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ttk7zzpuYT",
+					"expanded_url": "https://www.setlist.fm/setlist/megadeth/2021/bbandt-pavilion-camden-nj-5b8c7b40.html",
+					"display_url": "setlist.fm/setlist/megade…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1438495244589445000,
+		"in_reply_to_status_id_str": "1438495244589445120",
+		"in_reply_to_user_id": 1084480603,
+		"in_reply_to_user_id_str": "1084480603",
+		"in_reply_to_screen_name": "langelcalderon",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3134,
+			"friends_count": 1565,
+			"listed_count": 243,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@langelcalderon If I'm being totally honest, Dave's voice isn't what it used to be, but musically it was on point.  Check the setlist! https://t.co/ttk7zzpuYT"
+	},
+	{
+		"created_at": "Thu Sep 16 13:15:50 +0000 2021",
+		"id": 1438491819608838100,
+		"id_str": "1438491819608838154",
+		"full_text": "@JenAnsbach Nah, teenage me was never this good looking.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JenAnsbach",
+					"name": "Jennifer Ansbach",
+					"id": 30316960,
+					"id_str": "30316960",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1438490665491570700,
+		"in_reply_to_status_id_str": "1438490665491570696",
+		"in_reply_to_user_id": 30316960,
+		"in_reply_to_user_id_str": "30316960",
+		"in_reply_to_screen_name": "JenAnsbach",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3134,
+			"friends_count": 1565,
+			"listed_count": 243,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JenAnsbach Nah, teenage me was never this good looking."
+	},
+	{
+		"created_at": "Thu Sep 16 13:09:04 +0000 2021",
+		"id": 1438490116708839400,
+		"id_str": "1438490116708839427",
+		"full_text": "Megadeth et al. in Camden, NJ, 9/15/21.  Making up for lost time with live music. https://t.co/xNz9YvPeeB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1438490114112508000,
+					"id_str": "1438490114112507905",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/E_aLIyiWUAE7Y5R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_aLIyiWUAE7Y5R.jpg",
+					"url": "https://t.co/xNz9YvPeeB",
+					"display_url": "pic.twitter.com/xNz9YvPeeB",
+					"expanded_url": "https://twitter.com/_drdamian/status/1438490116708839427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438490114112508000,
+					"id_str": "1438490114112507905",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/E_aLIyiWUAE7Y5R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_aLIyiWUAE7Y5R.jpg",
+					"url": "https://t.co/xNz9YvPeeB",
+					"display_url": "pic.twitter.com/xNz9YvPeeB",
+					"expanded_url": "https://twitter.com/_drdamian/status/1438490116708839427/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3134,
+			"friends_count": 1565,
+			"listed_count": 243,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2518,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33323,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Megadeth et al. in Camden, NJ, 9/15/21.  Making up for lost time with live music. https://t.co/xNz9YvPeeB"
+	},
+	{
 		"created_at": "Wed Sep 15 19:02:54 +0000 2021",
 		"id": 1438216047677616000,
 		"id_str": "1438216773195677702",
