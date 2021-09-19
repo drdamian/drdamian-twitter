@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 18 13:10:30 +0000 2021",
+		"id": 1439212671698669600,
+		"id_str": "1439215252781125635",
+		"full_text": "The sun is out and the music is on, come support @CardinalsLHS DECA raise money for @Cookies4Kids in support of pediatric cancer research! $5 donation and we are here until 1pm. @LTPS1 @SchneckDiane @MsAEsposito @dadamltps @_drdamian @cjwilliamsjr https://t.co/BMQlcYxO1H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						49,
+						62
+					]
+				},
+				{
+					"screen_name": "Cookies4Kids",
+					"name": "CookiesforKidsCancer",
+					"id": 17798488,
+					"id_str": "17798488",
+					"indices": [
+						84,
+						97
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Township Public Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						178,
+						184
+					]
+				},
+				{
+					"screen_name": "SchneckDiane",
+					"name": "Diane Schneck",
+					"id": 4901883603,
+					"id_str": "4901883603",
+					"indices": [
+						185,
+						198
+					]
+				},
+				{
+					"screen_name": "MsAEsposito",
+					"name": "Alexis Esposito",
+					"id": 808453181181136900,
+					"id_str": "808453181181136896",
+					"indices": [
+						199,
+						211
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam, Ed. D.",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						212,
+						222
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						223,
+						233
+					]
+				},
+				{
+					"screen_name": "cjwilliamsjr",
+					"name": "Cliff Williams",
+					"id": 465193444,
+					"id_str": "465193444",
+					"indices": [
+						234,
+						247
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439212660839624700,
+					"id_str": "1439212660839624714",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/E_kcSi2XMAolOmN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_kcSi2XMAolOmN.jpg",
+					"url": "https://t.co/BMQlcYxO1H",
+					"display_url": "pic.twitter.com/BMQlcYxO1H",
+					"expanded_url": "https://twitter.com/john_tees/status/1439212671698669569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439212660839624700,
+					"id_str": "1439212660839624714",
+					"indices": [
+						248,
+						271
+					],
+					"media_url": "http://pbs.twimg.com/media/E_kcSi2XMAolOmN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_kcSi2XMAolOmN.jpg",
+					"url": "https://t.co/BMQlcYxO1H",
+					"display_url": "pic.twitter.com/BMQlcYxO1H",
+					"expanded_url": "https://twitter.com/john_tees/status/1439212671698669569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 801118345,
+			"id_str": "801118345",
+			"name": "John Tees",
+			"screen_name": "john_tees",
+			"location": "",
+			"description": "High School Business Educator and Co-DECA Advisor in Lawrenceville, NJ. Solely my comments.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 135,
+			"friends_count": 133,
+			"listed_count": 1,
+			"created_at": "Mon Sep 03 20:03:32 +0000 2012",
+			"favourites_count": 464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1423636612571975683/3JBNy90v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1423636612571975683/3JBNy90v_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The sun is out and the music is on, come support @CardinalsLHS DECA raise money for @Cookies4Kids in support of pediatric cancer research! $5 donation and we are here until 1pm. @LTPS1 @SchneckDiane @MsAEsposito @dadamltps @_drdamian @cjwilliamsjr https://t.co/BMQlcYxO1H"
+	},
+	{
 		"created_at": "Fri Sep 17 00:50:19 +0000 2021",
 		"id": 1438666593060405200,
 		"id_str": "1438666593060405250",
