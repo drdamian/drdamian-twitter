@@ -1,6 +1,274 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 13 13:42:37 +0000 2021",
+		"id": 1448264911067488300,
+		"id_str": "1448283034856394756",
+		"full_text": "Happy PSAT day to @CardinalsLHS! We wish our 10th &amp; 11th graders well during PSAT testing. Our 12th graders are working on college applications, essays &amp; resume building. Our 9th graders are developing a sense of self and academics at LHS. Thanks to all who helped out! @LTPS1 https://t.co/WhuAmgHu0Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						18,
+						31
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Township Public Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						278,
+						284
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448264887910768600,
+					"id_str": "1448264887910768652",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FBlFPgiXoAwuRRO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBlFPgiXoAwuRRO.jpg",
+					"url": "https://t.co/WhuAmgHu0Q",
+					"display_url": "pic.twitter.com/WhuAmgHu0Q",
+					"expanded_url": "https://twitter.com/dadamltps/status/1448264911067488257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1016,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1016,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448264887910768600,
+					"id_str": "1448264887910768652",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FBlFPgiXoAwuRRO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBlFPgiXoAwuRRO.jpg",
+					"url": "https://t.co/WhuAmgHu0Q",
+					"display_url": "pic.twitter.com/WhuAmgHu0Q",
+					"expanded_url": "https://twitter.com/dadamltps/status/1448264911067488257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1016,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1016,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448264906395033600,
+					"id_str": "1448264906395033604",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FBlFQlZXIAQ1tGD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBlFQlZXIAQ1tGD.jpg",
+					"url": "https://t.co/WhuAmgHu0Q",
+					"display_url": "pic.twitter.com/WhuAmgHu0Q",
+					"expanded_url": "https://twitter.com/dadamltps/status/1448264911067488257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 645,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 428,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1448264909393965000,
+					"id_str": "1448264909393965057",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FBlFQwkXMAEWIfP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBlFQwkXMAEWIfP.jpg",
+					"url": "https://t.co/WhuAmgHu0Q",
+					"display_url": "pic.twitter.com/WhuAmgHu0Q",
+					"expanded_url": "https://twitter.com/dadamltps/status/1448264911067488257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 691,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 691,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 260753316,
+			"id_str": "260753316",
+			"name": "David Adam, Ed. D.",
+			"screen_name": "dadamltps",
+			"location": "Lawrence, NJ",
+			"description": "Principal of Lawrence High School",
+			"url": "https://t.co/CVxJlThsNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CVxJlThsNi",
+							"expanded_url": "http://www.ltps.org",
+							"display_url": "ltps.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 994,
+			"friends_count": 160,
+			"listed_count": 42,
+			"created_at": "Fri Mar 04 14:40:19 +0000 2011",
+			"favourites_count": 15554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/260753316/1477665508",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy PSAT day to @CardinalsLHS! We wish our 10th &amp; 11th graders well during PSAT testing. Our 12th graders are working on college applications, essays &amp; resume building. Our 9th graders are developing a sense of self and academics at LHS. Thanks to all who helped out! @LTPS1 https://t.co/WhuAmgHu0Q"
+	},
+	{
 		"created_at": "Mon Oct 11 21:35:31 +0000 2021",
 		"id": 1447677266142638000,
 		"id_str": "1447677266142638088",
