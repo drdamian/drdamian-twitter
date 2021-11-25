@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 24 15:18:16 +0000 2021",
+		"id": 1463526493632483300,
+		"id_str": "1463527396058017792",
+		"full_text": "Pancakes in Culinary I today! Students did a great job and had fun with it! #FCS #cookingisfun #IAmBecauseWeAre @CardinalsLHS @_drdamian https://t.co/gjuC8n5TtX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FCS",
+					"indices": [
+						76,
+						80
+					]
+				},
+				{
+					"text": "cookingisfun",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"text": "IAmBecauseWeAre",
+					"indices": [
+						95,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						112,
+						125
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						126,
+						136
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1463526331174555600,
+					"id_str": "1463526331174555648",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FE99cbEXEAAnhhm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE99cbEXEAAnhhm.jpg",
+					"url": "https://t.co/gjuC8n5TtX",
+					"display_url": "pic.twitter.com/gjuC8n5TtX",
+					"expanded_url": "https://twitter.com/ms_huber_lhs/status/1463526493632483332/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1936,
+							"h": 1936,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1463526331174555600,
+					"id_str": "1463526331174555648",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FE99cbEXEAAnhhm.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE99cbEXEAAnhhm.jpg",
+					"url": "https://t.co/gjuC8n5TtX",
+					"display_url": "pic.twitter.com/gjuC8n5TtX",
+					"expanded_url": "https://twitter.com/ms_huber_lhs/status/1463526493632483332/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1936,
+							"h": 1936,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3439199512,
+			"id_str": "3439199512",
+			"name": "Ms. Huber",
+			"screen_name": "ms_huber_lhs",
+			"location": "",
+			"description": "Family and Consumer Sciences Teacher at Lawrence High School",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 110,
+			"friends_count": 72,
+			"listed_count": 3,
+			"created_at": "Tue Aug 25 13:27:48 +0000 2015",
+			"favourites_count": 619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/636587701509201920/tNyECSwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/636587701509201920/tNyECSwA_normal.jpg",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pancakes in Culinary I today! Students did a great job and had fun with it! #FCS #cookingisfun #IAmBecauseWeAre @CardinalsLHS @_drdamian https://t.co/gjuC8n5TtX"
+	},
+	{
 		"created_at": "Mon Nov 22 18:39:25 +0000 2021",
 		"id": 1462853128894791700,
 		"id_str": "1462853241415294981",
