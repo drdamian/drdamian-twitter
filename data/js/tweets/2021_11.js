@@ -1,6 +1,415 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 28 21:13:03 +0000 2021",
+		"id": 1465066228331032600,
+		"id_str": "1465066228331032579",
+		"full_text": "Type the year you became a teenager in the gif bar and post it. https://t.co/wNhFOfynHM https://t.co/mqius05elQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wNhFOfynHM",
+					"expanded_url": "https://twitter.com/DrTimony/status/1465065103942991878",
+					"display_url": "twitter.com/DrTimony/statu…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1465066221993435100,
+					"id_str": "1465066221993435138",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FFT193ZXoAIBtmI.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FFT193ZXoAIBtmI.jpg",
+					"url": "https://t.co/mqius05elQ",
+					"display_url": "pic.twitter.com/mqius05elQ",
+					"expanded_url": "https://twitter.com/_drdamian/status/1465066228331032579/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465066221993435100,
+					"id_str": "1465066221993435138",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FFT193ZXoAIBtmI.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FFT193ZXoAIBtmI.jpg",
+					"url": "https://t.co/mqius05elQ",
+					"display_url": "pic.twitter.com/mqius05elQ",
+					"expanded_url": "https://twitter.com/_drdamian/status/1465066228331032579/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							2
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FFT193ZXoAIBtmI.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal & Instructional Supervisor, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3137,
+			"friends_count": 1566,
+			"listed_count": 243,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33364,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1465065103942992000,
+		"quoted_status_id_str": "1465065103942991878",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wNhFOfynHM",
+			"expanded": "https://twitter.com/DrTimony/status/1465065103942991878",
+			"display": "twitter.com/DrTimony/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 28 21:08:35 +0000 2021",
+			"id": 1465065103942992000,
+			"id_str": "1465065103942991878",
+			"full_text": "Type the year you became a teenager in the gif bar and post it. https://t.co/THIV38lUZw https://t.co/OQ9BDB8SeE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/THIV38lUZw",
+						"expanded_url": "https://twitter.com/TheTattooedProf/status/1464785550263652355",
+						"display_url": "twitter.com/TheTattooedPro…",
+						"indices": [
+							64,
+							87
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1465065098091901000,
+						"id_str": "1465065098091900932",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FFT08ciXMAQ_bET.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FFT08ciXMAQ_bET.jpg",
+						"url": "https://t.co/OQ9BDB8SeE",
+						"display_url": "pic.twitter.com/OQ9BDB8SeE",
+						"expanded_url": "https://twitter.com/DrTimony/status/1465065103942991878/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 308,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 308,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 308,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1465065098091901000,
+						"id_str": "1465065098091900932",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FFT08ciXMAQ_bET.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FFT08ciXMAQ_bET.jpg",
+						"url": "https://t.co/OQ9BDB8SeE",
+						"display_url": "pic.twitter.com/OQ9BDB8SeE",
+						"expanded_url": "https://twitter.com/DrTimony/status/1465065103942991878/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 308,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 308,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 308,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								100,
+								77
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FFT08ciXMAQ_bET.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118111651,
+				"id_str": "118111651",
+				"name": "David D. Timony, PhD",
+				"screen_name": "DrTimony",
+				"location": "Philadelphia",
+				"description": "Expertise | Panic | Chair of Ed @DelVal | Gaelgeoir | Views are mine | Hyperacusis | Superior Canal Dehiscence | DelCo | Gaelgeoir | Faixa Roxa",
+				"url": "https://t.co/g460hfkW1z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/g460hfkW1z",
+								"expanded_url": "https://www.delval.edu/academics/faculty-directory/david-d-timony",
+								"display_url": "delval.edu/academics/facu…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3162,
+				"friends_count": 1175,
+				"listed_count": 255,
+				"created_at": "Sat Feb 27 16:50:41 +0000 2010",
+				"favourites_count": 4894,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 47395,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "140F10",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1205647969321705474/zuAE-thb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1205647969321705474/zuAE-thb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118111651/1510363105",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1464785550263652400,
+			"quoted_status_id_str": "1464785550263652355",
+			"quoted_status_permalink": {
+				"url": "https://t.co/THIV38lUZw",
+				"expanded": "https://twitter.com/TheTattooedProf/status/1464785550263652355",
+				"display": "twitter.com/TheTattooedPro…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Type the year you became a teenager in the gif bar and post it. https://t.co/wNhFOfynHM https://t.co/mqius05elQ"
+	},
+	{
 		"created_at": "Wed Nov 24 15:18:16 +0000 2021",
 		"id": 1463526493632483300,
 		"id_str": "1463527396058017792",
