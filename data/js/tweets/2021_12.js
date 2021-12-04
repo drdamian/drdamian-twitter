@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 03 21:16:22 +0000 2021",
+		"id": 1466878458194186200,
+		"id_str": "1466879004238127107",
+		"full_text": "Happy National FCS Day!! Thank you to my amazing students, the other FCS teachers I’ve had the chance to work with and to my awesome admin that always supports our program!  Love getting to do it everyday! @_drdamian @dadamltps @cjwilliamsjr @Brenda_Eke #SayYestoFCS #FACSed https://t.co/sH19OMWiak",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SayYestoFCS",
+					"indices": [
+						254,
+						266
+					]
+				},
+				{
+					"text": "FACSed",
+					"indices": [
+						267,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						206,
+						216
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam, Ed. D.",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						217,
+						227
+					]
+				},
+				{
+					"screen_name": "cjwilliamsjr",
+					"name": "Cliff Williams",
+					"id": 465193444,
+					"id_str": "465193444",
+					"indices": [
+						228,
+						241
+					]
+				},
+				{
+					"screen_name": "Brenda_Eke",
+					"name": "Brenda Eke",
+					"id": 1234921057666183200,
+					"id_str": "1234921057666183168",
+					"indices": [
+						242,
+						253
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466878453064609800,
+					"id_str": "1466878453064609801",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FFtmLmOXMAkmIYc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFtmLmOXMAkmIYc.jpg",
+					"url": "https://t.co/sH19OMWiak",
+					"display_url": "pic.twitter.com/sH19OMWiak",
+					"expanded_url": "https://twitter.com/ms_huber_lhs/status/1466878458194186241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1167,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 661,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1518,
+							"h": 1561,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466878453064609800,
+					"id_str": "1466878453064609801",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FFtmLmOXMAkmIYc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFtmLmOXMAkmIYc.jpg",
+					"url": "https://t.co/sH19OMWiak",
+					"display_url": "pic.twitter.com/sH19OMWiak",
+					"expanded_url": "https://twitter.com/ms_huber_lhs/status/1466878458194186241/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1167,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 661,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1518,
+							"h": 1561,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3439199512,
+			"id_str": "3439199512",
+			"name": "Ms. Huber",
+			"screen_name": "ms_huber_lhs",
+			"location": "",
+			"description": "Family and Consumer Sciences Teacher at Lawrence High School",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 111,
+			"friends_count": 80,
+			"listed_count": 3,
+			"created_at": "Tue Aug 25 13:27:48 +0000 2015",
+			"favourites_count": 627,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/636587701509201920/tNyECSwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/636587701509201920/tNyECSwA_normal.jpg",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy National FCS Day!! Thank you to my amazing students, the other FCS teachers I’ve had the chance to work with and to my awesome admin that always supports our program!  Love getting to do it everyday! @_drdamian @dadamltps @cjwilliamsjr @Brenda_Eke #SayYestoFCS #FACSed https://t.co/sH19OMWiak"
+	},
+	{
 		"created_at": "Thu Dec 02 01:40:44 +0000 2021",
 		"id": 1466141425490403300,
 		"id_str": "1466220756568887298",
