@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 04 18:29:08 +0000 2021",
+		"id": 1466879281573908500,
+		"id_str": "1467199304922247175",
+		"full_text": "We were cooking up pizzas the last two days in Room 722. Students enjoyed getting to make the dough from scratch and create their own pizza @_drdamian @CardinalsLHS #FACSed #yeastbreads #madeitfromacratch #cookingisfun https://t.co/1KvQFEdA41",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FACSed",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"text": "yeastbreads",
+					"indices": [
+						173,
+						185
+					]
+				},
+				{
+					"text": "madeitfromacratch",
+					"indices": [
+						186,
+						204
+					]
+				},
+				{
+					"text": "cookingisfun",
+					"indices": [
+						205,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						140,
+						150
+					]
+				},
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						151,
+						164
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1466879276410720300,
+					"id_str": "1466879276410720261",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FFtm7hbX0AULxbn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFtm7hbX0AULxbn.jpg",
+					"url": "https://t.co/1KvQFEdA41",
+					"display_url": "pic.twitter.com/1KvQFEdA41",
+					"expanded_url": "https://twitter.com/ms_huber_lhs/status/1466879281573908489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1936,
+							"h": 1936,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466879276410720300,
+					"id_str": "1466879276410720261",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/FFtm7hbX0AULxbn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFtm7hbX0AULxbn.jpg",
+					"url": "https://t.co/1KvQFEdA41",
+					"display_url": "pic.twitter.com/1KvQFEdA41",
+					"expanded_url": "https://twitter.com/ms_huber_lhs/status/1466879281573908489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1936,
+							"h": 1936,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3439199512,
+			"id_str": "3439199512",
+			"name": "Ms. Huber",
+			"screen_name": "ms_huber_lhs",
+			"location": "",
+			"description": "Family and Consumer Sciences Teacher at Lawrence High School",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 112,
+			"friends_count": 80,
+			"listed_count": 3,
+			"created_at": "Tue Aug 25 13:27:48 +0000 2015",
+			"favourites_count": 628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/636587701509201920/tNyECSwA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/636587701509201920/tNyECSwA_normal.jpg",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We were cooking up pizzas the last two days in Room 722. Students enjoyed getting to make the dough from scratch and create their own pizza @_drdamian @CardinalsLHS #FACSed #yeastbreads #madeitfromacratch #cookingisfun https://t.co/1KvQFEdA41"
+	},
+	{
 		"created_at": "Fri Dec 03 21:16:22 +0000 2021",
 		"id": 1466878458194186200,
 		"id_str": "1466879004238127107",
