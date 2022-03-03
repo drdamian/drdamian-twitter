@@ -1,6 +1,432 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 02 02:01:17 +0000 2022",
+		"id": 1498837760383369200,
+		"id_str": "1498840839321227266",
+		"full_text": "Our first winners of Mini Awards tonight! All won for their role plays! @CardinalsLHS @john_tees #njdecascdc https://t.co/9ioQJMKsq2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "njdecascdc",
+					"indices": [
+						97,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						72,
+						85
+					]
+				},
+				{
+					"screen_name": "john_tees",
+					"name": "John Tees",
+					"id": 801118345,
+					"id_str": "801118345",
+					"indices": [
+						86,
+						96
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1498837491863986200,
+					"id_str": "1498837491863986176",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FMzwwfaXIAAtiQA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMzwwfaXIAAtiQA.jpg",
+					"url": "https://t.co/9ioQJMKsq2",
+					"display_url": "pic.twitter.com/9ioQJMKsq2",
+					"expanded_url": "https://twitter.com/SchneckDiane/status/1498837760383369218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1498837491863986200,
+					"id_str": "1498837491863986176",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FMzwwfaXIAAtiQA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMzwwfaXIAAtiQA.jpg",
+					"url": "https://t.co/9ioQJMKsq2",
+					"display_url": "pic.twitter.com/9ioQJMKsq2",
+					"expanded_url": "https://twitter.com/SchneckDiane/status/1498837760383369218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1498837491855593500,
+					"id_str": "1498837491855593474",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FMzwwfYXEAIRI6y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMzwwfYXEAIRI6y.jpg",
+					"url": "https://t.co/9ioQJMKsq2",
+					"display_url": "pic.twitter.com/9ioQJMKsq2",
+					"expanded_url": "https://twitter.com/SchneckDiane/status/1498837760383369218/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4901883603,
+			"id_str": "4901883603",
+			"name": "Diane Schneck",
+			"screen_name": "SchneckDiane",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120,
+			"friends_count": 41,
+			"listed_count": 0,
+			"created_at": "Fri Feb 12 17:26:36 +0000 2016",
+			"favourites_count": 1060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our first winners of Mini Awards tonight! All won for their role plays! @CardinalsLHS @john_tees #njdecascdc https://t.co/9ioQJMKsq2"
+	},
+	{
+		"created_at": "Wed Mar 02 02:00:55 +0000 2022",
+		"id": 1498838112621015000,
+		"id_str": "1498840747600232452",
+		"full_text": "Winning for test and role play! @john_tees @CardinalsLHS @dadamltps #njdecascdc https://t.co/QJcr5xFDxO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "njdecascdc",
+					"indices": [
+						68,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "john_tees",
+					"name": "John Tees",
+					"id": 801118345,
+					"id_str": "801118345",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						43,
+						56
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam, Ed. D.",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						57,
+						67
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1498837976939483100,
+					"id_str": "1498837976939483136",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FMzxMudX0AApc3i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMzxMudX0AApc3i.jpg",
+					"url": "https://t.co/QJcr5xFDxO",
+					"display_url": "pic.twitter.com/QJcr5xFDxO",
+					"expanded_url": "https://twitter.com/SchneckDiane/status/1498838112621015043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1498837976939483100,
+					"id_str": "1498837976939483136",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/FMzxMudX0AApc3i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMzxMudX0AApc3i.jpg",
+					"url": "https://t.co/QJcr5xFDxO",
+					"display_url": "pic.twitter.com/QJcr5xFDxO",
+					"expanded_url": "https://twitter.com/SchneckDiane/status/1498838112621015043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4901883603,
+			"id_str": "4901883603",
+			"name": "Diane Schneck",
+			"screen_name": "SchneckDiane",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 120,
+			"friends_count": 41,
+			"listed_count": 0,
+			"created_at": "Fri Feb 12 17:26:36 +0000 2016",
+			"favourites_count": 1060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Winning for test and role play! @john_tees @CardinalsLHS @dadamltps #njdecascdc https://t.co/QJcr5xFDxO"
+	},
+	{
 		"created_at": "Tue Mar 01 02:54:43 +0000 2022",
 		"id": 1498491547096076300,
 		"id_str": "1498491894992719884",
