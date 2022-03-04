@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 03 14:05:11 +0000 2022",
+		"id": 1499382624288129000,
+		"id_str": "1499385398983811080",
+		"full_text": "Congrats to all of our @CardinalsLHS @NJDECA members for competing at #NJSCDC! 19 members are advancing to @DECAInc #ICDC! We are extremely proud of ALL of our DECA members! Big shout out to our chaperones! #THANKYOU #momentumMAXIMIZED @SchneckDiane @MsAEsposito @LTPS1 @_drdamian https://t.co/HZXcTcGZdb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NJSCDC",
+					"indices": [
+						70,
+						77
+					]
+				},
+				{
+					"text": "ICDC",
+					"indices": [
+						116,
+						121
+					]
+				},
+				{
+					"text": "THANKYOU",
+					"indices": [
+						207,
+						216
+					]
+				},
+				{
+					"text": "momentumMAXIMIZED",
+					"indices": [
+						217,
+						235
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						23,
+						36
+					]
+				},
+				{
+					"screen_name": "NJDECA",
+					"name": "New Jersey DECA",
+					"id": 568910569,
+					"id_str": "568910569",
+					"indices": [
+						37,
+						44
+					]
+				},
+				{
+					"screen_name": "DECAInc",
+					"name": "DECA Inc.",
+					"id": 41192167,
+					"id_str": "41192167",
+					"indices": [
+						107,
+						115
+					]
+				},
+				{
+					"screen_name": "SchneckDiane",
+					"name": "Diane Schneck",
+					"id": 4901883603,
+					"id_str": "4901883603",
+					"indices": [
+						236,
+						249
+					]
+				},
+				{
+					"screen_name": "MsAEsposito",
+					"name": "Alexis Esposito",
+					"id": 808453181181136900,
+					"id_str": "808453181181136896",
+					"indices": [
+						250,
+						262
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Township Public Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						263,
+						269
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Dr. Damian Bariexca",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						270,
+						280
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1499382619410161700,
+					"id_str": "1499382619410161664",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FM7gjFxWYAAZsFK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM7gjFxWYAAZsFK.jpg",
+					"url": "https://t.co/HZXcTcGZdb",
+					"display_url": "pic.twitter.com/HZXcTcGZdb",
+					"expanded_url": "https://twitter.com/john_tees/status/1499382624288129027/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 494,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 872,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1488,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499382619410161700,
+					"id_str": "1499382619410161664",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FM7gjFxWYAAZsFK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FM7gjFxWYAAZsFK.jpg",
+					"url": "https://t.co/HZXcTcGZdb",
+					"display_url": "pic.twitter.com/HZXcTcGZdb",
+					"expanded_url": "https://twitter.com/john_tees/status/1499382624288129027/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 494,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 872,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1488,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 801118345,
+			"id_str": "801118345",
+			"name": "John Tees",
+			"screen_name": "john_tees",
+			"location": "",
+			"description": "High School Business Educator and Co-DECA Advisor in Lawrenceville, NJ. Solely my comments.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 140,
+			"listed_count": 1,
+			"created_at": "Mon Sep 03 20:03:32 +0000 2012",
+			"favourites_count": 490,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1423636612571975683/3JBNy90v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1423636612571975683/3JBNy90v_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congrats to all of our @CardinalsLHS @NJDECA members for competing at #NJSCDC! 19 members are advancing to @DECAInc #ICDC! We are extremely proud of ALL of our DECA members! Big shout out to our chaperones! #THANKYOU #momentumMAXIMIZED @SchneckDiane @MsAEsposito @LTPS1 @_drdamian https://t.co/HZXcTcGZdb"
+	},
+	{
 		"created_at": "Wed Mar 02 02:01:17 +0000 2022",
 		"id": 1498837760383369200,
 		"id_str": "1498840839321227266",
