@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 10 01:28:00 +0000 2022",
+		"id": 1501731562823598000,
+		"id_str": "1501731562823598084",
+		"full_text": "@melissalstager @CarolynLRoss @disquisitiveEdD @KhalilDeena @EddieArcia @Glennr1809 @ZywickiR @MaryAnnReilly @Mariana94398119 @mtsd_tech @saintpetersuniv @bartfielda @ValCarleo @PaulPineiro @TaylorEdLead @denniscopeland Congratulations, doc!",
+		"truncated": false,
+		"display_text_range": [
+			220,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "melissalstager",
+					"name": "Melissa Stager",
+					"id": 1415476850,
+					"id_str": "1415476850",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "CarolynLRoss",
+					"name": "Carolyn Ross",
+					"id": 261794163,
+					"id_str": "261794163",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "disquisitiveEdD",
+					"name": "susan bruder",
+					"id": 3546974549,
+					"id_str": "3546974549",
+					"indices": [
+						30,
+						46
+					]
+				},
+				{
+					"screen_name": "KhalilDeena",
+					"name": "Deena Khalil",
+					"id": 2712537417,
+					"id_str": "2712537417",
+					"indices": [
+						47,
+						59
+					]
+				},
+				{
+					"screen_name": "EddieArcia",
+					"name": "Eddie Fergus Arcia",
+					"id": 260997256,
+					"id_str": "260997256",
+					"indices": [
+						60,
+						71
+					]
+				},
+				{
+					"screen_name": "Glennr1809",
+					"name": "Glenn Robbins",
+					"id": 153925839,
+					"id_str": "153925839",
+					"indices": [
+						72,
+						83
+					]
+				},
+				{
+					"screen_name": "ZywickiR",
+					"name": "Dr. Robert R. Zywicki",
+					"id": 793771848,
+					"id_str": "793771848",
+					"indices": [
+						84,
+						93
+					]
+				},
+				{
+					"screen_name": "MaryAnnReilly",
+					"name": "Mary Ann Reilly",
+					"id": 85107953,
+					"id_str": "85107953",
+					"indices": [
+						94,
+						108
+					]
+				},
+				{
+					"screen_name": "Mariana94398119",
+					"name": "Mariana Marin",
+					"id": 1042403434492821500,
+					"id_str": "1042403434492821504",
+					"indices": [
+						109,
+						125
+					]
+				},
+				{
+					"screen_name": "mtsd_tech",
+					"name": "Fiona E. Borland",
+					"id": 2260806933,
+					"id_str": "2260806933",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"screen_name": "saintpetersuniv",
+					"name": "Saint Peter's Univ.",
+					"id": 31169220,
+					"id_str": "31169220",
+					"indices": [
+						137,
+						153
+					]
+				},
+				{
+					"screen_name": "bartfielda",
+					"name": "Alexandra Lauri (Bartfield)",
+					"id": 1030578414066049000,
+					"id_str": "1030578414066049024",
+					"indices": [
+						154,
+						165
+					]
+				},
+				{
+					"screen_name": "ValCarleo",
+					"name": "Valentina Carleo",
+					"id": 759870746650878000,
+					"id_str": "759870746650877952",
+					"indices": [
+						166,
+						176
+					]
+				},
+				{
+					"screen_name": "PaulPineiro",
+					"name": "Paul Pineiro, Ed.D",
+					"id": 471684776,
+					"id_str": "471684776",
+					"indices": [
+						177,
+						189
+					]
+				},
+				{
+					"screen_name": "TaylorEdLead",
+					"name": "Scott Taylor, Ed.D.",
+					"id": 54246125,
+					"id_str": "54246125",
+					"indices": [
+						190,
+						203
+					]
+				},
+				{
+					"screen_name": "denniscopeland",
+					"name": "DENNIS",
+					"id": 64296926,
+					"id_str": "64296926",
+					"indices": [
+						204,
+						219
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1501720876189896700,
+		"in_reply_to_status_id_str": "1501720876189896708",
+		"in_reply_to_user_id": 1415476850,
+		"in_reply_to_user_id_str": "1415476850",
+		"in_reply_to_screen_name": "melissalstager",
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal & Instructional Supervisor, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3138,
+			"friends_count": 1562,
+			"listed_count": 242,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@melissalstager @CarolynLRoss @disquisitiveEdD @KhalilDeena @EddieArcia @Glennr1809 @ZywickiR @MaryAnnReilly @Mariana94398119 @mtsd_tech @saintpetersuniv @bartfielda @ValCarleo @PaulPineiro @TaylorEdLead @denniscopeland Congratulations, doc!"
+	},
+	{
 		"created_at": "Thu Mar 03 14:05:11 +0000 2022",
 		"id": 1499382624288129000,
 		"id_str": "1499385398983811080",
