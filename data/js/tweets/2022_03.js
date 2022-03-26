@@ -1,6 +1,380 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 25 19:33:13 +0000 2022",
+		"id": 1507440487162122200,
+		"id_str": "1507440487162122260",
+		"full_text": "Thanks @LTEFNJ for your support and for inviting me to share these words with the #LTPS community. #artsed #artsednow https://t.co/2ySYM44jz8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "artsed",
+					"indices": [
+						99,
+						106
+					]
+				},
+				{
+					"text": "artsednow",
+					"indices": [
+						107,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LTEFNJ",
+					"name": "LTEFNJ",
+					"id": 1402156748,
+					"id_str": "1402156748",
+					"indices": [
+						7,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2ySYM44jz8",
+					"expanded_url": "https://twitter.com/LTEFNJ/status/1507313257480085526",
+					"display_url": "twitter.com/LTEFNJ/status/…",
+					"indices": [
+						118,
+						141
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal & Instructional Supervisor, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3135,
+			"friends_count": 1562,
+			"listed_count": 241,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2555,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33428,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1507313257480085500,
+		"quoted_status_id_str": "1507313257480085526",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2ySYM44jz8",
+			"expanded": "https://twitter.com/LTEFNJ/status/1507313257480085526",
+			"display": "twitter.com/LTEFNJ/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 25 11:07:39 +0000 2022",
+			"id": 1507313257480085500,
+			"id_str": "1507313257480085526",
+			"full_text": "Watch Dr. Damian Bariexca, Assistant Principal at LHS share his reflections on funding programs for arts and enrichment that benefit LTPS students and the school community. 👉 https://t.co/iHqW2km9aE\n.\n.\n#grants #ltps #fridayinspiration #LTEF30 #MusicAndArt #LawrenceStrong https://t.co/TRnDKK9GEx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "grants",
+						"indices": [
+							203,
+							210
+						]
+					},
+					{
+						"text": "ltps",
+						"indices": [
+							211,
+							216
+						]
+					},
+					{
+						"text": "fridayinspiration",
+						"indices": [
+							217,
+							235
+						]
+					},
+					{
+						"text": "LTEF30",
+						"indices": [
+							236,
+							243
+						]
+					},
+					{
+						"text": "MusicAndArt",
+						"indices": [
+							244,
+							256
+						]
+					},
+					{
+						"text": "LawrenceStrong",
+						"indices": [
+							257,
+							272
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iHqW2km9aE",
+						"expanded_url": "https://rdar.li/Oa3Rw6e",
+						"display_url": "rdar.li/Oa3Rw6e",
+						"indices": [
+							175,
+							198
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1507313241055285200,
+						"id_str": "1507313241055285253",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/FOsNaBpX0AUcWrE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOsNaBpX0AUcWrE.jpg",
+						"url": "https://t.co/TRnDKK9GEx",
+						"display_url": "pic.twitter.com/TRnDKK9GEx",
+						"expanded_url": "https://twitter.com/LTEFNJ/status/1507313257480085526/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1507313241055285200,
+						"id_str": "1507313241055285253",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/FOsNaBpX0AUcWrE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOsNaBpX0AUcWrE.jpg",
+						"url": "https://t.co/TRnDKK9GEx",
+						"display_url": "pic.twitter.com/TRnDKK9GEx",
+						"expanded_url": "https://twitter.com/LTEFNJ/status/1507313257480085526/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.radaar.io/\" rel=\"nofollow\">RADAAR</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1402156748,
+				"id_str": "1402156748",
+				"name": "LTEFNJ",
+				"screen_name": "LTEFNJ",
+				"location": "Lawrenceville, NJ",
+				"description": "The LTEF is a nonprofit organization that fosters educational excellence, creativity, and achievement in the Lawrence Township Public Schools.",
+				"url": "http://t.co/ntbJI0dnhi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ntbJI0dnhi",
+								"expanded_url": "http://www.ltefnj.org",
+								"display_url": "ltefnj.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 822,
+				"friends_count": 335,
+				"listed_count": 19,
+				"created_at": "Sat May 04 12:09:12 +0000 2013",
+				"favourites_count": 2126,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2603,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3612038316/ec825fd23769c969053b5c5583f1c0c8_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3612038316/ec825fd23769c969053b5c5583f1c0c8_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1402156748/1574634356",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks @LTEFNJ for your support and for inviting me to share these words with the #LTPS community. #artsed #artsednow https://t.co/2ySYM44jz8"
+	},
+	{
 		"created_at": "Thu Mar 24 21:13:37 +0000 2022",
 		"id": 1507103364026413000,
 		"id_str": "1507103364026413064",
