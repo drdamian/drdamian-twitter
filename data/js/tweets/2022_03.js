@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 27 20:09:58 +0000 2022",
+		"id": 1508174512411619300,
+		"id_str": "1508174512411619328",
+		"full_text": "cc: @DrMPancoast @mhayes611 #LTPS https://t.co/MXzoDonYeM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LTPS",
+					"indices": [
+						28,
+						33
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrMPancoast",
+					"name": "Mary Pancoast",
+					"id": 4048694559,
+					"id_str": "4048694559",
+					"indices": [
+						4,
+						16
+					]
+				},
+				{
+					"screen_name": "mhayes611",
+					"name": "Maureen Hayes",
+					"id": 47032216,
+					"id_str": "47032216",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MXzoDonYeM",
+					"expanded_url": "https://twitter.com/NJEA/status/1508173512887910406",
+					"display_url": "twitter.com/NJEA/status/15…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Dr. Damian Bariexca",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal & Instructional Supervisor, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him/his",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3132,
+			"friends_count": 1561,
+			"listed_count": 241,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33431,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1400548953",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1508173512887910400,
+		"quoted_status_id_str": "1508173512887910406",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MXzoDonYeM",
+			"expanded": "https://twitter.com/NJEA/status/1508173512887910406",
+			"display": "twitter.com/NJEA/status/15…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 27 20:06:00 +0000 2022",
+			"id": 1508173512887910400,
+			"id_str": "1508173512887910406",
+			"full_text": "Who belongs in the New Jersey Hall of Fame? \n\nThe New Jersey Hall of Fame wants your students to participate in the decision-making process. \n\nEntries are due by April 1, 2022. @NJHOF \nhttps://t.co/oi5TbQaShh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NJHOF",
+						"name": "NJHOF",
+						"id": 38249051,
+						"id_str": "38249051",
+						"indices": [
+							177,
+							183
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oi5TbQaShh",
+						"expanded_url": "https://www.njea.org/new-jersey-hall-of-fame-essay-contest-open/",
+						"display_url": "njea.org/new-jersey-hal…",
+						"indices": [
+							185,
+							208
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37974496,
+				"id_str": "37974496",
+				"name": "NJEA",
+				"screen_name": "NJEA",
+				"location": "Trenton, NJ",
+				"description": "NJEA represents 200,000 teachers, education support professionals, higher education, retired and student members. Follows/RT are not necessarily endorsements.",
+				"url": "https://t.co/DvL4DQ9c57",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DvL4DQ9c57",
+								"expanded_url": "http://www.njea.org",
+								"display_url": "njea.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21732,
+				"friends_count": 1501,
+				"listed_count": 303,
+				"created_at": "Tue May 05 17:41:28 +0000 2009",
+				"favourites_count": 12951,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22061,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1270085792774402048/skFwg8_J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270085792774402048/skFwg8_J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37974496/1591647025",
+				"profile_link_color": "A60D0D",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "ACB5B5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "cc: @DrMPancoast @mhayes611 #LTPS https://t.co/MXzoDonYeM"
+	},
+	{
 		"created_at": "Sat Mar 26 22:00:42 +0000 2022",
 		"id": 1507839990780371000,
 		"id_str": "1507839990780370950",
