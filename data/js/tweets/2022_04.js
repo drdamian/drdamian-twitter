@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 03 00:15:51 +0000 2022",
+		"id": 1510397265705410600,
+		"id_str": "1510410715546406912",
+		"full_text": "So very proud of our cast and crew of the @CardinalsLHS production of Once Upon A Mattress. Tonight's show was outstanding! Thanks to all of the advisors and our parents for all of their help and support to make this year's production such a success!!! https://t.co/nSApahj5mf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						42,
+						55
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1510397263406903300,
+					"id_str": "1510397263406903296",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FPYCTwMXMAARwVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPYCTwMXMAARwVe.jpg",
+					"url": "https://t.co/nSApahj5mf",
+					"display_url": "pic.twitter.com/nSApahj5mf",
+					"expanded_url": "https://twitter.com/dadamltps/status/1510397265705410564/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 717,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 717,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1510397263406903300,
+					"id_str": "1510397263406903296",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FPYCTwMXMAARwVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPYCTwMXMAARwVe.jpg",
+					"url": "https://t.co/nSApahj5mf",
+					"display_url": "pic.twitter.com/nSApahj5mf",
+					"expanded_url": "https://twitter.com/dadamltps/status/1510397265705410564/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 717,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 717,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 260753316,
+			"id_str": "260753316",
+			"name": "David Adam, Ed. D.",
+			"screen_name": "dadamltps",
+			"location": "Lawrence, NJ",
+			"description": "Principal of Lawrence High School",
+			"url": "https://t.co/CVxJlThsNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CVxJlThsNi",
+							"expanded_url": "http://www.ltps.org",
+							"display_url": "ltps.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1022,
+			"friends_count": 163,
+			"listed_count": 42,
+			"created_at": "Fri Mar 04 14:40:19 +0000 2011",
+			"favourites_count": 16414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4937,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/260753316/1477665508",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So very proud of our cast and crew of the @CardinalsLHS production of Once Upon A Mattress. Tonight's show was outstanding! Thanks to all of the advisors and our parents for all of their help and support to make this year's production such a success!!! https://t.co/nSApahj5mf"
+	},
+	{
 		"created_at": "Fri Apr 01 00:11:24 +0000 2022",
 		"id": 1509684731935395800,
 		"id_str": "1509684820045144073",
