@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 22 23:16:15 +0000 2022",
+		"id": 1517582127340134400,
+		"id_str": "1517643474501349378",
+		"full_text": "Happy Earth Day from our LHS students! 🌍 https://t.co/8ufDjvZ3WK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1517582123871477800,
+					"id_str": "1517582123871477760",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ-I5rLXoAAMIE7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ-I5rLXoAAMIE7.jpg",
+					"url": "https://t.co/8ufDjvZ3WK",
+					"display_url": "pic.twitter.com/8ufDjvZ3WK",
+					"expanded_url": "https://twitter.com/Brenda_Eke/status/1517582127340134401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517582123871477800,
+					"id_str": "1517582123871477760",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ-I5rLXoAAMIE7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ-I5rLXoAAMIE7.jpg",
+					"url": "https://t.co/8ufDjvZ3WK",
+					"display_url": "pic.twitter.com/8ufDjvZ3WK",
+					"expanded_url": "https://twitter.com/Brenda_Eke/status/1517582127340134401/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1234921057666183200,
+			"id_str": "1234921057666183168",
+			"name": "Brenda Eke",
+			"screen_name": "Brenda_Eke",
+			"location": "",
+			"description": "Asst. Principal at @CardinalsLHS | \"I am, because we are!\" #LHSUbuntu | “As we continue to learn, we continue to grow.”",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84,
+			"friends_count": 136,
+			"listed_count": 3,
+			"created_at": "Tue Mar 03 19:18:29 +0000 2020",
+			"favourites_count": 169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1433506135596838913/wQ0mgqqh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1433506135596838913/wQ0mgqqh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1234921057666183168/1630594758",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy Earth Day from our LHS students! 🌍 https://t.co/8ufDjvZ3WK"
+	},
+	{
 		"created_at": "Sun Apr 17 15:34:56 +0000 2022",
 		"id": 1515715442437988400,
 		"id_str": "1515715442437988356",
