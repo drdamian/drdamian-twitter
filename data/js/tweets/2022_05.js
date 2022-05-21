@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 20 19:05:13 +0000 2022",
+		"id": 1527630558322376700,
+		"id_str": "1527727162446471168",
+		"full_text": "Enjoyable evening of live music by the @CardinalsLHS and @LMSNation 8th grade orchestra. The instrumental ensembles under the direction of @drobish_michael  and @musicwithkang were wonderful. So great to see so many former ss performing. #musicedmatters #lawrencestrong https://t.co/6D3ZttmWaN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "musicedmatters",
+					"indices": [
+						238,
+						253
+					]
+				},
+				{
+					"text": "lawrencestrong",
+					"indices": [
+						254,
+						269
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						39,
+						52
+					]
+				},
+				{
+					"screen_name": "LMSNation",
+					"name": "LMS Nation",
+					"id": 309632193,
+					"id_str": "309632193",
+					"indices": [
+						57,
+						67
+					]
+				},
+				{
+					"screen_name": "drobish_michael",
+					"name": "Lawrence High School Bands",
+					"id": 1028402361302233100,
+					"id_str": "1028402361302233090",
+					"indices": [
+						139,
+						155
+					]
+				},
+				{
+					"screen_name": "musicwithkang",
+					"name": "Judy Kang",
+					"id": 1298054463161155600,
+					"id_str": "1298054463161155584",
+					"indices": [
+						161,
+						175
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527630553213718500,
+					"id_str": "1527630553213718528",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FTM75PhWUAAsrZO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTM75PhWUAAsrZO.jpg",
+					"url": "https://t.co/6D3ZttmWaN",
+					"display_url": "pic.twitter.com/6D3ZttmWaN",
+					"expanded_url": "https://twitter.com/ClarkLISmusic/status/1527630558322376704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527630553213718500,
+					"id_str": "1527630553213718528",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FTM75PhWUAAsrZO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTM75PhWUAAsrZO.jpg",
+					"url": "https://t.co/6D3ZttmWaN",
+					"display_url": "pic.twitter.com/6D3ZttmWaN",
+					"expanded_url": "https://twitter.com/ClarkLISmusic/status/1527630558322376704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1527630553217900500,
+					"id_str": "1527630553217900545",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FTM75PiWIAE8pis.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTM75PiWIAE8pis.jpg",
+					"url": "https://t.co/6D3ZttmWaN",
+					"display_url": "pic.twitter.com/6D3ZttmWaN",
+					"expanded_url": "https://twitter.com/ClarkLISmusic/status/1527630558322376704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 901,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1527630553217908700,
+					"id_str": "1527630553217908736",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FTM75PiWQAAitVL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTM75PiWQAAitVL.jpg",
+					"url": "https://t.co/6D3ZttmWaN",
+					"display_url": "pic.twitter.com/6D3ZttmWaN",
+					"expanded_url": "https://twitter.com/ClarkLISmusic/status/1527630558322376704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1527630553301893000,
+					"id_str": "1527630553301893120",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FTM75P2XwAASEcY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTM75P2XwAASEcY.jpg",
+					"url": "https://t.co/6D3ZttmWaN",
+					"display_url": "pic.twitter.com/6D3ZttmWaN",
+					"expanded_url": "https://twitter.com/ClarkLISmusic/status/1527630558322376704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 249202165,
+			"id_str": "249202165",
+			"name": "Mrs. Clark",
+			"screen_name": "ClarkLISmusic",
+			"location": "Lawrenceville, NJ",
+			"description": "Lawrence Intermediate School @lisshines  Music educator, violin/viola player, and love using Music technology. Wife to Chris, Mother to Hayden and Aimee",
+			"url": "https://t.co/IngoholHDw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IngoholHDw",
+							"expanded_url": "https://sites.google.com/ltps.info/lis-music/home",
+							"display_url": "sites.google.com/ltps.info/lis-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1391,
+			"friends_count": 1907,
+			"listed_count": 37,
+			"created_at": "Tue Feb 08 15:51:28 +0000 2011",
+			"favourites_count": 47577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4734,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1427068515316637698/-9qv3p-w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427068515316637698/-9qv3p-w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/249202165/1617484277",
+			"profile_link_color": "2B0514",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Enjoyable evening of live music by the @CardinalsLHS and @LMSNation 8th grade orchestra. The instrumental ensembles under the direction of @drobish_michael  and @musicwithkang were wonderful. So great to see so many former ss performing. #musicedmatters #lawrencestrong https://t.co/6D3ZttmWaN"
+	},
+	{
 		"created_at": "Tue May 17 23:55:20 +0000 2022",
 		"id": 1526713005441966000,
 		"id_str": "1526713005441966080",
