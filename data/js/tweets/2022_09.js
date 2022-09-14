@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 22:14:30 +0000 2022",
+		"id": 1569811146336796700,
+		"id_str": "1569811786853138432",
+		"full_text": "@CardinalsLHS DECA will be hosting our annual car wash on Sat. 9/17 from 9-1pm at the high school for $5. All proceeds will be donated to @CovenantHouse. Come out and support a great cause! @NJDECA @dadamltps @_drdamian @eshayadraper @LTPS1 @Brenda_Eke @AlexisEspo #NJDECAIgnite",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NJDECAIgnite",
+					"indices": [
+						265,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "CovenantHouse",
+					"name": "Covenant House",
+					"id": 14929115,
+					"id_str": "14929115",
+					"indices": [
+						138,
+						152
+					]
+				},
+				{
+					"screen_name": "NJDECA",
+					"name": "New Jersey DECA",
+					"id": 568910569,
+					"id_str": "568910569",
+					"indices": [
+						190,
+						197
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam, Ed. D.",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						198,
+						208
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Damian N. Bariexca, Ed.D.",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						209,
+						219
+					]
+				},
+				{
+					"screen_name": "eshayadraper",
+					"name": "Eshaya Draper ",
+					"id": 1238637972997759000,
+					"id_str": "1238637972997758979",
+					"indices": [
+						220,
+						233
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Township Public Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						234,
+						240
+					]
+				},
+				{
+					"screen_name": "Brenda_Eke",
+					"name": "Brenda Eke",
+					"id": 1234921057666183200,
+					"id_str": "1234921057666183168",
+					"indices": [
+						241,
+						252
+					]
+				},
+				{
+					"screen_name": "AlexisEspo",
+					"name": "Alexis",
+					"id": 808453181181136900,
+					"id_str": "808453181181136896",
+					"indices": [
+						253,
+						264
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 832085833,
+		"in_reply_to_user_id_str": "832085833",
+		"in_reply_to_screen_name": "CardinalsLHS",
+		"user": {
+			"id": 801118345,
+			"id_str": "801118345",
+			"name": "John Tees",
+			"screen_name": "john_tees",
+			"location": "",
+			"description": "High School Business Educator and Co-DECA Advisor in Lawrenceville, NJ. Solely my comments.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 148,
+			"friends_count": 139,
+			"listed_count": 1,
+			"created_at": "Mon Sep 03 20:03:32 +0000 2012",
+			"favourites_count": 509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1518699369368899584/Yn07gyUA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518699369368899584/Yn07gyUA_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@CardinalsLHS DECA will be hosting our annual car wash on Sat. 9/17 from 9-1pm at the high school for $5. All proceeds will be donated to @CovenantHouse. Come out and support a great cause! @NJDECA @dadamltps @_drdamian @eshayadraper @LTPS1 @Brenda_Eke @AlexisEspo #NJDECAIgnite"
+	},
+	{
+		"created_at": "Tue Sep 13 19:13:50 +0000 2022",
+		"id": 1569766322602446800,
+		"id_str": "1569766322602446850",
+		"full_text": "#SayYestoFCS at LHS!  We are in need of a long-term substitute FCS teacher at Lawrence High School in Lawrenceville, NJ from January-June 2023.  Apply here: https://t.co/UwKaJTnVl2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SayYestoFCS",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UwKaJTnVl2",
+					"expanded_url": "https://www.applitrack.com/lawrence/OnlineApp/JobPostings/View.asp?AppliTrackJobId=4678",
+					"display_url": "applitrack.com/lawrence/Onlin…",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Damian N. Bariexca, Ed.D.",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal & Instructional Supervisor, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3102,
+			"friends_count": 1547,
+			"listed_count": 239,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2586,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1657972223",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#SayYestoFCS at LHS!  We are in need of a long-term substitute FCS teacher at Lawrence High School in Lawrenceville, NJ from January-June 2023.  Apply here: https://t.co/UwKaJTnVl2"
+	},
+	{
 		"created_at": "Sat Sep 10 00:45:04 +0000 2022",
 		"id": 1568400126397534200,
 		"id_str": "1568400126397534209",
