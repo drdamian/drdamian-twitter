@@ -1,6 +1,270 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 22:54:56 +0000 2022",
+		"id": 1578045617917595600,
+		"id_str": "1578156882971484160",
+		"full_text": "Please see the flyer below for our fall @CardinalsLHS Open House on Thursday 10/20/2022 from 6:00-8:00 pm. @LMSNation @LTPS1 @LTPSAthletics @LMSLHSPTO @LTEFNJ @ltps_counseling @LTPS #LevelUpLHS https://t.co/tYtZ9dWT0e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LevelUpLHS",
+					"indices": [
+						182,
+						193
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						40,
+						53
+					]
+				},
+				{
+					"screen_name": "LMSNation",
+					"name": "LMS Nation",
+					"id": 309632193,
+					"id_str": "309632193",
+					"indices": [
+						107,
+						117
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Township Public Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						118,
+						124
+					]
+				},
+				{
+					"screen_name": "LTPSAthletics",
+					"name": "LTPS AD",
+					"id": 2845523504,
+					"id_str": "2845523504",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"screen_name": "LMSLHSPTO",
+					"name": "LMS LHS PTO",
+					"id": 4048030095,
+					"id_str": "4048030095",
+					"indices": [
+						140,
+						150
+					]
+				},
+				{
+					"screen_name": "LTEFNJ",
+					"name": "LTEFNJ",
+					"id": 1402156748,
+					"id_str": "1402156748",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"screen_name": "ltps_counseling",
+					"name": "Lawrence High School Counseling Dept",
+					"id": 1067094483622346800,
+					"id_str": "1067094483622346755",
+					"indices": [
+						159,
+						175
+					]
+				},
+				{
+					"screen_name": "ltps",
+					"name": "logan tucci",
+					"id": 46666604,
+					"id_str": "46666604",
+					"indices": [
+						176,
+						181
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1578045322034651100,
+					"id_str": "1578045322034651136",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FeZX3AtXoAAI9I_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeZX3AtXoAAI9I_.jpg",
+					"url": "https://t.co/tYtZ9dWT0e",
+					"display_url": "pic.twitter.com/tYtZ9dWT0e",
+					"expanded_url": "https://twitter.com/dadamltps/status/1578045617917595648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1578045322034651100,
+					"id_str": "1578045322034651136",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FeZX3AtXoAAI9I_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeZX3AtXoAAI9I_.jpg",
+					"url": "https://t.co/tYtZ9dWT0e",
+					"display_url": "pic.twitter.com/tYtZ9dWT0e",
+					"expanded_url": "https://twitter.com/dadamltps/status/1578045617917595648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 260753316,
+			"id_str": "260753316",
+			"name": "David Adam, Ed. D.",
+			"screen_name": "dadamltps",
+			"location": "Lawrence, NJ",
+			"description": "Principal of Lawrence High School",
+			"url": "https://t.co/CVxJlThsNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CVxJlThsNi",
+							"expanded_url": "http://www.ltps.org",
+							"display_url": "ltps.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1049,
+			"friends_count": 165,
+			"listed_count": 41,
+			"created_at": "Fri Mar 04 14:40:19 +0000 2011",
+			"favourites_count": 17279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/260753316/1477665508",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please see the flyer below for our fall @CardinalsLHS Open House on Thursday 10/20/2022 from 6:00-8:00 pm. @LMSNation @LTPS1 @LTPSAthletics @LMSLHSPTO @LTEFNJ @ltps_counseling @LTPS #LevelUpLHS https://t.co/tYtZ9dWT0e"
+	},
+	{
 		"created_at": "Thu Oct 06 00:57:21 +0000 2022",
 		"id": 1577825305221369900,
 		"id_str": "1577825305221369857",
