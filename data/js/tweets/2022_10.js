@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 20 16:56:18 +0000 2022",
+		"id": 1583132316716916700,
+		"id_str": "1583140059615703041",
+		"full_text": "Come check out our @CardinalsLHS Open House event happening tonight from 6:00-8:00 pm. There are so many great things happening at LHS that you need to come see it for yourself! @LTPS1 #LevelUpLHS https://t.co/Oo5sXeXOUr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LevelUpLHS",
+					"indices": [
+						185,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						19,
+						32
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Township Public Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						178,
+						184
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1583130959125307400,
+					"id_str": "1583130959125307404",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FfhpODOWYAw1ClR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfhpODOWYAw1ClR.jpg",
+					"url": "https://t.co/Oo5sXeXOUr",
+					"display_url": "pic.twitter.com/Oo5sXeXOUr",
+					"expanded_url": "https://twitter.com/dadamltps/status/1583132316716916736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583130959125307400,
+					"id_str": "1583130959125307404",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FfhpODOWYAw1ClR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfhpODOWYAw1ClR.jpg",
+					"url": "https://t.co/Oo5sXeXOUr",
+					"display_url": "pic.twitter.com/Oo5sXeXOUr",
+					"expanded_url": "https://twitter.com/dadamltps/status/1583132316716916736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1583131711625461800,
+					"id_str": "1583131711625461762",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffhp52gXgAIZ5Ob.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ffhp52gXgAIZ5Ob.png",
+					"url": "https://t.co/Oo5sXeXOUr",
+					"display_url": "pic.twitter.com/Oo5sXeXOUr",
+					"expanded_url": "https://twitter.com/dadamltps/status/1583132316716916736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 527,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 597,
+							"h": 771,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 597,
+							"h": 771,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1583131740054380500,
+					"id_str": "1583131740054380545",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/Ffhp7gaWYAE3nZ5.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ffhp7gaWYAE3nZ5.png",
+					"url": "https://t.co/Oo5sXeXOUr",
+					"display_url": "pic.twitter.com/Oo5sXeXOUr",
+					"expanded_url": "https://twitter.com/dadamltps/status/1583132316716916736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 794,
+							"h": 599,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 513,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 794,
+							"h": 599,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 260753316,
+			"id_str": "260753316",
+			"name": "David Adam, Ed. D.",
+			"screen_name": "dadamltps",
+			"location": "Lawrence, NJ",
+			"description": "Principal of Lawrence High School",
+			"url": "https://t.co/CVxJlThsNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CVxJlThsNi",
+							"expanded_url": "http://www.ltps.org",
+							"display_url": "ltps.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1049,
+			"friends_count": 166,
+			"listed_count": 41,
+			"created_at": "Fri Mar 04 14:40:19 +0000 2011",
+			"favourites_count": 17370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/260753316/1477665508",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come check out our @CardinalsLHS Open House event happening tonight from 6:00-8:00 pm. There are so many great things happening at LHS that you need to come see it for yourself! @LTPS1 #LevelUpLHS https://t.co/Oo5sXeXOUr"
+	},
+	{
 		"created_at": "Thu Oct 20 01:12:03 +0000 2022",
 		"id": 1582902430538207200,
 		"id_str": "1582902430538207232",
