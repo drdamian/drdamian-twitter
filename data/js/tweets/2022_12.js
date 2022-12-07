@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 06 22:00:44 +0000 2022",
+		"id": 1599910527148458000,
+		"id_str": "1600248902334021633",
+		"full_text": "@CardinalsLHS #DECA hosting College Preparation for Spanish speaking families! #CommunityAwarenessEvent #GetTheEdge #LevelUp @LTPS1 @_drdamian @dadamltps @Brenda_Eke @john_tees @NJDECA https://t.co/dxG2CiHchd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DECA",
+					"indices": [
+						14,
+						19
+					]
+				},
+				{
+					"text": "CommunityAwarenessEvent",
+					"indices": [
+						79,
+						103
+					]
+				},
+				{
+					"text": "GetTheEdge",
+					"indices": [
+						104,
+						115
+					]
+				},
+				{
+					"text": "LevelUp",
+					"indices": [
+						116,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Township Public Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						125,
+						131
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Damian N. Bariexca, Ed.D.",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam, Ed. D.",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						143,
+						153
+					]
+				},
+				{
+					"screen_name": "Brenda_Eke",
+					"name": "Brenda Eke",
+					"id": 1234921057666183200,
+					"id_str": "1234921057666183168",
+					"indices": [
+						154,
+						165
+					]
+				},
+				{
+					"screen_name": "john_tees",
+					"name": "John Tees",
+					"id": 801118345,
+					"id_str": "801118345",
+					"indices": [
+						166,
+						176
+					]
+				},
+				{
+					"screen_name": "NJDECA",
+					"name": "New Jersey DECA",
+					"id": 568910569,
+					"id_str": "568910569",
+					"indices": [
+						177,
+						184
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1599910508064391200,
+					"id_str": "1599910508064391171",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FjQGIWGXwAM1zCB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjQGIWGXwAM1zCB.jpg",
+					"url": "https://t.co/dxG2CiHchd",
+					"display_url": "pic.twitter.com/dxG2CiHchd",
+					"expanded_url": "https://twitter.com/AlexisEspo/status/1599910527148457984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1599910508064391200,
+					"id_str": "1599910508064391171",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FjQGIWGXwAM1zCB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjQGIWGXwAM1zCB.jpg",
+					"url": "https://t.co/dxG2CiHchd",
+					"display_url": "pic.twitter.com/dxG2CiHchd",
+					"expanded_url": "https://twitter.com/AlexisEspo/status/1599910527148457984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1599910508064374800,
+					"id_str": "1599910508064374785",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/FjQGIWGXgAEaEuw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjQGIWGXgAEaEuw.jpg",
+					"url": "https://t.co/dxG2CiHchd",
+					"display_url": "pic.twitter.com/dxG2CiHchd",
+					"expanded_url": "https://twitter.com/AlexisEspo/status/1599910527148457984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 832085833,
+		"in_reply_to_user_id_str": "832085833",
+		"in_reply_to_screen_name": "CardinalsLHS",
+		"user": {
+			"id": 808453181181136900,
+			"id_str": "808453181181136896",
+			"name": "Alexis",
+			"screen_name": "AlexisEspo",
+			"location": "USA",
+			"description": "Business Teacher and Co-DECA Advisor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 735,
+			"listed_count": 2,
+			"created_at": "Mon Dec 12 23:27:13 +0000 2016",
+			"favourites_count": 6144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306768631850848258/F_QXvw2a_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306768631850848258/F_QXvw2a_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/808453181181136896/1600212339",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@CardinalsLHS #DECA hosting College Preparation for Spanish speaking families! #CommunityAwarenessEvent #GetTheEdge #LevelUp @LTPS1 @_drdamian @dadamltps @Brenda_Eke @john_tees @NJDECA https://t.co/dxG2CiHchd"
+	},
+	{
 		"created_at": "Mon Dec 05 00:59:44 +0000 2022",
 		"id": 1599569175357202400,
 		"id_str": "1599569175357202432",
