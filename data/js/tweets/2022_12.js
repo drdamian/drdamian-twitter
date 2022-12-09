@@ -1,6 +1,278 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 08 03:24:26 +0000 2022",
+		"id": 1600513489239523300,
+		"id_str": "1600692751380918272",
+		"full_text": "Please join us at @CardinalsLHS to celebrate @jpenelopec as the LHS Teacher of the Year and Mr. D'Angelo as the LHS ESP of the Year! What great examples of our caring and dedicated faculty and staff of our school and community! @LTPS1 @ltps_counseling @DrMPancoast @MFillmyer https://t.co/E7vSdK1LnU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						18,
+						31
+					]
+				},
+				{
+					"screen_name": "jpenelopec",
+					"name": "Jametta Clarke",
+					"id": 3381150231,
+					"id_str": "3381150231",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Township Public Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						228,
+						234
+					]
+				},
+				{
+					"screen_name": "ltps_counseling",
+					"name": "Lawrence High School Counseling Dept",
+					"id": 1067094483622346800,
+					"id_str": "1067094483622346755",
+					"indices": [
+						235,
+						251
+					]
+				},
+				{
+					"screen_name": "DrMPancoast",
+					"name": "Mary Pancoast",
+					"id": 4048694559,
+					"id_str": "4048694559",
+					"indices": [
+						252,
+						264
+					]
+				},
+				{
+					"screen_name": "MFillmyer",
+					"name": "Ms. Fillmyer",
+					"id": 2751335723,
+					"id_str": "2751335723",
+					"indices": [
+						265,
+						275
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1600509552310583300,
+					"id_str": "1600509552310583301",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FjYm9T0XgAUuJFR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjYm9T0XgAUuJFR.jpg",
+					"url": "https://t.co/E7vSdK1LnU",
+					"display_url": "pic.twitter.com/E7vSdK1LnU",
+					"expanded_url": "https://twitter.com/dadamltps/status/1600513489239523328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1600509552310583300,
+					"id_str": "1600509552310583301",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FjYm9T0XgAUuJFR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjYm9T0XgAUuJFR.jpg",
+					"url": "https://t.co/E7vSdK1LnU",
+					"display_url": "pic.twitter.com/E7vSdK1LnU",
+					"expanded_url": "https://twitter.com/dadamltps/status/1600513489239523328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1600509602189164500,
+					"id_str": "1600509602189164544",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/FjYnANoWQAATAPy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjYnANoWQAATAPy.jpg",
+					"url": "https://t.co/E7vSdK1LnU",
+					"display_url": "pic.twitter.com/E7vSdK1LnU",
+					"expanded_url": "https://twitter.com/dadamltps/status/1600513489239523328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 723,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1443,
+							"h": 869,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 260753316,
+			"id_str": "260753316",
+			"name": "David Adam, Ed. D.",
+			"screen_name": "dadamltps",
+			"location": "Lawrence, NJ",
+			"description": "Principal of Lawrence High School",
+			"url": "https://t.co/CVxJlThsNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CVxJlThsNi",
+							"expanded_url": "http://www.ltps.org",
+							"display_url": "ltps.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1036,
+			"friends_count": 166,
+			"listed_count": 41,
+			"created_at": "Fri Mar 04 14:40:19 +0000 2011",
+			"favourites_count": 17623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/260753316/1477665508",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please join us at @CardinalsLHS to celebrate @jpenelopec as the LHS Teacher of the Year and Mr. D'Angelo as the LHS ESP of the Year! What great examples of our caring and dedicated faculty and staff of our school and community! @LTPS1 @ltps_counseling @DrMPancoast @MFillmyer https://t.co/E7vSdK1LnU"
+	},
+	{
 		"created_at": "Wed Dec 07 20:36:11 +0000 2022",
 		"id": 1600590014483685400,
 		"id_str": "1600590014483685377",
