@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Thu Feb 09 01:19:51 +0000 2023",
+		"id": 1623491484963184600,
+		"id_str": "1623491836059721728",
+		"full_text": "Hot off the press! Lawrence High School congratulates our 2023 Trailblazer Honorees!! In addition, we look forward to welcoming motivational speaker, author, and youth advocate, Brad Butler II to the stage! Join us for an unforgettable celebration of Black excellence! https://t.co/5qzTNPOvpx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1623491462569635800,
+					"id_str": "1623491462569635840",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FofM4jJXsAAKhzC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FofM4jJXsAAKhzC.jpg",
+					"url": "https://t.co/5qzTNPOvpx",
+					"display_url": "pic.twitter.com/5qzTNPOvpx",
+					"expanded_url": "https://twitter.com/jpenelopec/status/1623491484963184640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1582,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1623491462569635800,
+					"id_str": "1623491462569635840",
+					"indices": [
+						269,
+						292
+					],
+					"media_url": "http://pbs.twimg.com/media/FofM4jJXsAAKhzC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FofM4jJXsAAKhzC.jpg",
+					"url": "https://t.co/5qzTNPOvpx",
+					"display_url": "pic.twitter.com/5qzTNPOvpx",
+					"expanded_url": "https://twitter.com/jpenelopec/status/1623491484963184640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 927,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1582,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3381150231,
+			"id_str": "3381150231",
+			"name": "Jametta Clarke",
+			"screen_name": "jpenelopec",
+			"location": "",
+			"description": "Educator, Choir Directress, Entrepreneur, Social Justice Advocate, Decolonizing Agent",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141,
+			"friends_count": 329,
+			"listed_count": 2,
+			"created_at": "Sat Jul 18 02:51:05 +0000 2015",
+			"favourites_count": 7970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1507205168403734533/0kQ6OLD5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1507205168403734533/0kQ6OLD5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3381150231/1437189571",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hot off the press! Lawrence High School congratulates our 2023 Trailblazer Honorees!! In addition, we look forward to welcoming motivational speaker, author, and youth advocate, Brad Butler II to the stage! Join us for an unforgettable celebration of Black excellence! https://t.co/5qzTNPOvpx"
+	},
+	{
 		"created_at": "Mon Feb 06 22:22:50 +0000 2023",
 		"id": 1622722513041064000,
 		"id_str": "1622722513041063936",
