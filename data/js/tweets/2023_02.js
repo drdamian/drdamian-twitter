@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sat Feb 25 14:56:28 +0000 2023",
+		"id": 1629495552218996700,
+		"id_str": "1629495552218996737",
+		"full_text": "See you there! https://t.co/3XktMnR05q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3XktMnR05q",
+					"expanded_url": "https://twitter.com/jpenelopec/status/1629493346140913665",
+					"display_url": "twitter.com/jpenelopec/sta…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Damian N. Bariexca, Ed.D.",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal & Instructional Supervisor, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3019,
+			"friends_count": 1508,
+			"listed_count": 228,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1657972223",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1629493346140913700,
+		"quoted_status_id_str": "1629493346140913665",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3XktMnR05q",
+			"expanded": "https://twitter.com/jpenelopec/status/1629493346140913665",
+			"display": "twitter.com/jpenelopec/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 25 14:47:42 +0000 2023",
+			"id": 1629493346140913700,
+			"id_str": "1629493346140913665",
+			"full_text": "What time is it?! It’s CELEBRATION TIME!! Trust me; you don’t want to miss this event! We haven’t been together under one roof since 2020, but we’re back full force today to celebrate ten years!! Don’t just join us, beat us there! Vending starts at 2PM!! FREE EVENT! https://t.co/z1Aue4Z1J9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1629493340881182700,
+						"id_str": "1629493340881182723",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/Fp0fj2MWYAMY7Kx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fp0fj2MWYAMY7Kx.jpg",
+						"url": "https://t.co/z1Aue4Z1J9",
+						"display_url": "pic.twitter.com/z1Aue4Z1J9",
+						"expanded_url": "https://twitter.com/jpenelopec/status/1629493346140913665/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1629493340881182700,
+						"id_str": "1629493340881182723",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/Fp0fj2MWYAMY7Kx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fp0fj2MWYAMY7Kx.jpg",
+						"url": "https://t.co/z1Aue4Z1J9",
+						"display_url": "pic.twitter.com/z1Aue4Z1J9",
+						"expanded_url": "https://twitter.com/jpenelopec/status/1629493346140913665/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1629493340856041500,
+						"id_str": "1629493340856041473",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/Fp0fj2GWwAEq4WE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fp0fj2GWwAEq4WE.jpg",
+						"url": "https://t.co/z1Aue4Z1J9",
+						"display_url": "pic.twitter.com/z1Aue4Z1J9",
+						"expanded_url": "https://twitter.com/jpenelopec/status/1629493346140913665/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 927,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 525,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1582,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3381150231,
+				"id_str": "3381150231",
+				"name": "Jametta Clarke",
+				"screen_name": "jpenelopec",
+				"location": "",
+				"description": "Educator, Choir Directress, Entrepreneur, Social Justice Advocate, Decolonizing Agent",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 143,
+				"friends_count": 329,
+				"listed_count": 2,
+				"created_at": "Sat Jul 18 02:51:05 +0000 2015",
+				"favourites_count": 7968,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1151,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1507205168403734533/0kQ6OLD5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1507205168403734533/0kQ6OLD5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3381150231/1437189571",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "See you there! https://t.co/3XktMnR05q"
+	},
+	{
 		"created_at": "Thu Feb 23 02:15:00 +0000 2023",
 		"id": 1628579144719126500,
 		"id_str": "1628579144719126529",
