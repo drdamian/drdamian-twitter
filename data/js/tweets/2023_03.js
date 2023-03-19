@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Sat Mar 18 12:26:07 +0000 2023",
+		"id": 1635979568170270700,
+		"id_str": "1637067859946876930",
+		"full_text": "Want to work with an incredible team next Fall?  We are looking for a couple of LR High School Math teachers through mid December.   Supportive admin, collaborative department, and most importantly, great kids! https://t.co/vRHvJZ6rDZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vRHvJZ6rDZ",
+					"expanded_url": "https://www.ltps.org/employment?category=High+School+Teaching%3A+9+-+12#.ZBG3azYbHLM.twitter",
+					"display_url": "ltps.org/employment?cat…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4248134360,
+			"id_str": "4248134360",
+			"name": "Sarah Foster",
+			"screen_name": "sarah_paluzzi",
+			"location": "Flemington, NJ",
+			"description": "She/Her. All tweets are my own views. “Real change, enduring change, happens one step at a time.” -RBG",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 380,
+			"friends_count": 344,
+			"listed_count": 13,
+			"created_at": "Sun Nov 15 18:09:52 +0000 2015",
+			"favourites_count": 1545,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1547660916560343041/nJAQiIBX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1547660916560343041/nJAQiIBX_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to work with an incredible team next Fall?  We are looking for a couple of LR High School Math teachers through mid December.   Supportive admin, collaborative department, and most importantly, great kids! https://t.co/vRHvJZ6rDZ"
+	},
+	{
 		"created_at": "Sun Mar 12 22:25:39 +0000 2023",
 		"id": 1635044409170600000,
 		"id_str": "1635044409170599941",
