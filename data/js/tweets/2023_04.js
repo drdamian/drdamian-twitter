@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Fri Apr 14 22:00:32 +0000 2023",
+		"id": 1646878526686089200,
+		"id_str": "1646996889747828736",
+		"full_text": "Happy School Librians month to Ms. Cramer and Ms. Hall. Thanks for all you do to support our students! https://t.co/Yejdy6ZxrB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1646878521963192300,
+					"id_str": "1646878521963192321",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FtrjSknWIAEJy3k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtrjSknWIAEJy3k.jpg",
+					"url": "https://t.co/Yejdy6ZxrB",
+					"display_url": "pic.twitter.com/Yejdy6ZxrB",
+					"expanded_url": "https://twitter.com/dadamltps/status/1646878526686089216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 564,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1646878521963192300,
+					"id_str": "1646878521963192321",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FtrjSknWIAEJy3k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtrjSknWIAEJy3k.jpg",
+					"url": "https://t.co/Yejdy6ZxrB",
+					"display_url": "pic.twitter.com/Yejdy6ZxrB",
+					"expanded_url": "https://twitter.com/dadamltps/status/1646878526686089216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 850,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 850,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 564,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1646878524538605600,
+					"id_str": "1646878524538605574",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/FtrjSuNX0AYEvAr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtrjSuNX0AYEvAr.jpg",
+					"url": "https://t.co/Yejdy6ZxrB",
+					"display_url": "pic.twitter.com/Yejdy6ZxrB",
+					"expanded_url": "https://twitter.com/dadamltps/status/1646878526686089216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 462,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 696,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 696,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 260753316,
+			"id_str": "260753316",
+			"name": "David Adam, Ed. D.",
+			"screen_name": "dadamltps",
+			"location": "Lawrence, NJ",
+			"description": "Principal of Lawrence High School",
+			"url": "https://t.co/CVxJlThsNi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CVxJlThsNi",
+							"expanded_url": "http://www.ltps.org",
+							"display_url": "ltps.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 167,
+			"listed_count": 39,
+			"created_at": "Fri Mar 04 14:40:19 +0000 2011",
+			"favourites_count": 18277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/751086341094539264/mfshfF8w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/260753316/1477665508",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy School Librians month to Ms. Cramer and Ms. Hall. Thanks for all you do to support our students! https://t.co/Yejdy6ZxrB"
+	},
+	{
 		"created_at": "Wed Apr 12 21:13:37 +0000 2023",
 		"id": 1646260304974577700,
 		"id_str": "1646260304974577665",
