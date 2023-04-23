@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sat Apr 22 20:02:29 +0000 2023",
+		"id": 1649866281330327600,
+		"id_str": "1649866281330327555",
+		"full_text": "Go get 'em #LHSDECA! #LTPS https://t.co/Z6ddWgvMvf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LHSDECA",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"text": "LTPS",
+					"indices": [
+						21,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z6ddWgvMvf",
+					"expanded_url": "https://twitter.com/john_tees/status/1649853047621791748",
+					"display_url": "twitter.com/john_tees/stat…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Damian N. Bariexca, Ed.D.",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal & Instructional Supervisor, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3001,
+			"friends_count": 1502,
+			"listed_count": 228,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1657972223",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1649853047621791700,
+		"quoted_status_id_str": "1649853047621791748",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z6ddWgvMvf",
+			"expanded": "https://twitter.com/john_tees/status/1649853047621791748",
+			"display": "twitter.com/john_tees/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 22 19:09:53 +0000 2023",
+			"id": 1649853047621791700,
+			"id_str": "1649853047621791748",
+			"full_text": "@CardinalsLHS DECA takes on @UniversalORL! @DECAInc #OpeningSessions is tonight! @AlexisEspo @MsPalombo @LTPS1 @_drdamian @dadamltps #laughter #community @NJDECA https://t.co/QYrCjxOtDm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				161
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "OpeningSessions",
+						"indices": [
+							52,
+							68
+						]
+					},
+					{
+						"text": "laughter",
+						"indices": [
+							133,
+							142
+						]
+					},
+					{
+						"text": "community",
+						"indices": [
+							143,
+							153
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CardinalsLHS",
+						"name": "Lawrence High School",
+						"id": 832085833,
+						"id_str": "832085833",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "UniversalORL",
+						"name": "Universal Orlando Resort",
+						"id": 125988399,
+						"id_str": "125988399",
+						"indices": [
+							28,
+							41
+						]
+					},
+					{
+						"screen_name": "DECAInc",
+						"name": "DECA Inc.",
+						"id": 41192167,
+						"id_str": "41192167",
+						"indices": [
+							43,
+							51
+						]
+					},
+					{
+						"screen_name": "AlexisEspo",
+						"name": "Alexis",
+						"id": 808453181181136900,
+						"id_str": "808453181181136896",
+						"indices": [
+							81,
+							92
+						]
+					},
+					{
+						"screen_name": "MsPalombo",
+						"name": "Ms. Palombo",
+						"id": 858779476783538200,
+						"id_str": "858779476783538176",
+						"indices": [
+							93,
+							103
+						]
+					},
+					{
+						"screen_name": "LTPS1",
+						"name": "Lawrence Township Public Schools",
+						"id": 2178717536,
+						"id_str": "2178717536",
+						"indices": [
+							104,
+							110
+						]
+					},
+					{
+						"screen_name": "_drdamian",
+						"name": "Damian N. Bariexca, Ed.D.",
+						"id": 7887852,
+						"id_str": "7887852",
+						"indices": [
+							111,
+							121
+						]
+					},
+					{
+						"screen_name": "dadamltps",
+						"name": "David Adam, Ed. D.",
+						"id": 260753316,
+						"id_str": "260753316",
+						"indices": [
+							122,
+							132
+						]
+					},
+					{
+						"screen_name": "NJDECA",
+						"name": "New Jersey DECA",
+						"id": 568910569,
+						"id_str": "568910569",
+						"indices": [
+							154,
+							161
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1649853035827409000,
+						"id_str": "1649853035827408896",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/FuV0mEQXsAA-qsI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuV0mEQXsAA-qsI.jpg",
+						"url": "https://t.co/QYrCjxOtDm",
+						"display_url": "pic.twitter.com/QYrCjxOtDm",
+						"expanded_url": "https://twitter.com/john_tees/status/1649853047621791748/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1649853035827409000,
+						"id_str": "1649853035827408896",
+						"indices": [
+							162,
+							185
+						],
+						"media_url": "http://pbs.twimg.com/media/FuV0mEQXsAA-qsI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FuV0mEQXsAA-qsI.jpg",
+						"url": "https://t.co/QYrCjxOtDm",
+						"display_url": "pic.twitter.com/QYrCjxOtDm",
+						"expanded_url": "https://twitter.com/john_tees/status/1649853047621791748/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 832085833,
+			"in_reply_to_user_id_str": "832085833",
+			"in_reply_to_screen_name": "CardinalsLHS",
+			"user": {
+				"id": 801118345,
+				"id_str": "801118345",
+				"name": "John Tees",
+				"screen_name": "john_tees",
+				"location": "",
+				"description": "High School Business Educator and Co-DECA Advisor in Lawrenceville, NJ. Solely my comments.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 150,
+				"friends_count": 143,
+				"listed_count": 1,
+				"created_at": "Mon Sep 03 20:03:32 +0000 2012",
+				"favourites_count": 537,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 348,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1518699369368899584/Yn07gyUA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518699369368899584/Yn07gyUA_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Go get 'em #LHSDECA! #LTPS https://t.co/Z6ddWgvMvf"
+	},
+	{
 		"created_at": "Tue Apr 18 22:43:37 +0000 2023",
 		"id": 1648457279736516600,
 		"id_str": "1648457279736516608",
