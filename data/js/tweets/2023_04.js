@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Sun Apr 23 18:32:39 +0000 2023",
+		"id": 1649938880672542700,
+		"id_str": "1650206063784873986",
+		"full_text": "Wish the @CardinalsLHS DECA chapter best of luck as they begin competing @DECAInc #ICDC! Best of luck to everyone! @AlexisEspo @MsPalombo @_drdamian @dadamltps @LTPS1 #proudadvisors #teamwork #community @NJDECA https://t.co/pvmWzDZYKL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ICDC",
+					"indices": [
+						82,
+						87
+					]
+				},
+				{
+					"text": "proudadvisors",
+					"indices": [
+						167,
+						181
+					]
+				},
+				{
+					"text": "teamwork",
+					"indices": [
+						182,
+						191
+					]
+				},
+				{
+					"text": "community",
+					"indices": [
+						192,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"screen_name": "DECAInc",
+					"name": "DECA Inc.",
+					"id": 41192167,
+					"id_str": "41192167",
+					"indices": [
+						73,
+						81
+					]
+				},
+				{
+					"screen_name": "AlexisEspo",
+					"name": "Alexis",
+					"id": 808453181181136900,
+					"id_str": "808453181181136896",
+					"indices": [
+						115,
+						126
+					]
+				},
+				{
+					"screen_name": "MsPalombo",
+					"name": "Ms. Palombo",
+					"id": 858779476783538200,
+					"id_str": "858779476783538176",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Damian N. Bariexca, Ed.D.",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						138,
+						148
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam, Ed. D.",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Township Public Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						160,
+						166
+					]
+				},
+				{
+					"screen_name": "NJDECA",
+					"name": "New Jersey DECA",
+					"id": 568910569,
+					"id_str": "568910569",
+					"indices": [
+						203,
+						210
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1649938869851234300,
+					"id_str": "1649938869851234317",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FuXCqQ6XoA0om_F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuXCqQ6XoA0om_F.jpg",
+					"url": "https://t.co/pvmWzDZYKL",
+					"display_url": "pic.twitter.com/pvmWzDZYKL",
+					"expanded_url": "https://twitter.com/john_tees/status/1649938880672542721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 296,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 892,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 523,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1649938869851234300,
+					"id_str": "1649938869851234317",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FuXCqQ6XoA0om_F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FuXCqQ6XoA0om_F.jpg",
+					"url": "https://t.co/pvmWzDZYKL",
+					"display_url": "pic.twitter.com/pvmWzDZYKL",
+					"expanded_url": "https://twitter.com/john_tees/status/1649938880672542721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 296,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 892,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 523,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 801118345,
+			"id_str": "801118345",
+			"name": "John Tees",
+			"screen_name": "john_tees",
+			"location": "",
+			"description": "High School Business Educator and Co-DECA Advisor in Lawrenceville, NJ. Solely my comments.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 150,
+			"friends_count": 143,
+			"listed_count": 1,
+			"created_at": "Mon Sep 03 20:03:32 +0000 2012",
+			"favourites_count": 537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1518699369368899584/Yn07gyUA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518699369368899584/Yn07gyUA_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wish the @CardinalsLHS DECA chapter best of luck as they begin competing @DECAInc #ICDC! Best of luck to everyone! @AlexisEspo @MsPalombo @_drdamian @dadamltps @LTPS1 #proudadvisors #teamwork #community @NJDECA https://t.co/pvmWzDZYKL"
+	},
+	{
 		"created_at": "Sat Apr 22 20:02:29 +0000 2023",
 		"id": 1649866281330327600,
 		"id_str": "1649866281330327555",
