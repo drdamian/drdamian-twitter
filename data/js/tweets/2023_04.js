@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Tue Apr 25 22:01:40 +0000 2023",
+		"id": 1650876971155443700,
+		"id_str": "1650983437774331906",
+		"full_text": "Congratulations to all of our @CardinalsLHS @NJDECA competitors! Shout out to Arunima for being a finalist in her event! Grand Awards happens tonight! #proudadvisors #DECAICDC #bestofthebest #tomorrowsfuture @LexEggert @MsPalombo @dadamltps @_drdamian @LTPS1 https://t.co/WVh48m2Ece",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "proudadvisors",
+					"indices": [
+						151,
+						165
+					]
+				},
+				{
+					"text": "DECAICDC",
+					"indices": [
+						166,
+						175
+					]
+				},
+				{
+					"text": "bestofthebest",
+					"indices": [
+						176,
+						190
+					]
+				},
+				{
+					"text": "tomorrowsfuture",
+					"indices": [
+						191,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						30,
+						43
+					]
+				},
+				{
+					"screen_name": "NJDECA",
+					"name": "New Jersey DECA",
+					"id": 568910569,
+					"id_str": "568910569",
+					"indices": [
+						44,
+						51
+					]
+				},
+				{
+					"screen_name": "LexEggert",
+					"name": "Alexis",
+					"id": 808453181181136900,
+					"id_str": "808453181181136896",
+					"indices": [
+						208,
+						218
+					]
+				},
+				{
+					"screen_name": "MsPalombo",
+					"name": "Ms. Palombo",
+					"id": 858779476783538200,
+					"id_str": "858779476783538176",
+					"indices": [
+						219,
+						229
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam, Ed. D.",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						230,
+						240
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Damian N. Bariexca, Ed.D.",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						241,
+						251
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Township Public Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						252,
+						258
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1650876965648314400,
+					"id_str": "1650876965648314369",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/FukX2oFXsAEjzRq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FukX2oFXsAEjzRq.jpg",
+					"url": "https://t.co/WVh48m2Ece",
+					"display_url": "pic.twitter.com/WVh48m2Ece",
+					"expanded_url": "https://twitter.com/john_tees/status/1650876971155443712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1650876965648314400,
+					"id_str": "1650876965648314369",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/FukX2oFXsAEjzRq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FukX2oFXsAEjzRq.jpg",
+					"url": "https://t.co/WVh48m2Ece",
+					"display_url": "pic.twitter.com/WVh48m2Ece",
+					"expanded_url": "https://twitter.com/john_tees/status/1650876971155443712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1650876965669294000,
+					"id_str": "1650876965669294084",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/FukX2oKX0AQibd0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FukX2oKX0AQibd0.jpg",
+					"url": "https://t.co/WVh48m2Ece",
+					"display_url": "pic.twitter.com/WVh48m2Ece",
+					"expanded_url": "https://twitter.com/john_tees/status/1650876971155443712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 801118345,
+			"id_str": "801118345",
+			"name": "John Tees",
+			"screen_name": "john_tees",
+			"location": "",
+			"description": "High School Business Educator and Co-DECA Advisor in Lawrenceville, NJ. Solely my comments.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 152,
+			"friends_count": 143,
+			"listed_count": 1,
+			"created_at": "Mon Sep 03 20:03:32 +0000 2012",
+			"favourites_count": 537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1518699369368899584/Yn07gyUA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518699369368899584/Yn07gyUA_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations to all of our @CardinalsLHS @NJDECA competitors! Shout out to Arunima for being a finalist in her event! Grand Awards happens tonight! #proudadvisors #DECAICDC #bestofthebest #tomorrowsfuture @LexEggert @MsPalombo @dadamltps @_drdamian @LTPS1 https://t.co/WVh48m2Ece"
+	},
+	{
 		"created_at": "Sun Apr 23 18:32:39 +0000 2023",
 		"id": 1649938880672542700,
 		"id_str": "1650206063784873986",
