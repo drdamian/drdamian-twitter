@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Wed Apr 26 13:40:55 +0000 2023",
+		"id": 1651209805665652700,
+		"id_str": "1651219809697234948",
+		"full_text": "@CardinalsLHS DECA has had another successful @DECAInc #ICDC! Thank you students, officers, @MsPalombo &amp; @LexEggert for an amazing trip! Next stop—@LTPS1.  #proudadvisors #rockstars #tomorrowsfuture @_drdamian @dadamltps https://t.co/t8n3XNaizk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ICDC",
+					"indices": [
+						55,
+						60
+					]
+				},
+				{
+					"text": "proudadvisors",
+					"indices": [
+						160,
+						174
+					]
+				},
+				{
+					"text": "rockstars",
+					"indices": [
+						175,
+						185
+					]
+				},
+				{
+					"text": "tomorrowsfuture",
+					"indices": [
+						186,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CardinalsLHS",
+					"name": "Lawrence High School",
+					"id": 832085833,
+					"id_str": "832085833",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "DECAInc",
+					"name": "DECA Inc.",
+					"id": 41192167,
+					"id_str": "41192167",
+					"indices": [
+						46,
+						54
+					]
+				},
+				{
+					"screen_name": "MsPalombo",
+					"name": "Ms. Palombo",
+					"id": 858779476783538200,
+					"id_str": "858779476783538176",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"screen_name": "LexEggert",
+					"name": "Alexis",
+					"id": 808453181181136900,
+					"id_str": "808453181181136896",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"screen_name": "LTPS1",
+					"name": "Lawrence Township Public Schools",
+					"id": 2178717536,
+					"id_str": "2178717536",
+					"indices": [
+						151,
+						157
+					]
+				},
+				{
+					"screen_name": "_drdamian",
+					"name": "Damian N. Bariexca, Ed.D.",
+					"id": 7887852,
+					"id_str": "7887852",
+					"indices": [
+						203,
+						213
+					]
+				},
+				{
+					"screen_name": "dadamltps",
+					"name": "David Adam, Ed. D.",
+					"id": 260753316,
+					"id_str": "260753316",
+					"indices": [
+						214,
+						224
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1651209799726407700,
+					"id_str": "1651209799726407681",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/FupGkHpWIAExU_d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FupGkHpWIAExU_d.jpg",
+					"url": "https://t.co/t8n3XNaizk",
+					"display_url": "pic.twitter.com/t8n3XNaizk",
+					"expanded_url": "https://twitter.com/john_tees/status/1651209805665652737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1651209799726407700,
+					"id_str": "1651209799726407681",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/FupGkHpWIAExU_d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FupGkHpWIAExU_d.jpg",
+					"url": "https://t.co/t8n3XNaizk",
+					"display_url": "pic.twitter.com/t8n3XNaizk",
+					"expanded_url": "https://twitter.com/john_tees/status/1651209805665652737/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 832085833,
+		"in_reply_to_user_id_str": "832085833",
+		"in_reply_to_screen_name": "CardinalsLHS",
+		"user": {
+			"id": 801118345,
+			"id_str": "801118345",
+			"name": "John Tees",
+			"screen_name": "john_tees",
+			"location": "",
+			"description": "High School Business Educator and Co-DECA Advisor in Lawrenceville, NJ. Solely my comments.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 152,
+			"friends_count": 143,
+			"listed_count": 1,
+			"created_at": "Mon Sep 03 20:03:32 +0000 2012",
+			"favourites_count": 537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1518699369368899584/Yn07gyUA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518699369368899584/Yn07gyUA_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@CardinalsLHS DECA has had another successful @DECAInc #ICDC! Thank you students, officers, @MsPalombo &amp; @LexEggert for an amazing trip! Next stop—@LTPS1.  #proudadvisors #rockstars #tomorrowsfuture @_drdamian @dadamltps https://t.co/t8n3XNaizk"
+	},
+	{
 		"created_at": "Tue Apr 25 22:01:40 +0000 2023",
 		"id": 1650876971155443700,
 		"id_str": "1650983437774331906",
