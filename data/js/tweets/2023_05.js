@@ -1,6 +1,596 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Tue May 30 22:52:07 +0000 2023",
+		"id": 1663679709689835500,
+		"id_str": "1663679709689835520",
+		"full_text": "Uh-oh... Ms. @Brenda_Eke's in the mix? https://t.co/ZMbAk5Gzlh https://t.co/V5dcjdCfbB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Brenda_Eke",
+					"name": "Brenda Eke",
+					"id": 1234921057666183200,
+					"id_str": "1234921057666183168",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZMbAk5Gzlh",
+					"expanded_url": "https://twitter.com/john_tees/status/1663678983836164096",
+					"display_url": "twitter.com/john_tees/stat…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1663679703637536800,
+					"id_str": "1663679703637536768",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FxaT4DtXsAAphZn.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FxaT4DtXsAAphZn.jpg",
+					"url": "https://t.co/V5dcjdCfbB",
+					"display_url": "pic.twitter.com/V5dcjdCfbB",
+					"expanded_url": "https://twitter.com/_drdamian/status/1663679709689835520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 220,
+							"h": 136,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 136,
+							"h": 136,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 136,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1663679703637536800,
+					"id_str": "1663679703637536768",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FxaT4DtXsAAphZn.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FxaT4DtXsAAphZn.jpg",
+					"url": "https://t.co/V5dcjdCfbB",
+					"display_url": "pic.twitter.com/V5dcjdCfbB",
+					"expanded_url": "https://twitter.com/_drdamian/status/1663679709689835520/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 220,
+							"h": 136,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 136,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 136,
+							"h": 136,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 136,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							55,
+							34
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FxaT4DtXsAAphZn.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7887852,
+			"id_str": "7887852",
+			"name": "Damian N. Bariexca, Ed.D.",
+			"screen_name": "_drdamian",
+			"location": "Perkasie, PA",
+			"description": "Asst. Principal & Instructional Supervisor, @CardinalsLHS ~ #LTPS since 2011 ~ #NJED since 2000 ~ Tweets ≠ opinion of my employers ~ he/him",
+			"url": "https://t.co/GQSCiLbWuN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GQSCiLbWuN",
+							"expanded_url": "http://drdamian.org",
+							"display_url": "drdamian.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2990,
+			"friends_count": 1497,
+			"listed_count": 228,
+			"created_at": "Wed Aug 01 18:19:19 +0000 2007",
+			"favourites_count": 2608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33665,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1320563064266203136/8GZz1FLi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7887852/1657972223",
+			"profile_link_color": "000080",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1663678983836164000,
+		"quoted_status_id_str": "1663678983836164096",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZMbAk5Gzlh",
+			"expanded": "https://twitter.com/john_tees/status/1663678983836164096",
+			"display": "twitter.com/john_tees/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 30 22:49:14 +0000 2023",
+			"id": 1663678983836164000,
+			"id_str": "1663678983836164096",
+			"full_text": "@CardinalsLHS #DECAVolleyball one last time for the year! Our own @Brenda_Eke joined the #teacherteam! Let the competition begin! Thank you teacher refs and our officer team for one last DECA event!  @LTPS1 @MsPalombo @ms_huber_lhs @LexEggert @dadamltps @_drdamian @lawrence https://t.co/dscA1TrDD6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DECAVolleyball",
+						"indices": [
+							14,
+							29
+						]
+					},
+					{
+						"text": "teacherteam",
+						"indices": [
+							89,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CardinalsLHS",
+						"name": "Lawrence High School",
+						"id": 832085833,
+						"id_str": "832085833",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "Brenda_Eke",
+						"name": "Brenda Eke",
+						"id": 1234921057666183200,
+						"id_str": "1234921057666183168",
+						"indices": [
+							66,
+							77
+						]
+					},
+					{
+						"screen_name": "LTPS1",
+						"name": "Lawrence Township Public Schools",
+						"id": 2178717536,
+						"id_str": "2178717536",
+						"indices": [
+							200,
+							206
+						]
+					},
+					{
+						"screen_name": "MsPalombo",
+						"name": "Ms. Palombo",
+						"id": 858779476783538200,
+						"id_str": "858779476783538176",
+						"indices": [
+							207,
+							217
+						]
+					},
+					{
+						"screen_name": "ms_huber_lhs",
+						"name": "Ms. Huber",
+						"id": 3439199512,
+						"id_str": "3439199512",
+						"indices": [
+							218,
+							231
+						]
+					},
+					{
+						"screen_name": "LexEggert",
+						"name": "Alexis",
+						"id": 808453181181136900,
+						"id_str": "808453181181136896",
+						"indices": [
+							232,
+							242
+						]
+					},
+					{
+						"screen_name": "dadamltps",
+						"name": "David Adam, Ed. D.",
+						"id": 260753316,
+						"id_str": "260753316",
+						"indices": [
+							243,
+							253
+						]
+					},
+					{
+						"screen_name": "_drdamian",
+						"name": "Damian N. Bariexca, Ed.D.",
+						"id": 7887852,
+						"id_str": "7887852",
+						"indices": [
+							254,
+							264
+						]
+					},
+					{
+						"screen_name": "Lawrence",
+						"name": "Lawrence O'Donnell",
+						"id": 158426909,
+						"id_str": "158426909",
+						"indices": [
+							265,
+							274
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1663678979620913200,
+						"id_str": "1663678979620913153",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/FxaTN6iWwAEiuFB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FxaTN6iWwAEiuFB.jpg",
+						"url": "https://t.co/dscA1TrDD6",
+						"display_url": "pic.twitter.com/dscA1TrDD6",
+						"expanded_url": "https://twitter.com/john_tees/status/1663678983836164096/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1663678979620913200,
+						"id_str": "1663678979620913153",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/FxaTN6iWwAEiuFB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FxaTN6iWwAEiuFB.jpg",
+						"url": "https://t.co/dscA1TrDD6",
+						"display_url": "pic.twitter.com/dscA1TrDD6",
+						"expanded_url": "https://twitter.com/john_tees/status/1663678983836164096/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1663678979612573700,
+						"id_str": "1663678979612573700",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/FxaTN6gXgAQSb4c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FxaTN6gXgAQSb4c.jpg",
+						"url": "https://t.co/dscA1TrDD6",
+						"display_url": "pic.twitter.com/dscA1TrDD6",
+						"expanded_url": "https://twitter.com/john_tees/status/1663678983836164096/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1663678979620892700,
+						"id_str": "1663678979620892673",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/FxaTN6iWcAEQFRE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FxaTN6iWcAEQFRE.jpg",
+						"url": "https://t.co/dscA1TrDD6",
+						"display_url": "pic.twitter.com/dscA1TrDD6",
+						"expanded_url": "https://twitter.com/john_tees/status/1663678983836164096/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 516,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 659,
+								"h": 869,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 659,
+								"h": 869,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1663678979616780300,
+						"id_str": "1663678979616780288",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/FxaTN6hXsAAQxri.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FxaTN6hXsAAQxri.jpg",
+						"url": "https://t.co/dscA1TrDD6",
+						"display_url": "pic.twitter.com/dscA1TrDD6",
+						"expanded_url": "https://twitter.com/john_tees/status/1663678983836164096/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 832085833,
+			"in_reply_to_user_id_str": "832085833",
+			"in_reply_to_screen_name": "CardinalsLHS",
+			"user": {
+				"id": 801118345,
+				"id_str": "801118345",
+				"name": "John Tees",
+				"screen_name": "john_tees",
+				"location": "",
+				"description": "High School Business Educator and Co-DECA Advisor in Lawrenceville, NJ. Solely my comments.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 152,
+				"friends_count": 142,
+				"listed_count": 1,
+				"created_at": "Mon Sep 03 20:03:32 +0000 2012",
+				"favourites_count": 543,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 353,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1518699369368899584/Yn07gyUA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1518699369368899584/Yn07gyUA_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Uh-oh... Ms. @Brenda_Eke's in the mix? https://t.co/ZMbAk5Gzlh https://t.co/V5dcjdCfbB"
+	},
+	{
 		"created_at": "Mon May 29 22:16:47 +0000 2023",
 		"id": 1663308430252155000,
 		"id_str": "1663308430252154880",
