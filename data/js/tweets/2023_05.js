@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Wed May 31 01:45:24 +0000 2023",
+		"id": 1663702973191532500,
+		"id_str": "1663723320880005121",
+		"full_text": "Cardinals advance to the Central Jersey Group 3 title game after a 3-2 victory over Manalapan!  Friday, June 2 LHS at Middletown North!  GO CARDINALS! https://t.co/zgcaEvkR8F",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1663702376782372900,
+					"id_str": "1663702376782372865",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FxaofzwWIAE4YVj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxaofzwWIAE4YVj.jpg",
+					"url": "https://t.co/zgcaEvkR8F",
+					"display_url": "pic.twitter.com/zgcaEvkR8F",
+					"expanded_url": "https://twitter.com/LTPSAthletics/status/1663702973191532549/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1663702376782372900,
+					"id_str": "1663702376782372865",
+					"indices": [
+						151,
+						174
+					],
+					"media_url": "http://pbs.twimg.com/media/FxaofzwWIAE4YVj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxaofzwWIAE4YVj.jpg",
+					"url": "https://t.co/zgcaEvkR8F",
+					"display_url": "pic.twitter.com/zgcaEvkR8F",
+					"expanded_url": "https://twitter.com/LTPSAthletics/status/1663702973191532549/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2845523504,
+			"id_str": "2845523504",
+			"name": "LTPS AD",
+			"screen_name": "LTPSAthletics",
+			"location": "Lawrenceville, NJ",
+			"description": "Home of the Lawrence Cardinals - Official Site for the LTPS Athletic Department",
+			"url": "https://t.co/KETOW12XgE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KETOW12XgE",
+							"expanded_url": "http://www.ltps.org",
+							"display_url": "ltps.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 907,
+			"friends_count": 289,
+			"listed_count": 11,
+			"created_at": "Wed Oct 08 01:11:54 +0000 2014",
+			"favourites_count": 3826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3355,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/773867953204977664/fcpjI0Mg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/773867953204977664/fcpjI0Mg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2845523504/1487948361",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cardinals advance to the Central Jersey Group 3 title game after a 3-2 victory over Manalapan!  Friday, June 2 LHS at Middletown North!  GO CARDINALS! https://t.co/zgcaEvkR8F"
+	},
+	{
 		"created_at": "Tue May 30 22:52:07 +0000 2023",
 		"id": 1663679709689835500,
 		"id_str": "1663679709689835520",
